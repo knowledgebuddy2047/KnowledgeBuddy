@@ -1,0 +1,12 @@
+{
+  "menu": [
+    { "name": "Classes", "url": "#classes" },
+    { "name": "Subjects", "url": "#subjects" },
+    { "name": "Competitive Exams", "url": "#exams" },
+    { "name": "Resources", "url": "#resources" },
+    { "name": "About", "url": "#about" }
+  ],
+  "classes": ["Class 9", "Class 10", "Class 11", "Class 12"],
+  "subjects": ["Mathematics", "Science", "English", "Social Studies"],
+  "exams": ["NEET", "JEE", "Olympiads", "SSC"]
+}
