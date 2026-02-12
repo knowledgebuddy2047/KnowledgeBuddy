@@ -1,0 +1,28 @@
+{
+  "subjects": [
+    { 
+      "name": "Class 9-10 Science", 
+      "description": "Concept notes, quizzes, and flashcards.", 
+      "file": "notes_class9_science.html", 
+      "quiz": "quiz_class9_science.json", 
+      "flashcards": "flashcards_class9_science.json", 
+      "workflow": "workflow_class9_science.json" 
+    },
+    { 
+      "name": "JEE Physics", 
+      "description": "Advanced concepts and practice for JEE.", 
+      "file": "notes_jee_physics.html", 
+      "quiz": "quiz_jee_physics.json", 
+      "flashcards": "flashcards_jee_physics.json", 
+      "workflow": "workflow_jee_physics.json" 
+    },
+    { 
+      "name": "NEET Biology", 
+      "description": "Key biology topics for NEET preparation.", 
+      "file": "notes_neet_bio.html", 
+      "quiz": "quiz_neet_bio.json", 
+      "flashcards": "flashcards_neet_bio.json", 
+      "workflow": "workflow_neet_bio.json" 
+    }
+  ]
+}

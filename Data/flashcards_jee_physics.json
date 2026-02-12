@@ -1,1 +1,6 @@
-
+{
+  "flashcards": [
+    { "front": "Coulomb’s Law", "back": "Force ∝ q1q2 / r²" },
+    { "front": "Ohm’s Law", "back": "V = IR" }
+  ]
+}
