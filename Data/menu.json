@@ -3,27 +3,28 @@
     { 
       "name": "Class 9-10 Science", 
       "description": "Concept notes, quizzes, and flashcards.", 
-      "file": "Data/notes_class9_science.html", 
-      "quiz": "Data/quiz_class9_science.json", 
-      "flashcards": "Data/flashcards_class9_science.json", 
-      "workflow": "Data/workflow_class9_science.json" 
+      "file": "/KnowledgeBuddy/Data/notes_class9_science.html", 
+      "quiz": "/KnowledgeBuddy/Data/quiz_class9_science.json", 
+      "flashcards": "/KnowledgeBuddy/Data/flashcards_class9_science.json", 
+      "workflow": "/KnowledgeBuddy/Data/workflow_class9_science.json" 
     },
     { 
       "name": "JEE Physics", 
       "description": "Advanced concepts and practice for JEE.", 
-      "file": "Data/notes_jee_physics.html", 
-      "quiz": "Data/quiz_jee_physics.json", 
-      "flashcards": "Data/flashcards_jee_physics.json", 
-      "workflow": "Data/workflow_jee_physics.json" 
+      "file": "/KnowledgeBuddy/Data/notes_jee_physics.html", 
+      "quiz": "/KnowledgeBuddy/Data/quiz_jee_physics.json", 
+      "flashcards": "/KnowledgeBuddy/Data/flashcards_jee_physics.json", 
+      "workflow": "/KnowledgeBuddy/Data/workflow_jee_physics.json" 
     },
     { 
       "name": "NEET Biology", 
       "description": "Key biology topics for NEET preparation.", 
-      "file": "Data/notes_neet_bio.html", 
-      "quiz": "Data/quiz_neet_bio.json", 
-      "flashcards": "Data/flashcards_neet_bio.json", 
-      "workflow": "Data/workflow_neet_bio.json" 
+      "file": "/KnowledgeBuddy/Data/notes_neet_bio.html", 
+      "quiz": "/KnowledgeBuddy/Data/quiz_neet_bio.json", 
+      "flashcards": "/KnowledgeBuddy/Data/flashcards_neet_bio.json", 
+      "workflow": "/KnowledgeBuddy/Data/workflow_neet_bio.json" 
     }
   ]
 
 }
+
