@@ -1,5 +1,5 @@
 // Load menu dynamically
-fetch("data/menu.json")
+fetch("./data/menu.json")
   .then(response => response.json())
   .then(data => {
     const menuList = document.getElementById("menu-list");
@@ -124,4 +124,5 @@ function showWorkflow(file) {
 
 function navigateTo(sectionId) {
   document.getElementById(sectionId).scrollIntoView({ behavior: "smooth" });
+
 }
