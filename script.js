@@ -1,5 +1,5 @@
 // Load menu dynamically
-fetch("/KnowledgeBuddy/Data/menu.json")
+fetch("./Data/menu.json")
   .then(response => response.json())
   .then(data => {
     const menuList = document.getElementById("menu-list");
@@ -126,5 +126,6 @@ function navigateTo(sectionId) {
   document.getElementById(sectionId).scrollIntoView({ behavior: "smooth" });
 
 }
+
 
 
