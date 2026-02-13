@@ -55,7 +55,7 @@ function startQuiz(file) {
 
 
 function submitQuiz(file) {
-  fetch(`data/${file}`)
+  fetch(`Data/${file}`)
     .then(res => res.json())
     .then(data => {
       let score = 0;
@@ -93,7 +93,7 @@ function submitQuiz(file) {
 
 // Flashcards Loader
 function showFlashcards(file) {
-  fetch(`data/${file}`)
+  fetch(`Data/${file}`)
     .then(res => res.json())
     .then(data => {
       let cardsHTML = "";
@@ -110,7 +110,7 @@ function showFlashcards(file) {
 
 // Workflow Loader
 function showWorkflow(file) {
-  fetch(`data/${file}`)
+  fetch(`Data/${file}`)
     .then(res => res.json())
     .then(data => {
       let workflowHTML = "<h3>Study Plan</h3><ul>";
@@ -126,6 +126,7 @@ function navigateTo(sectionId) {
   document.getElementById(sectionId).scrollIntoView({ behavior: "smooth" });
 
 }
+
 
 
 
