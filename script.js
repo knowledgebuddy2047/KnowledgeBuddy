@@ -24,7 +24,7 @@ function loadContent(item) {
 
 // Notes Loader
 function loadNotes(file) {
-  fetch(`data/${file}`)
+  fetch(`Data/${file}`)
     .then(res => res.text())
     .then(html => {
       document.getElementById("content-body").innerHTML = html;
@@ -33,7 +33,7 @@ function loadNotes(file) {
 
 // Quiz Loader
 function startQuiz(file) {
-  fetch(`data/${file}`)
+  fetch(`Data/${file}`)
     .then(res => res.json())
     .then(data => {
       let quizHTML = "<form id='quiz-form'>";
@@ -126,6 +126,7 @@ function navigateTo(sectionId) {
   document.getElementById(sectionId).scrollIntoView({ behavior: "smooth" });
 
 }
+
 
 
 
