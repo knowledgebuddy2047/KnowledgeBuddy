@@ -1,0 +1,33 @@
+{
+  "quiz": [
+    {
+      "question": "Solve for x: 2x+5=15?",
+      "options": ["x=15", "x=5", "x=-5", "x=10"],
+      "answer": "x=5"
+    },
+    {
+      "question": "Which of the following is a linear equation in two variables?",
+      "options": ["x^2-y^2=4", "2x+3y=6", "x^2+y=5", "2x+3=0"],
+      "answer": "2x+3y=6"
+    },
+
+    {
+      "question": " Which law states that mass is neither created nor destroyed in a chemical reaction?",
+      "options": ["Law of Conservation of Mass", "Law of Constant Proportion", "Boyle’s Law", "Dalton’s Law"],
+      "answer": "Law of Conservation of Mass"
+    },
+
+    {
+      "question": "Which organelle is known as the powerhouse of the cell?",
+      "options": ["Nucleus", "Mitochondria", "Ribosome", "Chloroplast"],
+      "answer": "Mitochondria"
+    },
+
+    {
+      "question": "What is the SI unit of force?",
+      "options": ["Watt", "Joule", "Pascal", "Newton"],
+      "answer": "Newton"
+    }
+
+  ]
+}
