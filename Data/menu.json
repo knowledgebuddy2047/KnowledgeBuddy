@@ -3,10 +3,10 @@
     { 
       "name": "Class 9-10 Science", 
       "description": "Concept notes, quizzes, and flashcards.", 
-      "file": "https://knowledgebuddy2047.github.io/KnowledgeBuddy/Data/notes_class9_science.html", 
-      "quiz": "https://knowledgebuddy2047.github.io/KnowledgeBuddy/Data/quiz_class9_science.json", 
-      "flashcards": "https://knowledgebuddy2047.github.io/KnowledgeBuddy/Data/flashcards_class9_science.json", 
-      "workflow": "https://knowledgebuddy2047.github.io/KnowledgeBuddy/Data/workflow_class9_science.json" 
+      "file": "Data/notes_class9_science.html", 
+      "quiz": "Data/quiz_class9_science.json", 
+      "flashcards": "Data/flashcards_class9_science.json", 
+      "workflow": "Data/workflow_class9_science.json" 
     },
     { 
       "name": "JEE Physics", 
@@ -27,6 +27,7 @@
   ]
 
 }
+
 
 
 
