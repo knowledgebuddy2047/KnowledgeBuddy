@@ -1,7 +1,0 @@
-{
-  "workflow": [
-    { "step": "Read NCERT Physics Chapters 1–3", "duration": "2 hours" },
-    { "step": "Solve 20 MCQs on Laws of Motion", "duration": "1 hour" },
-    { "step": "Revise with flashcards", "duration": "30 minutes" }
-  ]
-}
