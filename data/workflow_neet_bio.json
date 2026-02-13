@@ -1,0 +1,7 @@
+{
+  "workflow": [
+    { "step": "Revise Cell Biology basics", "duration": "1 hour" },
+    { "step": "Solve 25 MCQs on Human Physiology", "duration": "1.5 hours" },
+    { "step": "Review flashcards for quick recall", "duration": "30 minutes" }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "workflow": [
+    { "step": "Revise Electrostatics formulas", "duration": "1 hour" },
+    { "step": "Solve 20 MCQs on Current Electricity", "duration": "1.5 hours" },
+    { "step": "Practice numerical problems on circuits", "duration": "2 hours" }
+  ]
+}
