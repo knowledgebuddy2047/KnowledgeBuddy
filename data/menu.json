@@ -28,10 +28,11 @@
       "name": "MBBS Pathology", 
       "description": "Key Pathology topics for Doctors. This will help for PG and other examination", 
       "file": "notes_Pathology_MBBS.html", 
-      "quiz": "quiz_Pathology_MBBS.json", 
+      "quiz": "quiz_neet_bio.json", 
       "flashcards": "flashcards_Pathology_MBBS.json", 
       "workflow": "workflow_Pathology_MBBS.json" 
     }
   ]
 
 }
+
