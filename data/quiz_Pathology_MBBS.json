@@ -66,47 +66,45 @@
       "options": ["LAD supplies posterior wall", "LAD supplies anterior wall of LV", "LAD supplies right atrium", "LAD supplies conduction system only"],
       "answer": "LAD supplies anterior wall of LV"
     },
-    [
-  {
+    {
     "question": "Why does LAD occlusion often present with anterior wall infarction?",
     "options": ["LAD supplies posterior wall", "LAD supplies anterior wall of LV", "LAD supplies right atrium", "LAD supplies conduction system only"],
     "answer": "LAD supplies anterior wall of LV"
-  },
-  {
+    },
+    {
     "question": "Which nuclear change is typical of irreversible cell injury?",
     "options": ["Hydropic change", "Pyknosis", "Fatty change", "Cellular swelling"],
     "answer": "Pyknosis"
-  },
-  {
+    },
+    {
     "question": "Which lab finding is most characteristic of iron deficiency anemia?",
     "options": ["Increased MCV", "Decreased serum ferritin", "Increased serum iron", "Normal RDW"],
     "answer": "Decreased serum ferritin"
-  },
-  {
+    },
+    {
     "question": "COPD patients are often called 'pink puffers' or 'blue bloaters'. Which description is correct?",
     "options": ["Pink puffers → emphysema, Blue bloaters → chronic bronchitis", "Pink puffers → chronic bronchitis, Blue bloaters → emphysema", "Both terms describe asthma", "Both terms describe pneumonia"],
     "answer": "Pink puffers → emphysema, Blue bloaters → chronic bronchitis"
-  },
-  {
+    },
+    {
     "question": "Which of the following is strongly associated with colorectal carcinoma?",
     "options": ["Ulcerative colitis", "Crohn’s disease", "Peptic ulcer disease", "Appendicitis"],
     "answer": "Ulcerative colitis"
-  },
-  {
+    },
+    {
     "question": "Which feature is characteristic of nephrotic syndrome?",
     "options": ["Hematuria", "Proteinuria >3.5 g/day", "Hypertension", "Oliguria"],
     "answer": "Proteinuria >3.5 g/day"
-  },
-  {
+    },
+    {
     "question": "Which histological feature is typical of Alzheimer’s disease?",
     "options": ["Lewy bodies", "Neurofibrillary tangles", "Pick bodies", "Negri bodies"],
     "answer": "Neurofibrillary tangles"
-  },
-  {
+    },
+    {
     "question": "Why does nephrotic syndrome lead to edema and hyperlipidemia?",
     "options": ["Loss of sodium in urine", "Loss of albumin → ↓ oncotic pressure, liver compensates with lipoprotein synthesis", "Increased GFR", "Hypertension alone"],
     "answer": "Loss of albumin → ↓ oncotic pressure, liver compensates with lipoprotein synthesis"
-  }
-    
-  ]
+    }
+ ]
 }
