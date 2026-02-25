@@ -31,9 +31,26 @@
       "quiz": "quiz_Pathology_MBBS.json", 
       "flashcards": "flashcards_Pathology_MBBS.json", 
       "workflow": "workflow_Pathology_MBBS.json" 
+    },
+    { 
+      "name": "MBBS Microbiology", 
+      "description": "Key Microbiology topics for Doctors. This will help for PG and other examination", 
+      "file": "notes_Microbiology_MBBS.html", 
+      "quiz": "quiz_Microbiology_MBBS.json", 
+      "flashcards": "flashcards_Microbiology_MBBS.json", 
+      "workflow": "workflow_Microbiology_MBBS.json" 
+    },
+    { 
+      "name": "MBBS Pharmacology", 
+      "description": "Key Pharmacology topics for Doctors. This will help for PG and other examination", 
+      "file": "notes_Pharmacology_MBBS.html", 
+      "quiz": "quiz_Pharmacology_MBBS.json", 
+      "flashcards": "flashcards_Pharmacology_MBBS.json", 
+      "workflow": "workflow_Pharmacology_MBBS.json" 
     }
   ]
 
 }
+
 
 
