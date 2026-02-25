@@ -1,0 +1,197 @@
+{
+  "quiz": [
+    {
+      "question": "Which drug shows zero-order kinetics at therapeutic doses?",
+      "options": ["Phenytoin", "Aspirin", "Alcohol", "Gentamicin"],
+      "answer": "Phenytoin"
+    },
+    {
+      "question": "CYP450 enzyme inducer mnemonic PRCP includes all except:",
+      "options": ["Phenytoin", "Rifampicin", "Cimetidine", "Phenobarbitone"],
+      "answer": "Cimetidine"
+    },
+    {
+      "question": "SLUD syndrome is characteristic of toxicity from:",
+      "options": ["Cholinergic drugs", "Beta blockers", "Opioids", "Warfarin"],
+      "answer": "Cholinergic drugs"
+    },
+    {
+      "question": "Drug of choice for organophosphate poisoning:",
+      "options": ["Atropine", "Neostigmine", "Adrenaline", "Naloxone"],
+      "answer": "Atropine"
+    },
+    {
+      "question": "First-line antihypertensive in uncomplicated hypertension:",
+      "options": ["Thiazide diuretic", "Beta blocker", "Clonidine", "Minoxidil"],
+      "answer": "Thiazide diuretic"
+    },
+    {
+      "question": "Classic ADR of ACE inhibitors:",
+      "options": ["Dry cough", "Bradycardia", "Hypokalemia", "Hyperglycemia"],
+      "answer": "Dry cough"
+    },
+    {
+      "question": "Digoxin toxicity causes:",
+      "options": ["Xanthopsia", "Tinnitus", "Nystagmus", "Myoclonus"],
+      "answer": "Xanthopsia"
+    },
+    {
+      "question": "Warfarin monitoring parameter:",
+      "options": ["PT/INR", "aPTT", "Platelet count", "Bleeding time"],
+      "answer": "PT/INR"
+    },
+    {
+      "question": "Status epilepticus first-line IV drug:",
+      "options": ["Lorazepam", "Phenytoin", "Levetiracetam", "Phenobarbitone"],
+      "answer": "Lorazepam"
+    },
+    {
+      "question": "Opioid overdose antidote:",
+      "options": ["Naloxone", "Flumazenil", "Atropine", "Protamine"],
+      "answer": "Naloxone"
+    },
+    {
+      "question": "Isoniazid prophylaxis to prevent:",
+      "options": ["Peripheral neuropathy", "Hepatitis", "Rash", "Gynaecomastia"],
+      "answer": "Peripheral neuropathy"
+    },
+    {
+      "question": "Rifampicin characteristic side effect:",
+      "options": ["Orange colored urine", "Red urine", "Blue urine", "Green urine"],
+      "answer": "Orange colored urine"
+    },
+    {
+      "question": "Ethambutol toxicity affects:",
+      "options": ["Optic nerve", "8th cranial nerve", "Liver", "Kidney"],
+      "answer": "Optic nerve"
+    },
+    {
+      "question": "PPI of choice for H. pylori triple therapy:",
+      "options": ["Omeprazole", "Ranitidine", "Sucralfate", "Misoprostol"],
+      "answer": "Omeprazole"
+    },
+    {
+      "question": "Drug causing hemorrhagic cystitis:",
+      "options": ["Cyclophosphamide", "Methotrexate", "Cisplatin", "Vincristine"],
+      "answer": "Cyclophosphamide"
+    },
+    {
+      "question": "Beta-2 agonist used in asthma:",
+      "options": ["Salbutamol", "Propranolol", "Atenolol", "Carvedilol"],
+      "answer": "Salbutamol"
+    },
+    {
+      "question": "Metformin contraindication:",
+      "options": ["Renal failure", "Hypothyroidism", "Asthma", "Anemia"],
+      "answer": "Renal failure"
+    },
+    {
+      "question": "Carbimazole major ADR:",
+      "options": ["Agranulocytosis", "Hypothyroidism", "Weight loss", "Tremor"],
+      "answer": "Agranulocytosis"
+    },
+    {
+      "question": "P-drug list concept belongs to:",
+      "options": ["Rational drug use", "Pharmacovigilance", "Bioethics", "Pharmacogenomics"],
+      "answer": "Rational drug use"
+    },
+    {
+      "question": "Essential Medicine List is published by:",
+      "options": ["WHO", "FDA", "DCGI", "ICH"],
+      "answer": "WHO"
+    },
+    {
+      "question": "Brain Teaser: Patient on phenytoin develops gingival hyperplasia. You increase dose slightly, but toxicity worsens disproportionately. Why?",
+      "options": ["Zero-order kinetics", "First-pass effect", "Autoinduction", "Protein binding displacement"],
+      "answer": "Zero-order kinetics",
+      "explanation": "Phenytoin saturation kinetics: Small dose increase → large plasma level rise → toxicity"
+    },
+    {
+      "question": "Strong Concept: Warfarin + Rifampicin → decreased INR. Mechanism?",
+      "options": ["Rifampicin CYP inducer", "Warfarin protein binder", "Rifampicin vitamin K antagonist", "Additive anticoagulation"],
+      "answer": "Rifampicin CYP inducer",
+      "explanation": "Rifampicin induces CYP2C9 → faster warfarin metabolism → ↓ effect"
+    },
+    {
+      "question": "Brain Teaser: ACEI given to patient causes angioedema. Safe alternative with same benefits?",
+      "options": ["ARB (Losartan)", "Beta blocker", "Alpha blocker", "CCB"],
+      "answer": "ARB (Losartan)",
+      "explanation": "ARBs don't affect bradykinin → no angioedema risk"
+    },
+    {
+      "question": "Strong Concept: Digoxin loading dose calculation depends on:",
+      "options": ["Volume of distribution", "Clearance", "Half-life", "Bioavailability"],
+      "answer": "Volume of distribution",
+      "explanation": "Loading dose = Target concentration × Vd (not affected by elimination)"
+    },
+    {
+      "question": "Brain Teaser: TB patient on ATT develops orange urine, hepatitis, hyperuricemia, optic neuritis simultaneously. Missing drug?",
+      "options": ["Pyrazinamide", "Streptomycin", "Levofloxacin", "Cycloserine"],
+      "answer": "Pyrazinamide",
+      "explanation": "Classic HRZE side effects: Rifampicin (orange urine), INH (hepatitis), PZA (hyperuricemia), EMB (optic neuritis)"
+    },
+    {
+      "question": "Strong Concept: Salicylate overdose shows respiratory alkalosis initially, then metabolic acidosis. Why?",
+      "options": ["Direct stimulation of respiratory center", "Renal bicarbonate loss", "Lactic acid accumulation", "Hypokalemia"],
+      "answer": "Direct stimulation of respiratory center",
+      "explanation": "Uncoupling oxidative phosphorylation → hyperventilation → resp alkalosis → anion gap acidosis"
+    },
+    {
+      "question": "Brain Teaser: Elderly hypertensive on amlodipine develops ankle edema. Add diuretic or change drug?",
+      "options": ["Add thiazide diuretic", "Switch to beta blocker", "Increase amlodipine dose", "Add clonidine"],
+      "answer": "Add thiazide diuretic",
+      "explanation": "CCB vasodilation causes edema (venous capacitance ↑); thiazide prevents Na/H2O retention"
+    },
+    {
+      "question": "Strong Concept: Organophosphate poisoning treatment sequence:",
+      "options": ["Atropine first, then Pralidoxime", "Pralidoxime first, then Atropine", "Diazepam only", "Neostigmine"],
+      "answer": "Atropine first, then Pralidoxime",
+      "explanation": "Atropine (muscarinic symptoms), Pralidoxime (regenerates AChE if given early <24h)"
+    },
+    {
+      "question": "Brain Teaser: Patient on isoniazid develops psychosis. Correct prophylaxis was:",
+      "options": ["Pyridoxine (Vit B6)", "Folic acid", "Thiamine", "Cyanocobalamin"],
+      "answer": "Pyridoxine (Vit B6)",
+      "explanation": "INH pyridoxine antagonist → peripheral neuropathy + CNS effects"
+    },
+    {
+      "question": "Strong Concept: Lithium monitoring parameter for toxicity:",
+      "options": ["Serum lithium levels 0.6-1.2 mEq/L therapeutic", "TSH", "Serum creatinine", "Urine osmolality"],
+      "answer": "Serum lithium levels 0.6-1.2 mEq/L therapeutic",
+      "explanation": "Narrow therapeutic index; toxicity >1.5 mEq/L (tremor, ataxia)"
+    },
+    {
+      "question": "Brain Teaser: Morphine given IV → pinpoint pupils but ↑ respiratory rate initially. Correct?",
+      "options": ["Wrong: Should cause respiratory depression", "Correct: Initial stimulation", "Pupils dilate with opioids", "No pupil changes"],
+      "answer": "Wrong: Should cause respiratory depression",
+      "explanation": "Classic triad: Triad of coma, respiratory depression, pinpoint pupils"
+    },
+    {
+      "question": "Strong Concept: First-line monotherapy for absence seizures:",
+      "options": ["Ethosuximide", "Phenytoin", "Carbamazepine", "Valproate"],
+      "answer": "Ethosuximide",
+      "explanation": "T-type Ca channel blocker → absence seizures specifically"
+    },
+    {
+      "question": "Brain Teaser: Patient on carbamazepine develops diplopia, ataxia. Adjust dose or switch?",
+      "options": ["Therapeutic dose toxicity - decrease dose", "Increase dose", "Add phenytoin", "No change"],
+      "answer": "Therapeutic dose toxicity - decrease dose",
+      "explanation": "Autoinduction: starts high dose → levels fall → dose ↑ → toxicity on re-stabilization"
+    },
+    {
+      "question": "Strong Concept: Heparin antidote:",
+      "options": ["Protamine sulfate", "Protamine zinc", "Vitamin K", "Tranexamic acid"],
+      "answer": "Protamine sulfate",
+      "explanation": "Binds heparin forming inactive complex (dose: 1mg protamine/100 units heparin)"
+    },
+    {
+      "question": "Brain Teaser: Sulfonylurea overdose → prolonged hypoglycemia. Why not reversed by glucose alone?",
+      "options": ["Stimulates endogenous insulin release", "Inhibits glucagon", "Blocks glucose uptake", "Causes insulin resistance"],
+      "answer": "Stimulates endogenous insulin release",
+      "explanation": "Octreotide suppresses insulin secretion (treatment after glucose)"
+    }
+
+
+
+  ]
+}
