@@ -1,0 +1,126 @@
+{
+  "quiz": [
+   {
+    "question": "Brain Teaser: 45yo man post-motorcycle accident presents with loss of pain/temp right body, vibration/proprioception left leg, ipsilateral Horner. Level?",
+    "options": ["Cervical cord hemisection", "Lateral medullary syndrome", "Anterior spinal artery", "Brown-Séquard T10"],
+    "answer": "Brown-Séquard T10",
+    "explanation": "Classic Brown-Séquard: ipsilateral motor/proprioception loss (CST/dorsal column), contralateral pain/temp (spinothalamic cross), Horner if cervical."
+  },
+  {
+    "question": "Brain Teaser: 30yo woman thyroidectomy develops hoarseness, deviates left on swallow. Injury?",
+    "options": ["Left recurrent laryngeal n.", "Right recurrent laryngeal n.", "External laryngeal n.", "Superior laryngeal n."],
+    "answer": "Left recurrent laryngeal n.",
+    "explanation": "Left recurrent loops under aortic arch (longer course); unopposed right pulls vocal cord right, deviates tongue/vocal cord left."
+  },
+  {
+    "question": "Brain Teaser: 60yo smoker coughs blood, CT shows lingular mass invading mediastinum. Collateral damaged?",
+    "options": ["Azygos vein", "Thoracic duct (left)", "Right lymphatic duct", "Phrenic nerve"],
+    "answer": "Thoracic duct (left)",
+    "explanation": "Thoracic duct ascends left posterior mediastinum; lingula (left upper lobe) invasion risks chylothorax."
+  },
+  {
+    "question": "Brain Teaser: 25yo trauma, expanding flank hematoma, hypotension. Triple injury?",
+    "question": "Brain Teaser: 25yo trauma, expanding flank hematoma, hypotension. Triple injury?",
+    "options": ["Kidney, spleen, liver", "Kidney, colon, duodenum", "Kidney, pancreas, duodenum", "Spleen, kidney, adrenal"],
+    "answer": "Kidney, pancreas, duodenum",
+    "explanation": "Gerota fascia rupture allows retroperitoneal spread; duodenum/pancreas share plane with kidney."
+  },
+  {
+    "question": "Brain Teaser: 50yo alcoholic abdominal pain, pulsatile mass, absent femoral pulses bilateral. AAA complication?",
+    "options": ["Inferior mesenteric a. thrombosis", "Renal a. involvement", "Iliac bifurcation", "Superior mesenteric a."],
+    "answer": "Inferior mesenteric a. thrombosis",
+    "explanation": "AAA erodes IMA; backbleed via collaterals (meandering mesenteric) but thrombosis causes colonic ischemia."
+  },
+  {
+    "question": "Brain Teaser: Newborn bilateral talipes equinovarus, MRI lumbosacral agenesis. Associated malformation?",
+    "options": ["Imperforate anus", "VACTERL", "Arnold-Chiari", "All of above"],
+    "answer": "All of above",
+    "explanation": "Caudal regression syndrome/VACTERL: vertebral, anal, cardiac, TE fistula, renal, limb defects."
+  },
+  {
+    "question": "Brain Teaser: 35yo post-partum leg swelling, sudden dyspnea. Anatomy explains PE source?",
+    "options": ["Right ovarian vein thrombosis", "Left ovarian to renal v.", "Iliac vein compression", "All true"],
+    "answer": "All true",
+    "explanation": "Pregnancy hypercoagulable + left ovarian vein drains to renal (stasis) + right iliac compression by uterus."
+  },
+  {
+    "question": "Brain Teaser: Surgeon ligates structure in Hesselbach triangle during hernia repair, patient develops ischemic left testis. What?",
+    "options": ["Inferior epigastric a.", "Deep circumflex iliac a.", "External iliac a.", "Testicular a."],
+    "answer": "Inferior epigastric a.",
+    "explanation": "Direct hernia lateral to inferior epigastric; ligation risks anastomotic supply to testis (ductus deferens a.)."
+  },
+  {
+    "question": "Brain Teaser: 70yo cataract surgery, pupil fixed dilated, ptosis, eye down/out. Syndrome?",
+    "options": ["Tolosa-Hunt", "Cavernous sinus thrombosis", "CN III compression", "Horner"],
+    "answer": "CN III compression",
+    "explanation": "Post-surgical oculomotor palsy: parasympathetic (pupil), levator (ptosis), SR/MR/IR (down/out)."
+  },
+  {
+    "question": "Brain Teaser: Baseball player pitches, sudden shoulder pain, can't abduct. Test positive?",
+    "options": ["Empty can", "Lift-off", "O'Brien's", "Speed's"],
+    "answer": "Empty can",
+    "explanation": "Supraspinatus tear/inflammation; empty can stresses supraspinatus."
+  },
+  {
+    "question": "Concept: Structure passing through lesser sciatic foramen?",
+    "options": ["Piriformis tendon", "Obturator internus tendon", "Sciatic nerve", "Superior gluteal a."],
+    "answer": "Obturator internus tendon",
+    "explanation": "Lesser sciatic: obturator internus tendon, nerve to obturator internus, pudendal n./internal pudendal v."
+  },
+  {
+    "question": "Concept: Blood supply solely from internal carotid artery?",
+    "options": ["Circle of Willis", "Optic nerve", "Pituitary gland", "Cochlea"],
+    "answer": "Cochlea",
+    "explanation": "Labyrinthine a. (otic branch ICA) sole supply to cochlea; optic from ophthalmic (ICA)."
+  },
+  {
+    "question": "Concept: Lymphatic drainage of lower anal canal?",
+    "options": ["Inguinal nodes", "Internal iliac", "Common iliac", "Inferior mesenteric"],
+    "answer": "Inguinal nodes",
+    "explanation": "Below dentate line: somatic (below pectinate), drains superficial inguinal nodes."
+  },
+  {
+    "question": "Concept: Remnant forming median umbilical ligament?",
+    "options": ["Urachus", "Vitelline duct", "Allantois", "Yolk stalk"],
+    "answer": "Urachus",
+    "explanation": "Urachus obliterates to median umbilical ligament from bladder apex to umbilicus."
+  },
+  {
+    "question": "Concept: Muscle pierced by needle for sciatic block?",
+    "options": ["Gluteus maximus", "Biceps femoris", "Quadratus femoris", "Piriformis"],
+    "answer": "Gluteus maximus",
+    "explanation": "Subgluteal approach: through gluteus maximus to sciatic between ischial tuberosity/greater trochanter."
+  },
+  {
+    "question": "Concept: Foramen in greater wing sphenoid transmits?",
+    "options": ["Foramen rotundum: maxillary n.", "Foramen ovale: mandibular n.", "Both", "Neither"],
+    "answer": "Both",
+    "explanation": "Rotundum (V2), ovale (V3), spinosum (middle meningeal)."
+  },
+  {
+    "question": "Concept: Branch of profunda femoris supplying adductor magnus?",
+    "options": ["Medial circumflex femoral", "Lateral circumflex femoral", "Perforating arteries", "Descending genicular"],
+    "answer": "Perforating arteries",
+    "explanation": "4th perforator supplies hamstring portion of adductor magnus."
+  },
+  {
+    "question": "Concept: Ossification center appears first in which carpal bone?",
+    "options": ["Capitate", "Hamate", "Trapezium", "Scaphoid"],
+    "answer": "Capitate",
+    "explanation": "Capitate (birth), hamate (1m), triquetrum (3y), lunate (4y); scaphoid trapezium late."
+  },
+  {
+    "question": "Concept: Tributary joining left renal vein?",
+    "options": ["Left suprarenal v.", "Left gonadal v.", "Left ascending lumbar v.", "All"],
+    "answer": "All",
+    "explanation": "Left renal receives gonadal/suprarenal; right direct to IVC (shorter)."
+  },
+  {
+    "question": "Concept: Ligament preventing anterior shoulder dislocation?",
+    "options": ["Coracohumeral", "Glenohumeral ligaments", "Coracoacromial", "All contribute"],
+    "answer": "All contribute",
+    "explanation": "Inferior glenohumeral primary restraint to anterior/inferior translation."
+  }
+
+  ]
+}
