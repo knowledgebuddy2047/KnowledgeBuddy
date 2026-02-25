@@ -1,0 +1,305 @@
+{
+  "quiz":[
+  {
+    "question": "Brain Teaser: Why does ethanol act as an antidote for methanol poisoning?",
+    "options": ["Competitive inhibition of aldehyde dehydrogenase", "Competitive inhibition of alcohol dehydrogenase", "Induction of cytochrome P450", "Enhanced renal clearance"],
+    "answer": "Competitive inhibition of alcohol dehydrogenase",
+    "explanation": "Ethanol competes with methanol for alcohol dehydrogenase, preventing toxic formaldehyde/formic acid formation."
+  },
+  {
+    "question": "Case Study: A child presents with hepatomegaly, hypoglycemia, and lactic acidosis. Which enzyme deficiency is most likely?",
+    "options": ["Glucose-6-phosphatase", "Glycogen phosphorylase", "Debranching enzyme", "Branching enzyme"],
+    "answer": "Glucose-6-phosphatase",
+    "explanation": "Von Gierke disease (Type I glycogen storage disease) → impaired gluconeogenesis and glycogenolysis."
+  },
+  {
+    "question": "Concept Check: Which amino acid is precursor for serotonin?",
+    "options": ["Tyrosine", "Tryptophan", "Phenylalanine", "Histidine"],
+    "answer": "Tryptophan",
+    "explanation": "Tryptophan → 5-hydroxytryptophan → serotonin."
+  },
+  {
+    "question": "Brain Teaser: Why does lactate accumulate in thiamine deficiency?",
+    "options": ["Inhibition of pyruvate dehydrogenase", "Inhibition of lactate dehydrogenase", "Activation of gluconeogenesis", "Defective glycogenolysis"],
+    "answer": "Inhibition of pyruvate dehydrogenase",
+    "explanation": "Thiamine is cofactor for PDH; deficiency → pyruvate shunted to lactate."
+  },
+  {
+    "question": "Case Study: A neonate develops cataracts soon after birth. Which metabolic defect is most likely?",
+    "options": ["Galactokinase deficiency", "Aldolase B deficiency", "Fructokinase deficiency", "Pyruvate kinase deficiency"],
+    "answer": "Galactokinase deficiency",
+    "explanation": "Galactose → galactitol accumulation in lens → cataracts."
+  },
+  {
+    "question": "Concept Check: Which enzyme is deficient in maple syrup urine disease?",
+    "options": ["Branched-chain α-ketoacid dehydrogenase", "Homogentisate oxidase", "Phenylalanine hydroxylase", "Tyrosinase"],
+    "answer": "Branched-chain α-ketoacid dehydrogenase",
+    "explanation": "Deficiency → accumulation of leucine, isoleucine, valine → sweet-smelling urine."
+  },
+  {
+    "question": "Brain Teaser: Why does cyanide poisoning block ATP production?",
+    "options": ["Inhibits cytochrome c oxidase", "Inhibits ATP synthase", "Inhibits succinate dehydrogenase", "Inhibits NADH dehydrogenase"],
+    "answer": "Inhibits cytochrome c oxidase",
+    "explanation": "Cyanide binds Fe³⁺ in cytochrome oxidase → blocks electron transport chain."
+  },
+  {
+    "question": "Case Study: A patient with pellagra presents with dermatitis, diarrhea, and dementia. Which vitamin deficiency?",
+    "options": ["Niacin (B3)", "Riboflavin (B2)", "Thiamine (B1)", "Pyridoxine (B6)"],
+    "answer": "Niacin (B3)",
+    "explanation": "Classic triad of pellagra due to niacin deficiency."
+  },
+  {
+    "question": "Concept Check: Which enzyme converts fructose-6-phosphate to fructose-1,6-bisphosphate?",
+    "options": ["Phosphofructokinase-1", "Aldolase", "Hexokinase", "Fructokinase"],
+    "answer": "Phosphofructokinase-1",
+    "explanation": "PFK-1 is the rate-limiting enzyme of glycolysis."
+  },
+  {
+    "question": "Brain Teaser: Why does ethanol consumption cause hypoglycemia in fasting state?",
+    "options": ["Increased NADH inhibits gluconeogenesis", "Increased NADPH inhibits glycolysis", "Depletion of glycogen stores", "Inhibition of insulin secretion"],
+    "answer": "Increased NADH inhibits gluconeogenesis",
+    "explanation": "Ethanol metabolism → excess NADH → blocks pyruvate → oxaloacetate conversion."
+  },
+  {
+    "question": "Case Study: A patient presents with dark urine after standing. Which enzyme deficiency?",
+    "options": ["Homogentisate oxidase", "Phenylalanine hydroxylase", "Tyrosinase", "Branched-chain α-ketoacid dehydrogenase"],
+    "answer": "Homogentisate oxidase",
+    "explanation": "Alkaptonuria → homogentisic acid accumulation → dark urine."
+  },
+  {
+    "question": "Concept Check: Which amino acid is precursor for catecholamines?",
+    "options": ["Tyrosine", "Tryptophan", "Histidine", "Methionine"],
+    "answer": "Tyrosine",
+    "explanation": "Tyrosine → DOPA → dopamine → norepinephrine → epinephrine."
+  },
+  {
+    "question": "Brain Teaser: Why does glucose-6-phosphate dehydrogenase deficiency cause hemolysis after fava beans?",
+    "options": ["Reduced NADPH → impaired glutathione regeneration", "Reduced NADH → impaired glycolysis", "Reduced ATP → impaired Na/K pump", "Reduced FAD → impaired electron transport"],
+    "answer": "Reduced NADPH → impaired glutathione regeneration",
+    "explanation": "Without NADPH, RBCs can’t detoxify oxidative stress → hemolysis."
+  },
+  {
+    "question": "Case Study: A patient with PKU is treated with diet restriction. Which amino acid becomes essential?",
+    "options": ["Tyrosine", "Histidine", "Methionine", "Arginine"],
+    "answer": "Tyrosine",
+    "explanation": "Phenylalanine hydroxylase deficiency → tyrosine must be supplemented."
+  },
+  {
+    "question": "Concept Check: Which enzyme deficiency causes increased orotic acid in urine with hyperammonemia?",
+    "options": ["Ornithine transcarbamylase", "Carbamoyl phosphate synthetase I", "Arginase", "Argininosuccinate lyase"],
+    "answer": "Ornithine transcarbamylase",
+    "explanation": "OTC deficiency → carbamoyl phosphate → orotic acid accumulation."
+  },
+  {
+    "question": "Brain Teaser: Why does hypoxanthine accumulate in Lesch-Nyhan syndrome?",
+    "options": ["Deficiency of HGPRT", "Deficiency of APRT", "Deficiency of xanthine oxidase", "Deficiency of adenosine deaminase"],
+    "answer": "Deficiency of HGPRT",
+    "explanation": "HGPRT deficiency → impaired purine salvage → excess uric acid and hypoxanthine."
+  },
+  {
+    "question": "Case Study: A patient presents with megaloblastic anemia unresponsive to folate. Which enzyme deficiency is likely?",
+    "options": ["Methionine synthase", "Thymidylate synthase", "Dihydrofolate reductase", "Cystathionine synthase"],
+    "answer": "Methionine synthase",
+    "explanation": "B12 deficiency blocks methionine synthase → folate trap → megaloblastic anemia."
+  },
+  {
+    "question": "Concept Check: Which enzyme is inhibited by allopurinol?",
+    "options": ["Xanthine oxidase", "HGPRT", "Adenosine deaminase", "Purine nucleoside phosphorylase"],
+    "answer": "Xanthine oxidase",
+    "explanation": "Allopurinol inhibits xanthine oxidase → reduces uric acid formation."
+  },
+  {
+    "question": "Brain Teaser: Why does glucose enter RBCs without insulin?",
+    "options": ["GLUT1 transporter", "GLUT2 transporter", "GLUT4 transporter", "Na+/glucose cotransporter"],
+    "answer": "GLUT1 transporter",
+    "explanation": "RBCs use insulin-independent GLUT1 for glucose uptake."
+  },
+  {
+    "question": "Case Study: A patient with alcoholism develops confusion, ophthalmoplegia, and ataxia. Which vitamin deficiency?",
+    "options": ["Thiamine (B1)", "Niacin (B3)", "Riboflavin (B2)", "Pyridoxine (B6)"],
+    "answer": "Thiamine (B1)",
+    "explanation": "Wernicke’s encephalopathy due to thiamine deficiency."
+  },
+  {
+    "question": "Concept Check: Which enzyme deficiency causes increased orotic acid without hyperammonemia?",
+    "options": ["UMP synthase", "Ornithine transcarbamylase", "Carbamoyl phosphate synthetase I", "Argininosuccinate lyase"],
+    "answer": "UMP synthase",
+    "explanation": "Hereditary orotic aciduria → defective pyrimidine synthesis → megaloblastic anemia."
+  },
+  {
+    "question": "Brain Teaser: Why does fructose metabolism bypass PFK-1 regulation?",
+    "options": ["Fructose enters glycolysis as DHAP/G3P", "Fructose enters glycolysis as glucose-6-phosphate", "Fructose enters via hexokinase", "Fructose enters via pyruvate kinase"],
+    "answer": "Fructose enters glycolysis as DHAP/G3P",
+    "explanation": "Fructose metabolism bypasses rate-limiting PFK-1 → rapid glycolysis."
+  },
+  {
+    "question": "Case Study: A child presents with severe fasting hypoglycemia and hepatomegaly. Which glycogen storage disease?",
+    "options": ["Von Gierke (Type I)", "Pompe (Type II)", "Cori (Type III)", "McArdle (Type V)"],
+    "answer": "Von Gierke (Type I)",
+    "explanation": "Glucose-6-phosphatase deficiency → severe hypoglycemia and lactic acidosis."
+  },
+  {
+    "question": "Concept Check: Which enzyme deficiency causes photosensitivity and abdominal pain in porphyria cutanea tarda?",
+    "options": ["Uroporphyrinogen decarboxylase", "ALA synthase", "Ferrochelatase", "Porphobilinogen deaminase"],
+    "answer": "Uroporphyrinogen decarboxylase",
+    "explanation": "Deficiency → uroporphyrin accumulation → blistering photosensitivity."
+  },
+  {
+    "question": "Brain Teaser: Why does lactase deficiency cause osmotic diarrhea?",
+    "options": ["Accumulation of lactose in lumen draws water", "Increased bacterial fermentation produces toxins", "Reduced bile salt absorption", "Increased intestinal motility"],
+    "answer": "Accumulation of lactose in lumen draws water",
+    "explanation": "Unabsorbed lactose → osmotic effect → diarrhea."
+  },
+  {
+    "question": "Case Study: A patient with hemolytic anemia has bite cells on smear. Which enzyme deficiency?",
+    "options": ["Glucose-6-phosphate dehydrogenase", "Pyruvate kinase", "Hexokinase", "Phosphofructokinase"],
+    "answer": "Glucose-6-phosphate dehydrogenase",
+    "explanation": "G6PD deficiency → oxidative stress → Heinz bodies and bite cells."
+  },
+  {
+    "question": "Concept Check: Which enzyme deficiency causes accumulation of sphingomyelin?",
+    "options": ["Sphingomyelinase", "Hexosaminidase A", "Galactocerebrosidase", "Arylsulfatase A"],
+    "answer": "Sphingomyelinase",
+    "explanation": "Niemann-Pick disease → sphingomyelin accumulation → hepatosplenomegaly, neurodegeneration."
+  },
+  {
+    "question": "Brain Teaser: Why does ethanol metabolism produce fatty liver?",
+    "options": ["Excess NADH promotes fatty acid synthesis", "Excess NADH inhibits β-oxidation", "Excess NADH promotes ketogenesis", "Excess NADH promotes glycogenolysis"],
+    "answer": "Excess NADH inhibits β-oxidation",
+    "explanation": "High NADH shunts metabolism → fatty acid accumulation → steatosis."
+  },
+  {
+    "question": "Case Study: A patient presents with lens dislocation, tall stature, and atherosclerosis. Which metabolic defect?",
+    "options": ["Homocystinuria", "Marfan syndrome", "Alkaptonuria", "Maple syrup urine disease"],
+    "answer": "Homocystinuria",
+    "explanation": "Deficiency of cystathionine synthase → homocysteine accumulation → vascular disease."
+  },
+  {
+    "question": "Concept Check: Which enzyme deficiency causes accumulation of galactocerebroside?",
+    "options": ["Galactocerebrosidase", "Hexosaminidase A", "Arylsulfatase A", "Sphingomyelinase"],
+    "answer": "Galactocerebrosidase",
+    "explanation": "Krabbe disease → galactocerebroside accumulation → neurodegeneration."
+  },
+  {
+    "question": "Brain Teaser: Why does lactate accumulate in ischemic tissue?",
+    "options": ["Anaerobic glycolysis predominates", "Pyruvate dehydrogenase inhibition", "TCA cycle acceleration", "Fatty acid oxidation increases"],
+    "answer": "Anaerobic glycolysis predominates",
+    "explanation": "Oxygen deficiency → pyruvate converted to lactate via lactate dehydrogenase."
+  },
+  {
+    "question": "Case Study: A patient with recurrent infections has defective NADPH oxidase. Which test is abnormal?",
+    "options": ["Nitroblue tetrazolium test", "Schilling test", "Coombs test", "D-Xylose absorption test"],
+    "answer": "Nitroblue tetrazolium test",
+    "explanation": "Chronic granulomatous disease → defective respiratory burst → abnormal NBT test."
+  },
+  {
+    "question": "Concept Check: Which enzyme deficiency causes accumulation of GM2 ganglioside?",
+    "options": ["Hexosaminidase A", "Galactocerebrosidase", "Arylsulfatase A", "Sphingomyelinase"],
+    "answer": "Hexosaminidase A",
+    "explanation": "Tay-Sachs disease → GM2 ganglioside accumulation → neurodegeneration."
+  },
+  {
+    "question": "Brain Teaser: Why does hypoglycemia occur in medium-chain acyl-CoA dehydrogenase deficiency?",
+    "options": ["Impaired β-oxidation → reduced ketogenesis", "Impaired glycolysis", "Impaired glycogenolysis", "Impaired gluconeogenesis"],
+    "answer": "Impaired β-oxidation → reduced ketogenesis",
+    "explanation": "MCAD deficiency → no ketone bodies → hypoglycemia during fasting."
+  },
+  {
+    "question": "Case Study: A patient develops hemolysis after sulfa drug. Which enzyme deficiency?",
+    "options": ["Glucose-6-phosphate dehydrogenase", "Pyruvate kinase", "Hexokinase", "Phosphofructokinase"],
+    "answer": "Glucose-6-phosphate dehydrogenase",
+    "explanation": "Sulfa drugs trigger oxidative stress → hemolysis in G6PD deficiency."
+  },
+  {
+    "question": "Concept Check: Which enzyme deficiency causes accumulation of cerebroside sulfate?",
+    "options": ["Arylsulfatase A", "Hexosaminidase A", "Galactocerebrosidase", "Sphingomyelinase"],
+    "answer": "Arylsulfatase A",
+    "explanation": "Metachromatic leukodystrophy → cerebroside sulfate accumulation."
+  },
+  {
+    "question": "Brain Teaser: Why does ethanol metabolism cause hypoglycemia in fasting state?",
+    "options": ["Excess NADH inhibits gluconeogenesis", "Excess NADH inhibits glycolysis", "Excess NADH promotes ketogenesis", "Excess NADH promotes glycogenolysis"],
+    "answer": "Excess NADH inhibits gluconeogenesis",
+    "explanation": "Ethanol metabolism → NADH excess → blocks gluconeogenesis."
+  },
+  {
+    "question": "Case Study: A patient with hepatomegaly and cardiomyopathy has glycogen accumulation in lysosomes. Which disease?",
+    "options": ["Pompe disease (Type II)", "Von Gierke disease (Type I)", "Cori disease (Type III)", "McArdle disease (Type V)"],
+    "answer": "Pompe disease (Type II)",
+    "explanation": "Deficiency of lysosomal acid α-glucosidase → glycogen accumulation."
+  },
+  {
+    "question": "Concept Check: Which enzyme deficiency causes accumulation of globotriaosylceramide?",
+    "options": ["α-Galactosidase A", "Hexosaminidase A", "Galactocerebrosidase", "Arylsulfatase A"],
+    "answer": "α-Galactosidase A",
+    "explanation": "Fabry disease → globotriaosylceramide accumulation → angiokeratomas, renal failure."
+  },
+  {
+    "question": "Brain Teaser: Why does cyanide poisoning cause lactic acidosis?",
+    "options": ["Blocks oxidative phosphorylation → anaerobic glycolysis", "Blocks glycolysis directly", "Blocks gluconeogenesis", "Blocks glycogenolysis"],
+    "answer": "Blocks oxidative phosphorylation → anaerobic glycolysis",
+    "explanation": "Cyanide inhibits cytochrome oxidase → anaerobic metabolism → lactate."
+  },
+  {
+    "question": "Case Study: A patient with PKU has fair skin and musty odor. Which amino acid is deficient?",
+    "options": ["Tyrosine", "Histidine", "Methionine", "Arginine"],
+    "answer": "Tyrosine",
+    "explanation": "Phenylalanine hydroxylase deficiency → tyrosine becomes essential."
+  },
+  {
+    "question": "Concept Check: Which enzyme deficiency causes accumulation of glucocerebroside?",
+    "options": ["Glucocerebrosidase", "Hexosaminidase A", "Galactocerebrosidase", "Arylsulfatase A"],
+    "answer": "Glucocerebrosidase",
+    "explanation": "Gaucher disease → glucocerebroside accumulation → hepatosplenomegaly, bone crises."
+  },
+  {
+    "question": "Brain Teaser: Why does hypoglycemia occur in hereditary fructose intolerance?",
+    "options": ["Aldolase B deficiency traps phosphate", "Fructokinase deficiency prevents metabolism", "Hexokinase deficiency blocks glycolysis", "PFK-1 deficiency blocks glycolysis"],
+    "answer": "Aldolase B deficiency traps phosphate",
+    "explanation": "Fructose-1-phosphate accumulation → phosphate depletion → impaired gluconeogenesis."
+  },
+  {
+    "question": "Case Study: A patient with muscle cramps after exercise has myoglobinuria. Which glycogen storage disease?",
+    "options": ["McArdle disease (Type V)", "Von Gierke disease (Type I)", "Pompe disease (Type II)", "Cori disease (Type III)"],
+    "answer": "McArdle disease (Type V)",
+    "explanation": "Muscle glycogen phosphorylase deficiency → exercise intolerance, myoglobinuria."
+  },
+  {
+    "question": "Concept Check: Which enzyme deficiency causes accumulation of heparan sulfate and dermatan sulfate?",
+    "options": ["Iduronidase", "Arylsulfatase A", "Hexosaminidase A", "Galactocerebrosidase"],
+    "answer": "Iduronidase",
+    "explanation": "Hurler syndrome → mucopolysaccharide accumulation → coarse facies, corneal clouding."
+  },
+  {
+    "question": "Brain Teaser: Why does ethanol act as antidote for ethylene glycol poisoning?",
+    "options": ["Competes for alcohol dehydrogenase", "Competes for aldehyde dehydrogenase", "Induces cytochrome P450", "Enhances renal clearance"],
+    "answer": "Competes for alcohol dehydrogenase",
+    "explanation": "Ethanol prevents metabolism of ethylene glycol to toxic oxalate."
+  },
+  {
+    "question": "Case Study: A patient with recurrent infections has defective myeloperoxidase. Which product is deficient?",
+    "options": ["Hypochlorous acid", "Superoxide", "Hydrogen peroxide", "Nitric oxide"],
+    "answer": "Hypochlorous acid",
+    "explanation": "MPO deficiency → impaired HOCl production → reduced microbial killing."
+  },
+  {
+    "question": "Concept Check: Which enzyme deficiency causes accumulation of ceramide trihexoside?",
+    "options": ["α-Galactosidase A", "Hexosaminidase A", "Galactocerebrosidase", "Arylsulfatase A"],
+    "answer": "α-Galactosidase A",
+    "explanation": "Fabry disease → ceramide trihexoside accumulation → angiokeratomas, renal failure."
+  },
+  {
+    "question": "Brain Teaser: Why does hypoglycemia occur in insulinoma?",
+    "options": ["Excess insulin increases glucose uptake", "Excess insulin inhibits glycogenolysis", "Excess insulin inhibits gluconeogenesis", "Excess insulin promotes ketogenesis"],
+    "answer": "Excess insulin increases glucose uptake",
+    "explanation": "Insulinoma → inappropriate insulin secretion → hypoglycemia."
+  },
+  {
+    "question": "Case Study: A patient with hepatosplenomegaly and foam cells has glucocerebroside accumulation. Which disease?",
+    "options": ["Gaucher disease", "Niemann-Pick disease", "Krabbe disease", "Tay-Sachs disease"],
+    "answer": "Gaucher disease",
+    "explanation": "Glucocerebrosidase deficiency → Gaucher cells → hepatosplenomegaly, bone pain."
+  }
+  
+ ]
+}
