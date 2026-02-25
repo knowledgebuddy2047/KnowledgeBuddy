@@ -1,0 +1,250 @@
+{
+  "quiz": [
+    {
+    "question": "Which postulate of Koch's is violated by the asymptomatic carrier state?",
+    "options": ["Postulate 1", "Postulate 2", "Postulate 3", "Postulate 4"],
+    "answer": "Postulate 1"
+  },
+  {
+    "question": "Gram-positive bacteria appear purple due to:",
+    "options": ["Thin peptidoglycan layer", "Outer membrane", "Thick peptidoglycan layer", "Lipopolysaccharide"],
+    "answer": "Thick peptidoglycan layer"
+  },
+  {
+    "question": "Autoclave sterilization uses:",
+    "options": ["121°C, 15 psi, 15 min", "160°C dry heat", "Ethylene oxide gas", "Radiation"],
+    "answer": "121°C, 15 psi, 15 min"
+  },
+  {
+    "question": "IgM is the first antibody produced in primary immune response because:",
+    "options": ["Pentameric structure", "Crosses placenta", "Long half-life", "Mucosal protection"],
+    "answer": "Pentameric structure"
+  },
+  {
+    "question": "Type I hypersensitivity is mediated by:",
+    "options": ["IgG", "IgE", "T cells", "Immune complexes"],
+    "answer": "IgE"
+  },
+  {
+    "question": "Step ladder pattern fever is characteristic of:",
+    "options": ["Malaria", "Typhoid", "Dengue", "Chikungunya"],
+    "answer": "Typhoid"
+  },
+  {
+    "question": "Gold standard for typhoid diagnosis in 1st week:",
+    "options": ["Widal test", "Blood culture", "Stool culture", "Bone marrow culture"],
+    "answer": "Blood culture"
+  },
+  {
+    "question": "Vibrio cholerae grows as yellow colonies on:",
+    "options": ["MacConkey agar", "TCBS agar", "XLD agar", "HE agar"],
+    "answer": "TCBS agar"
+  },
+  {
+    "question": "Acid-fast stain used for:",
+    "options": ["Mycobacterium", "Staphylococcus", "E. coli", "Salmonella"],
+    "answer": "Mycobacterium"
+  },
+  {
+    "question": "Negri bodies are pathognomonic for:",
+    "options": ["Rabies", "Herpes", "Polio", "HIV"],
+    "answer": "Rabies"
+  },
+  {
+    "question": "Hepatitis A transmission:",
+    "options": ["Blood", "Fecal-oral", "Sexual", "Vertical"],
+    "answer": "Fecal-oral"
+  },
+  {
+    "question": "HBsAg positive for >6 months indicates:",
+    "options": ["Acute infection", "Chronic carrier", "Vaccinated", "Past infection"],
+    "answer": "Chronic carrier"
+  },
+  {
+    "question": "Tzanck smear shows multinucleate giant cells in:",
+    "options": ["HSV", "VZV", "Both HSV and VZV", "Neither"],
+    "answer": "Both HSV and VZV"
+  },
+  {
+    "question": "RNA virus with reverse transcriptase:",
+    "options": ["Influenza", "HIV", "Polio", "Rabies"],
+    "answer": "HIV"
+  },
+  {
+    "question": "Segmented genome viruses causing disease:",
+    "options": ["Influenza", "Rotavirus", "Both", "Neither"],
+    "answer": "Both"
+  },
+  {
+    "question": "Pseudomembrane in throat characteristic of:",
+    "options": ["Diphtheria", "Strep throat", "Epiglottitis", "Pertussis"],
+    "answer": "Diphtheria"
+  },
+  {
+    "question": "India ink used for CSF in:",
+    "options": ["Cryptococcus", "TB meningitis", "Viral meningitis", "Bacterial meningitis"],
+    "answer": "Cryptococcus"
+  },
+  {
+    "question": "Most common cause of bacterial meningitis in adults:",
+    "options": ["N. meningitidis", "S. pneumoniae", "H. influenzae", "Listeria"],
+    "answer": "S. pneumoniae"
+  },
+  {
+    "question": "Koplik spots seen in:",
+    "options": ["Measles", "Rubella", "Mumps", "Chickenpox"],
+    "answer": "Measles"
+  },
+  {
+    "question": "VDRL test positive in:",
+    "options": ["Syphilis", "Gonorrhea", "Chlamydia", "Herpes"],
+    "answer": "Syphilis"
+  },
+  {
+    "question": "Leprosy causative agent stains with:",
+    "options": ["AFB stain", "Gram stain", "Giemsa", "India ink"],
+    "answer": "AFB stain"
+  },
+  {
+    "question": "Most sensitive test for TB:",
+    "options": ["Mantoux", "Sputum AFB", "GeneXpert", "Chest X-ray"],
+    "answer": "GeneXpert"
+  },
+  {
+    "question": "Amoebic liver abscess diagnosed by:",
+    "options": ["Serology", "Stool exam", "Blood culture", "X-ray"],
+    "answer": "Serology"
+  },
+  {
+    "question": "Plasmodium falciparum ring forms seen in:",
+    "options": ["Thick smear", "Thin smear", "Both", "Giemsa stain only"],
+    "answer": "Both"
+  },
+  {
+    "question": "ELISA screening test confirmatory test for HIV:",
+    "options": ["Western blot", "PCR", "p24 antigen", "CD4 count"],
+    "answer": "Western blot"
+  },
+  {
+    "question": "Clostridium tetani toxin blocks:",
+    "options": ["Glycine receptors", "Acetylcholine", "Dopamine", "GABA"],
+    "answer": "Glycine receptors"
+  },
+  {
+    "question": "Most common HIV opportunistic infection:",
+    "options": ["PCP", "Toxoplasmosis", "Cryptococcal meningitis", "CMV retinitis"],
+    "answer": "PCP"
+  },
+  {
+    "question": "BCG vaccine protects against:",
+    "options": ["TB meningitis", "Pulmonary TB", "Both", "Neither"],
+    "answer": "TB meningitis"
+  },
+  {
+    "question": "Widal test becomes positive by:",
+    "options": ["3rd week", "1st week", "2nd week", "Never"],
+    "answer": "3rd week"
+  },
+  {
+    "question": "Brain Teaser: A patient has rice-water stools, comma-shaped motile bacilli on darkfield, grows yellow on TCBS. Virus? No—it's Vibrio cholerae, but which toxin causes it?",
+    "options": ["Cholera toxin (AB5, ↑cAMP)", "Shiga toxin", "Endotoxin", "Exotoxin A"],
+    "answer": "Cholera toxin (AB5, ↑cAMP)"
+  },
+  {
+    "question": "High-yield: Koch's Postulate 3 violated by viruses because they can't:",
+    "options": ["Be isolated in pure culture", "Cause disease", "Be re-isolated", "Grow on media"],
+    "answer": "Be isolated in pure culture"
+  },
+  {
+    "question": "Teaser: Gram+ cocci in clusters, coagulase+, golden yellow—Staph aureus. Which enzyme makes it pathogenic?",
+    "options": ["Beta-lactamase", "Coagulase", "Hyaluronidase", "DNase"],
+    "answer": "Coagulase"
+  },
+  {
+    "question": "High-yield: Type III hypersensitivity example with Arthus reaction:",
+    "options": ["Anaphylaxis", "Serum sickness", "TB skin test", "Transfusion reaction"],
+    "answer": "Serum sickness"
+  },
+  {
+    "question": "Brain Teaser: Step-ladder fever, rose spots, relative bradycardia—Typhoid. Which Salmonella serotype?",
+    "options": ["S. typhi O9,12", "S. paratyphi A", "S. enteritidis", "S. typhimurium"],
+    "answer": "S. typhi O9,12"
+  },
+  {
+    "question": "Teaser: CSF: lymphocytes, low glucose, high protein, India ink halo—?",
+    "options": ["Bacterial meningitis", "TB meningitis", "Cryptococcal", "Viral"],
+    "answer": "Cryptococcal"
+  },
+  {
+    "question": "High-yield: Hep B carrier: HBsAg+, anti-HBc IgG+, HBeAg-. Status?",
+    "options": ["Acute", "Chronic inactive", "Resolved", "Vaccinated"],
+    "answer": "Chronic inactive"
+  },
+  {
+    "question": "Teaser: Bullet-shaped virus, Negri bodies in Purkinje cells, hydrophobia—Post-exposure Rx?",
+    "options": ["Vaccine only", "Vaccine + HRIG", "Acyclovir", "Ribavirin"],
+    "answer": "Vaccine + HRIG"
+  },
+  {
+    "question": "High-yield: AFB smear sensitivity improved by fluorescence microscopy using:",
+    "options": ["Auramine", "Ziehl-Neelsen", "Gram stain", "Giemsa"],
+    "answer": "Auramine"
+  },
+  {
+    "question": "Brain Teaser: Child with bull-neck, pseudomembrane, swan-neck bacilli on Albert stain—Schick test for?",
+    "options": ["Diphtheria susceptibility", "Tetanus", "Pertussis", "TB"],
+    "answer": "Diphtheria susceptibility"
+  },
+  {
+    "question": "Teaser: DNA virus, oncogenic, Burkitt lymphoma—EBV targets?",
+    "options": ["B cells", "T cells", "Macrophages", "Epithelium"],
+    "answer": "B cells"
+  },
+  {
+    "question": "High-yield: Mantoux induration >15mm in:",
+    "options": ["BCG vaccinated", "Immunocompromised", "Healthy adult", "Child"],
+    "answer": "Healthy adult"
+  },
+  {
+    "question": "Teaser: Flask-shaped ulcers, anchovy sauce pus—Entamoeba histolytica. Rx?",
+    "options": ["Metronidazole", "Chloroquine", "Albendazole", "Ivermectin"],
+    "answer": "Metronidazole"
+  },
+  {
+    "question": "High-yield: PCR gold standard for which? GeneXpert detects MTB + rif resistance.",
+    "options": ["TB", "Syphilis", "Gonorrhea", "Hep C"],
+    "answer": "TB"
+  },
+  {
+    "question": "Brain Teaser: TORCH congenital: CMV (microcephaly), Rubella (cats eye), Toxo (hydrocephalus), HSV (skin vesicles), ? for cataracts/hearts.",
+    "options": ["Rubella", "Syphilis", "Parvo", "Varicella"],
+    "answer": "Rubella"
+  },
+  {
+    "question": "Teaser: Chocolate agar + CO2 for chocolate-loving HIB. Vaccine type?",
+    "options": ["Polysaccharide conjugate", "Live attenuated", "Toxoid", "Subunit"],
+    "answer": "Polysaccharide conjugate"
+  },
+  {
+    "question": "High-yield: Widal O agglutinins rise in:",
+    "options": ["1st week", "2nd week", "3rd week", "4th week"],
+    "answer": "2nd week"
+  },
+  {
+    "question": "Teaser: Tetracycline-resistant Vibrio? No, but cholera toxin ↑cAMP → Cl- secretion. Inhibited by:",
+    "options": ["Doxycycline", "ORS", "Ciprofloxacin", "Azithromycin"],
+    "answer": "ORS"
+  },
+  {
+    "question": "High-yield: IgA protease produced by:",
+    "options": ["N. meningitidis", "S. pyogenes", "E. coli", "Clostridium"],
+    "answer": "N. meningitidis"
+  },
+  {
+    "question": "Brain Teaser: Ridley bodies in lepromatous leprosy—foamy macrophages full of AFB. Classification?",
+    "options": ["Paucibacillary", "Multibacillary", "Tuberculoid", "Borderline"],
+    "answer": "Multibacillary"
+  }
+
+  ]
+}
