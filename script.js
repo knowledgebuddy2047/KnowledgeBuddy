@@ -60,21 +60,27 @@ function submitQuiz(file) {
     .then(data => {
       let score = 0;
       let resultsHTML = "<h3>Results</h3><ul>";
+      
       data.quiz.forEach((q, i) => {
         const selected = document.querySelector(`input[name="q${i}"]:checked`);
         const answer = selected ? selected.value : "No answer";
         const correct = q.answer;
-        if (answer === correct) score++;
+        const isCorrect = answer === correct;
+
+        if (isCorrect) score++;
+
         resultsHTML += `<li>
           Q${i+1}: ${q.question}<br>
           Your answer: ${answer} <br>
           Correct answer: ${correct} <br>
-          ${answer === correct ? "✅ Correct" : "❌ Incorrect"}
+          ${isCorrect ? "✅ Correct" : "❌ Incorrect"}<br>
+          <em>Explanation: ${q.explanation}</em>
         </li><br>`;
       });
+
       resultsHTML += `</ul><p><strong>Final Score: ${score} / ${data.quiz.length}</strong></p>`;
       
-      // Add motivational feedback
+      // Motivational feedback
       const percentage = (score / data.quiz.length) * 100;
       if (percentage >= 80) {
         resultsHTML += "<p>🎉 Great job! You’re mastering this topic.</p>";
@@ -124,4 +130,5 @@ function showWorkflow(file) {
 
 function navigateTo(sectionId) {
   document.getElementById(sectionId).scrollIntoView({ behavior: "smooth" });
+
 }
