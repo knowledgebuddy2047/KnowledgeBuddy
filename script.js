@@ -63,18 +63,26 @@ function submitQuiz(file) {
       
       data.quiz.forEach((q, i) => {
         const selected = document.querySelector(`input[name="q${i}"]:checked`);
-        const answer = selected ? selected.value : "No answer";
+        const answer = selected ? selected.value : null;  // null if not attempted
         const correct = q.answer;
-        const isCorrect = answer === correct;
+        const explanation = q.explanation || ""; // fallback to blank if missing
 
-        if (isCorrect) score++;
+        let statusText;
+        if (!answer) {
+          statusText = "⚠️ Not attempted";
+        } else if (answer === correct) {
+          score++;
+          statusText = "✅ Correct";
+        } else {
+          statusText = "❌ Incorrect";
+        }
 
         resultsHTML += `<li>
           Q${i+1}: ${q.question}<br>
-          Your answer: ${answer} <br>
+          Your answer: ${answer ? answer : "No answer"} <br>
           Correct answer: ${correct} <br>
-          ${isCorrect ? "✅ Correct" : "❌ Incorrect"}<br>
-          <em>Explanation: ${q.explanation}</em>
+          ${statusText}<br>
+          ${explanation ? `<em>Explanation: ${explanation}</em>` : ""}
         </li><br>`;
       });
 
@@ -132,3 +140,4 @@ function navigateTo(sectionId) {
   document.getElementById(sectionId).scrollIntoView({ behavior: "smooth" });
 
 }
+
