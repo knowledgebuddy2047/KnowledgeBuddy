@@ -47,10 +47,35 @@
       "quiz": "quiz_Pharmacology_MBBS.json", 
       "flashcards": "flashcards_Pharmacology_MBBS.json", 
       "workflow": "workflow_Pharmacology_MBBS.json" 
+    },
+    { 
+      "name": "MBBS Anatomy", 
+      "description": "Key Anatomy topics for Doctors. This will help for PG and other examination", 
+      "file": "notes_Anatomy_MBBS.html", 
+      "quiz": "quiz_Anatomy_MBBS.json", 
+      "flashcards": "flashcards_Anatomy_MBBS.json", 
+      "workflow": "workflow_Anatomy_MBBS.json" 
+    },
+    { 
+      "name": "MBBS Biochemistry", 
+      "description": "Key Biochemistry topics for Doctors. This will help for PG and other examination", 
+      "file": "notes_Biochemistry_MBBS.html", 
+      "quiz": "quiz_Biochemistry_MBBS.json", 
+      "flashcards": "flashcards_Biochemistry_MBBS.json", 
+      "workflow": "workflow_Biochemistry_MBBS.json" 
+    },
+    { 
+      "name": "MBBS Physiology", 
+      "description": "Key Physiology topics for Doctors. This will help for PG and other examination", 
+      "file": "notes_Physiology_MBBS.html", 
+      "quiz": "quiz_Physiology_MBBS.json", 
+      "flashcards": "flashcards_Physiology_MBBS.json", 
+      "workflow": "workflow_Physiology_MBBS.json" 
     }
   ]
 
 }
+
 
 
 
