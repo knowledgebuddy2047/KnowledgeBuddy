@@ -1,0 +1,305 @@
+{
+  "quiz":
+[
+  {
+    "question": "Brain Teaser: Why does the SA node act as the pacemaker of the heart?",
+    "options": ["Highest conduction velocity", "Lowest threshold potential", "Fastest depolarization rate", "Strongest contractility"],
+    "answer": "Fastest depolarization rate",
+    "explanation": "SA node has the steepest phase 4 slope → fastest spontaneous depolarization."
+  },
+  {
+    "question": "Case Study: A patient with hemorrhage shows tachycardia and hypotension. Which receptor mediates reflex tachycardia?",
+    "options": ["Baroreceptors in carotid sinus", "Chemoreceptors in medulla", "Stretch receptors in atria", "Osmoreceptors in hypothalamus"],
+    "answer": "Baroreceptors in carotid sinus",
+    "explanation": "Baroreceptor reflex detects low pressure → increases sympathetic tone → tachycardia."
+  },
+  {
+    "question": "Concept Check: Which phase of cardiac action potential is due to calcium influx?",
+    "options": ["Phase 0", "Phase 1", "Phase 2", "Phase 3"],
+    "answer": "Phase 2",
+    "explanation": "Plateau phase (Phase 2) due to L-type Ca²⁺ channels."
+  },
+  {
+    "question": "Brain Teaser: Why does pulmonary artery pressure remain low despite high cardiac output?",
+    "options": ["High compliance of pulmonary vessels", "High resistance of pulmonary vessels", "Low compliance of systemic vessels", "High viscosity of blood"],
+    "answer": "High compliance of pulmonary vessels",
+    "explanation": "Pulmonary circulation is low-resistance, high-compliance → low pressure."
+  },
+  {
+    "question": "Case Study: A patient with SIADH develops hyponatremia. Which hormone is in excess?",
+    "options": ["ADH", "Aldosterone", "ANP", "Cortisol"],
+    "answer": "ADH",
+    "explanation": "SIADH → excess ADH → water retention → dilutional hyponatremia."
+  },
+  {
+    "question": "Concept Check: Which lung volume cannot be measured by spirometry?",
+    "options": ["Tidal volume", "Inspiratory reserve volume", "Residual volume", "Expiratory reserve volume"],
+    "answer": "Residual volume",
+    "explanation": "Residual volume remains after maximal expiration → not measurable by spirometry."
+  },
+  {
+    "question": "Brain Teaser: Why does venous return increase during inspiration?",
+    "options": ["Negative intrathoracic pressure", "Positive intrathoracic pressure", "Increased abdominal pressure", "Decreased venous compliance"],
+    "answer": "Negative intrathoracic pressure",
+    "explanation": "Inspiration lowers thoracic pressure → draws venous blood into chest."
+  },
+  {
+    "question": "Case Study: A patient with anemia has normal PaO2 but reduced oxygen content. Why?",
+    "options": ["Reduced hemoglobin concentration", "Reduced alveolar ventilation", "Reduced diffusion capacity", "Reduced cardiac output"],
+    "answer": "Reduced hemoglobin concentration",
+    "explanation": "PaO2 reflects dissolved O2; anemia reduces Hb-bound O2 content."
+  },
+  {
+    "question": "Concept Check: Which hormone increases basal metabolic rate?",
+    "options": ["Thyroxine", "Insulin", "Cortisol", "Growth hormone"],
+    "answer": "Thyroxine",
+    "explanation": "Thyroid hormones increase Na⁺/K⁺ ATPase activity → higher BMR."
+  },
+  {
+    "question": "Brain Teaser: Why does hyperventilation cause tetany?",
+    "options": ["Respiratory alkalosis increases Ca²⁺ binding to albumin", "Respiratory acidosis decreases Ca²⁺ binding", "Hypoxia increases excitability", "Hypercapnia increases excitability"],
+    "answer": "Respiratory alkalosis increases Ca²⁺ binding to albumin",
+    "explanation": "Alkalosis → more Ca²⁺ bound to albumin → reduced ionized Ca²⁺ → tetany."
+  },
+  {
+    "question": "Case Study: A patient with diabetes insipidus has polyuria. Which hormone is deficient?",
+    "options": ["ADH", "Aldosterone", "Cortisol", "ANP"],
+    "answer": "ADH",
+    "explanation": "Diabetes insipidus → lack of ADH → inability to concentrate urine."
+  },
+  {
+    "question": "Concept Check: Which part of nephron is impermeable to water?",
+    "options": ["Proximal tubule", "Descending loop of Henle", "Ascending loop of Henle", "Collecting duct"],
+    "answer": "Ascending loop of Henle",
+    "explanation": "Thick ascending limb reabsorbs solutes but is impermeable to water."
+  },
+  {
+    "question": "Brain Teaser: Why does cardiac output remain constant despite increased afterload?",
+    "options": ["Frank-Starling mechanism", "Baroreceptor reflex", "Autoregulation of coronary flow", "Anrep effect"],
+    "answer": "Anrep effect",
+    "explanation": "Sudden increase in afterload → myocardium increases contractility (Anrep effect)."
+  },
+  {
+    "question": "Case Study: A patient with hypocalcemia develops carpopedal spasm. Which test is positive?",
+    "options": ["Chvostek sign", "Trousseau sign", "Babinski sign", "Romberg sign"],
+    "answer": "Trousseau sign",
+    "explanation": "Inflating BP cuff → carpal spasm in hypocalcemia."
+  },
+  {
+    "question": "Concept Check: Which neurotransmitter is released at neuromuscular junction?",
+    "options": ["Acetylcholine", "Norepinephrine", "Dopamine", "Serotonin"],
+    "answer": "Acetylcholine",
+    "explanation": "ACh released at NMJ → activates nicotinic receptors on muscle."
+  },
+  {
+    "question": "Brain Teaser: Why does the AV node delay conduction?",
+    "options": ["To allow atrial contraction before ventricular contraction", "To prevent re-entry circuits", "To increase heart rate", "To synchronize Purkinje fibers"],
+    "answer": "To allow atrial contraction before ventricular contraction",
+    "explanation": "AV nodal delay ensures ventricles fill before systole."
+  },
+  {
+    "question": "Case Study: A patient with COPD has chronic hypoxemia. Which physiological mechanism stimulates erythropoietin release?",
+    "options": ["Hypoxia in renal cortex", "Hypercapnia in medulla", "Hypoxia in carotid body", "Hypoglycemia in liver"],
+    "answer": "Hypoxia in renal cortex",
+    "explanation": "Renal peritubular cells sense hypoxia → EPO secretion."
+  },
+  {
+    "question": "Concept Check: Which ion is primarily responsible for depolarization in skeletal muscle action potential?",
+    "options": ["Calcium", "Sodium", "Potassium", "Chloride"],
+    "answer": "Sodium",
+    "explanation": "Rapid Na⁺ influx causes depolarization in skeletal muscle."
+  },
+  {
+    "question": "Brain Teaser: Why does venous pressure increase in right heart failure?",
+    "options": ["Reduced forward flow increases venous congestion", "Increased arterial resistance", "Decreased venous compliance", "Increased lymphatic drainage"],
+    "answer": "Reduced forward flow increases venous congestion",
+    "explanation": "Right heart failure → impaired venous return → systemic venous hypertension."
+  },
+  {
+    "question": "Case Study: A patient with hyperaldosteronism develops hypertension and hypokalemia. What is the direct renal effect?",
+    "options": ["Increased Na⁺ reabsorption in collecting duct", "Increased K⁺ reabsorption in proximal tubule", "Increased Ca²⁺ reabsorption in loop of Henle", "Increased HCO₃⁻ secretion in distal tubule"],
+    "answer": "Increased Na⁺ reabsorption in collecting duct",
+    "explanation": "Aldosterone acts on principal cells → Na⁺ reabsorption, K⁺ secretion."
+  },
+  {
+    "question": "Concept Check: Which hormone is secreted in response to low blood glucose?",
+    "options": ["Glucagon", "Insulin", "ADH", "Cortisol"],
+    "answer": "Glucagon",
+    "explanation": "Glucagon increases glycogenolysis and gluconeogenesis."
+  },
+  {
+    "question": "Brain Teaser: Why does cardiac output increase during exercise despite reduced TPR?",
+    "options": ["Sympathetic stimulation increases HR and contractility", "Parasympathetic stimulation increases HR", "Reduced venous return", "Increased afterload"],
+    "answer": "Sympathetic stimulation increases HR and contractility",
+    "explanation": "Exercise → sympathetic drive → increased CO despite vasodilation."
+  },
+  {
+    "question": "Case Study: A patient with diabetes mellitus has polyuria. Which renal mechanism explains this?",
+    "options": ["Osmotic diuresis due to glucose", "Reduced ADH secretion", "Reduced aldosterone secretion", "Increased Na⁺ reabsorption"],
+    "answer": "Osmotic diuresis due to glucose",
+    "explanation": "Glucose in filtrate increases osmotic load → water loss."
+  },
+  {
+    "question": "Concept Check: Which neurotransmitter is inhibitory in the CNS?",
+    "options": ["GABA", "Glutamate", "Acetylcholine", "Dopamine"],
+    "answer": "GABA",
+    "explanation": "GABA is the major inhibitory neurotransmitter in CNS."
+  },
+  {
+    "question": "Brain Teaser: Why does hyperkalemia cause cardiac arrhythmias?",
+    "options": ["Depolarizes resting membrane potential", "Hyperpolarizes resting membrane potential", "Increases calcium influx", "Decreases sodium influx"],
+    "answer": "Depolarizes resting membrane potential",
+    "explanation": "High K⁺ → less negative resting potential → abnormal excitability."
+  },
+  {
+    "question": "Case Study: A patient with hypoventilation develops respiratory acidosis. Which buffer system compensates?",
+    "options": ["Renal bicarbonate retention", "Hemoglobin buffering", "Protein buffering", "Phosphate buffering"],
+    "answer": "Renal bicarbonate retention",
+    "explanation": "Kidneys compensate by reabsorbing HCO₃⁻ in chronic respiratory acidosis."
+  },
+  {
+    "question": "Concept Check: Which hormone increases calcium reabsorption in distal tubule?",
+    "options": ["Parathyroid hormone", "Calcitonin", "Aldosterone", "ADH"],
+    "answer": "Parathyroid hormone",
+    "explanation": "PTH increases Ca²⁺ reabsorption in distal tubule."
+  },
+  {
+    "question": "Brain Teaser: Why does mean arterial pressure approximate diastolic pressure more than systolic?",
+    "options": ["Diastole lasts longer than systole", "Systole lasts longer than diastole", "MAP is average of systolic and diastolic", "MAP depends only on systolic pressure"],
+    "answer": "Diastole lasts longer than systole",
+    "explanation": "MAP weighted toward diastolic because diastole occupies more of cardiac cycle."
+  },
+  {
+    "question": "Case Study: A patient with hypoxia has increased 2,3-BPG. What is the effect on hemoglobin?",
+    "options": ["Decreased affinity for oxygen", "Increased affinity for oxygen", "No effect", "Increased oxygen binding at lungs"],
+    "answer": "Decreased affinity for oxygen",
+    "explanation": "2,3-BPG shifts O₂ dissociation curve right → facilitates O₂ release."
+  },
+  {
+    "question": "Concept Check: Which ion is responsible for repolarization in cardiac muscle?",
+    "options": ["Potassium efflux", "Sodium influx", "Calcium influx", "Chloride influx"],
+    "answer": "Potassium efflux",
+    "explanation": "Phase 3 repolarization due to K⁺ efflux."
+  },
+  {
+    "question": "Brain Teaser: Why does the pulmonary circulation have lower resistance than systemic circulation?",
+    "options": ["Shorter vessel length", "Higher vessel compliance", "Lower blood viscosity", "Higher cardiac output"],
+    "answer": "Shorter vessel length",
+    "explanation": "Pulmonary vessels are shorter and wider → lower resistance."
+  },
+  {
+    "question": "Case Study: A patient with hypovolemia shows tachycardia and low BP. Which hormone is most responsible for water retention?",
+    "options": ["ADH", "Aldosterone", "ANP", "Cortisol"],
+    "answer": "ADH",
+    "explanation": "ADH increases water reabsorption in collecting ducts."
+  },
+  {
+    "question": "Concept Check: Which part of nephron generates the countercurrent multiplier?",
+    "options": ["Loop of Henle", "Proximal tubule", "Distal tubule", "Collecting duct"],
+    "answer": "Loop of Henle",
+    "explanation": "Loop of Henle establishes medullary osmotic gradient."
+  },
+  {
+    "question": "Brain Teaser: Why does hyperventilation improve high-altitude hypoxia?",
+    "options": ["Increases alveolar PO₂", "Decreases alveolar PO₂", "Increases alveolar PCO₂", "Decreases alveolar ventilation"],
+    "answer": "Increases alveolar PO₂",
+    "explanation": "Hyperventilation reduces alveolar CO₂ → increases alveolar O₂."
+  },
+  {
+    "question": "Case Study: A patient with Conn’s syndrome has hypertension and metabolic alkalosis. Which ion is lost in urine?",
+    "options": ["Potassium", "Sodium", "Calcium", "Magnesium"],
+    "answer": "Potassium",
+    "explanation": "Excess aldosterone → K⁺ secretion → hypokalemia."
+  },
+  {
+    "question": "Concept Check: Which hormone is secreted by atrial stretch?",
+    "options": ["ANP", "ADH", "Aldosterone", "Cortisol"],
+    "answer": "ANP",
+    "explanation": "Atrial natriuretic peptide released in response to atrial stretch → promotes natriuresis."
+  },
+  {
+    "question": "Brain Teaser: Why does venous return increase during skeletal muscle contraction?",
+    "options": ["Muscle pump compresses veins", "Arterial dilation increases flow", "Venous valves open wider", "Capillary recruitment increases"],
+    "answer": "Muscle pump compresses veins",
+    "explanation": "Muscle contraction squeezes veins → blood pushed toward heart."
+  },
+  {
+    "question": "Case Study: A patient with hypocalcemia develops tetany. Which ion channel is more excitable?",
+    "options": ["Sodium channels", "Potassium channels", "Calcium channels", "Chloride channels"],
+    "answer": "Sodium channels",
+    "explanation": "Low Ca²⁺ increases Na⁺ channel excitability → tetany."
+  },
+  {
+    "question": "Concept Check: Which hormone stimulates milk ejection?",
+    "options": ["Oxytocin", "Prolactin", "Estrogen", "Progesterone"],
+    "answer": "Oxytocin",
+    "explanation": "Oxytocin causes contraction of myoepithelial cells → milk letdown."
+  },
+  {
+    "question": "Brain Teaser: Why does the kidney filter glucose but not reabsorb it in diabetes mellitus?",
+    "options": ["Transport maximum exceeded", "Defective transporter", "Reduced GFR", "Increased tubular secretion"],
+    "answer": "Transport maximum exceeded",
+    "explanation": "High plasma glucose exceeds renal threshold → glucosuria."
+  },
+  {
+    "question": "Case Study: A patient with pheochromocytoma has episodic hypertension. Which receptor mediates vasoconstriction?",
+    "options": ["Alpha-1 adrenergic", "Beta-1 adrenergic", "Beta-2 adrenergic", "Muscarinic"],
+    "answer": "Alpha-1 adrenergic",
+    "explanation": "Catecholamines stimulate α1 receptors → vasoconstriction."
+  },
+  {
+    "question": "Concept Check: Which ion is primarily responsible for depolarization in cardiac pacemaker cells?",
+    "options": ["Calcium influx", "Sodium influx", "Potassium efflux", "Chloride influx"],
+    "answer": "Calcium influx",
+    "explanation": "Pacemaker cells depolarize via Ca²⁺ influx through L-type channels."
+  },
+  {
+    "question": "Brain Teaser: Why does the oxygen dissociation curve shift right in exercise?",
+    "options": ["Increased temperature, CO₂, and 2,3-BPG", "Decreased temperature and CO₂", "Increased pH", "Decreased 2,3-BPG"],
+    "answer": "Increased temperature, CO₂, and 2,3-BPG",
+    "explanation": "Bohr effect → facilitates O₂ unloading in tissues."
+  },
+  {
+    "question": "Case Study: A patient with Addison’s disease has hyperkalemia. Which hormone deficiency explains this?",
+    "options": ["Aldosterone", "Cortisol", "ADH", "Thyroxine"],
+    "answer": "Aldosterone",
+    "explanation": "Aldosterone deficiency → reduced K⁺ secretion → hyperkalemia."
+  },
+  {
+    "question": "Concept Check: Which receptor mediates heart rate reduction by vagus nerve?",
+    "options": ["Muscarinic M2", "Muscarinic M3", "Beta-1 adrenergic", "Alpha-2 adrenergic"],
+    "answer": "Muscarinic M2",
+    "explanation": "Parasympathetic vagal stimulation → M2 receptors → decreased HR."
+  },
+  {
+    "question": "Brain Teaser: Why does cerebral blood flow remain constant despite BP changes?",
+    "options": ["Autoregulation", "Baroreceptor reflex", "Sympathetic stimulation", "Parasympathetic stimulation"],
+    "answer": "Autoregulation",
+    "explanation": "Cerebral vessels autoregulate to maintain constant perfusion."
+  },
+  {
+    "question": "Case Study: A patient with hypoxia has increased ventilation. Which receptor mediates this response?",
+    "options": ["Peripheral chemoreceptors", "Central chemoreceptors", "Baroreceptors", "Osmoreceptors"],
+    "answer": "Peripheral chemoreceptors",
+    "explanation": "Carotid and aortic bodies sense hypoxia → increase ventilation."
+  },
+  {
+    "question": "Concept Check: Which hormone increases water permeability in collecting duct?",
+    "options": ["ADH", "Aldosterone", "ANP", "Cortisol"],
+    "answer": "ADH",
+    "explanation": "ADH inserts aquaporins → increases water reabsorption."
+  },
+  {
+    "question": "Brain Teaser: Why does venous return decrease in standing position?",
+    "options": ["Gravity pools blood in legs", "Increased venous compliance", "Decreased arterial resistance", "Increased cardiac contractility"],
+    "answer": "Gravity pools blood in legs",
+    "explanation": "Standing → venous pooling → reduced preload."
+  },
+  {
+    "question": "Case Study: A patient with hyperthyroidism has tachycardia and heat intolerance. Which mechanism explains heat intolerance?",
+    "options": ["Increased basal metabolic rate", "Decreased basal metabolic rate", "Reduced Na⁺/K⁺ ATPase activity", "Reduced sympathetic activity"],
+    "answer": "Increased basal metabolic rate",
+    "explanation": "Thyroid hormones increase metabolism → excess heat production."
+  }
+]
+}
