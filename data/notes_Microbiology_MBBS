@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MBBS 2nd Year Microbiology - Chapter Wise Key Notes</title>
+    <style>
+        body { font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; background-color: #f9f9f9; color: #333; }
+        h1 { color: #2c3e50; text-align: center; }
+        h2 { color: #34495e; border-bottom: 2px solid #3498db; padding-bottom: 10px; }
+        h3 { color: #2980b9; }
+        ul { list-style-type: disc; margin-left: 20px; }
+        table { border-collapse: collapse; width: 100%; margin: 10px 0; }
+        th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+        th { background-color: #3498db; color: white; }
+        .key-point { background-color: #e8f4f8; padding: 10px; margin: 5px 0; border-left: 4px solid #3498db; }
+        .citation { font-size: 0.8em; color: #7f8c8d; }
+    </style>
+</head>
+<body>
+    <h1>MBBS 2nd Year Microbiology: Chapter-Wise Key Study Notes</h1>
+    <p>These notes cover high-yield topics from NMC CBME syllabus. Focus on morphology, pathogenesis, lab diagnosis, and treatment. Use for quick revision. [web:11][web:2][web:15]</p>
+
+    <h2>1. General Microbiology</h2>
+    <div class="key-point">
+        <ul>
+            <li><strong>Koch’s Postulates:</strong> 4 criteria to prove microbial causation: isolation in pure culture, reproduction of disease, re-isolation. Exceptions: viruses, asymptomatic carriers. [web:2][web:20]</li>
+            <li><strong>Bacterial Growth Curve:</strong> Lag → Log → Stationary → Decline phases. Diagram essential. [web:2][web:12]</li>
+            <li><strong>Gram Staining:</strong> Gram+ (thick peptidoglycan, purple); Gram- (thin layer + outer membrane, pink). [web:20]</li>
+            <li><strong>Sterilization/Disinfection:</strong> Moist heat (autoclave 121°C/15psi/15min), Tyndallization for spores, gaseous (ethylene oxide). [web:12]</li>
+            <li><strong>Antimicrobial Resistance:</strong> Beta-lactamases, efflux pumps; tests: Kirby-Bauer disk diffusion. [web:2]</li>
+        </ul>
+    </div>
+
+    <h2>2. Immunology</h2>
+    <div class="key-point">
+        <ul>
+            <li><strong>Innate vs Adaptive:</strong> Innate (immediate, non-specific: barriers, phagocytes); Adaptive (specific, memory: B/T cells). [web:18][web:21]</li>
+            <li><strong>Antibody Structure:</strong> Y-shaped; IgG (most abundant, crosses placenta), IgM (first response, pentamer), IgA (mucosal), IgE (allergy), IgD (B cell). [web:2]</li>
+            <li><strong>Hypersensitivity:</strong> Type I (IgE, anaphylaxis e.g. asthma); II (IgG/M cytotoxic e.g. transfusion); III (complexes e.g. SLE); IV (T-cell e.g. TB). [web:23]</li>
+            <li><strong>ELISA:</strong> Direct/indirect/sandwich for Ag/Ab detection. [web:2]</li>
+            <li><strong>Vaccines:</strong> Live attenuated (BCG), killed (rabies), toxoid (diphtheria). [web:2]</li>
+        </ul>
+    </div>
+
+    <h2>3. CVS & Blood Infections</h2>
+    <div class="key-point">
+        <ul>
+            <li><strong>Rheumatic Fever:</strong> Streptococcus pyogenes (Grp A); ASO titer, Jones criteria. [web:11]</li>
+            <li><strong>Malaria:</strong> Plasmodium (vivax/falciparum); ring forms, schizonts; chloroquine resistance. Lab: thick/thin smear. [web:11][web:2]</li>
+            <li><strong>HIV:</strong> Reverse transcriptase; CD4 count, ELISA/Western blot. Opportunistic: PCP, Toxo. [web:11]</li>
+        </ul>
+    </div>
+
+    <h2>4. GIT & Hepatobiliary</h2>
+    <div class="key-point">
+        <table>
+            <tr><th>Organism</th><th>Disease</th><th>Lab Dx</th></tr>
+            <tr><td>Vibrio cholerae</td><td>Cholera (rice water stool)</td><td>TCBS agar, darkfield motility [web:2]</td></tr>
+            <tr><td>Salmonella typhi</td><td>Typhoid (rose spots, Widal)</td><td>Blood culture, bone marrow [web:2]</td></tr>
+            <tr><td>Entamoeba histolytica</td><td>Amoebiasis (flask ulcers)</td><td>Stool Ag, trophozoites [web:2]</td></tr>
+            <tr><td>Hep A/B/C</td><td>Viral hepatitis</td><td>IgM anti-HAV, HBsAg [web:11]</td></tr>
+        </table>
+    </div>
+
+    <h2>5. Respiratory Tract</h2>
+    <div class="key-point">
+        <ul>
+            <li><strong>TB:</strong> Mycobacterium tuberculosis; AFB ZN stain, Mantoux, GeneXpert. MDR-TB drugs: bedaquiline. [web:11]</li>
+            <li><strong>Diphtheria:</strong> Corynebacterium diphtheriae; pseudomembrane, Elek test. [web:2]</li>
+            <li><strong>Influenza:</strong> Orthomyxovirus; neuraminidase inhibitors (oseltamivir). [web:11]</li>
+        </ul>
+    </div>
+
+    <h2>6. CNS Infections</h2>
+    <div class="key-point">
+        <ul>
+            <li><strong>Meningitis:</strong> N. meningitidis (petecchiae), S. pneumoniae, H. influenzae; CSF India ink (Cryptococcus). [web:11]</li>
+            <li><strong>Tetanus:</strong> Clostridium tetani; spasm, jaw lock; ATS. [web:11]</li>
+            <li><strong>Rabies:</strong> Negri bodies, post-exposure vaccine + Ig. [web:2]</li>
+        </ul>
+    </div>
+
+    <h2>7. GU/STIs & Others</h2>
+    <div class="key-point">
+        <ul>
+            <li><strong>Gonorrhea/Syphilis:</strong> Neisseria gonorrhoeae (Gram- diplococci), Treponema (VDRL/TPHA). [web:11]</li>
+            <li><strong>Leprosy:</strong> M. leprae; Ridley bodies, multibacillary. [web:11]</li>
+            <li><strong>Anthrax:</strong> B. anthracis; black eschar. [web:11]</li>
+        </ul>
+    </div>
+
+    <p class="citation">Sources: NMC CBME curriculum, standard MBBS notes. Save as HTML for offline use. Revise with diagrams and MCQs. [web:11][web:2][web:12][web:15][web:18][web:20]</p>
+</body>
+</html>
