@@ -48,7 +48,7 @@ function startQuiz(file) {
         </div>`;
       });
       // Add a single submit button at the end
-      quizHTML += `<button type="button" onclick="submitQuiz('${file}')">Submit Quiz</button></form>`;
+      quizHTML += `<button class="action-button" type="button" onclick="submitQuiz('${file}')">Submit Quiz</button></form>`;
       document.getElementById("content-body").innerHTML = quizHTML;
     });
 }
@@ -140,5 +140,6 @@ function navigateTo(sectionId) {
   document.getElementById(sectionId).scrollIntoView({ behavior: "smooth" });
 
 }
+
 
 
