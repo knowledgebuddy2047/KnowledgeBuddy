@@ -15,10 +15,10 @@ function loadContent(item) {
   document.getElementById("content-title").textContent = item.name;
   document.getElementById("content-body").innerHTML = `
     <p>${item.description}</p>
-    <button onclick="loadNotes('${item.file}')">View Notes</button>
-    <button onclick="startQuiz('${item.quiz}')">Take Quiz</button>
-    <button onclick="showFlashcards('${item.flashcards}')">View Flashcards</button>
-    <button onclick="showWorkflow('${item.workflow}')">Study Plan</button>
+    <button class="action-button" onclick="loadNotes('${item.file}')">View Notes</button>
+    <button class="action-button" onclick="startQuiz('${item.quiz}')">Take Quiz</button>
+    <button class="action-button" onclick="showFlashcards('${item.flashcards}')">View Flashcards</button>
+    <button class="action-button" onclick="showWorkflow('${item.workflow}')">Study Plan</button>
   `;
 }
 
@@ -140,4 +140,5 @@ function navigateTo(sectionId) {
   document.getElementById(sectionId).scrollIntoView({ behavior: "smooth" });
 
 }
+
 
