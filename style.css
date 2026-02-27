@@ -105,6 +105,26 @@ body {
   margin-top: 40px;
 }
 
+/* General Button Style */
+.action-button {
+  background: #0073e6;
+  color: white;
+  border: none;
+  padding: 12px 28px;
+  font-size: 1rem;
+  font-weight: 600;
+  border-radius: 6px;
+  cursor: pointer;
+  margin: 8px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+  transition: background 0.3s ease, transform 0.2s ease;
+}
+
+.action-button:hover {
+  background: #005bb5;
+  transform: scale(1.05);
+}
+
 
 
 
