@@ -8,14 +8,20 @@
       "flashcards": "flashcards_class9_science.json", 
       "workflow": "workflow_class9_science.json" 
     },
-    { 
-      "name": "JEE Physics", 
-      "description": "Advanced concepts and practice for JEE.", 
-      "file": "notes_jee_physics.html", 
-      "quiz": "quiz_jee_physics.json", 
-      "flashcards": "flashcards_jee_physics.json", 
-      "workflow": "workflow_jee_physics.json" 
-    },
+    {
+  "name": "JEE Physics",
+  "description": "Advanced concepts and practice for JEE.",
+  "chapters": [
+    { "title": "Kinematics", "file": "jee_physics_kinematics.html" },
+    { "title": "Laws of Motion", "file": "jee_physics_laws.html" },
+    { "title": "Work, Energy & Power", "file": "jee_physics_work.html" }
+  ],
+  "file": "notes_jee_physics.html",
+  "quiz": "quiz_jee_physics.json",
+  "flashcards": "flashcards_jee_physics.json",
+  "workflow": "workflow_jee_physics.json"
+},
+
     { 
       "name": "NEET Biology", 
       "description": "Key biology topics for NEET preparation.", 
@@ -75,6 +81,7 @@
   ]
 
 }
+
 
 
 
