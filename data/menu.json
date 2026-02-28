@@ -96,17 +96,17 @@
   "chapters": [
     {
       "title": "Kinematics",
-      "notes": "jee_physics_kinematics_notes.html",
-      "quiz": "jee_physics_kinematics_quiz.json",
-      "flashcards": "jee_physics_kinematics_flashcards.json",
-      "workflow": "jee_physics_kinematics_workflow.json"
+      "notes": "notes_jee_physics.html",
+      "quiz": "quiz_jee_physics.json",
+      "flashcards": "flashcards_jee_physics.json",
+      "workflow": "workflow_jee_physics.json"
     },
     {
       "title": "Laws of Motion",
-      "notes": "jee_physics_laws_notes.html",
-      "quiz": "jee_physics_laws_quiz.json",
-      "flashcards": "jee_physics_laws_flashcards.json",
-      "workflow": "jee_physics_laws_workflow.json"
+      "notes": "notes_jee_physics.html",
+      "quiz": "quiz_jee_physics.json",
+      "flashcards": "flashcards_jee_physics.json",
+      "workflow": "workflow_jee_physics.json"
     }
   ]
 },
@@ -170,6 +170,7 @@
   ]
 
 }
+
 
 
 
