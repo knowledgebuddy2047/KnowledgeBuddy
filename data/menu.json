@@ -3,11 +3,93 @@
     { 
       "name": "Class 9-10 Science", 
       "description": "Concept notes, quizzes, and flashcards.", 
+       "chapters": [
+       {
+      "title": "Atoms and Molecules",
+      "notes": "notes_class9_science.html",
+      "quiz": "quiz_class9_science.json",
+      "flashcards": "flashcards_class9_science.json",
+      "workflow": "workflow_class9_science.json"
+    },
+    {
+      "title": "Motion",
       "file": "notes_class9_science.html", 
       "quiz": "quiz_class9_science.json", 
       "flashcards": "flashcards_class9_science.json", 
       "workflow": "workflow_class9_science.json" 
     },
+    {
+     "title": "Force and Laws of Motion",
+      "file": "notes_class9_science.html", 
+      "quiz": "quiz_class9_science.json", 
+      "flashcards": "flashcards_class9_science.json", 
+      "workflow": "workflow_class9_science.json" 
+    },
+    {
+    "title": "Gravitation",
+      "file": "notes_class9_science.html", 
+      "quiz": "quiz_class9_science.json", 
+      "flashcards": "flashcards_class9_science.json", 
+      "workflow": "workflow_class9_science.json" 
+    },
+    {
+     "title": "Work and Energy",
+      "file": "notes_class9_science.html", 
+      "quiz": "quiz_class9_science.json", 
+      "flashcards": "flashcards_class9_science.json", 
+      "workflow": "workflow_class9_science.json" 
+    },
+    {
+         "title": "Sounds",
+      "file": "notes_class9_science.html", 
+      "quiz": "quiz_class9_science.json", 
+      "flashcards": "flashcards_class9_science.json", 
+      "workflow": "workflow_class9_science.json" 
+    },
+    {
+        "title": "Chemical Reactions and Equations",
+      "file": "notes_class9_science.html", 
+      "quiz": "quiz_class9_science.json", 
+      "flashcards": "flashcards_class9_science.json", 
+      "workflow": "workflow_class9_science.json" 
+    },
+    {
+     "title": "Acids, Bases, and Salts",
+      "file": "notes_class9_science.html", 
+      "quiz": "quiz_class9_science.json", 
+      "flashcards": "flashcards_class9_science.json", 
+      "workflow": "workflow_class9_science.json" 
+    },
+    {
+    "title": "Metals and Non-metals",
+      "file": "notes_class9_science.html", 
+      "quiz": "quiz_class9_science.json", 
+      "flashcards": "flashcards_class9_science.json", 
+      "workflow": "workflow_class9_science.json" 
+    },
+    {
+    "title": "Carbon and its Compoundss",
+      "file": "notes_class9_science.html", 
+      "quiz": "quiz_class9_science.json", 
+      "flashcards": "flashcards_class9_science.json", 
+      "workflow": "workflow_class9_science.json" 
+    },
+    {
+        "title": "Electricity",
+      "file": "notes_class9_science.html", 
+      "quiz": "quiz_class9_science.json", 
+      "flashcards": "flashcards_class9_science.json", 
+      "workflow": "workflow_class9_science.json" 
+    },
+    {
+      "title": "Magnetic Effects of Electric Current",
+      "file": "notes_class9_science.html", 
+      "quiz": "quiz_class9_science.json", 
+      "flashcards": "flashcards_class9_science.json", 
+      "workflow": "workflow_class9_science.json" 
+    }
+]
+}  
     {
   "name": "JEE Physics",
   "description": "Advanced concepts and practice for JEE.",
@@ -88,6 +170,7 @@
   ]
 
 }
+
 
 
 
