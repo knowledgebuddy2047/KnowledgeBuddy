@@ -214,23 +214,8 @@ function navigateTo(sectionId) {
 
 }
 
-function login() {
-  const user = document.getElementById("username").value.trim();
-  if (!user) return alert("Please enter a name!");
-  localStorage.setItem("currentUser", user);
 
-  alert("Logged in as " + user);
-  document.getElementById("login-section").classList.add("hidden");
-  document.getElementById("quiz-section").classList.remove("hidden");
 
-  // Load quiz after login
-  const quizFile = localStorage.getItem("quizFile");
-  const subject = localStorage.getItem("selectedSubject");
-  const chapter = localStorage.getItem("selectedChapter");
-
-  document.getElementById("quiz-title").textContent = subject + " - " + chapter;
-  startQuiz(quizFile);
-}
 
 
 
