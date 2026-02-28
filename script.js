@@ -16,24 +16,49 @@ function loadContent(item) {
 
   let html = `<p>${item.description}</p>`;
 
-  // If chapters exist, show them
   if (item.chapters && item.chapters.length > 0) {
-    html += "<h3>Chapters</h3><ul>";
-    item.chapters.forEach(ch => {
-      html += `<li><a href="#" onclick="loadChapter('${ch.file}')">${ch.title}</a></li>`;
+    html += `<label for="chapter-select">Select Chapter:</label>
+             <select id="chapter-select">
+               <option value="">--Choose a chapter--</option>`;
+    item.chapters.forEach((ch, i) => {
+      html += `<option value="${i}">${ch.title}</option>`;
     });
-    html += "</ul>";
+    html += `</select>`;
   }
 
-  // Action buttons
   html += `
-    <button class="action-button" onclick="loadNotes('${item.file}')">View Notes</button>
-    <button class="action-button" onclick="startQuiz('${item.quiz}')">Take Quiz</button>
-    <button class="action-button" onclick="showFlashcards('${item.flashcards}')">View Flashcards</button>
-    <button class="action-button" onclick="showWorkflow('${item.workflow}')">Study Plan</button>
+    <div>
+      <button class="action-button" onclick="loadSelected('notes', item)">View Notes</button>
+      <button class="action-button" onclick="loadSelected('quiz', item)">Take Quiz</button>
+      <button class="action-button" onclick="loadSelected('flashcards', item)">View Flashcards</button>
+      <button class="action-button" onclick="loadSelected('workflow', item)">Study Plan</button>
+    </div>
   `;
 
   document.getElementById("content-body").innerHTML = html;
+}
+
+function loadSelected(type, subject) {
+  const select = document.getElementById("chapter-select");
+  const index = select ? select.value : null;
+
+  if (!index) {
+    alert("Please select a chapter first!");
+    return;
+  }
+
+  const chapter = subject.chapters[index];
+  let file = chapter[type];
+
+  if (type === "notes") {
+    loadNotes(file);
+  } else if (type === "quiz") {
+    startQuiz(file);
+  } else if (type === "flashcards") {
+    showFlashcards(file);
+  } else if (type === "workflow") {
+    showWorkflow(file);
+  }
 }
 
 
@@ -166,6 +191,7 @@ function navigateTo(sectionId) {
   document.getElementById(sectionId).scrollIntoView({ behavior: "smooth" });
 
 }
+
 
 
 
