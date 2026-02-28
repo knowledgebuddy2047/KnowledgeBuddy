@@ -1,0 +1,95 @@
+{
+  "quiz": [
+  
+  {
+    "question": "In a dicot root, the vascular bundles are",
+    "options": ["Conjoint and collateral", "Radial and exarch", "Conjoint and closed", "Conjoint and endarch"],
+    "answer": "Radial and exarch",
+    "explanation": "In dicot roots, xylem and phloem are arranged alternately (radial bundles) and protoxylem is towards the periphery (exarch); this is a classic NEET‑favourite pattern."
+  },
+  {
+    "question": "Which of the following is a modification of stem for storage?",
+    "options": ["Rhizome", "Tendril", "Phyllode", "Haustorium"],
+    "answer": "Rhizome",
+    "explanation": "Rhizome (e.g., ginger) is an underground, horizontally growing stem that stores food, so it is a true stem modification for storage rather than a leaf or root adaptation."
+  },
+  {
+    "question": "The floral formula K(5) C5 A5 G(2) most likely represents a flower that is",
+    "options": ["Zygomorphic with superior ovary", "Actinomorphic with inferior ovary", "Actinomorphic with superior ovary", "Zygomorphic with superior ovary"],
+    "answer": "Actinomorphic with superior ovary",
+    "explanation": "K(5), C5, A5, G(2) with no special sign for zygomorphy and ovary denoted in G indicates actinomorphic symmetry and superior ovary, typical of many dicot families."
+  },
+  {
+    "question": "The tissue that gives rise to secondary xylem and secondary phloem is",
+    "options": ["Cork cambium", "Epidermis", "Vascular cambium", "Pericycle"],
+    "answer": "Vascular cambium",
+    "explanation": "Vascular cambium is a lateral meristem that produces secondary xylem towards the centre and secondary phloem towards the periphery, driving secondary growth in dicots."
+  },
+  {
+    "question": "In a dicot stem, vascular bundles are arranged",
+    "options": ["Scattered in the ground tissue", "In a single ring around the pith", "Radially around the pith", "Vertically in multiple rows"],
+    "answer": "In a single ring around the pith",
+    "explanation": "In dicot stems, conjoint, collateral, open vascular bundles are arranged in a ring around the pith, a key diagnostic feature for NEET."
+  },
+  {
+    "question": "The type of inflorescence in which the main axis terminates in a flower is",
+    "options": ["Racemose", "Cymose", "Spadix", "Spike"],
+    "answer": "Cymose",
+    "explanation": "In cymose inflorescence the apical bud forms a terminal flower, limiting the growth of the main axis and giving a basipetal arrangement of later flowers."
+  },
+  {
+    "question": "In cockroach, the excretory organs are",
+    "options": ["Green glands", "Malpighian tubules", "Nephrons", "Contractile vacuole"],
+    "answer": "Malpighian tubules",
+    "explanation": "Malpighian tubules are thin, branched excretory tubules attached to the junction of midgut and hindgut in insects like cockroach."
+  },
+  {
+    "question": "In frog, the heart is",
+    "options": ["Two‑chambered", "Three‑chambered", "Four‑chambered", "Absent"],
+    "answer": "Three‑chambered",
+    "explanation": "Adult frog has 2 atria and 1 ventricle, giving a 3‑chambered heart with incomplete double circulation—a recurring NEET point."
+  },
+  {
+    "question": "Which of the following is a connective tissue but not part of blood?",
+    "options": ["Adipose tissue", "Plasma", "Platelets", "Erythrocytes"],
+    "answer": "Adipose tissue",
+    "explanation": "Adipose tissue is a connective tissue specialized for fat storage; plasma, platelets, and erythrocytes are blood components, not separate tissue types."
+  },
+  {
+    "question": "In earthworm, nephridia of how many main types are present?",
+    "options": ["One", "Two", "Three", "Four"],
+    "answer": "Four",
+    "explanation": "Earthworm has four types of nephridia: septal, pharyngeal, integumentary, and intestinal, each opening at different sites and performing excretion."
+  },
+  {
+    "question": "In a dorsiventral (dicot) leaf, most stomata are located on the",
+    "options": ["Upper epidermis", "Lower epidermis", "Vascular bundle", "Mesophyll"],
+    "answer": "Lower epidermis",
+    "explanation": "In dorsiventral leaves, more stomata are on the lower (abaxial) epidermis to reduce water loss while allowing gas exchange."
+  },
+  {
+    "question": "Which of the following is characteristic of monocot stems?",
+    "options": ["Vascular bundles in a ring", "Open vascular bundles with cambium", "Scattered vascular bundles without cambium", "Radial vascular bundles"],
+    "answer": "Scattered vascular bundles without cambium",
+    "explanation": "Monocot stems have numerous conjoint, collateral, closed vascular bundles scattered in the ground tissue, with no vascular cambium and hence no secondary growth."
+  },
+  {
+    "question": "The tissue that forms the innermost layer of the cortex with Casparian strips is",
+    "options": ["Pericycle", "Endodermis", "Cortex parenchyma", "Epidermis"],
+    "answer": "Endodermis",
+    "explanation": "Endodermis forms the innermost layer of the cortex in roots and has Casparian strips of suberin, controlling radial movement of water and ions into the stele."
+  },
+  {
+    "question": "In frog, cutaneous respiration is facilitated by",
+    "options": ["Dry, scaly skin", "Moist, glandular skin rich in blood vessels", "Keratinized epidermis", "Thick dermis"],
+    "answer": "Moist, glandular skin rich in blood vessels",
+    "explanation": "Frog skin is moist, highly vascular, and glandular, allowing efficient cutaneous gas exchange in addition to lungs."
+  },
+  {
+    "question": "Which of the following represents a phyllode modification?",
+    "options": ["Flat, green petiole in Acacia", "Leaf tendril in pea", "Spines in cactus", "Phylloclade in Opuntia"],
+    "answer": "Flat, green petiole in Acacia",
+    "explanation": "In Acacia, the petiole becomes broad, green, and photosynthetic; this is called a phyllode, whereas thorns and phylloclades are stem modifications."
+  }
+]
+}
