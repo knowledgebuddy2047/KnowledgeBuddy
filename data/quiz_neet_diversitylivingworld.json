@@ -1,0 +1,125 @@
+{
+  "quiz":
+[
+  {
+    "question": "Which of the following is the most universal characteristic of living organisms?",
+    "options": ["Ability to move", "Ability to reproduce", "Growth by external accumulation", "Metabolism"],
+    "answer": "Metabolism",
+    "explanation": "Metabolism is the sum of all biochemical reactions (anabolism + catabolism) and is present in all living organisms, making it the most universal characteristic."
+  },
+  {
+    "question": "The term 'species' in taxonomy refers to a group of organisms that:",
+    "options": ["Look similar in external morphology", "Occupy the same habitat", "Can interbreed and produce fertile offspring", "Share the same diet"],
+    "answer": "Can interbreed and produce fertile offspring",
+    "explanation": "According to the biological species concept, a species consists of a population whose members can interbreed under natural conditions and produce fertile offspring."
+  },
+  {
+    "question": "In the five‑kingdom classification, which kingdom includes only prokaryotes?",
+    "options": ["Protista", "Monera", "Fungi", "Plantae"],
+    "answer": "Monera",
+    "explanation": "Kingdom Monera includes all prokaryotic organisms such as bacteria and cyanobacteria, which lack a membrane‑bound nucleus and cell organelles."
+  },
+  {
+    "question": "The cell wall of fungi is mainly composed of:",
+    "options": ["Cellulose", "Pectin", "Chitin", "Peptidoglycan"],
+    "answer": "Chitin",
+    "explanation": "Fungal cell walls are structurally supported by chitin, a nitrogen‑containing polysaccharide, unlike plant cell walls which are mainly cellulose."
+  },
+  {
+    "question": "Which of the following is a correct example of a deuteromycete?",
+    "options": ["Penicillium", "Agaricus", "Neurospora", "Ustilago"],
+    "answer": "Neurospora",
+    "explanation": "Deuteromycetes are fungi in which only the asexual stage is known; many forms of Neurospora are classified as deuteromycetes."
+  },
+  {
+    "question": "In which group of algae is fucoxanthin the main accessory pigment?",
+    "options": ["Green algae", "Red algae", "Brown algae", "Blue‑green algae"],
+    "answer": "Brown algae",
+    "explanation": "Brown algae contain fucoxanthin, a carotenoid pigment, which masks chlorophyll and gives them their characteristic brown colour."
+  },
+  {
+    "question": "Which plant group is known as the 'amphibians of the plant kingdom'?",
+    "options": ["Bryophytes", "Pteridophytes", "Gymnosperms", "Angiosperms"],
+    "answer": "Bryophytes",
+    "explanation": "Bryophytes grow on land but require water for fertilization, similar to how amphibians are partly terrestrial and partly aquatic."
+  },
+  {
+    "question": "In which group are seeds described as 'naked'?",
+    "options": ["Ferns", "Bryophytes", "Gymnosperms", "Angiosperms"],
+    "answer": "Gymnosperms",
+    "explanation": "Gymnosperms bear seeds that are not enclosed in a fruit, hence the term 'naked seeds'."
+  },
+  {
+    "question": "Which of the following is a pseudocoelomate animal?",
+    "options": ["Platyhelminthes", "Ascaris", "Annelida", "Arthropoda"],
+    "answer": "Ascaris",
+    "explanation": "Ascaris (a roundworm) belongs to Aschelminthes, which is a pseudocoelomate phylum: the body cavity is not fully lined by mesoderm."
+  },
+  {
+    "question": "Which kingdom includes multicellular, eukaryotic, autotrophic organisms?",
+    "options": ["Monera", "Protista", "Fungi", "Plantae"],
+    "answer": "Plantae",
+    "explanation": "Kingdom Plantae includes multicellular, eukaryotic, photosynthetic organisms such as algae, bryophytes, pteridophytes, gymnosperms, and angiosperms."
+  },
+  {
+    "question": "The basic unit of classification is:",
+    "options": ["Genus", "Order", "Species", "Class"],
+    "answer": "Species",
+    "explanation": "Species is the lowest and most fundamental taxonomic category; all higher taxa (genus, family, order, etc.) are built from one or more species."
+  },
+  {
+    "question": "Which of the following is a characteristic of viruses?",
+    "options": ["They show independent metabolism", "They are cellular organisms", "They can replicate only inside a host cell", "They contain both DNA and RNA simultaneously"],
+    "answer": "They can replicate only inside a host cell",
+    "explanation": "Viruses lack independent metabolic machinery and can only multiply by using the host cell’s protein‑synthesis and energy‑producing systems."
+  },
+  {
+    "question": "Which of the following is an example of a cyanobacterium?",
+    "options": ["Escherichia", "Chlamydomonas", "Nostoc", "Agaricus"],
+    "answer": "Nostoc",
+    "explanation": "Nostoc is a filamentous, nitrogen‑fixing cyanobacterium often found in moist soil or water bodies."
+  },
+  {
+    "question": "Which of the following is a mismatched pair?",
+    "options": ["Monera – Prokaryotes", "Protista – Mostly unicellular eukaryotes", "Fungi – Chitin in cell wall", "Animalia – Autotrophic"],
+    "answer": "Animalia – Autotrophic",
+    "explanation": "Members of Kingdom Animalia are heterotrophic (ingestive), not autotrophic; autotrophy is a feature of Kingdom Plantae."
+  },
+  {
+    "question": "Lichens are a symbiotic association between:",
+    "options": ["Fungus + bacteria", "Fungus + algae/cyanobacteria", "Algae + fern", "Algae + bryophyte"],
+    "answer": "Fungus + algae/cyanobacteria",
+    "explanation": "In lichens, the fungal partner (mycobiont) provides structure and protection, while the algal or cyanobacterial partner (phycobiont) performs photosynthesis."
+  },
+  {
+    "question": "Which of the following is a characteristic of pteridophytes?",
+    "options": ["They are non‑vascular", "They lack true roots and leaves", "They have vascular tissues", "They produce seeds"],
+    "answer": "They have vascular tissues",
+    "explanation": "Pteridophytes are vascular cryptogams; they have xylem and phloem but do not produce seeds."
+  },
+  {
+    "question": "Which of the following is a feature of bryophytes?",
+    "options": ["Well‑developed xylem and phloem", "Absence of vascular tissues", "Seeds enclosed in fruits", "Dominant sporophyte generation"],
+    "answer": "Absence of vascular tissues",
+    "explanation": "Bryophytes lack true vascular tissues and true roots, which is why they remain small and require moist environments."
+  },
+  {
+    "question": "Which of the following animal phyla shows radial symmetry?",
+    "options": ["Platyhelminthes", "Cnidaria", "Aschelminthes", "Arthropoda"],
+    "answer": "Cnidaria",
+    "explanation": "Cnidarians (e.g., Hydra, Aurelia) exhibit radial symmetry, where body parts are arranged around a central axis."
+  },
+  {
+    "question": "Which of the following is the correct sequence of taxonomic categories from general to specific?",
+    "options": ["Species → Genus → Family → Order → Class → Phylum → Kingdom", "Kingdom → Phylum → Class → Order → Family → Genus → Species", "Genus → Species → Family → Order → Class → Phylum → Kingdom", "Class → Order → Phylum → Family → Genus → Species → Kingdom"],
+    "answer": "Kingdom → Phylum → Class → Order → Family → Genus → Species",
+    "explanation": "Taxonomic categories are arranged in a hierarchical order starting from the broadest (Kingdom) to the narrowest (Species)."
+  },
+  {
+    "question": "Which of the following is a true statement about viroids?",
+    "options": ["They have a protein coat and DNA", "They are multicellular", "They consist of only RNA without a protein coat", "They show independent metabolism"],
+    "answer": "They consist of only RNA without a protein coat",
+    "explanation": "Viroids are infectious agents composed of a short strand of circular, single‑stranded RNA without a protein coat and are known to cause certain plant diseases."
+  }
+]
+}
