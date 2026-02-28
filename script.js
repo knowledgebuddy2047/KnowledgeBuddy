@@ -11,32 +11,40 @@ fetch("data/menu.json")
     });
   });
 
-function loadContent(item) {
-  document.getElementById("content-title").textContent = item.name;
+function loadContent(subject) {
+  document.getElementById("content-title").textContent = subject.name;
 
-  let html = `<p>${item.description}</p>`;
+  let html = `<p>${subject.description}</p>`;
 
-  if (item.chapters && item.chapters.length > 0) {
+  if (subject.chapters && subject.chapters.length > 0) {
     html += `<label for="chapter-select">Select Chapter:</label>
              <select id="chapter-select">
                <option value="">--Choose a chapter--</option>`;
-    item.chapters.forEach((ch, i) => {
+    subject.chapters.forEach((ch, i) => {
       html += `<option value="${i}">${ch.title}</option>`;
     });
     html += `</select>`;
   }
 
+  // Render buttons without inline onclick
   html += `
     <div>
-      <button class="action-button" onclick="loadSelected('notes', item)">View Notes</button>
-      <button class="action-button" onclick="loadSelected('quiz', item)">Take Quiz</button>
-      <button class="action-button" onclick="loadSelected('flashcards', item)">View Flashcards</button>
-      <button class="action-button" onclick="loadSelected('workflow', item)">Study Plan</button>
+      <button id="notes-btn" class="action-button">View Notes</button>
+      <button id="quiz-btn" class="action-button">Take Quiz</button>
+      <button id="flashcards-btn" class="action-button">View Flashcards</button>
+      <button id="workflow-btn" class="action-button">Study Plan</button>
     </div>
   `;
 
   document.getElementById("content-body").innerHTML = html;
+
+  // Attach event listeners here, where subject is still in scope
+  document.getElementById("notes-btn").addEventListener("click", () => loadSelected("notes", subject));
+  document.getElementById("quiz-btn").addEventListener("click", () => loadSelected("quiz", subject));
+  document.getElementById("flashcards-btn").addEventListener("click", () => loadSelected("flashcards", subject));
+  document.getElementById("workflow-btn").addEventListener("click", () => loadSelected("workflow", subject));
 }
+
 
 function loadSelected(type, subject) {
   const select = document.getElementById("chapter-select");
@@ -191,6 +199,7 @@ function navigateTo(sectionId) {
   document.getElementById(sectionId).scrollIntoView({ behavior: "smooth" });
 
 }
+
 
 
 
