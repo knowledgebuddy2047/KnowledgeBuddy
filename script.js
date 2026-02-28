@@ -33,6 +33,8 @@ function loadContent(subject) {
       <button id="quiz-btn" class="action-button">Take Quiz</button>
       <button id="flashcards-btn" class="action-button">View Flashcards</button>
       <button id="workflow-btn" class="action-button">Study Plan</button>
+      <button class="action-button" onclick="window.location.href='feedback.html'">Give Feedback</button>
+
     </div>
   `;
 
@@ -224,6 +226,7 @@ function viewFeedback() {
   let feedbackList = JSON.parse(localStorage.getItem("feedback")) || [];
   console.log(feedbackList); // For now, just log it
 }
+
 
 
 
