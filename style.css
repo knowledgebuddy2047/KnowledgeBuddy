@@ -150,6 +150,15 @@ body {
   color: white;
 }
 
+#chapter-select {
+  padding: 10px;
+  margin: 15px 0;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  font-size: 1rem;
+}
+
+
 
 
 
