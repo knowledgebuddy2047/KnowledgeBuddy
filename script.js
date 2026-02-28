@@ -158,6 +158,7 @@ function submitQuiz(file) {
       }
 
       document.getElementById("content-body").innerHTML = resultsHTML;
+      
     });
 }
 
@@ -230,6 +231,7 @@ function login() {
   document.getElementById("quiz-title").textContent = subject + " - " + chapter;
   startQuiz(quizFile);
 }
+
 
 
 
