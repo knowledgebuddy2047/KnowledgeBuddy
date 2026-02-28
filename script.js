@@ -161,6 +161,19 @@ function submitQuiz(file) {
     });
 }
 
+function openQuiz(subject, chapter, quizFile) {
+  // Save context in localStorage so quiz page knows what to load
+  localStorage.setItem("selectedSubject", subject);
+  localStorage.setItem("selectedChapter", chapter);
+  localStorage.setItem("quizFile", quizFile);
+
+  // Redirect to quiz login page
+  window.location.href = "login-quiz.html";
+}
+const quizButton = document.createElement("button");
+quizButton.textContent = "Take Quiz";
+quizButton.onclick = () => openQuiz(subjectName, chapterTitle, quizFilePath);
+
 
 
 
@@ -199,6 +212,7 @@ function navigateTo(sectionId) {
   document.getElementById(sectionId).scrollIntoView({ behavior: "smooth" });
 
 }
+
 
 
 
