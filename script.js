@@ -13,13 +13,39 @@ fetch("data/menu.json")
 
 function loadContent(item) {
   document.getElementById("content-title").textContent = item.name;
-  document.getElementById("content-body").innerHTML = `
-    <p>${item.description}</p>
+
+  let html = `<p>${item.description}</p>`;
+
+  // If chapters exist, show them
+  if (item.chapters && item.chapters.length > 0) {
+    html += "<h3>Chapters</h3><ul>";
+    item.chapters.forEach(ch => {
+      html += `<li><a href="#" onclick="loadChapter('${ch.file}')">${ch.title}</a></li>`;
+    });
+    html += "</ul>";
+  }
+
+  // Action buttons
+  html += `
     <button class="action-button" onclick="loadNotes('${item.file}')">View Notes</button>
     <button class="action-button" onclick="startQuiz('${item.quiz}')">Take Quiz</button>
     <button class="action-button" onclick="showFlashcards('${item.flashcards}')">View Flashcards</button>
     <button class="action-button" onclick="showWorkflow('${item.workflow}')">Study Plan</button>
   `;
+
+  document.getElementById("content-body").innerHTML = html;
+}
+
+
+function loadChapter(file) {
+  fetch(`data/${file}`)
+    .then(res => res.text())
+    .then(html => {
+      document.getElementById("content-body").innerHTML = html;
+    })
+    .catch(err => {
+      document.getElementById("content-body").innerHTML = `<p>⚠️ Error loading chapter: ${err.message}</p>`;
+    });
 }
 
 // Notes Loader
@@ -140,6 +166,7 @@ function navigateTo(sectionId) {
   document.getElementById(sectionId).scrollIntoView({ behavior: "smooth" });
 
 }
+
 
 
 
