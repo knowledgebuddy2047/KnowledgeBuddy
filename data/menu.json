@@ -114,62 +114,149 @@
     { 
       "name": "NEET Biology", 
       "description": "Key biology topics for NEET preparation.", 
-      "file": "notes_neet_bio.html", 
-      "quiz": "quiz_neet_bio.json", 
-      "flashcards": "flashcards_neet_bio.json", 
-      "workflow": "workflow_neet_bio.json" 
+      "chapters": [
+      {
+      "title": "UNIT 1: Diversity in Living World",
+      "notes": "notes_neet_diversitylivingworld.html", 
+      "quiz": "quiz_neet_diversitylivingworld.json", 
+      "flashcards": "flashcards_neet_diversitylivingworld.json", 
+      "workflow": "workflow_neet_diversitylivingworld.json" 
     },
+    {
+      "title": "UNIT 2: Structural Organisation in Animals and Plants",
+      "notes": "notes_neet_structuralorganimalplant.html", 
+      "quiz": "quiz_neet_structuralorganimalplant.json", 
+      "flashcards": "flashcards_neet_structuralorganimalplant.json", 
+      "workflow": "workflow_neet_structuralorganimalplant.json" 
+    }
+      ]
+    },
+        
      { 
       "name": "MBBS Pathology", 
       "description": "Key Pathology topics for Doctors. This will help for PG and other examination", 
-      "file": "notes_Pathology_MBBS.html", 
+       "chapters": [
+      {
+       "title" : "All units"
+      "notes": "notes_Pathology_MBBS.html", 
       "quiz": "quiz_Pathology_MBBS.json", 
       "flashcards": "flashcards_Pathology_MBBS.json", 
       "workflow": "workflow_Pathology_MBBS.json" 
+      },
+      {
+       "title" : "All units1"
+      "notes": "notes_Pathology_MBBS.html", 
+      "quiz": "quiz_Pathology_MBBS.json", 
+      "flashcards": "flashcards_Pathology_MBBS.json", 
+      "workflow": "workflow_Pathology_MBBS.json" 
+      }
+       ]
     },
     { 
       "name": "MBBS Microbiology", 
-      "description": "Key Microbiology topics for Doctors. This will help for PG and other examination", 
-      "file": "notes_Microbiology_MBBS.html", 
+      "description": "Key Microbiology topics for Doctors. This will help for PG and other examination",
+       "chapters": [
+        {
+        "title" : "All units" 
+      "notes": "notes_Microbiology_MBBS.html", 
       "quiz": "quiz_Microbiology_MBBS.json", 
       "flashcards": "flashcards_Microbiology_MBBS.json", 
       "workflow": "workflow_Microbiology_MBBS.json" 
     },
+      {
+       "title" : "All units1" 
+      "notes": "notes_Microbiology_MBBS.html", 
+      "quiz": "quiz_Microbiology_MBBS.json", 
+      "flashcards": "flashcards_Microbiology_MBBS.json", 
+      "workflow": "workflow_Microbiology_MBBS.json" 
+    }
+       ]
+    },
+      
     { 
       "name": "MBBS Pharmacology", 
       "description": "Key Pharmacology topics for Doctors. This will help for PG and other examination", 
-      "file": "notes_Pharmacology_MBBS.html", 
+      "chapters": [
+      {
+      "title" : "All units" 
+      "notes": "notes_Pharmacology_MBBS.html", 
       "quiz": "quiz_Pharmacology_MBBS.json", 
       "flashcards": "flashcards_Pharmacology_MBBS.json", 
       "workflow": "workflow_Pharmacology_MBBS.json" 
     },
+    {
+      "title" : "All units1" 
+      "notes": "notes_Pharmacology_MBBS.html", 
+      "quiz": "quiz_Pharmacology_MBBS.json", 
+      "flashcards": "flashcards_Pharmacology_MBBS.json", 
+      "workflow": "workflow_Pharmacology_MBBS.json"  
+    }
+      ]
+    },
     { 
       "name": "MBBS Anatomy", 
       "description": "Key Anatomy topics for Doctors. This will help for PG and other examination", 
-      "file": "notes_Anatomy_MBBS.html", 
+      "chapters": [
+        {
+       "title" : "All units" 
+      "notes": "notes_Anatomy_MBBS.html", 
       "quiz": "quiz_Anatomy_MBBS.json", 
       "flashcards": "flashcards_Anatomy_MBBS.json", 
       "workflow": "workflow_Anatomy_MBBS.json" 
     },
+    {
+      "title" : "All units1" 
+      "notes": "notes_Anatomy_MBBS.html", 
+      "quiz": "quiz_Anatomy_MBBS.json", 
+      "flashcards": "flashcards_Anatomy_MBBS.json", 
+      "workflow": "workflow_Anatomy_MBBS.json"
+    }
+      ]
+    },
     { 
       "name": "MBBS Biochemistry", 
       "description": "Key Biochemistry topics for Doctors. This will help for PG and other examination", 
-      "file": "notes_Biochemistry_MBBS.html", 
+      "chapters": [
+      {
+      "title" : "All units1" 
+      "notes": "notes_Biochemistry_MBBS.html", 
       "quiz": "quiz_Biochemistry_MBBS.json", 
       "flashcards": "flashcards_Biochemistry_MBBS.json", 
       "workflow": "workflow_Biochemistry_MBBS.json" 
     },
+    {
+      "title" : "All units" 
+      "notes": "notes_Biochemistry_MBBS.html", 
+      "quiz": "quiz_Biochemistry_MBBS.json", 
+      "flashcards": "flashcards_Biochemistry_MBBS.json", 
+      "workflow": "workflow_Biochemistry_MBBS.json"
+    }
+      ]
+    },
     { 
       "name": "MBBS Physiology", 
       "description": "Key Physiology topics for Doctors. This will help for PG and other examination", 
-      "file": "notes_Physiology_MBBS.html", 
+       "chapters": [
+        {
+      "title" : "All units" 
+      "notes": "notes_Physiology_MBBS.html", 
       "quiz": "quiz_Physiology_MBBS.json", 
       "flashcards": "flashcards_Physiology_MBBS.json", 
       "workflow": "workflow_Physiology_MBBS.json" 
+        },
+        {
+         "title" : "All units" 
+      "notes": "notes_Physiology_MBBS.html", 
+      "quiz": "quiz_Physiology_MBBS.json", 
+      "flashcards": "flashcards_Physiology_MBBS.json", 
+      "workflow": "workflow_Physiology_MBBS.json"  
+        }
+       ]
     }
   ]
 
 }
+
 
 
 
