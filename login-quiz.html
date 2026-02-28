@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Quiz with Login</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 20px; }
+    .hidden { display: none; }
+    .button { padding: 8px 12px; margin: 5px; cursor: pointer; }
+  </style>
+</head>
+<body>
+
+  <!-- Login Section -->
+  <div id="login-section">
+    <h2>Login</h2>
+    <input type="text" id="username" placeholder="Enter your name">
+    <button class="button" onclick="login()">Login</button>
+  </div>
+
+  <!-- Quiz Section -->
+  <div id="quiz-section" class="hidden">
+    <h2>Sample Quiz</h2>
+    <p>Q1: What is 2 + 2?</p>
+    <button class="button" onclick="submitQuiz(4)">Answer: 4</button>
+    <button class="button" onclick="submitQuiz(5)">Answer: 5</button>
+  </div>
+
+  <!-- Results Section -->
+  <div id="results-section" class="hidden">
+    <h2>Your Scores</h2>
+    <ul id="score-list"></ul>
+  </div>
+
+<script>
+function login() {
+  const user = document.getElementById("username").value.trim();
+  if (!user) return alert("Please enter a name!");
+  localStorage.setItem("currentUser", user);
+  alert("Logged in as " + user);
+  document.getElementById("login-section").classList.add("hidden");
+  document.getElementById("quiz-section").classList.remove("hidden");
+}
+
+function submitQuiz(answer) {
+  const user = localStorage.getItem("currentUser");
+  if (!user) return alert("Please login first!");
+
+  // Simple check: correct answer is 4
+  const score = (answer === 4) ? 1 : 0;
+
+  let scores = JSON.parse(localStorage.getItem("scores")) || {};
+  if (!scores[user]) scores[user] = [];
+  scores[user].push(score);
+  localStorage.setItem("scores", JSON.stringify(scores));
+
+  alert("Quiz submitted! Your score: " + score);
+
+  showScores(user);
+}
+
+function showScores(user) {
+  document.getElementById("quiz-section").classList.add("hidden");
+  document.getElementById("results-section").classList.remove("hidden");
+
+  let scores = JSON.parse(localStorage.getItem("scores")) || {};
+  let userScores = scores[user] || [];
+
+  const list = document.getElementById("score-list");
+  list.innerHTML = "";
+  userScores.forEach((s, i) => {
+    let li = document.createElement("li");
+    li.textContent = "Attempt " + (i+1) + ": " + s;
+    list.appendChild(li);
+  });
+}
+</script>
+</body>
+</html>
