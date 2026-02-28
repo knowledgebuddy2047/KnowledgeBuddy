@@ -12,14 +12,21 @@
   "name": "JEE Physics",
   "description": "Advanced concepts and practice for JEE.",
   "chapters": [
-    { "title": "Kinematics", "file": "jee_physics_kinematics.html" },
-    { "title": "Laws of Motion", "file": "jee_physics_laws.html" },
-    { "title": "Work, Energy & Power", "file": "jee_physics_work.html" }
-  ],
-  "file": "notes_jee_physics.html",
-  "quiz": "quiz_jee_physics.json",
-  "flashcards": "flashcards_jee_physics.json",
-  "workflow": "workflow_jee_physics.json"
+    {
+      "title": "Kinematics",
+      "notes": "jee_physics_kinematics_notes.html",
+      "quiz": "jee_physics_kinematics_quiz.json",
+      "flashcards": "jee_physics_kinematics_flashcards.json",
+      "workflow": "jee_physics_kinematics_workflow.json"
+    },
+    {
+      "title": "Laws of Motion",
+      "notes": "jee_physics_laws_notes.html",
+      "quiz": "jee_physics_laws_quiz.json",
+      "flashcards": "jee_physics_laws_flashcards.json",
+      "workflow": "jee_physics_laws_workflow.json"
+    }
+  ]
 },
 
     { 
@@ -81,6 +88,7 @@
   ]
 
 }
+
 
 
 
