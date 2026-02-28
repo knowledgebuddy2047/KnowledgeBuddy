@@ -224,8 +224,13 @@ function login() {
 
   // Load quiz after login
   const quizFile = localStorage.getItem("quizFile");
+  const subject = localStorage.getItem("selectedSubject");
+  const chapter = localStorage.getItem("selectedChapter");
+
+  document.getElementById("quiz-title").textContent = subject + " - " + chapter;
   startQuiz(quizFile);
 }
+
 
 
 
