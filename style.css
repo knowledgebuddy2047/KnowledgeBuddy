@@ -125,6 +125,31 @@ body {
   transform: scale(1.05);
 }
 
+#content-body ul {
+  list-style: none;
+  padding: 0;
+}
+
+#content-body li {
+  margin: 10px 0;
+}
+
+#content-body a {
+  display: inline-block;
+  padding: 10px 15px;
+  background: #f1f5ff;
+  border-radius: 6px;
+  text-decoration: none;
+  color: #0073e6;
+  font-weight: 600;
+  transition: 0.3s ease;
+}
+
+#content-body a:hover {
+  background: #0073e6;
+  color: white;
+}
+
 
 
 
