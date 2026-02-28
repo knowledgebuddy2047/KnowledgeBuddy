@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <title>Quiz with Login</title>
- <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
@@ -14,16 +14,10 @@
     <button class="button" onclick="login()">Login</button>
   </div>
 
- <!-- Quiz Section -->
-<div id="quiz-section" class="hidden">
-  <h2>Quiz</h2>
-  <div id="quiz-content"></div>
-</div>
-
-  <!-- Results Section -->
-  <div id="results-section" class="hidden">
-    <h2>Your Scores</h2>
-    <ul id="score-list"></ul>
+  <!-- Quiz Section -->
+  <div id="quiz-section" class="hidden">
+    <h2 id="quiz-title"></h2>
+    <div id="content-body"></div>
   </div>
 
 <script>
@@ -31,42 +25,86 @@ function login() {
   const user = document.getElementById("username").value.trim();
   if (!user) return alert("Please enter a name!");
   localStorage.setItem("currentUser", user);
+
   alert("Logged in as " + user);
   document.getElementById("login-section").classList.add("hidden");
   document.getElementById("quiz-section").classList.remove("hidden");
+
+  // Load quiz after login
+  const quizFile = localStorage.getItem("quizFile");
+  const subject = localStorage.getItem("selectedSubject");
+  const chapter = localStorage.getItem("selectedChapter");
+
+  document.getElementById("quiz-title").textContent = subject + " - " + chapter;
+  startQuiz(quizFile);
 }
 
-function submitQuiz(answer) {
-  const user = localStorage.getItem("currentUser");
-  if (!user) return alert("Please login first!");
-
-  // Simple check: correct answer is 4
-  const score = (answer === 4) ? 1 : 0;
-
-  let scores = JSON.parse(localStorage.getItem("scores")) || {};
-  if (!scores[user]) scores[user] = [];
-  scores[user].push(score);
-  localStorage.setItem("scores", JSON.stringify(scores));
-
-  alert("Quiz submitted! Your score: " + score);
-
-  showScores(user);
+function startQuiz(file) {
+  fetch(`data/${file}`)
+    .then(res => res.json())
+    .then(data => {
+      let quizHTML = "<form id='quiz-form'>";
+      data.quiz.forEach((q, i) => {
+        quizHTML += `<div>
+          <p>${i+1}. ${q.question}</p>
+          ${q.options.map(opt => 
+            `<label>
+              <input type="radio" name="q${i}" value="${opt}"> ${opt}
+            </label><br>`
+          ).join("")}
+        </div>`;
+      });
+      quizHTML += `<button type="button" onclick="submitQuiz('${file}')">Submit Quiz</button></form>`;
+      document.getElementById("content-body").innerHTML = quizHTML;
+    });
 }
 
-function showScores(user) {
-  document.getElementById("quiz-section").classList.add("hidden");
-  document.getElementById("results-section").classList.remove("hidden");
+// 👉 Use your excellent submitQuiz(file) function here
+function submitQuiz(file) {
+  fetch(`data/${file}`)
+    .then(res => res.json())
+    .then(data => {
+      let score = 0;
+      let resultsHTML = "<h3>Results</h3><ul>";
+      
+      data.quiz.forEach((q, i) => {
+        const selected = document.querySelector(`input[name="q${i}"]:checked`);
+        const answer = selected ? selected.value : null;
+        const correct = q.answer;
+        const explanation = q.explanation || "";
 
-  let scores = JSON.parse(localStorage.getItem("scores")) || {};
-  let userScores = scores[user] || [];
+        let statusText;
+        if (!answer) {
+          statusText = "⚠️ Not attempted";
+        } else if (answer === correct) {
+          score++;
+          statusText = "✅ Correct";
+        } else {
+          statusText = "❌ Incorrect";
+        }
 
-  const list = document.getElementById("score-list");
-  list.innerHTML = "";
-  userScores.forEach((s, i) => {
-    let li = document.createElement("li");
-    li.textContent = "Attempt " + (i+1) + ": " + s;
-    list.appendChild(li);
-  });
+        resultsHTML += `<li>
+          Q${i+1}: ${q.question}<br>
+          Your answer: ${answer ? answer : "No answer"} <br>
+          Correct answer: ${correct} <br>
+          ${statusText}<br>
+          ${explanation ? `<em>Explanation: ${explanation}</em>` : ""}
+        </li><br>`;
+      });
+
+      resultsHTML += `</ul><p><strong>Final Score: ${score} / ${data.quiz.length}</strong></p>`;
+
+      const percentage = (score / data.quiz.length) * 100;
+      if (percentage >= 80) {
+        resultsHTML += "<p>🎉 Great job! You’re mastering this topic.</p>";
+      } else if (percentage >= 50) {
+        resultsHTML += "<p>👍 Good effort! Keep practicing to improve.</p>";
+      } else {
+        resultsHTML += "<p>💡 Don’t worry — review the notes and try again!</p>";
+      }
+
+      document.getElementById("content-body").innerHTML = resultsHTML;
+    });
 }
 </script>
 </body>
