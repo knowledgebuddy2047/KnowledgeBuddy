@@ -26,7 +26,7 @@ function loadContent(subject) {
     html += `</select>`;
   }
 
-  // Render buttons without inline onclick
+  // Render buttons with IDs (no inline onclick)
   html += `
     <div>
       <button id="notes-btn" class="action-button">View Notes</button>
@@ -38,12 +38,13 @@ function loadContent(subject) {
 
   document.getElementById("content-body").innerHTML = html;
 
-  // Attach event listeners here, where subject is still in scope
+  // Attach event listeners here, subject is still available
   document.getElementById("notes-btn").addEventListener("click", () => loadSelected("notes", subject));
   document.getElementById("quiz-btn").addEventListener("click", () => loadSelected("quiz", subject));
   document.getElementById("flashcards-btn").addEventListener("click", () => loadSelected("flashcards", subject));
   document.getElementById("workflow-btn").addEventListener("click", () => loadSelected("workflow", subject));
 }
+
 
 
 function loadSelected(type, subject) {
@@ -56,7 +57,7 @@ function loadSelected(type, subject) {
   }
 
   const chapter = subject.chapters[index];
-  let file = chapter[type];
+  const file = chapter[type];
 
   if (type === "notes") {
     loadNotes(file);
@@ -68,7 +69,6 @@ function loadSelected(type, subject) {
     showWorkflow(file);
   }
 }
-
 
 function loadChapter(file) {
   fetch(`data/${file}`)
@@ -199,6 +199,7 @@ function navigateTo(sectionId) {
   document.getElementById(sectionId).scrollIntoView({ behavior: "smooth" });
 
 }
+
 
 
 
