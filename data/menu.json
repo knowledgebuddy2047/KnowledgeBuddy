@@ -13,77 +13,77 @@
     },
     {
       "title": "Motion",
-      "file": "notes_class9_science.html", 
+      "notes": "notes_class9_science.html", 
       "quiz": "quiz_class9_science.json", 
       "flashcards": "flashcards_class9_science.json", 
       "workflow": "workflow_class9_science.json" 
     },
     {
      "title": "Force and Laws of Motion",
-      "file": "notes_class9_science.html", 
+      "notes": "notes_class9_science.html", 
       "quiz": "quiz_class9_science.json", 
       "flashcards": "flashcards_class9_science.json", 
       "workflow": "workflow_class9_science.json" 
     },
     {
-    "title": "Gravitation",
-      "file": "notes_class9_science.html", 
+      "title": "Gravitation",
+      "notes": "notes_class9_science.html", 
       "quiz": "quiz_class9_science.json", 
       "flashcards": "flashcards_class9_science.json", 
       "workflow": "workflow_class9_science.json" 
     },
     {
      "title": "Work and Energy",
-      "file": "notes_class9_science.html", 
+      "notes": "notes_class9_science.html", 
       "quiz": "quiz_class9_science.json", 
       "flashcards": "flashcards_class9_science.json", 
       "workflow": "workflow_class9_science.json" 
     },
     {
-         "title": "Sounds",
-      "file": "notes_class9_science.html", 
+      "title": "Sounds",
+      "notes": "notes_class9_science.html", 
       "quiz": "quiz_class9_science.json", 
       "flashcards": "flashcards_class9_science.json", 
       "workflow": "workflow_class9_science.json" 
     },
     {
-        "title": "Chemical Reactions and Equations",
-      "file": "notes_class9_science.html", 
+      "title": "Chemical Reactions and Equations",
+      "notes": "notes_class9_science.html", 
       "quiz": "quiz_class9_science.json", 
       "flashcards": "flashcards_class9_science.json", 
       "workflow": "workflow_class9_science.json" 
     },
     {
-     "title": "Acids, Bases, and Salts",
-      "file": "notes_class9_science.html", 
+      "title": "Acids, Bases, and Salts",
+      "notes": "notes_class9_science.html", 
       "quiz": "quiz_class9_science.json", 
       "flashcards": "flashcards_class9_science.json", 
       "workflow": "workflow_class9_science.json" 
     },
     {
-    "title": "Metals and Non-metals",
-      "file": "notes_class9_science.html", 
+      "title": "Metals and Non-metals",
+      "notes": "notes_class9_science.html", 
       "quiz": "quiz_class9_science.json", 
       "flashcards": "flashcards_class9_science.json", 
       "workflow": "workflow_class9_science.json" 
     },
     {
-    "title": "Carbon and its Compoundss",
-      "file": "notes_class9_science.html", 
+      "title": "Carbon and its Compoundss",
+      "notes": "notes_class9_science.html", 
       "quiz": "quiz_class9_science.json", 
       "flashcards": "flashcards_class9_science.json", 
       "workflow": "workflow_class9_science.json" 
     },
     {
-        "title": "Electricity",
-      "file": "notes_class9_science.html", 
+      "title": "Electricity",
+      "notes": "notes_class9_science.html", 
       "quiz": "quiz_class9_science.json", 
       "flashcards": "flashcards_class9_science.json", 
       "workflow": "workflow_class9_science.json" 
     },
     {
       "title": "Magnetic Effects of Electric Current",
-      "file": "notes_class9_science.html", 
+      "notes": "notes_class9_science.html", 
       "quiz": "quiz_class9_science.json", 
       "flashcards": "flashcards_class9_science.json", 
       "workflow": "workflow_class9_science.json" 
@@ -157,7 +157,7 @@
       "description": "Key Microbiology topics for Doctors. This will help for PG and other examination",
        "chapters": [
         {
-        "title" : "All units" ,
+       "title" : "All units" ,
       "notes": "notes_Microbiology_MBBS.html", 
       "quiz": "quiz_Microbiology_MBBS.json", 
       "flashcards": "flashcards_Microbiology_MBBS.json", 
@@ -256,6 +256,7 @@
   ]
 
 }
+
 
 
 
