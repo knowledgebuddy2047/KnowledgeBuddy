@@ -62,7 +62,8 @@ function loadSelected(type, subject) {
   if (type === "notes") {
     loadNotes(file);
   } else if (type === "quiz") {
-    startQuiz(file);
+    // 👉 Instead of startQuiz(file), redirect to login-quiz.html
+    openQuiz(subject.name, chapter.title, file);
   } else if (type === "flashcards") {
     showFlashcards(file);
   } else if (type === "workflow") {
@@ -231,6 +232,7 @@ function login() {
   document.getElementById("quiz-title").textContent = subject + " - " + chapter;
   startQuiz(quizFile);
 }
+
 
 
 
