@@ -203,6 +203,30 @@ function navigateTo(sectionId) {
 
 }
 
+function saveFeedback() {
+  const feedback = {
+    name: document.getElementById("name").value,
+    email: document.getElementById("email").value,
+    mobile: document.getElementById("mobile").value,
+    consent: document.getElementById("consent").checked,
+    timestamp: new Date().toISOString()
+  };
+
+  let feedbackList = JSON.parse(localStorage.getItem("feedback")) || [];
+  feedbackList.push(feedback);
+  localStorage.setItem("feedback", JSON.stringify(feedbackList));
+
+  alert("Thank you for your feedback!");
+  document.getElementById("feedback-form").reset();
+}
+
+function viewFeedback() {
+  let feedbackList = JSON.parse(localStorage.getItem("feedback")) || [];
+  console.log(feedbackList); // For now, just log it
+}
+
+
+
 
 
 
