@@ -1554,17 +1554,6 @@
     "explanation": "The lungs are not found in the mediastinum; they are located laterally in the thoracic cavity."
   },
   {
-    "question": "The left main bronchus is longer and more horizontal than the right main bronchus.",
-    "options": [
-      true,
-      false,
-      NaN,
-      NaN
-    ],
-    "answer": false,
-    "explanation": "The left main bronchus is typically longer and more vertical compared to the right main bronchus."
-  },
-  {
     "question": "The mediastinum is divided into which compartments?",
     "options": [
       "Anterior and Posterior",
@@ -1785,17 +1774,6 @@
     "explanation": "The esophagus runs posterior to the aorta in the thorax."
   },
   {
-    "question": "The right main bronchus is more vertical than the left main bronchus.",
-    "options": [
-      true,
-      false,
-      NaN,
-      NaN
-    ],
-    "answer": false,
-    "explanation": "The right main bronchus is typically shorter and more vertical than the left main bronchus."
-  },
-  {
     "question": "The surface marking of the aortic arch is typically located at which rib level?",
     "options": [
       "1st Rib",
@@ -1862,17 +1840,6 @@
     "explanation": "The trachea is composed of C-shaped rings of hyaline cartilage that keep it open."
   },
   {
-    "question": "The left main bronchus is longer than the right main bronchus.",
-    "options": [
-      true,
-      false,
-      NaN,
-      NaN
-    ],
-    "answer": true,
-    "explanation": "The left main bronchus is typically longer and more horizontal than the right main bronchus."
-  },
-  {
     "question": "The thoracic duct drains into which structure?",
     "options": [
       "Right Subclavian Vein",
@@ -1904,17 +1871,6 @@
     ],
     "answer": "T5",
     "explanation": "The thoracic duct typically ascends through the thorax around the level of T5."
-  },
-  {
-    "question": "The right brachiocephalic vein is longer than the left brachiocephalic vein.",
-    "options": [
-      true,
-      false,
-      NaN,
-      NaN
-    ],
-    "answer": false,
-    "explanation": "The left brachiocephalic vein is longer because it crosses over to join the superior vena cava."
   },
   {
     "question": "The aortic arch curves over which structure?",
@@ -1992,17 +1948,6 @@
     ],
     "answer": "T5",
     "explanation": "The thoracic duct commonly runs along the vertebral column around the level of T5."
-  },
-  {
-    "question": "The left pulmonary artery is shorter than the right pulmonary artery.",
-    "options": [
-      true,
-      false,
-      NaN,
-      NaN
-    ],
-    "answer": false,
-    "explanation": "The left pulmonary artery is typically longer as it must traverse further horizontally to reach the left lung."
   },
   {
     "question": "The trachea extends from which vertebral level to which vertebral level?",
