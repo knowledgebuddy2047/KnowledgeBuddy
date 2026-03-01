@@ -115,7 +115,7 @@ function loadNotes(file) {
 }
 
 // Quiz Loader
-function startQuiz(file,numQuestions) {
+function startQuiz(file, numQuestions) {
   fetch(`data/${file}`)
     .then(res => res.json())
     .then(data => {
@@ -129,7 +129,7 @@ function startQuiz(file,numQuestions) {
       const questionsToShow = shuffled.slice(0, numQuestions);
 
       let quizHTML = "<form id='quiz-form'>";
-      data.quiz.forEach((q, i) => {
+      questionsToShow.forEach((q, i) => {
         quizHTML += `<div>
           <p>${i+1}. ${q.question}</p>
           ${q.options.map(opt => 
@@ -139,12 +139,16 @@ function startQuiz(file,numQuestions) {
           ).join("")}
         </div>`;
       });
+
       // Add a single submit button at the end
       quizHTML += `<button class="action-button" type="button" onclick="submitQuiz('${file}')">Submit Quiz</button></form>`;
       document.getElementById("content-body").innerHTML = quizHTML;
+    })
+    .catch(err => {
+      console.error("Error loading quiz:", err);
+      alert("Failed to load quiz file. Please check the filename and JSON format.");
     });
 }
-
 
 function submitQuiz(file) {
   fetch(`data/${file}`)
@@ -235,6 +239,7 @@ function navigateTo(sectionId) {
   document.getElementById(sectionId).scrollIntoView({ behavior: "smooth" });
 
 }
+
 
 
 
