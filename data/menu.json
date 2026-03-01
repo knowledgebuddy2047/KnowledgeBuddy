@@ -210,6 +210,13 @@
       "quiz": "quiz_Anatomy_mbbs_AlluntsPart1.json",                
       "flashcards": "flashcards_Anatomy_MBBS.json", 
       "workflow": "workflow_Anatomy_MBBS.json"
+    },
+    {
+      "title" : "All units Part2", 
+      "notes": "notes_Anatomy_MBBS.html", 
+      "quiz": "quiz_Anatomy_mbbs_AllunitsPart2.json",                
+      "flashcards": "flashcards_Anatomy_MBBS.json", 
+      "workflow": "workflow_Anatomy_MBBS.json"
     }
       ]
     },
@@ -256,6 +263,7 @@
   ]
 
 }
+
 
 
 
