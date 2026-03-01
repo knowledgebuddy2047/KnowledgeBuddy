@@ -232,7 +232,7 @@
       "workflow": "workflow_Biochemistry_MBBS.json" 
     },
     {
-      "title" : "All units", 
+      "title" : "Mega Units", 
       "notes": "notes_Biochemistry_MBBS.html", 
       "quiz": "quiz_Biochemistry_MBBS_Part2.json", 
       "flashcards": "flashcards_Biochemistry_MBBS.json", 
@@ -263,6 +263,7 @@
   ]
 
 }
+
 
 
 
