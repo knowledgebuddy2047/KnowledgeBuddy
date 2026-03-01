@@ -205,7 +205,7 @@
       "workflow": "workflow_Anatomy_MBBS.json" 
     },
     {
-      "title" : "All units1", 
+      "title" : "All units Part1", 
       "notes": "notes_Anatomy_MBBS.html", 
       "quiz": "quiz_Anatomy_mbbs_AlluntsPart1.json", 
       "flashcards": "flashcards_Anatomy_MBBS.json", 
@@ -256,6 +256,7 @@
   ]
 
 }
+
 
 
 
