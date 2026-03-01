@@ -122,6 +122,7 @@ function loadNotes(file) {
 
 // Quiz Loader
 let currentQuizQuestions = [];
+
 function startQuiz(file, numQuestions) {
   fetch(`data/${file}`)
     .then(res => res.json())
@@ -133,10 +134,10 @@ function startQuiz(file, numQuestions) {
         .map(({ q }) => q);
 
       // Pick requested number (or fewer if not enough)
-      const questionsToShow = shuffled.slice(0, numQuestions);
+      currentQuizQuestions = shuffled.slice(0, numQuestions); // <-- save subset globally
 
       let quizHTML = "<form id='quiz-form'>";
-      questionsToShow.forEach((q, i) => {
+      currentQuizQuestions.forEach((q, i) => {
         quizHTML += `<div>
           <p>${i+1}. ${q.question}</p>
           ${q.options.map(opt => 
@@ -148,7 +149,7 @@ function startQuiz(file, numQuestions) {
       });
 
       // Add a single submit button at the end
-      quizHTML += `<button class="action-button" type="button" onclick="submitQuiz('${file}')">Submit Quiz</button></form>`;
+      quizHTML += `<button class="action-button" type="button" onclick="submitQuiz()">Submit Quiz</button></form>`;
       document.getElementById("content-body").innerHTML = quizHTML;
     })
     .catch(err => {
@@ -239,6 +240,7 @@ function navigateTo(sectionId) {
   document.getElementById(sectionId).scrollIntoView({ behavior: "smooth" });
 
 }
+
 
 
 
