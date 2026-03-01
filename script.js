@@ -80,7 +80,13 @@ function loadSelected(type, subject) {
   if (type === "notes") {
     loadNotes(file);
   } else if (type === "quiz") {
-    startQuiz(file);
+    //startQuiz(file);
+    const numQuestions = parseInt(document.getElementById("num-questions").value, 10);
+    if (!isNaN(numQuestions) && numQuestions > 0) {
+    startQuiz(file, numQuestions);
+  }else {
+    alert("Please enter a valid number of questions.");
+  }
   } else if (type === "flashcards") {
     showFlashcards(file);
   } else if (type === "workflow") {
@@ -229,6 +235,7 @@ function navigateTo(sectionId) {
   document.getElementById(sectionId).scrollIntoView({ behavior: "smooth" });
 
 }
+
 
 
 
