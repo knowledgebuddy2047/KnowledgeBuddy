@@ -254,7 +254,7 @@
         {
          "title" : "Mega units", 
       "notes": "notes_Physiology_MBBS.html", 
-      "quiz": "quiz_Physiology_MBBS_megaunits.json.json", 
+      "quiz": "quiz_Physiology_MBBS_megaunits.json", 
       "flashcards": "flashcards_Physiology_MBBS.json", 
       "workflow": "workflow_Physiology_MBBS.json"  
         }
@@ -263,6 +263,7 @@
   ]
 
 }
+
 
 
 
