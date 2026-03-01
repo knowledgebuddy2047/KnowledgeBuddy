@@ -200,7 +200,7 @@
         {
        "title" : "All units",
       "notes": "notes_Anatomy_MBBS.html", 
-      "quiz": "quiz_Anatomy_MBBS.json", 
+      "quiz": "quiz_Anatomy_mbbs_Allunits.json", 
       "flashcards": "flashcards_Anatomy_MBBS.json", 
       "workflow": "workflow_Anatomy_MBBS.json" 
     },
@@ -256,6 +256,7 @@
   ]
 
 }
+
 
 
 
