@@ -121,6 +121,7 @@ function loadNotes(file) {
 }
 
 // Quiz Loader
+let currentQuizQuestions = [];
 function startQuiz(file, numQuestions) {
   fetch(`data/${file}`)
     .then(res => res.json())
@@ -156,55 +157,48 @@ function startQuiz(file, numQuestions) {
     });
 }
 
-function submitQuiz(file) {
-  fetch(`data/${file}`)
-    .then(res => res.json())
-    .then(data => {
-      let score = 0;
-      let resultsHTML = "<h3>Results</h3><ul>";
-      
-      data.quiz.forEach((q, i) => {
-        const selected = document.querySelector(`input[name="q${i}"]:checked`);
-        const answer = selected ? selected.value : null;  // null if not attempted
-        const correct = q.answer;
-        const explanation = q.explanation || ""; // fallback to blank if missing
+function submitQuiz() {
+  let score = 0;
+  let resultsHTML = "<h3>Results</h3><ul>";
 
-        let statusText;
-        if (!answer) {
-          statusText = "⚠️ Not attempted";
-        } else if (answer === correct) {
-          score++;
-          statusText = "✅ Correct";
-        } else {
-          statusText = "❌ Incorrect";
-        }
+  currentQuizQuestions.forEach((q, i) => {
+    const selected = document.querySelector(`input[name="q${i}"]:checked`);
+    const answer = selected ? selected.value : null;
+    const correct = q.answer;
+    const explanation = q.explanation || "";
 
-        resultsHTML += `<li>
-          Q${i+1}: ${q.question}<br>
-          Your answer: ${answer ? answer : "No answer"} <br>
-          Correct answer: ${correct} <br>
-          ${statusText}<br>
-          ${explanation ? `<em>Explanation: ${explanation}</em>` : ""}
-        </li><br>`;
-      });
+    let statusText;
+    if (!answer) {
+      statusText = "⚠️ Not attempted";
+    } else if (answer === correct) {
+      score++;
+      statusText = "✅ Correct";
+    } else {
+      statusText = "❌ Incorrect";
+    }
 
-      resultsHTML += `</ul><p><strong>Final Score: ${score} / ${data.quiz.length}</strong></p>`;
-      
-      // Motivational feedback
-      const percentage = (score / data.quiz.length) * 100;
-      if (percentage >= 80) {
-        resultsHTML += "<p>🎉 Great job! You’re mastering this topic.</p>";
-      } else if (percentage >= 50) {
-        resultsHTML += "<p>👍 Good effort! Keep practicing to improve.</p>";
-      } else {
-        resultsHTML += "<p>💡 Don’t worry — review the notes and try again!</p>";
-      }
+    resultsHTML += `<li>
+      Q${i+1}: ${q.question}<br>
+      Your answer: ${answer ? answer : "No answer"} <br>
+      Correct answer: ${correct} <br>
+      ${statusText}<br>
+      ${explanation ? `<em>Explanation: ${explanation}</em>` : ""}
+    </li><br>`;
+  });
 
-      document.getElementById("content-body").innerHTML = resultsHTML;
-      
-    });
+  resultsHTML += `</ul><p><strong>Final Score: ${score} / ${currentQuizQuestions.length}</strong></p>`;
+
+  const percentage = (score / currentQuizQuestions.length) * 100;
+  if (percentage >= 80) {
+    resultsHTML += "<p>🎉 Great job! You’re mastering this topic.</p>";
+  } else if (percentage >= 50) {
+    resultsHTML += "<p>👍 Good effort! Keep practicing to improve.</p>";
+  } else {
+    resultsHTML += "<p>💡 Don’t worry — review the notes and try again!</p>";
+  }
+
+  document.getElementById("content-body").innerHTML = resultsHTML;
 }
-
 
 
 
@@ -245,6 +239,7 @@ function navigateTo(sectionId) {
   document.getElementById(sectionId).scrollIntoView({ behavior: "smooth" });
 
 }
+
 
 
 
