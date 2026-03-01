@@ -73,6 +73,21 @@ function loadSelected(type, subject) {
   } else if (type === "quiz") {
     //startQuiz(file);
     const numQuestions = parseInt(document.getElementById("num-questions").value, 10);
+    const select = document.getElementById("chapter-select");
+    const index = select ? select.value : null;
+  if (!index) {
+      alert("Please select a chapter first!");
+      return;
+    }
+  const chapter = subject.chapters[index];
+  const file = chapter.quiz; // <-- must exist in your JSON
+
+  if (!file) {
+    alert("No quiz file defined for this chapter.");
+    return;
+  }
+
+
     if (!isNaN(numQuestions) && numQuestions > 0) {
     startQuiz(file, numQuestions);
   }else {
@@ -230,6 +245,7 @@ function navigateTo(sectionId) {
   document.getElementById(sectionId).scrollIntoView({ behavior: "smooth" });
 
 }
+
 
 
 
