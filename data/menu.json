@@ -234,7 +234,7 @@
     {
       "title" : "All units", 
       "notes": "notes_Biochemistry_MBBS.html", 
-      "quiz": "quiz_Biochemistry_MBBS.json", 
+      "quiz": "quiz_Biochemistry_MBBS_Part2.json", 
       "flashcards": "flashcards_Biochemistry_MBBS.json", 
       "workflow": "workflow_Biochemistry_MBBS.json"
     }
@@ -263,6 +263,7 @@
   ]
 
 }
+
 
 
 
