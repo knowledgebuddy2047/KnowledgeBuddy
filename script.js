@@ -203,8 +203,6 @@ function submitQuiz() {
 
 
 
-
-
 // Flashcards Loader
 function showFlashcards(file) {
   fetch(`data/${file}`)
@@ -240,6 +238,7 @@ function navigateTo(sectionId) {
   document.getElementById(sectionId).scrollIntoView({ behavior: "smooth" });
 
 }
+
 
 
 
