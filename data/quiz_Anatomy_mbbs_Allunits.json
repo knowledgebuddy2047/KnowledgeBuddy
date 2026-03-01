@@ -1,0 +1,2821 @@
+{
+  "quiz": 
+  [
+  {
+    "question": "Which bone forms the acromion process?",
+    "options": [
+      "Scapula",
+      "Clavicle",
+      "Humerus",
+      "Sternum"
+    ],
+    "answer": "Scapula",
+    "explanation": "The acromion process is a bony projection of the scapula that articulates with the clavicle."
+  },
+  {
+    "question": "What is the main action of the pectoralis major muscle?",
+    "options": [
+      "Shoulder abduction",
+      "Shoulder flexion",
+      "Shoulder extension",
+      "Shoulder rotation"
+    ],
+    "answer": "Shoulder flexion",
+    "explanation": "The pectoralis major primarily flexes the shoulder, also assisting in adduction and medial rotation."
+  },
+  {
+    "question": "Which nerve innervates the serratus anterior muscle?",
+    "options": [
+      "Thoracodorsal Nerve",
+      "Long Thoracic Nerve",
+      "Medial Pectoral Nerve",
+      "Lateral Pectoral Nerve"
+    ],
+    "answer": "Long Thoracic Nerve",
+    "explanation": "The long thoracic nerve innervates the serratus anterior, crucial for scapular stabilization."
+  },
+  {
+    "question": "What structure passes through the axillary region?",
+    "options": [
+      "Axillary Artery",
+      "Subclavian Vein",
+      "Brachial Plexus",
+      "Cephalic Vein"
+    ],
+    "answer": "Brachial Plexus",
+    "explanation": "The brachial plexus is a network of nerves that provides innervation to the upper limb, passing through the axilla."
+  },
+  {
+    "question": "Which muscle is primarily responsible for shoulder adduction?",
+    "options": [
+      "Deltoid",
+      "Latissimus Dorsi",
+      "Supraspinatus",
+      "Infraspinatus"
+    ],
+    "answer": "Latissimus Dorsi",
+    "explanation": "The latissimus dorsi is the prime mover for shoulder adduction, bringing the arm toward the body."
+  },
+  {
+    "question": "The greater tubercle of the humerus serves as an attachment site for which muscles?",
+    "options": [
+      "Subscapularis",
+      "Supraspinatus",
+      "Infraspinatus",
+      "Both B and C"
+    ],
+    "answer": "Both B and C",
+    "explanation": "The greater tubercle is the attachment point for the supraspinatus, infraspinatus, and teres minor muscles."
+  },
+  {
+    "question": "Which artery is the main blood supply to the upper limb?",
+    "options": [
+      "Axillary Artery",
+      "Radial Artery",
+      "Subclavian Artery",
+      "Ulnar Artery"
+    ],
+    "answer": "Axillary Artery",
+    "explanation": "The axillary artery is the principal vessel supplying blood to the upper limb after the subclavian artery."
+  },
+  {
+    "question": "The subclavius muscle is innervated by which nerve?",
+    "options": [
+      "Dorsal Scapular Nerve",
+      "Long Thoracic Nerve",
+      "Medial Pectoral Nerve",
+      "Nerve to Subclavius"
+    ],
+    "answer": "Nerve to Subclavius",
+    "explanation": "The nerve to subclavius innervates the subclavius muscle, which stabilizes the clavicle."
+  },
+  {
+    "question": "Which muscle is the primary extensor of the shoulder?",
+    "options": [
+      "Latissimus Dorsi",
+      "Pectoralis Major",
+      "Teres Major",
+      "Deltoid"
+    ],
+    "answer": "Latissimus Dorsi",
+    "explanation": "The latissimus dorsi is the main extensor of the shoulder, allowing for backward movement of the arm."
+  },
+  {
+    "question": "The axillary nerve is a branch of which plexus?",
+    "options": [
+      "Sacral Plexus",
+      "Brachial Plexus",
+      "Lumbar Plexus",
+      "Cervical Plexus"
+    ],
+    "answer": "Brachial Plexus",
+    "explanation": "The axillary nerve arises from the brachial plexus, providing motor innervation to the deltoid and teres minor muscles."
+  },
+  {
+    "question": "Which ligament connects the acromion and the clavicle?",
+    "options": [
+      "Coracoacromial Ligament",
+      "Conoid Ligament",
+      "Trapezoid Ligament",
+      "Glenohumeral Ligament"
+    ],
+    "answer": "Coracoacromial Ligament",
+    "explanation": "The coracoacromial ligament connects the acromion to the clavicle, providing stability to the shoulder."
+  },
+  {
+    "question": "Which muscle is responsible for the \"winging\" of the scapula?",
+    "options": [
+      "Rhomboid Major",
+      "Serratus Anterior",
+      "Trapezius",
+      "Latissimus Dorsi"
+    ],
+    "answer": "Serratus Anterior",
+    "explanation": "Winging of the scapula occurs due to weakness or paralysis of the serratus anterior muscle."
+  },
+  {
+    "question": "The trapezius muscle is innervated by which cranial nerve?",
+    "options": [
+      "CN III",
+      "CN V",
+      "CN VII",
+      "CN XI"
+    ],
+    "answer": "CN XI",
+    "explanation": "The trapezius is innervated by the accessory nerve (CN XI), which controls its motor function."
+  },
+  {
+    "question": "What is the primary function of the rotator cuff muscles?",
+    "options": [
+      "Stabilize the shoulder",
+      "Flex the elbow",
+      "Extend the wrist",
+      "Rotate the forearm"
+    ],
+    "answer": "Stabilize the shoulder",
+    "explanation": "The rotator cuff muscles stabilize the glenohumeral joint, allowing for a wide range of shoulder movements."
+  },
+  {
+    "question": "Which muscle originates from the spinous processes of T7 to L5?",
+    "options": [
+      "Latissimus Dorsi",
+      "Rhomboid Minor",
+      "Erector Spinae",
+      "Trapezius"
+    ],
+    "answer": "Latissimus Dorsi",
+    "explanation": "The latissimus dorsi originates from the spinous processes of T7 to L5, allowing for shoulder movement."
+  },
+  {
+    "question": "The medial border of the scapula is closest to which vertebral level?",
+    "options": [
+      "T2",
+      "T4",
+      "T6",
+      "T8"
+    ],
+    "answer": "T6",
+    "explanation": "The medial border of the scapula typically aligns with the spinous processes of T6."
+  },
+  {
+    "question": "Which of the following is NOT a component of the rotator cuff?",
+    "options": [
+      "Subscapularis",
+      "Teres Minor",
+      "Infraspinatus",
+      "Pectoralis Major"
+    ],
+    "answer": "Pectoralis Major",
+    "explanation": "The rotator cuff comprises the subscapularis, supraspinatus, infraspinatus, and teres minor; the pectoralis major is not included."
+  },
+  {
+    "question": "The deltoid muscle is responsible for which movement?",
+    "options": [
+      "Elbow flexion",
+      "Shoulder abduction",
+      "Wrist extension",
+      "Scapular elevation"
+    ],
+    "answer": "Shoulder abduction",
+    "explanation": "The deltoid muscle primarily facilitates shoulder abduction, especially when the arm is raised."
+  },
+  {
+    "question": "Which structure is found in the axilla and is responsible for lymph drainage?",
+    "options": [
+      "Axillary Vein",
+      "Axillary Artery",
+      "Axillary Lymph Nodes",
+      "Brachial Plexus"
+    ],
+    "answer": "Axillary Lymph Nodes",
+    "explanation": "The axillary lymph nodes are key components of the lymphatic system, draining the upper limb and breast."
+  },
+  {
+    "question": "The long head of the biceps brachii originates from which structure?",
+    "options": [
+      "Coracoid Process",
+      "Scapula",
+      "Glenoid Cavity",
+      "Humerus"
+    ],
+    "answer": "Glenoid Cavity",
+    "explanation": "The long head of the biceps brachii originates at the supraglenoid tubercle of the scapula."
+  },
+  {
+    "question": "Which vertebrae are considered typical thoracic vertebrae?",
+    "options": [
+      "T1-T2",
+      "T3-T9",
+      "T10-T12",
+      "All of the above"
+    ],
+    "answer": "T3-T9",
+    "explanation": "T3-T9 are considered typical thoracic vertebrae due to their characteristic features, such as costal facets."
+  },
+  {
+    "question": "What is the action of the subscapularis muscle?",
+    "options": [
+      "Internal rotation",
+      "External rotation",
+      "Abduction",
+      "Flexion"
+    ],
+    "answer": "Internal rotation",
+    "explanation": "The subscapularis muscle primarily facilitates internal rotation of the shoulder."
+  },
+  {
+    "question": "Which artery supplies the posterior aspect of the shoulder?",
+    "options": [
+      "Subscapular Artery",
+      "Axillary Artery",
+      "Brachial Artery",
+      "Deep Brachial Artery"
+    ],
+    "answer": "Subscapular Artery",
+    "explanation": "The subscapular artery supplies the posterior shoulder region, branching from the axillary artery."
+  },
+  {
+    "question": "The scapula articulates with which bone at the glenoid cavity?",
+    "options": [
+      "Clavicle",
+      "Humerus",
+      "Sternum",
+      "Ribs"
+    ],
+    "answer": "Humerus",
+    "explanation": "The glenoid cavity of the scapula articulates with the head of the humerus to form the glenohumeral joint."
+  },
+  {
+    "question": "Which muscle is primarily responsible for scapular elevation?",
+    "options": [
+      "Trapezius",
+      "Rhomboid Major",
+      "Serratus Anterior",
+      "Latissimus Dorsi"
+    ],
+    "answer": "Trapezius",
+    "explanation": "The trapezius muscle is primarily responsible for elevating the scapula, as seen in shoulder shrugging."
+  },
+  {
+    "question": "Which nerve injury would result in \"wrist drop\"?",
+    "options": [
+      "Ulnar Nerve",
+      "Median Nerve",
+      "Radial Nerve",
+      "Musculocutaneous Nerve"
+    ],
+    "answer": "Radial Nerve",
+    "explanation": "Injury to the radial nerve leads to wrist drop due to loss of extensor muscle function."
+  },
+  {
+    "question": "The coracoid process serves as an attachment point for which muscle?",
+    "options": [
+      "Pectoralis Minor",
+      "Biceps Brachii",
+      "Coracobrachialis",
+      "All of the above"
+    ],
+    "answer": "All of the above",
+    "explanation": "The coracoid process serves as an attachment for the pectoralis minor, biceps brachii, and coracobrachialis muscles."
+  },
+  {
+    "question": "The thoracodorsal nerve innervates which muscle?",
+    "options": [
+      "Pectoralis Major",
+      "Latissimus Dorsi",
+      "Teres Major",
+      "Rhomboid Minor"
+    ],
+    "answer": "Latissimus Dorsi",
+    "explanation": "The thoracodorsal nerve innervates the latissimus dorsi muscle, aiding in shoulder movements."
+  },
+  {
+    "question": "Which joint is formed between the clavicle and the sternum?",
+    "options": [
+      "Acromioclavicular",
+      "Sternoclavicular",
+      "Glenohumeral",
+      "Scapulothoracic"
+    ],
+    "answer": "Sternoclavicular",
+    "explanation": "The sternoclavicular joint forms the articulation between the clavicle and the sternum."
+  },
+  {
+    "question": "Which muscle is involved in the \"reverse shrug\" motion?",
+    "options": [
+      "Trapezius",
+      "Rhomboid Major",
+      "Levator Scapulae",
+      "Serratus Anterior"
+    ],
+    "answer": "Levator Scapulae",
+    "explanation": "The levator scapulae is involved in elevating the scapula during the reverse shrug motion."
+  },
+  {
+    "question": "The radial nerve is primarily responsible for innervating which muscles?",
+    "options": [
+      "Flexor Muscles",
+      "Extensor Muscles",
+      "Adductor Muscles",
+      "Rotator Cuff Muscles"
+    ],
+    "answer": "Extensor Muscles",
+    "explanation": "The radial nerve innervates the extensor muscles of the forearm, responsible for wrist and finger extension."
+  },
+  {
+    "question": "Which ligament provides stability to the shoulder joint?",
+    "options": [
+      "Coracoacromial",
+      "Glenohumeral",
+      "Transverse Humeral",
+      "Acromioclavicular"
+    ],
+    "answer": "Glenohumeral",
+    "explanation": "The glenohumeral ligament provides stability to the shoulder joint by reinforcing the joint capsule."
+  },
+  {
+    "question": "What is the main function of the rotator cuff?",
+    "options": [
+      "Shoulder flexion",
+      "Shoulder stability",
+      "Shoulder extension",
+      "Shoulder adduction"
+    ],
+    "answer": "Shoulder stability",
+    "explanation": "The primary function of the rotator cuff is to stabilize the shoulder joint during movement."
+  },
+  {
+    "question": "Which muscle is a prime mover in shoulder flexion?",
+    "options": [
+      "Deltoid",
+      "Pectoralis Major",
+      "Biceps Brachii",
+      "All of the above"
+    ],
+    "answer": "All of the above",
+    "explanation": "All mentioned muscles, especially the deltoid and pectoralis major, contribute to shoulder flexion."
+  },
+  {
+    "question": "The medial and lateral pectoral nerves arise from which plexus?",
+    "options": [
+      "Sacral Plexus",
+      "Lumbar Plexus",
+      "Brachial Plexus",
+      "Cervical Plexus"
+    ],
+    "answer": "Brachial Plexus",
+    "explanation": "The medial and lateral pectoral nerves are branches of the brachial plexus, innervating the pectoral muscles."
+  },
+  {
+    "question": "Which muscle flexes the shoulder and also assists in adduction?",
+    "options": [
+      "Pectoralis Major",
+      "Deltoid",
+      "Biceps Brachii",
+      "Coracobrachialis"
+    ],
+    "answer": "Pectoralis Major",
+    "explanation": "The pectoralis major flexes the shoulder and assists in adduction, bringing the arm closer to the body."
+  },
+  {
+    "question": "Which structure is found in the medial wall of the axilla?",
+    "options": [
+      "Axillary Artery",
+      "Brachial Plexus",
+      "Thoracic Duct",
+      "Median Nerve"
+    ],
+    "answer": "Thoracic Duct",
+    "explanation": "The thoracic duct, a major lymphatic vessel, is located in the medial wall of the axilla, draining lymph from the body."
+  },
+  {
+    "question": "The suprascapular nerve innervates which muscle?",
+    "options": [
+      "Supraspinatus",
+      "Infraspinatus",
+      "Subscapularis",
+      "Both A and B"
+    ],
+    "answer": "Both A and B",
+    "explanation": "The suprascapular nerve innervates both the supraspinatus and infraspinatus muscles, which are part of the rotator cuff."
+  },
+  {
+    "question": "Which muscle is primarily responsible for lateral rotation of the shoulder?",
+    "options": [
+      "Subscapularis",
+      "Infraspinatus",
+      "Teres Major",
+      "Pectoralis Minor"
+    ],
+    "answer": "Infraspinatus",
+    "explanation": "The infraspinatus muscle is the primary muscle responsible for lateral rotation of the shoulder."
+  },
+  {
+    "question": "What structure encloses the axillary vessels and nerves?",
+    "options": [
+      "Axillary Sheath",
+      "Pectoral Fascia",
+      "Clavipectoral Fascia",
+      "Deltoid Fascia"
+    ],
+    "answer": "Axillary Sheath",
+    "explanation": "The axillary sheath encloses the axillary artery, vein, and brachial plexus within the axilla."
+  },
+  {
+    "question": "The spinous processes of which vertebrae are bifid?",
+    "options": [
+      "Cervical Vertebrae",
+      "Lumbar Vertebrae",
+      "Thoracic Vertebrae",
+      "Sacral Vertebrae"
+    ],
+    "answer": "Cervical Vertebrae",
+    "explanation": "The cervical vertebrae (specifically C2 to C6) typically have bifid spinous processes."
+  },
+  {
+    "question": "Which muscle is primarily responsible for scapular retraction?",
+    "options": [
+      "Serratus Anterior",
+      "Rhomboid Major",
+      "Trapezius",
+      "Latissimus Dorsi"
+    ],
+    "answer": "Rhomboid Major",
+    "explanation": "The rhomboid major retracts the scapula, pulling it towards the vertebral column."
+  },
+  {
+    "question": "The suprascapular nerve innervates which muscles?",
+    "options": [
+      "Subscapularis",
+      "Supraspinatus",
+      "Infraspinatus",
+      "Both B and C"
+    ],
+    "answer": "Both B and C",
+    "explanation": "The suprascapular nerve innervates both the supraspinatus and infraspinatus muscles."
+  },
+  {
+    "question": "Which artery primarily supplies the superficial structures of the arm?",
+    "options": [
+      "Brachial Artery",
+      "Axillary Artery",
+      "Radial Artery",
+      "Ulnar Artery"
+    ],
+    "answer": "Brachial Artery",
+    "explanation": "The brachial artery is the main vessel supplying the arm after the axillary artery."
+  },
+  {
+    "question": "The medial cutaneous nerve of the arm arises from which plexus?",
+    "options": [
+      "Lumbar Plexus",
+      "Sacral Plexus",
+      "Brachial Plexus",
+      "Cervical Plexus"
+    ],
+    "answer": "Brachial Plexus",
+    "explanation": "The medial cutaneous nerve of the arm is a branch of the brachial plexus."
+  },
+  {
+    "question": "Which vein drains the superficial structures of the hand?",
+    "options": [
+      "Basilic Vein",
+      "Cephalic Vein",
+      "Median Cubital Vein",
+      "Ulnar Vein"
+    ],
+    "answer": "Median Cubital Vein",
+    "explanation": "The median cubital vein is commonly used for venipuncture and drains the superficial hand structures."
+  },
+  {
+    "question": "Which structure is the primary drainage route for lymph from the upper limb?",
+    "options": [
+      "Axillary Lymph Nodes",
+      "Supraclavicular Nodes",
+      "Inguinal Nodes",
+      "Cervical Nodes"
+    ],
+    "answer": "Axillary Lymph Nodes",
+    "explanation": "The axillary lymph nodes are the primary drainage points for lymphatic fluid from the upper limb."
+  },
+  {
+    "question": "The musculocutaneous nerve innervates which part of the arm?",
+    "options": [
+      "Anterior compartment",
+      "Posterior compartment",
+      "Medial compartment",
+      "Lateral compartment"
+    ],
+    "answer": "Anterior compartment",
+    "explanation": "The musculocutaneous nerve innervates the muscles in the anterior compartment of the arm, including the biceps brachii."
+  },
+  {
+    "question": "Which nerve is responsible for sensation in the lateral aspect of the forearm?",
+    "options": [
+      "Ulnar Nerve",
+      "Median Nerve",
+      "Radial Nerve",
+      "Musculocutaneous Nerve"
+    ],
+    "answer": "Radial Nerve",
+    "explanation": "The radial nerve provides sensory innervation to the skin on the lateral aspect of the forearm."
+  },
+  {
+    "question": "The cephalic vein runs in which anatomical structure?",
+    "options": [
+      "Axilla",
+      "Bicipital Groove",
+      "Cubital Fossa",
+      "Anatomical Snuffbox"
+    ],
+    "answer": "Bicipital Groove",
+    "explanation": "The cephalic vein runs along the bicipital groove of the humerus before draining into the axillary vein."
+  },
+  {
+    "question": "Which muscle is responsible for forearm pronation?",
+    "options": [
+      "Biceps Brachii",
+      "Supinator",
+      "Pronator Teres",
+      "Triceps Brachii"
+    ],
+    "answer": "Pronator Teres",
+    "explanation": "The pronator teres is primarily responsible for pronating the forearm."
+  },
+  {
+    "question": "Which nerve is most commonly injured in a mid-humeral fracture?",
+    "options": [
+      "Radial Nerve",
+      "Ulnar Nerve",
+      "Median Nerve",
+      "Musculocutaneous Nerve"
+    ],
+    "answer": "Radial Nerve",
+    "explanation": "A mid-humeral fracture often injures the radial nerve, leading to wrist drop."
+  },
+  {
+    "question": "The median nerve provides sensory innervation to which part of the hand?",
+    "options": [
+      "Medial aspect",
+      "Lateral aspect",
+      "Dorsum",
+      "Palm"
+    ],
+    "answer": "Lateral aspect",
+    "explanation": "The median nerve provides sensation to the lateral aspect of the palm and the first three and a half fingers."
+  },
+  {
+    "question": "Which muscle is known as the \"humeral flexor\"?",
+    "options": [
+      "Biceps Brachii",
+      "Triceps Brachii",
+      "Coracobrachialis",
+      "Aconeus"
+    ],
+    "answer": "Biceps Brachii",
+    "explanation": "Biceps brachii is known for its role in flexing the arm at the elbow joint."
+  },
+  {
+    "question": "The ulnar nerve passes posterior to which structure at the elbow?",
+    "options": [
+      "Medial Epicondyle",
+      "Lateral Epicondyle",
+      "Olecranon",
+      "Coronoid Process"
+    ],
+    "answer": "Medial Epicondyle",
+    "explanation": "The ulnar nerve passes posterior to the medial epicondyle, making it susceptible to injury (\"funny bone\")."
+  },
+  {
+    "question": "The deep palmar arch is primarily supplied by which artery?",
+    "options": [
+      "Ulnar Artery",
+      "Radial Artery",
+      "Brachial Artery",
+      "Axillary Artery"
+    ],
+    "answer": "Radial Artery",
+    "explanation": "The deep palmar arch is mainly supplied by the radial artery, which contributes to the blood supply of the hand."
+  },
+  {
+    "question": "Which muscle helps to maintain the stability of the glenohumeral joint?",
+    "options": [
+      "Subscapularis",
+      "Infraspinatus",
+      "Teres Minor",
+      "All of the above"
+    ],
+    "answer": "All of the above",
+    "explanation": "All of these muscles are rotator cuff muscles that help stabilize the glenohumeral joint."
+  },
+  {
+    "question": "The radial artery is a continuation of which artery?",
+    "options": [
+      "Brachial Artery",
+      "Axillary Artery",
+      "Subclavian Artery",
+      "Ulnar Artery"
+    ],
+    "answer": "Brachial Artery",
+    "explanation": "The radial artery is a continuation of the brachial artery at the elbow."
+  },
+  {
+    "question": "Which nerve is responsible for innervating the thenar muscles?",
+    "options": [
+      "Ulnar Nerve",
+      "Median Nerve",
+      "Radial Nerve",
+      "Musculocutaneous Nerve"
+    ],
+    "answer": "Median Nerve",
+    "explanation": "The median nerve innervates the thenar muscles, which control thumb movements."
+  },
+  {
+    "question": "What is the primary action of the triceps brachii muscle?",
+    "options": [
+      "Flexion of the elbow",
+      "Extension of the elbow",
+      "Supination",
+      "Pronation"
+    ],
+    "answer": "Extension of the elbow",
+    "explanation": "The triceps brachii is primarily responsible for extending the elbow joint."
+  },
+  {
+    "question": "Which nerve provides sensory innervation to the medial aspect of the hand?",
+    "options": [
+      "Ulnar Nerve",
+      "Median Nerve",
+      "Radial Nerve",
+      "Musculocutaneous Nerve"
+    ],
+    "answer": "Ulnar Nerve",
+    "explanation": "The ulnar nerve provides sensory innervation to the medial side of the hand, including the little finger."
+  },
+  {
+    "question": "Which muscle is responsible for extension of the fingers?",
+    "options": [
+      "Flexor Digitorum",
+      "Extensor Digitorum",
+      "Palmaris Longus",
+      "Flexor Pollicis"
+    ],
+    "answer": "Extensor Digitorum",
+    "explanation": "The extensor digitorum muscle extends the fingers at the metacarpophalangeal joints."
+  },
+  {
+    "question": "The axillary nerve innervates which muscle?",
+    "options": [
+      "Deltoid",
+      "Pectoralis Major",
+      "Latissimus Dorsi",
+      "Teres Major"
+    ],
+    "answer": "Deltoid",
+    "explanation": "The axillary nerve innervates the deltoid muscle, which is responsible for shoulder abduction."
+  },
+  {
+    "question": "The bicipital aponeurosis is located in which anatomical region?",
+    "options": [
+      "Axilla",
+      "Cubital Fossa",
+      "Anatomical Snuffbox",
+      "Forearm"
+    ],
+    "answer": "Cubital Fossa",
+    "explanation": "The bicipital aponeurosis is found in the cubital fossa, providing protection to underlying structures."
+  },
+  {
+    "question": "The median nerve passes through which structure at the wrist?",
+    "options": [
+      "Carpal Tunnel",
+      "Guyon's Canal",
+      "Anatomical Snuffbox",
+      "Cubital Tunnel"
+    ],
+    "answer": "Carpal Tunnel",
+    "explanation": "The median nerve passes through the carpal tunnel, which is bounded by the carpal bones and the flexor retinaculum."
+  },
+  {
+    "question": "Which muscle is primarily responsible for wrist flexion?",
+    "options": [
+      "Extensor Carpi Radialis",
+      "Flexor Carpi Ulnaris",
+      "Flexor Carpi Radialis",
+      "Extensor Carpi Ulnaris"
+    ],
+    "answer": "Flexor Carpi Radialis",
+    "explanation": "The flexor carpi radialis primarily flexes the wrist and assists in radial deviation."
+  },
+  {
+    "question": "The radial nerve provides sensory innervation to which area of the hand?",
+    "options": [
+      "Palmar aspect",
+      "Dorsal aspect",
+      "Medial aspect",
+      "Lateral aspect"
+    ],
+    "answer": "Dorsal aspect",
+    "explanation": "The radial nerve provides sensory innervation to the dorsal aspect of the hand, particularly the first three and a half fingers."
+  },
+  {
+    "question": "The ulnar nerve innervates which intrinsic muscle of the hand?",
+    "options": [
+      "Opponens Pollicis",
+      "Abductor Pollicis",
+      "Lumbricals",
+      "Flexor Pollicis"
+    ],
+    "answer": "Lumbricals",
+    "explanation": "The ulnar nerve innervates most of the intrinsic muscles of the hand, including the lumbricals (medial two)."
+  },
+  {
+    "question": "Which artery is found in the anatomical snuffbox?",
+    "options": [
+      "Ulnar Artery",
+      "Radial Artery",
+      "Brachial Artery",
+      "Axillary Artery"
+    ],
+    "answer": "Radial Artery",
+    "explanation": "The radial artery runs through the anatomical snuffbox, supplying blood to the hand."
+  },
+  {
+    "question": "Which muscle is a prime mover for forearm supination?",
+    "options": [
+      "Biceps Brachii",
+      "Triceps Brachii",
+      "Pronator Teres",
+      "Supinator"
+    ],
+    "answer": "Supinator",
+    "explanation": "The supinator muscle, along with the biceps brachii, is responsible for supinating the forearm."
+  },
+  {
+    "question": "The median nerve is responsible for innervating which of the following muscles?",
+    "options": [
+      "Flexor Digitorum",
+      "Extensor Digitorum",
+      "Flexor Pollicis",
+      "Both A and C"
+    ],
+    "answer": "Both A and C",
+    "explanation": "The median nerve innervates the flexor digitorum superficialis and flexor pollicis longus."
+  },
+  {
+    "question": "Which structure separates the anterior and posterior compartments of the arm?",
+    "options": [
+      "Intermuscular Septum",
+      "Bicipital Aponeurosis",
+      "Coracobrachialis",
+      "Deltoid"
+    ],
+    "answer": "Intermuscular Septum",
+    "explanation": "The intermuscular septum divides the anterior and posterior compartments of the arm."
+  },
+  {
+    "question": "The brachial plexus is formed by the ventral rami of which spinal nerves?",
+    "options": [
+      "C5-T1",
+      "T1-T12",
+      "C1-C4",
+      "L1-L5"
+    ],
+    "answer": "C5-T1",
+    "explanation": "The brachial plexus is formed by the ventral rami of spinal nerves C5 to T1."
+  },
+  {
+    "question": "Which muscle is responsible for opposition of the thumb?",
+    "options": [
+      "Flexor Pollicis",
+      "Abductor Pollicis",
+      "Opponens Pollicis",
+      "Adductor Pollicis"
+    ],
+    "answer": "Opponens Pollicis",
+    "explanation": "The opponens pollicis muscle allows for the opposition movement of the thumb, crucial for grasping."
+  },
+  {
+    "question": "The superficial veins of the arm primarily drain into which vein?",
+    "options": [
+      "Brachial Vein",
+      "Axillary Vein",
+      "Subclavian Vein",
+      "Cephalic Vein"
+    ],
+    "answer": "Axillary Vein",
+    "explanation": "The superficial veins of the arm, including the cephalic vein, drain into the axillary vein."
+  },
+  {
+    "question": "Which nerve can be affected by a fracture of the medial epicondyle of the humerus?",
+    "options": [
+      "Median Nerve",
+      "Ulnar Nerve",
+      "Radial Nerve",
+      "Musculocutaneous Nerve"
+    ],
+    "answer": "Ulnar Nerve",
+    "explanation": "The ulnar nerve can be affected by a fracture of the medial epicondyle, leading to \"funny bone\" symptoms."
+  },
+  {
+    "question": "The flexor retinaculum forms the roof of which structure?",
+    "options": [
+      "Carpal Tunnel",
+      "Cubital Tunnel",
+      "Anatomical Snuffbox",
+      "Bicipital Groove"
+    ],
+    "answer": "Carpal Tunnel",
+    "explanation": "The flexor retinaculum forms the roof of the carpal tunnel, containing the median nerve and flexor tendons."
+  },
+  {
+    "question": "The biceps brachii muscle has which of the following actions?",
+    "options": [
+      "Elbow extension",
+      "Shoulder flexion",
+      "Forearm pronation",
+      "Shoulder abduction"
+    ],
+    "answer": "Shoulder flexion",
+    "explanation": "The biceps brachii primarily flexes the elbow and assists in shoulder flexion."
+  },
+  {
+    "question": "Which muscle is NOT innervated by the median nerve?",
+    "options": [
+      "Opponens Pollicis",
+      "Flexor Pollicis",
+      "Flexor Digitorum",
+      "Abductor Pollicis"
+    ],
+    "answer": "Abductor Pollicis",
+    "explanation": "The abductor pollicis is innervated by the ulnar nerve, not the median nerve."
+  },
+  {
+    "question": "The radial nerve runs in which anatomical location?",
+    "options": [
+      "Medial aspect of the arm",
+      "Lateral aspect of the arm",
+      "Cubital Fossa",
+      "Radial Groove"
+    ],
+    "answer": "Radial Groove",
+    "explanation": "The radial nerve runs in the radial groove of the humerus, innervating the posterior compartment."
+  },
+  {
+    "question": "Which structure is responsible for the drainage of lymph from the lateral aspect of the arm?",
+    "options": [
+      "Axillary Lymph Nodes",
+      "Supraclavicular Nodes",
+      "Inguinal Nodes",
+      "Cervical Nodes"
+    ],
+    "answer": "Axillary Lymph Nodes",
+    "explanation": "The axillary lymph nodes drain lymph from the lateral aspect of the arm."
+  },
+  {
+    "question": "Which joint allows for the greatest range of motion in the upper limb?",
+    "options": [
+      "Humeroulnar Joint",
+      "Glenohumeral Joint",
+      "Acromioclavicular Joint",
+      "Sternoclavicular Joint"
+    ],
+    "answer": "Glenohumeral Joint",
+    "explanation": "The glenohumeral joint is a ball-and-socket joint, allowing extensive movement in multiple directions."
+  },
+  {
+    "question": "The medial epicondyle of the humerus serves as an attachment site for which structures?",
+    "options": [
+      "Extensor Muscles",
+      "Flexor Muscles",
+      "Rotator Cuff Muscles",
+      "Abductor Muscles"
+    ],
+    "answer": "Flexor Muscles",
+    "explanation": "The medial epicondyle serves as the origin for the flexor muscles of the forearm."
+  },
+  {
+    "question": "Which structure is a primary stabilizing factor of the shoulder joint?",
+    "options": [
+      "Rotator Cuff",
+      "Glenoid Labrum",
+      "Coracoacromial Ligament",
+      "All of the above"
+    ],
+    "answer": "All of the above",
+    "explanation": "All listed structures contribute to the stability of the glenohumeral joint."
+  },
+  {
+    "question": "What is the primary function of the acromioclavicular joint?",
+    "options": [
+      "Flexion and extension",
+      "Rotational movement",
+      "Stabilization of the shoulder",
+      "Adduction and abduction"
+    ],
+    "answer": "Stabilization of the shoulder",
+    "explanation": "The acromioclavicular joint stabilizes the shoulder, allowing for normal arm movement."
+  },
+  {
+    "question": "Which bony landmark is used for surface marking of the heart?",
+    "options": [
+      "xiphoid process",
+      "Manubrium",
+      "Sternal angle",
+      "Clavicle"
+    ],
+    "answer": "Sternal angle",
+    "explanation": "The sternal angle (Angle of Louis) is used as a reference point for surface marking of the heart."
+  },
+  {
+    "question": "Which imaging technique is best for visualizing soft tissue structures?",
+    "options": [
+      "X-ray",
+      "CT Scan",
+      "MRI",
+      "Ultrasound"
+    ],
+    "answer": "MRI",
+    "explanation": "MRI provides excellent detail for soft tissue structures, including muscles and ligaments."
+  },
+  {
+    "question": "The head of the humerus articulates with which structure?",
+    "options": [
+      "Glenoid Cavity",
+      "Acromion",
+      "Coracoid Process",
+      "Clavicle"
+    ],
+    "answer": "Glenoid Cavity",
+    "explanation": "The head of the humerus articulates with the glenoid cavity of the scapula to form the shoulder joint."
+  },
+  {
+    "question": "Which joint connects the upper limb to the axial skeleton?",
+    "options": [
+      "Glenohumeral Joint",
+      "Sternoclavicular Joint",
+      "Humeroulnar Joint",
+      "Acromioclavicular Joint"
+    ],
+    "answer": "Sternoclavicular Joint",
+    "explanation": "The sternoclavicular joint connects the upper limb to the axial skeleton at the sternum."
+  },
+  {
+    "question": "Which type of joint is the elbow?",
+    "options": [
+      "Hinge Joint",
+      "Ball-and-Socket Joint",
+      "Pivot Joint",
+      "Saddle Joint"
+    ],
+    "answer": "Hinge Joint",
+    "explanation": "The elbow is classified as a hinge joint, allowing for flexion and extension of the forearm."
+  },
+  {
+    "question": "The radial head articulates with which structure?",
+    "options": [
+      "Ulna",
+      "Humerus",
+      "Scapula",
+      "Carpal Bones"
+    ],
+    "answer": "Ulna",
+    "explanation": "The radial head articulates with the capitulum of the humerus and the radial notch of the ulna."
+  },
+  {
+    "question": "Which rib is considered the first true rib?",
+    "options": [
+      "Rib 1",
+      "Rib 2",
+      "Rib 7",
+      "Rib 12"
+    ],
+    "answer": "Rib 1",
+    "explanation": "Rib 1 is considered the first true rib, as it directly articulates with the sternum."
+  },
+  {
+    "question": "The thoracic vertebrae are characterized by which feature?",
+    "options": [
+      "Transverse Foramina",
+      "Costal Facets",
+      "Bifid Spinous Processes",
+      "Long Spinous Processes"
+    ],
+    "answer": "Costal Facets",
+    "explanation": "Thoracic vertebrae have costal facets for articulation with the ribs."
+  },
+  {
+    "question": "Which imaging study is most useful for assessing bone fractures?",
+    "options": [
+      "MRI",
+      "CT Scan",
+      "X-ray",
+      "Ultrasound"
+    ],
+    "answer": "X-ray",
+    "explanation": "X-ray is the standard imaging modality for evaluating bone fractures."
+  },
+  {
+    "question": "The costovertebral joints connect which two structures?",
+    "options": [
+      "Ribs and Sternum",
+      "Ribs and Vertebrae",
+      "Ribs and Clavicle",
+      "Ribs and Scapula"
+    ],
+    "answer": "Ribs and Vertebrae",
+    "explanation": "The costovertebral joints connect the ribs to the thoracic vertebrae."
+  },
+  {
+    "question": "The glenoid labrum serves to do what?",
+    "options": [
+      "Increase stability",
+      "Decrease mobility",
+      "Provide blood supply",
+      "Protect the joint"
+    ],
+    "answer": "Increase stability",
+    "explanation": "The glenoid labrum deepens the glenoid cavity, increasing the stability of the shoulder joint."
+  },
+  {
+    "question": "Which of the following is NOT a part of the thoracic wall?",
+    "options": [
+      "Ribs",
+      "Sternum",
+      "Clavicle",
+      "Thoracic Vertebrae"
+    ],
+    "answer": "Clavicle",
+    "explanation": "The clavicle is not part of the thoracic wall; it connects the upper limb to the axial skeleton."
+  },
+  {
+    "question": "The scapula is located at which vertebral levels?",
+    "options": [
+      "T1-T3",
+      "T2-T7",
+      "T4-T8",
+      "T5-T10"
+    ],
+    "answer": "T2-T7",
+    "explanation": "The scapula typically spans vertebral levels T2 to T7."
+  },
+  {
+    "question": "Which ligament helps to stabilize the sternoclavicular joint?",
+    "options": [
+      "Costoclavicular Ligament",
+      "Coracoclavicular Ligament",
+      "Sternoclavicular Ligament",
+      "Transverse Humeral Ligament"
+    ],
+    "answer": "Sternoclavicular Ligament",
+    "explanation": "The sternoclavicular ligament stabilizes the sternoclavicular joint by connecting the sternum and clavicle."
+  },
+  {
+    "question": "Which rib articulates with the sternal angle?",
+    "options": [
+      "Rib 1",
+      "Rib 2",
+      "Rib 3",
+      "Rib 4"
+    ],
+    "answer": "Rib 2",
+    "explanation": "Rib 2 articulates with the sternal angle (Angle of Louis), marking a significant anatomical landmark."
+  },
+  {
+    "question": "The seratus anterior muscle is primarily associated with which action?",
+    "options": [
+      "Shoulder Flexion",
+      "Scapular Protraction",
+      "Arm Adduction",
+      "Arm Abduction"
+    ],
+    "answer": "Scapular Protraction",
+    "explanation": "The serratus anterior is responsible for protracting the scapula, allowing for arm movement."
+  },
+  {
+    "question": "A herniated disc in the thoracic region may affect which structure?",
+    "options": [
+      "Spinal Cord",
+      "Lungs",
+      "Heart",
+      "Diaphragm"
+    ],
+    "answer": "Spinal Cord",
+    "explanation": "A herniated thoracic disc can compress the spinal cord, leading to neurological symptoms."
+  },
+  {
+    "question": "The intercostal muscles are primarily responsible for which function?",
+    "options": [
+      "Breathing",
+      "Arm Movement",
+      "Leg Movement",
+      "Spine Stabilization"
+    ],
+    "answer": "Breathing",
+    "explanation": "The intercostal muscles assist in respiration by elevating and depressing the ribs during breathing."
+  },
+  {
+    "question": "Which joint is a pivot joint?",
+    "options": [
+      "Glenohumeral Joint",
+      "Humeroulnar Joint",
+      "Proximal Radioulnar Joint",
+      "Acromioclavicular Joint"
+    ],
+    "answer": "Proximal Radioulnar Joint",
+    "explanation": "The proximal radioulnar joint is a pivot joint, allowing for rotation of the forearm."
+  },
+  {
+    "question": "The thoracic cavity is separated from the abdominal cavity by which structure?",
+    "options": [
+      "Diaphragm",
+      "Mediastinum",
+      "Intercostal Muscles",
+      "Thoracic Wall"
+    ],
+    "answer": "Diaphragm",
+    "explanation": "The diaphragm separates the thoracic cavity from the abdominal cavity, acting as a primary respiratory muscle."
+  },
+  {
+    "question": "The humeral head is positioned in which anatomical structure?",
+    "options": [
+      "Glenoid Cavity",
+      "Acromion",
+      "Coracoid Process",
+      "Sternal Notch"
+    ],
+    "answer": "Glenoid Cavity",
+    "explanation": "The humeral head fits into the glenoid cavity of the scapula, forming the shoulder joint."
+  },
+  {
+    "question": "Which of the following joints allows for flexion and extension?",
+    "options": [
+      "Glenohumeral Joint",
+      "Humeroulnar Joint",
+      "Acromioclavicular Joint",
+      "Sternoclavicular Joint"
+    ],
+    "answer": "Humeroulnar Joint",
+    "explanation": "The humeroulnar joint allows for flexion and extension of the forearm relative to the upper arm."
+  },
+  {
+    "question": "The costal margin is formed by which ribs?",
+    "options": [
+      "Ribs 7-10",
+      "Ribs 11-12",
+      "Ribs 1-7",
+      "Ribs 1-10"
+    ],
+    "answer": "Ribs 7-10",
+    "explanation": "The costal margin is formed by the cartilaginous extensions of ribs 7 to 10."
+  },
+  {
+    "question": "Which imaging technique is best for assessing joint disorders?",
+    "options": [
+      "X-ray",
+      "MRI",
+      "CT Scan",
+      "Ultrasound"
+    ],
+    "answer": "MRI",
+    "explanation": "MRI is superior for evaluating joint disorders, cartilage, and soft tissue injuries."
+  },
+  {
+    "question": "The thoracic inlet is bounded by which structures?",
+    "options": [
+      "First Rib",
+      "Manubrium",
+      "T1 Vertebra",
+      "All of the above"
+    ],
+    "answer": "All of the above",
+    "explanation": "The thoracic inlet is bounded by the first rib, manubrium, and T1 vertebra, forming the upper limit of the thoracic cavity."
+  },
+  {
+    "question": "The humerus articulates with the radius at which joint?",
+    "options": [
+      "Humeroulnar Joint",
+      "Proximal Radioulnar Joint",
+      "Distal Radioulnar Joint",
+      "Glenohumeral Joint"
+    ],
+    "answer": "Humeroulnar Joint",
+    "explanation": "The humerus articulates with the radius at the humeroradial joint during elbow flexion and extension."
+  },
+  {
+    "question": "Which of the following is a characteristic of the lumbar vertebrae?",
+    "options": [
+      "Long Spinous Processes",
+      "Costal Facets",
+      "Transverse Foramina",
+      "Short Pedicles"
+    ],
+    "answer": "Long Spinous Processes",
+    "explanation": "Lumbar vertebrae are characterized by longer spinous processes that provide attachment for back muscles."
+  },
+  {
+    "question": "The articular surfaces of the glenohumeral joint are covered by which type of cartilage?",
+    "options": [
+      "Elastic Cartilage",
+      "Fibrocartilage",
+      "Hyaline Cartilage",
+      "None of the above"
+    ],
+    "answer": "Hyaline Cartilage",
+    "explanation": "The articular surfaces of the glenohumeral joint are covered by hyaline cartilage, providing a smooth surface for movement."
+  },
+  {
+    "question": "Which nerve is responsible for innervating the serratus anterior muscle?",
+    "options": [
+      "Long Thoracic Nerve",
+      "Medial Pectoral Nerve",
+      "Thoracodorsal Nerve",
+      "Axillary Nerve"
+    ],
+    "answer": "Long Thoracic Nerve",
+    "explanation": "The long thoracic nerve innervates the serratus anterior muscle, essential for scapular movement."
+  },
+  {
+    "question": "The manubrium articulates with which rib?",
+    "options": [
+      "Rib 1",
+      "Rib 2",
+      "Rib 3",
+      "Rib 4"
+    ],
+    "answer": "Rib 1",
+    "explanation": "The manubrium articulates with the first rib at the sternoclavicular joint."
+  },
+  {
+    "question": "Which joint allows for opposition of the thumb?",
+    "options": [
+      "Carpometacarpal Joint",
+      "Metacarpophalangeal Joint",
+      "Interphalangeal Joint",
+      "Radiocarpal Joint"
+    ],
+    "answer": "Carpometacarpal Joint",
+    "explanation": "The carpometacarpal joint of the thumb allows for opposition, a unique movement essential for grasping."
+  },
+  {
+    "question": "The thoracic vertebrae typically have how many pairs of ribs articulating with them?",
+    "options": [
+      10,
+      11,
+      12,
+      13
+    ],
+    "answer": 12,
+    "explanation": "There are 12 pairs of ribs that articulate with the thoracic vertebrae, forming the ribcage."
+  },
+  {
+    "question": "Which structure separates the thoracic cavity from the abdominal cavity?",
+    "options": [
+      "Diaphragm",
+      "Mediastinum",
+      "Thoracic Wall",
+      "Costal Cartilage"
+    ],
+    "answer": "Diaphragm",
+    "explanation": "The diaphragm is the muscular structure that separates the thoracic cavity from the abdominal cavity."
+  },
+  {
+    "question": "The pleural cavity is located between which two layers?",
+    "options": [
+      "Visceral and Parietal Pleura",
+      "Diaphragm and Lung",
+      "Thoracic Wall and Lung",
+      "Mediastinum and Lung"
+    ],
+    "answer": "Visceral and Parietal Pleura",
+    "explanation": "The pleural cavity is the space between the visceral pleura (covering the lungs) and the parietal pleura (lining the thoracic wall)."
+  },
+  {
+    "question": "Which lung has three lobes?",
+    "options": [
+      "Right Lung",
+      "Left Lung",
+      "Both lungs",
+      "Neither lung"
+    ],
+    "answer": "Right Lung",
+    "explanation": "The right lung has three lobes: upper, middle, and lower, whereas the left lung has two lobes."
+  },
+  {
+    "question": "The carina is located at which level of the spine?",
+    "options": [
+      "T2",
+      "T5",
+      "T7",
+      "T10"
+    ],
+    "answer": "T5",
+    "explanation": "The carina, the ridge at the bifurcation of the trachea into the bronchi, is located at the level of T5."
+  },
+  {
+    "question": "The mediastinum contains which of the following structures?",
+    "options": [
+      "Heart",
+      "Lungs",
+      "Diaphragm",
+      "All of the above"
+    ],
+    "answer": "Heart",
+    "explanation": "The mediastinum contains the heart, great vessels, trachea, esophagus, and other structures."
+  },
+  {
+    "question": "Which layer surrounds the heart?",
+    "options": [
+      "Epicardium",
+      "Myocardium",
+      "Endocardium",
+      "Both A and C"
+    ],
+    "answer": "Both A and C",
+    "explanation": "The heart is surrounded by the epicardium (visceral layer) and lined by the endocardium."
+  },
+  {
+    "question": "The left atrium receives blood from which structure?",
+    "options": [
+      "Pulmonary Veins",
+      "Aorta",
+      "Vena Cava",
+      "Coronary Arteries"
+    ],
+    "answer": "Pulmonary Veins",
+    "explanation": "The left atrium receives oxygenated blood from the lungs via the pulmonary veins."
+  },
+  {
+    "question": "Which valve prevents backflow into the left atrium?",
+    "options": [
+      "Mitral Valve",
+      "Aortic Valve",
+      "Tricuspid Valve",
+      "Pulmonic Valve"
+    ],
+    "answer": "Mitral Valve",
+    "explanation": "The mitral valve prevents backflow of blood into the left atrium during ventricular contraction."
+  },
+  {
+    "question": "The primary muscle responsible for inspiration is the:",
+    "options": [
+      "Intercostal Muscles",
+      "Diaphragm",
+      "Abdominal Muscles",
+      "Sternocleidomastoid"
+    ],
+    "answer": "Diaphragm",
+    "explanation": "The diaphragm is the primary muscle responsible for inspiration, contracting to increase thoracic volume."
+  },
+  {
+    "question": "The right lung is divided into which lobes?",
+    "options": [
+      "Upper and Lower",
+      "Upper, Middle, and Lower",
+      "Middle and Lower",
+      "Upper and Middle"
+    ],
+    "answer": "Upper, Middle, and Lower",
+    "explanation": "The right lung is divided into three lobes: upper, middle, and lower."
+  },
+  {
+    "question": "The pericardial cavity is located between which two layers?",
+    "options": [
+      "Myocardium and Epicardium",
+      "Pericardium and Mediastinum",
+      "Parietal and Visceral Pericardium",
+      "Epicardium and Myocardium"
+    ],
+    "answer": "Parietal and Visceral Pericardium",
+    "explanation": "The pericardial cavity is the space between the parietal pericardium and visceral pericardium."
+  },
+  {
+    "question": "Which structure is responsible for the conduction system of the heart?",
+    "options": [
+      "Sinoatrial Node",
+      "Atrioventricular Node",
+      "Bundle of His",
+      "All of the above"
+    ],
+    "answer": "All of the above",
+    "explanation": "All the listed structures are part of the conduction system that coordinates heart contractions."
+  },
+  {
+    "question": "The thoracic duct drains lymph from which regions of the body?",
+    "options": [
+      "Upper Extremities",
+      "Lower Extremities",
+      "Both Upper and Lower",
+      "None of the above"
+    ],
+    "answer": "Both Upper and Lower",
+    "explanation": "The thoracic duct drains lymph from both the upper and lower parts of the body, except the right upper quadrant."
+  },
+  {
+    "question": "The left ventricle pumps blood into which structure?",
+    "options": [
+      "Aorta",
+      "Pulmonary Artery",
+      "Coronary Arteries",
+      "Vena Cava"
+    ],
+    "answer": "Aorta",
+    "explanation": "The left ventricle pumps oxygenated blood into the aorta to supply the body."
+  },
+  {
+    "question": "Which structure is responsible for the \"lub\" sound during heartbeats?",
+    "options": [
+      "Aortic Valve",
+      "Mitral Valve",
+      "Pulmonic Valve",
+      "Tricuspid Valve"
+    ],
+    "answer": "Mitral Valve",
+    "explanation": "The \"lub\" sound is produced by the closure of the mitral and tricuspid valves at the beginning of ventricular systole."
+  },
+  {
+    "question": "The pleurae allow for which of the following functions?",
+    "options": [
+      "Gas exchange",
+      "Lubrication of lungs",
+      "Nutrient absorption",
+      "None of the above"
+    ],
+    "answer": "Lubrication of lungs",
+    "explanation": "The pleurae secrete pleural fluid, which lubricates the surfaces of the lungs during respiration."
+  },
+  {
+    "question": "The right atrium receives blood from which structures?",
+    "options": [
+      "Pulmonary Veins",
+      "Aorta",
+      "Superior and Inferior Vena Cava",
+      "Coronary Arteries"
+    ],
+    "answer": "Superior and Inferior Vena Cava",
+    "explanation": "The right atrium receives deoxygenated blood from the superior and inferior vena cava."
+  },
+  {
+    "question": "Which is the most common site for a pericardiocentesis?",
+    "options": [
+      "Left Sternal Border",
+      "Right Sternal Border",
+      "Xiphoid Process",
+      "Midclavicular Line"
+    ],
+    "answer": "Left Sternal Border",
+    "explanation": "The left sternal border is the most common site for pericardiocentesis to avoid lung injury."
+  },
+  {
+    "question": "The main bronchus divides into the secondary bronchi at which anatomical location?",
+    "options": [
+      "Carina",
+      "Hilum",
+      "Tracheal Bifurcation",
+      "Larynx"
+    ],
+    "answer": "Carina",
+    "explanation": "The main bronchus divides into the secondary bronchi at the carina, located at T5."
+  },
+  {
+    "question": "What is the primary function of the lungs?",
+    "options": [
+      "Gas Exchange",
+      "Blood Filtration",
+      "Hormone Production",
+      "Immune Response"
+    ],
+    "answer": "Gas Exchange",
+    "explanation": "The primary function of the lungs is gas exchange, allowing oxygen to enter the blood and carbon dioxide to be expelled."
+  },
+  {
+    "question": "Which artery supplies the heart muscle with oxygenated blood?",
+    "options": [
+      "Coronary Arteries",
+      "Pulmonary Arteries",
+      "Aorta",
+      "Subclavian Arteries"
+    ],
+    "answer": "Coronary Arteries",
+    "explanation": "The coronary arteries supply the heart muscle (myocardium) with oxygenated blood."
+  },
+  {
+    "question": "The right lung has which of the following features compared to the left lung?",
+    "options": [
+      "More lobes",
+      "Shorter bronchus",
+      "Horizontal Fissure",
+      "Both A and C"
+    ],
+    "answer": "Both A and C",
+    "explanation": "The right lung has more lobes and a horizontal fissure compared to the left lung."
+  },
+  {
+    "question": "The pericardium is composed of which layers?",
+    "options": [
+      "Visceral and Parietal",
+      "Serous and Fibrous",
+      "Muscular and Serous",
+      "Epithelial and Connective"
+    ],
+    "answer": "Serous and Fibrous",
+    "explanation": "The pericardium consists of the fibrous pericardium and the serous pericardium (visceral and parietal layers)."
+  },
+  {
+    "question": "Which of the following structures is NOT found in the mediastinum?",
+    "options": [
+      "Heart",
+      "Trachea",
+      "Aorta",
+      "Lungs"
+    ],
+    "answer": "Lungs",
+    "explanation": "The lungs are not found in the mediastinum; they are located laterally in the thoracic cavity."
+  },
+  {
+    "question": "The left main bronchus is longer and more horizontal than the right main bronchus.",
+    "options": [
+      true,
+      false,
+      NaN,
+      NaN
+    ],
+    "answer": false,
+    "explanation": "The left main bronchus is typically longer and more vertical compared to the right main bronchus."
+  },
+  {
+    "question": "The mediastinum is divided into which compartments?",
+    "options": [
+      "Anterior and Posterior",
+      "Superior and Inferior",
+      "Middle and Lateral",
+      "Both A and B"
+    ],
+    "answer": "Both A and B",
+    "explanation": "The mediastinum is divided into the superior mediastinum and the inferior mediastinum, which is further divided into anterior and posterior compartments."
+  },
+  {
+    "question": "The diaphragm is innervated by which nerve?",
+    "options": [
+      "Phrenic Nerve",
+      "Vagus Nerve",
+      "Intercostal Nerve",
+      "Accessory Nerve"
+    ],
+    "answer": "Phrenic Nerve",
+    "explanation": "The diaphragm is innervated by the phrenic nerve, which originates from C3, C4, and C5 spinal nerves."
+  },
+  {
+    "question": "The right coronary artery supplies which part of the heart?",
+    "options": [
+      "Left Atrium",
+      "Right Atrium",
+      "Left Ventricle",
+      "Aorta"
+    ],
+    "answer": "Right Atrium",
+    "explanation": "The right coronary artery primarily supplies the right atrium and parts of the right ventricle."
+  },
+  {
+    "question": "The pulmonary arteries carry which type of blood?",
+    "options": [
+      "Oxygenated Blood",
+      "Deoxygenated Blood",
+      "Both Oxygenated and Deoxygenated",
+      "None of the above"
+    ],
+    "answer": "Deoxygenated Blood",
+    "explanation": "The pulmonary arteries carry deoxygenated blood from the right ventricle to the lungs."
+  },
+  {
+    "question": "The apex of the heart is located at which intercostal space?",
+    "options": [
+      "2nd",
+      "4th",
+      "5th",
+      "6th"
+    ],
+    "answer": "5th",
+    "explanation": "The apex of the heart is typically found at the 5th intercostal space in the midclavicular line."
+  },
+  {
+    "question": "The left lung has a structure known as the:",
+    "options": [
+      "Lingula",
+      "Horizontal Fissure",
+      "Oblique Fissure",
+      "All of the above"
+    ],
+    "answer": "Lingula",
+    "explanation": "The left lung has a lingula, which is a projection that corresponds to the middle lobe of the right lung."
+  },
+  {
+    "question": "Which structure provides structural support to the heart?",
+    "options": [
+      "Pericardium",
+      "Myocardium",
+      "Endocardium",
+      "Epicardium"
+    ],
+    "answer": "Pericardium",
+    "explanation": "The pericardium provides protective and structural support to the heart."
+  },
+  {
+    "question": "The right atrium receives blood from which source?",
+    "options": [
+      "Pulmonary Veins",
+      "Coronary Sinus",
+      "Aorta",
+      "Pulmonary Artery"
+    ],
+    "answer": "Coronary Sinus",
+    "explanation": "The right atrium receives deoxygenated blood from the coronary sinus, along with the superior and inferior vena cava."
+  },
+  {
+    "question": "What is the function of the pleurae?",
+    "options": [
+      "Protect the heart",
+      "Protect the lungs",
+      "Facilitate gas exchange",
+      "Both A and C"
+    ],
+    "answer": "Protect the lungs",
+    "explanation": "The pleurae protect the lungs and provide lubrication during respiration, facilitating smooth movement."
+  },
+  {
+    "question": "The pericardial effusion is characterized by which condition?",
+    "options": [
+      "Accumulation of air",
+      "Accumulation of fluid",
+      "Hypertrophy",
+      "Infarction"
+    ],
+    "answer": "Accumulation of fluid",
+    "explanation": "Pericardial effusion is the accumulation of fluid in the pericardial cavity, which can compress the heart."
+  },
+  {
+    "question": "The superior vena cava drains blood from which areas of the body?",
+    "options": [
+      "Lower Extremities",
+      "Upper Extremities",
+      "Both Upper and Lower",
+      "Abdomen"
+    ],
+    "answer": "Upper Extremities",
+    "explanation": "The superior vena cava collects deoxygenated blood from the head, neck, and upper extremities."
+  },
+  {
+    "question": "The aorta begins at which heart chamber?",
+    "options": [
+      "Left Atrium",
+      "Right Atrium",
+      "Left Ventricle",
+      "Right Ventricle"
+    ],
+    "answer": "Left Ventricle",
+    "explanation": "The aorta originates from the left ventricle of the heart."
+  },
+  {
+    "question": "The pulmonary trunk bifurcates into which structures?",
+    "options": [
+      "Left and Right Pulmonary Veins",
+      "Left and Right Main Bronchi",
+      "Left and Right Pulmonary Arteries",
+      "Left and Right Aortic Arteries"
+    ],
+    "answer": "Left and Right Pulmonary Arteries",
+    "explanation": "The pulmonary trunk bifurcates into the left and right pulmonary arteries."
+  },
+  {
+    "question": "At which vertebral level does the trachea bifurcate?",
+    "options": [
+      "T2",
+      "T4",
+      "T6",
+      "T8"
+    ],
+    "answer": "T4",
+    "explanation": "The trachea bifurcates into the left and right main bronchi at the level of T4."
+  },
+  {
+    "question": "The esophagus passes through the diaphragm at which vertebral level?",
+    "options": [
+      "T8",
+      "T10",
+      "T12",
+      "T6"
+    ],
+    "answer": "T10",
+    "explanation": "The esophagus passes through the diaphragm at the level of T10, through the esophageal hiatus."
+  },
+  {
+    "question": "The thoracic duct drains lymph from which part of the body?",
+    "options": [
+      "Right Upper Quadrant",
+      "Left Upper Quadrant",
+      "Both Upper Quadrants",
+      "Lower Body"
+    ],
+    "answer": "Lower Body",
+    "explanation": "The thoracic duct drains lymph from the left upper quadrant and the entire lower body."
+  },
+  {
+    "question": "The aortic arch gives rise to which arteries?",
+    "options": [
+      "Carotid Arteries",
+      "Subclavian Arteries",
+      "Brachiocephalic Artery",
+      "All of the above"
+    ],
+    "answer": "All of the above",
+    "explanation": "The aortic arch gives rise to the brachiocephalic trunk, left common carotid, and left subclavian arteries."
+  },
+  {
+    "question": "The surface marking for the trachea is located at which level?",
+    "options": [
+      "2nd Costal Cartilage",
+      "4th Costal Cartilage",
+      "6th Costal Cartilage",
+      "8th Costal Cartilage"
+    ],
+    "answer": "4th Costal Cartilage",
+    "explanation": "The trachea can be palpated or marked at the level of the 4th costal cartilage."
+  },
+  {
+    "question": "The thoracic duct typically ascends through the mediastinum at which anatomical location?",
+    "options": [
+      "Anterior Mediastinum",
+      "Posterior Mediastinum",
+      "Superior Mediastinum",
+      "Lateral Mediastinum"
+    ],
+    "answer": "Posterior Mediastinum",
+    "explanation": "The thoracic duct ascends through the posterior mediastinum, located between the aorta and the vertebral column."
+  },
+  {
+    "question": "Which structure runs posterior to the aorta?",
+    "options": [
+      "Trachea",
+      "Esophagus",
+      "Pulmonary Trunk",
+      "Thoracic Duct"
+    ],
+    "answer": "Esophagus",
+    "explanation": "The esophagus runs posterior to the aorta in the thorax."
+  },
+  {
+    "question": "The right main bronchus is more vertical than the left main bronchus.",
+    "options": [
+      true,
+      false,
+      NaN,
+      NaN
+    ],
+    "answer": false,
+    "explanation": "The right main bronchus is typically shorter and more vertical than the left main bronchus."
+  },
+  {
+    "question": "The surface marking of the aortic arch is typically located at which rib level?",
+    "options": [
+      "1st Rib",
+      "2nd Rib",
+      "3rd Rib",
+      "4th Rib"
+    ],
+    "answer": "2nd Rib",
+    "explanation": "The aortic arch is commonly located at the level of the 2nd rib (sternal angle)."
+  },
+  {
+    "question": "What is the primary function of the thoracic duct?",
+    "options": [
+      "Draining Blood",
+      "Draining Lymph",
+      "Draining Bile",
+      "Draining Urine"
+    ],
+    "answer": "Draining Lymph",
+    "explanation": "The thoracic duct's primary function is to drain lymph from the body into the venous system."
+  },
+  {
+    "question": "The aorta passes through the diaphragm at which vertebral level?",
+    "options": [
+      "T8",
+      "T10",
+      "T12",
+      "T6"
+    ],
+    "answer": "T12",
+    "explanation": "The aorta passes through the diaphragm at the level of T12, through the aortic hiatus."
+  },
+  {
+    "question": "Which of the following is NOT a branch of the aortic arch?",
+    "options": [
+      "Brachiocephalic Trunk",
+      "Left Common Carotid",
+      "Left Subclavian",
+      "Right Subclavian"
+    ],
+    "answer": "Right Subclavian",
+    "explanation": "The right subclavian artery is a branch of the brachiocephalic trunk, not the aortic arch."
+  },
+  {
+    "question": "The superior vena cava is formed by the union of which veins?",
+    "options": [
+      "Internal Jugular and Subclavian",
+      "External Jugular and Subclavian",
+      "Brachiocephalic and Subclavian",
+      "Internal Jugular and External Jugular"
+    ],
+    "answer": "Internal Jugular and Subclavian",
+    "explanation": "The superior vena cava is formed by the union of the right and left brachiocephalic veins."
+  },
+  {
+    "question": "The trachea is composed of which type of cartilage?",
+    "options": [
+      "Elastic Cartilage",
+      "Hyaline Cartilage",
+      "Fibrocartilage",
+      "None of the above"
+    ],
+    "answer": "Hyaline Cartilage",
+    "explanation": "The trachea is composed of C-shaped rings of hyaline cartilage that keep it open."
+  },
+  {
+    "question": "The left main bronchus is longer than the right main bronchus.",
+    "options": [
+      true,
+      false,
+      NaN,
+      NaN
+    ],
+    "answer": true,
+    "explanation": "The left main bronchus is typically longer and more horizontal than the right main bronchus."
+  },
+  {
+    "question": "The thoracic duct drains into which structure?",
+    "options": [
+      "Right Subclavian Vein",
+      "Left Subclavian Vein",
+      "Brachiocephalic Vein",
+      "Superior Vena Cava"
+    ],
+    "answer": "Left Subclavian Vein",
+    "explanation": "The thoracic duct drains into the left subclavian vein, contributing to the venous system."
+  },
+  {
+    "question": "The esophagus is located posterior to which structure?",
+    "options": [
+      "Trachea",
+      "Aorta",
+      "Pulmonary Trunk",
+      "All of the above"
+    ],
+    "answer": "All of the above",
+    "explanation": "The esophagus is located posterior to the trachea, aorta, and pulmonary trunk in the thorax."
+  },
+  {
+    "question": "The surface marking of the thoracic duct can be found at which vertebral level?",
+    "options": [
+      "T2",
+      "T5",
+      "T7",
+      "T10"
+    ],
+    "answer": "T5",
+    "explanation": "The thoracic duct typically ascends through the thorax around the level of T5."
+  },
+  {
+    "question": "The right brachiocephalic vein is longer than the left brachiocephalic vein.",
+    "options": [
+      true,
+      false,
+      NaN,
+      NaN
+    ],
+    "answer": false,
+    "explanation": "The left brachiocephalic vein is longer because it crosses over to join the superior vena cava."
+  },
+  {
+    "question": "The aortic arch curves over which structure?",
+    "options": [
+      "Trachea",
+      "Heart",
+      "Left Lung",
+      "Right Lung"
+    ],
+    "answer": "Heart",
+    "explanation": "The aortic arch curves over the heart, specifically the left atrium and ventricle."
+  },
+  {
+    "question": "Which structure is located anterior to the thoracic duct?",
+    "options": [
+      "Aorta",
+      "Esophagus",
+      "Pulmonary Trunk",
+      "Both A and B"
+    ],
+    "answer": "Pulmonary Trunk",
+    "explanation": "The thoracic duct is located posterior to the esophagus and anterior to the aorta."
+  },
+  {
+    "question": "The left recurrent laryngeal nerve loops around which structure?",
+    "options": [
+      "Aortic Arch",
+      "Pulmonary Trunk",
+      "Left Subclavian Artery",
+      "Left Ventricle"
+    ],
+    "answer": "Aortic Arch",
+    "explanation": "The left recurrent laryngeal nerve loops around the aortic arch before ascending."
+  },
+  {
+    "question": "The trachea is lined with which type of epithelium?",
+    "options": [
+      "Simple Squamous",
+      "Stratified Squamous",
+      "Ciliated Columnar",
+      "Transitional"
+    ],
+    "answer": "Ciliated Columnar",
+    "explanation": "The trachea is lined with ciliated columnar epithelium, facilitating the movement of mucus."
+  },
+  {
+    "question": "The surface marking for the apex of the lung is located at which level?",
+    "options": [
+      "2nd Intercostal Space",
+      "4th Intercostal Space",
+      "6th Intercostal Space",
+      "8th Intercostal Space"
+    ],
+    "answer": "2nd Intercostal Space",
+    "explanation": "The apex of the lung is typically located at the level of the 2nd intercostal space."
+  },
+  {
+    "question": "The aorta divides into which major branches?",
+    "options": [
+      "Coronary Arteries",
+      "Pulmonary Arteries",
+      "Common Iliac Arteries",
+      "Brachiocephalic Artery"
+    ],
+    "answer": "Brachiocephalic Artery",
+    "explanation": "The aorta divides into the common iliac arteries and gives rise to major branches such as the coronary arteries."
+  },
+  {
+    "question": "The thoracic duct is commonly associated with which vertebral level?",
+    "options": [
+      "T5",
+      "T10",
+      "T12",
+      "L1"
+    ],
+    "answer": "T5",
+    "explanation": "The thoracic duct commonly runs along the vertebral column around the level of T5."
+  },
+  {
+    "question": "The left pulmonary artery is shorter than the right pulmonary artery.",
+    "options": [
+      true,
+      false,
+      NaN,
+      NaN
+    ],
+    "answer": false,
+    "explanation": "The left pulmonary artery is typically longer as it must traverse further horizontally to reach the left lung."
+  },
+  {
+    "question": "The trachea extends from which vertebral level to which vertebral level?",
+    "options": [
+      "C6 to T4",
+      "C6 to T5",
+      "T1 to T5",
+      "C5 to T6"
+    ],
+    "answer": "C6 to T4",
+    "explanation": "The trachea extends from approximately C6 to T4, where it bifurcates into the main bronchi."
+  },
+  {
+    "question": "The surface marking of the esophagus can be found at which vertebral level?",
+    "options": [
+      "T6",
+      "T8",
+      "T10",
+      "T12"
+    ],
+    "answer": "T8",
+    "explanation": "The esophagus typically runs posterior to the trachea and is marked at T10 as it passes through the diaphragm."
+  },
+  {
+    "question": "The right pulmonary veins drain into which structure?",
+    "options": [
+      "Right Atrium",
+      "Right Ventricle",
+      "Left Atrium",
+      "Left Ventricle"
+    ],
+    "answer": "Left Atrium",
+    "explanation": "The right pulmonary veins drain oxygenated blood into the left atrium."
+  },
+  {
+    "question": "The aortic arch is located at which anatomical position?",
+    "options": [
+      "Anterior Mediastinum",
+      "Posterior Mediastinum",
+      "Superior Mediastinum",
+      "Lateral Mediastinum"
+    ],
+    "answer": "Superior Mediastinum",
+    "explanation": "The aortic arch is found in the superior mediastinum, arching over the left main bronchus."
+  },
+  {
+    "question": "The thoracic duct drains lymph into which vein?",
+    "options": [
+      "Right Brachiocephalic",
+      "Left Brachiocephalic",
+      "Right Subclavian",
+      "Left Subclavian"
+    ],
+    "answer": "Left Subclavian",
+    "explanation": "The thoracic duct drains lymph into the left subclavian vein at the junction of the left internal jugular vein."
+  },
+  {
+    "question": "The esophagus can be compressed by which structures?",
+    "options": [
+      "Aorta",
+      "Left Main Bronchus",
+      "Both A and B",
+      "None of the above"
+    ],
+    "answer": "Both A and B",
+    "explanation": "The esophagus can be compressed by the aorta and left main bronchus as it passes through the thorax."
+  },
+  {
+    "question": "The pulmonary trunk begins at which part of the heart?",
+    "options": [
+      "Right Atrium",
+      "Right Ventricle",
+      "Left Atrium",
+      "Left Ventricle"
+    ],
+    "answer": "Right Ventricle",
+    "explanation": "The pulmonary trunk arises from the right ventricle, transporting deoxygenated blood to the lungs."
+  },
+  {
+    "question": "The thoracic duct ascends in which mediastinal compartment?",
+    "options": [
+      "Anterior",
+      "Middle",
+      "Posterior",
+      "Superior"
+    ],
+    "answer": "Posterior",
+    "explanation": "The thoracic duct ascends through the posterior mediastinum."
+  },
+  {
+    "question": "Which structure is located anteromedial to the lung?",
+    "options": [
+      "Heart",
+      "Aorta",
+      "Trachea",
+      "Esophagus"
+    ],
+    "answer": "Heart",
+    "explanation": "The heart is located anteromedial to the lungs in the thoracic cavity."
+  },
+  {
+    "question": "A 55-year-old male presents with chest pain radiating to the left arm. ECG shows ST elevation in leads II, III, and aVF. What is the most likely diagnosis?",
+    "options": [
+      "Aortic Dissection",
+      "Myocardial Infarction",
+      "Pulmonary Embolism",
+      "Pericarditis"
+    ],
+    "answer": "Myocardial Infarction",
+    "explanation": "The ST elevation in leads II, III, and aVF indicates inferior wall myocardial infarction."
+  },
+  {
+    "question": "A 72-year-old female presents with shortness of breath and a productive cough with green sputum. What is the most likely cause of her symptoms?",
+    "options": [
+      "Asthma",
+      "Pneumonia",
+      "COPD",
+      "Congestive Heart Failure"
+    ],
+    "answer": "Pneumonia",
+    "explanation": "The productive cough with green sputum suggests a bacterial pneumonia, likely due to infection."
+  },
+  {
+    "question": "A 30-year-old woman presents with fatigue, pallor, and a history of heavy menstrual periods. What laboratory finding is most likely?",
+    "options": [
+      "Elevated Iron Levels",
+      "Decreased Ferritin",
+      "Normal Hemoglobin",
+      "Elevated Hemoglobin"
+    ],
+    "answer": "Decreased Ferritin",
+    "explanation": "Heavy menstrual periods can lead to iron deficiency anemia, indicated by decreased ferritin levels."
+  },
+  {
+    "question": "A 45-year-old male with a history of smoking presents with a chronic cough and hemoptysis. Chest X-ray shows a mass in the right upper lobe. What is the most likely diagnosis?",
+    "options": [
+      "Tuberculosis",
+      "Lung Cancer",
+      "Pneumonia",
+      "Bronchiectasis"
+    ],
+    "answer": "Lung Cancer",
+    "explanation": "The smoking history and hemoptysis with a mass in the lung are suggestive of lung cancer."
+  },
+  {
+    "question": "A 28-year-old female presents with sudden onset of severe chest pain and dyspnea. She has a history of deep vein thrombosis. What is the most likely diagnosis?",
+    "options": [
+      "Pulmonary Embolism",
+      "Myocardial Infarction",
+      "Aortic Dissection",
+      "Pneumothorax"
+    ],
+    "answer": "Pulmonary Embolism",
+    "explanation": "Sudden chest pain and dyspnea in the context of DVT history strongly suggest pulmonary embolism."
+  },
+  {
+    "question": "A 65-year-old male presents with difficulty swallowing and weight loss. Endoscopy reveals an obstruction in the esophagus. What is the most likely cause?",
+    "options": [
+      "Esophageal Cancer",
+      "Achalasia",
+      "Esophagitis",
+      "Gastroesophageal Reflux Disease"
+    ],
+    "answer": "Esophageal Cancer",
+    "explanation": "The combination of dysphagia and weight loss raises suspicion for esophageal cancer."
+  },
+  {
+    "question": "A 50-year-old female presents with a new onset of headaches and blurred vision. Fundoscopic exam shows copper deposits in the cornea. What is the most likely diagnosis?",
+    "options": [
+      "Wilson’s Disease",
+      "Hemochromatosis",
+      "Multiple Sclerosis",
+      "Hyperparathyroidism"
+    ],
+    "answer": "Wilson’s Disease",
+    "explanation": "Copper deposits in the cornea are characteristic of Wilson’s disease, a genetic disorder."
+  },
+  {
+    "question": "A 40-year-old male presents with joint pain, morning stiffness, and a rash on his cheeks. What is the most likely diagnosis?",
+    "options": [
+      "Psoriatic Arthritis",
+      "Systemic Lupus Erythematosus",
+      "Rheumatoid Arthritis",
+      "Gout"
+    ],
+    "answer": "Systemic Lupus Erythematosus",
+    "explanation": "The combination of joint pain and a rash on the cheeks suggests systemic lupus erythematosus."
+  },
+  {
+    "question": "A 60-year-old female presents with sudden onset of confusion and right-sided weakness. CT scan shows a left-sided stroke. What is the most likely etiology?",
+    "options": [
+      "Hemorrhagic Stroke",
+      "Ischemic Stroke",
+      "Transient Ischemic Attack",
+      "Brain Tumor"
+    ],
+    "answer": "Ischemic Stroke",
+    "explanation": "The acute onset of symptoms and CT findings suggest an ischemic stroke due to a vessel occlusion."
+  },
+  {
+    "question": "A 25-year-old male presents with fever, sore throat, and fatigue. Laboratory tests reveal atypical lymphocytes and positive heterophile antibodies. What is the most likely diagnosis?",
+    "options": [
+      "Cytomegalovirus Infection",
+      "Epstein-Barr Virus Infection",
+      "Streptococcal Pharyngitis",
+      "HIV Infection"
+    ],
+    "answer": "Epstein-Barr Virus Infection",
+    "explanation": "Positive heterophile antibodies and atypical lymphocytes are indicative of infectious mononucleosis due to Epstein-Barr virus."
+  },
+  {
+    "question": "A 34-year-old woman presents with chronic abdominal pain and diarrhea. Colonoscopy reveals skip lesions. What is the most likely diagnosis?",
+    "options": [
+      "Ulcerative Colitis",
+      "Crohn's Disease",
+      "Irritable Bowel Syndrome",
+      "Celiac Disease"
+    ],
+    "answer": "Crohn's Disease",
+    "explanation": "Skip lesions are characteristic of Crohn's disease, which affects any part of the GI tract."
+  },
+  {
+    "question": "A 70-year-old male presents with a history of smoking and persistent hoarseness. What is the most concerning diagnosis?",
+    "options": [
+      "Laryngeal Cancer",
+      "Thyroid Nodule",
+      "Vocal Cord Nodules",
+      "Laryngitis"
+    ],
+    "answer": "Laryngeal Cancer",
+    "explanation": "Persistent hoarseness in a smoker raises suspicion for laryngeal cancer."
+  },
+  {
+    "question": "A 50-year-old female presents with fatigue, pallor, and a smooth tongue. What laboratory finding is most likely?",
+    "options": [
+      "Elevated Hemoglobin",
+      "Decreased Iron",
+      "Increased Ferritin",
+      "Normal Iron Levels"
+    ],
+    "answer": "Decreased Iron",
+    "explanation": "Fatigue and a smooth tongue suggest iron deficiency anemia, indicated by decreased iron levels."
+  },
+  {
+    "question": "A 60-year-old male presents with chest pain that worsens with inspiration and is relieved by leaning forward. What is the most likely diagnosis?",
+    "options": [
+      "Myocardial Infarction",
+      "Pericarditis",
+      "Pulmonary Embolism",
+      "Aortic Dissection"
+    ],
+    "answer": "Pericarditis",
+    "explanation": "The positional nature of the pain suggests pericarditis, often relieved by leaning forward."
+  },
+  {
+    "question": "A 28-year-old woman presents with weight loss, excessive thirst, and frequent urination. What is the most likely diagnosis?",
+    "options": [
+      "Diabetes Mellitus",
+      "Hyperthyroidism",
+      "Cushing's Syndrome",
+      "Addison's Disease"
+    ],
+    "answer": "Diabetes Mellitus",
+    "explanation": "The symptoms of excessive thirst and urination are classic for diabetes mellitus."
+  },
+  {
+    "question": "A 45-year-old male presents with jaundice and elevated alkaline phosphatase levels. What is the most likely diagnosis?",
+    "options": [
+      "Hepatitis",
+      "Cholestasis",
+      "Pancreatic Cancer",
+      "Cirrhosis"
+    ],
+    "answer": "Cholestasis",
+    "explanation": "Elevated alkaline phosphatase suggests cholestasis, often seen in biliary obstruction."
+  },
+  {
+    "question": "A 35-year-old female presents with a rash on her cheeks and joint pain. Laboratory tests reveal a positive ANA. What is the most likely diagnosis?",
+    "options": [
+      "Rheumatoid Arthritis",
+      "Systemic Lupus Erythematosus",
+      "Psoriatic Arthritis",
+      "Dermatomyositis"
+    ],
+    "answer": "Systemic Lupus Erythematosus",
+    "explanation": "A positive ANA and the presence of a rash suggests systemic lupus erythematosus."
+  },
+  {
+    "question": "A 55-year-old male presents with dysphagia for solids and liquids. Barium swallow reveals a narrow esophagus. What is the most likely diagnosis?",
+    "options": [
+      "Achalasia",
+      "Esophageal Stricture",
+      "Esophageal Cancer",
+      "Gastroesophageal Reflux"
+    ],
+    "answer": "Achalasia",
+    "explanation": "Dysphagia for both solids and liquids with a narrowed esophagus suggests achalasia."
+  },
+  {
+    "question": "A 22-year-old woman presents with fever, sore throat, and lymphadenopathy. Laboratory tests reveal atypical lymphocytes. What is the most likely diagnosis?",
+    "options": [
+      "Cytomegalovirus Infection",
+      "Epstein-Barr Virus Infection",
+      "Streptococcal Pharyngitis",
+      "HIV Infection"
+    ],
+    "answer": "Epstein-Barr Virus Infection",
+    "explanation": "Atypical lymphocytes and symptoms suggest infectious mononucleosis due to Epstein-Barr virus."
+  },
+  {
+    "question": "A 30-year-old male presents with acute onset of severe abdominal pain, nausea, and vomiting. Physical exam reveals a tender abdomen. What is the most likely diagnosis?",
+    "options": [
+      "Appendicitis",
+      "Pancreatitis",
+      "Cholecystitis",
+      "Peptic Ulcer Disease"
+    ],
+    "answer": "Appendicitis",
+    "explanation": "Acute onset of severe abdominal pain and tenderness suggests appendicitis."
+  },
+  {
+    "question": "A 48-year-old female presents with difficulty breathing and a persistent dry cough. CT scan shows a pleural effusion. What is the most likely cause?",
+    "options": [
+      "Heart Failure",
+      "Pneumonia",
+      "Malignancy",
+      "Tuberculosis"
+    ],
+    "answer": "Malignancy",
+    "explanation": "A pleural effusion in the context of difficulty breathing suggests malignancy as a potential cause."
+  },
+  {
+    "question": "A 65-year-old male with a history of hypertension presents with sudden onset of severe headache and photophobia. What is the most likely diagnosis?",
+    "options": [
+      "Migraine",
+      "Subarachnoid Hemorrhage",
+      "Tension Headache",
+      "Intracranial Hemorrhage"
+    ],
+    "answer": "Subarachnoid Hemorrhage",
+    "explanation": "Sudden severe headache and photophobia raise suspicion for a subarachnoid hemorrhage."
+  },
+  {
+    "question": "A 25-year-old male presents with a rash, joint pain, and a positive blood test for anti-dsDNA antibodies. What is the most likely diagnosis?",
+    "options": [
+      "Rheumatoid Arthritis",
+      "Systemic Lupus Erythematosus",
+      "Psoriatic Arthritis",
+      "Ankylosing Spondylitis"
+    ],
+    "answer": "Systemic Lupus Erythematosus",
+    "explanation": "The presence of anti-dsDNA antibodies and symptoms suggests systemic lupus erythematosus."
+  },
+  {
+    "question": "A 60-year-old female presents with new-onset diabetes and weight loss. CT scan shows a mass in the pancreas. What is the most likely diagnosis?",
+    "options": [
+      "Pancreatic Adenocarcinoma",
+      "Chronic Pancreatitis",
+      "Insulinoma",
+      "Pancreatic Cyst"
+    ],
+    "answer": "Pancreatic Adenocarcinoma",
+    "explanation": "A mass in the pancreas with new-onset diabetes suggests pancreatic adenocarcinoma."
+  },
+  {
+    "question": "A 40-year-old male presents with back pain that radiates to the leg. MRI shows a herniated disc at L4-L5. What is the most likely symptom?",
+    "options": [
+      "Weakness in the leg",
+      "Numbness in the arm",
+      "Chest Pain",
+      "Abdominal Pain"
+    ],
+    "answer": "Weakness in the leg",
+    "explanation": "A herniated disc at L4-L5 typically causes radicular pain and weakness in the leg."
+  },
+  {
+    "question": "A 50-year-old male presents with a history of heavy alcohol use. He has ascites and jaundice. What is the most likely diagnosis?",
+    "options": [
+      "Alcoholic Hepatitis",
+      "Cirrhosis",
+      "Fatty Liver Disease",
+      "Hepatic Encephalopathy"
+    ],
+    "answer": "Cirrhosis",
+    "explanation": "Ascites and jaundice in a heavy drinker are characteristic of cirrhosis."
+  },
+  {
+    "question": "A 70-year-old female presents with sudden vision loss in her right eye. Fundoscopy shows a pale retina with a cherry-red spot. What is the most likely diagnosis?",
+    "options": [
+      "Retinal Detachment",
+      "Central Retinal Artery Occlusion",
+      "Vitreous Hemorrhage",
+      "Diabetic Retinopathy"
+    ],
+    "answer": "Central Retinal Artery Occlusion",
+    "explanation": "A pale retina with a cherry-red spot is classic for central retinal artery occlusion."
+  },
+  {
+    "question": "A 32-year-old male presents with a rash on the chest and back, joint pain, and fever. He has a history of tick exposure. What is the most likely diagnosis?",
+    "options": [
+      "Lyme Disease",
+      "Rocky Mountain Spotted Fever",
+      "Ehrlichiosis",
+      "Babesiosis"
+    ],
+    "answer": "Rocky Mountain Spotted Fever",
+    "explanation": "The rash, joint pain, and history of tick exposure suggest Rocky Mountain spotted fever."
+  },
+  {
+    "question": "A 45-year-old female presents with difficulty swallowing and a sensation of food getting stuck in her throat. What is the most likely diagnosis?",
+    "options": [
+      "Esophageal Stricture",
+      "Achalasia",
+      "Gastroesophageal Reflux Disease",
+      "Esophagitis"
+    ],
+    "answer": "Esophageal Stricture",
+    "explanation": "Difficulty swallowing with a sensation of food getting stuck suggests esophageal stricture."
+  },
+  {
+    "question": "A 38-year-old male presents with a painful swollen knee and a history of gout. What is the most likely finding on joint aspiration?",
+    "options": [
+      "Clear Synovial Fluid",
+      "Blood-stained Fluid",
+      "Cloudy Fluid with Crystals",
+      "Yellow Fluid"
+    ],
+    "answer": "Cloudy Fluid with Crystals",
+    "explanation": "Joint aspiration in gout typically reveals cloudy fluid with monosodium urate crystals."
+  },
+  {
+    "question": "A 60-year-old female presents with a new onset of atrial fibrillation. What is the most appropriate initial management?",
+    "options": [
+      "Anticoagulation",
+      "Cardioversion",
+      "Beta-blockers",
+      "Calcium Channel Blockers"
+    ],
+    "answer": "Anticoagulation",
+    "explanation": "Anticoagulation is crucial in new-onset atrial fibrillation to prevent thromboembolic events."
+  },
+  {
+    "question": "A 50-year-old male presents with persistent cough, weight loss, and night sweats. What is the most likely diagnosis?",
+    "options": [
+      "Chronic Bronchitis",
+      "Tuberculosis",
+      "Lung Cancer",
+      "Pneumonia"
+    ],
+    "answer": "Tuberculosis",
+    "explanation": "The combination of cough, weight loss, and night sweats suggests tuberculosis."
+  },
+  {
+    "question": "A 25-year-old female presents with a butterfly rash on her face and joint pain. Laboratory results show a positive ANA. What is the most likely diagnosis?",
+    "options": [
+      "Rheumatoid Arthritis",
+      "Systemic Lupus Erythematosus",
+      "Dermatomyositis",
+      "Sjögren's Syndrome"
+    ],
+    "answer": "Systemic Lupus Erythematosus",
+    "explanation": "A butterfly rash and positive ANA are classic for systemic lupus erythematosus (SLE)."
+  },
+  {
+    "question": "A 45-year-old man presents with acute onset of right-sided weakness and slurred speech. CT scan shows an area of ischemia. What is the most likely cause?",
+    "options": [
+      "Hemorrhagic Stroke",
+      "Ischemic Stroke",
+      "Transient Ischemic Attack",
+      "Brain Tumor"
+    ],
+    "answer": "Ischemic Stroke",
+    "explanation": "The acute presentation and CT findings suggest an ischemic stroke due to vessel occlusion."
+  },
+  {
+    "question": "A 28-year-old female presents with fever, malaise, and a red, swollen joint in the big toe. What is the most likely diagnosis?",
+    "options": [
+      "Gout",
+      "Septic Arthritis",
+      "Rheumatoid Arthritis",
+      "Osteoarthritis"
+    ],
+    "answer": "Gout",
+    "explanation": "The symptoms are characteristic of gout, especially involving the first metatarsophalangeal joint."
+  },
+  {
+    "question": "A 64-year-old male with a history of smoking presents with persistent cough and hemoptysis. Chest X-ray shows a mass in the left lung. What is the most likely diagnosis?",
+    "options": [
+      "Tuberculosis",
+      "Lung Cancer",
+      "COPD",
+      "Pneumonia"
+    ],
+    "answer": "Lung Cancer",
+    "explanation": "The mass in the lung of a smoker with hemoptysis suggests lung cancer."
+  },
+  {
+    "question": "A 30-year-old woman presents with fatigue and pallor. Laboratory tests reveal microcytic anemia. What is the most likely cause?",
+    "options": [
+      "Iron Deficiency",
+      "B12 Deficiency",
+      "Folate Deficiency",
+      "Aplastic Anemia"
+    ],
+    "answer": "Iron Deficiency",
+    "explanation": "Microcytic anemia is most commonly caused by iron deficiency."
+  },
+  {
+    "question": "A 40-year-old male presents with a history of heavy alcohol use and ascites. What is the most likely diagnosis?",
+    "options": [
+      "Alcoholic Hepatitis",
+      "Cirrhosis",
+      "Fatty Liver Disease",
+      "Pancreatitis"
+    ],
+    "answer": "Cirrhosis",
+    "explanation": "Ascites and a history of alcohol use suggest cirrhosis."
+  },
+  {
+    "question": "A 55-year-old female presents with a history of hypertension and sudden onset of severe headache. CT scan shows a subarachnoid hemorrhage. What is the most likely cause?",
+    "options": [
+      "Aneurysm Rupture",
+      "Arteriovenous Malformation",
+      "Trauma",
+      "Hypertension"
+    ],
+    "answer": "Aneurysm Rupture",
+    "explanation": "Sudden severe headache with CT findings of subarachnoid hemorrhage is often due to aneurysm rupture."
+  },
+  {
+    "question": "A 45-year-old male presents with chest pain and a feeling of impending doom. ECG shows ST depression. What is the most likely diagnosis?",
+    "options": [
+      "Unstable Angina",
+      "Myocardial Infarction",
+      "Stable Angina",
+      "Aortic Dissection"
+    ],
+    "answer": "Unstable Angina",
+    "explanation": "Chest pain with ST depression suggests unstable angina, indicating myocardial ischemia."
+  },
+  {
+    "question": "A 30-year-old female presents with palpitations and weight loss. Laboratory tests reveal elevated levels of T3 and T4. What is the most likely diagnosis?",
+    "options": [
+      "Hypothyroidism",
+      "Hyperthyroidism",
+      "Thyroiditis",
+      "Thyroid Cancer"
+    ],
+    "answer": "Hyperthyroidism",
+    "explanation": "Elevated T3 and T4 levels indicate hyperthyroidism."
+  },
+  {
+    "question": "A 50-year-old male presents with abdominal pain and jaundice. Imaging reveals a mass at the head of the pancreas. What is the most likely diagnosis?",
+    "options": [
+      "Pancreatitis",
+      "Pancreatic Cancer",
+      "Cholecystitis",
+      "Hepatitis"
+    ],
+    "answer": "Pancreatic Cancer",
+    "explanation": "A mass at the head of the pancreas with jaundice suggests pancreatic cancer."
+  },
+  {
+    "question": "A 22-year-old male presents with fever, sore throat, and lymphadenopathy. Laboratory tests reveal positive heterophile antibodies. What is the most likely diagnosis?",
+    "options": [
+      "Cytomegalovirus Infection",
+      "Epstein-Barr Virus Infection",
+      "Streptococcal Pharyngitis",
+      "HIV Infection"
+    ],
+    "answer": "Epstein-Barr Virus Infection",
+    "explanation": "Positive heterophile antibodies indicate infectious mononucleosis caused by Epstein-Barr virus."
+  },
+  {
+    "question": "A 60-year-old male presents with sudden vision loss in his left eye. Fundoscopy reveals a pale retina with a cherry-red spot. What is the most likely diagnosis?",
+    "options": [
+      "Retinal Detachment",
+      "Central Retinal Artery Occlusion",
+      "Vitreous Hemorrhage",
+      "Diabetic Retinopathy"
+    ],
+    "answer": "Central Retinal Artery Occlusion",
+    "explanation": "A pale retina with a cherry-red spot is characteristic of central retinal artery occlusion."
+  },
+  {
+    "question": "A 45-year-old female presents with joint pain, fatigue, and a rash on her cheeks. Laboratory tests reveal a positive ANA. What is the most likely diagnosis?",
+    "options": [
+      "Systemic Lupus Erythematosus",
+      "Rheumatoid Arthritis",
+      "Sjögren's Syndrome",
+      "Psoriatic Arthritis"
+    ],
+    "answer": "Systemic Lupus Erythematosus",
+    "explanation": "The positive ANA and symptoms suggest systemic lupus erythematosus."
+  },
+  {
+    "question": "A 60-year-old male presents with worsening shortness of breath and a productive cough with purulent sputum. What is the most likely diagnosis?",
+    "options": [
+      "Asthma",
+      "Chronic Bronchitis",
+      "Pneumonia",
+      "COPD"
+    ],
+    "answer": "Chronic Bronchitis",
+    "explanation": "The description suggests chronic bronchitis, characterized by a productive cough."
+  },
+  {
+    "question": "A 70-year-old female presents with difficulty swallowing and weight loss. Endoscopy reveals an esophageal mass. What is the most likely diagnosis?",
+    "options": [
+      "Esophageal Cancer",
+      "Achalasia",
+      "Esophagitis",
+      "Hiatal Hernia"
+    ],
+    "answer": "Esophageal Cancer",
+    "explanation": "An esophageal mass with dysphagia and weight loss raises suspicion for esophageal cancer."
+  },
+  {
+    "question": "A 45-year-old male presents with fever, night sweats, and weight loss. Chest X-ray shows a cavitary lesion in the upper lobe. What is the most likely diagnosis?",
+    "options": [
+      "Tuberculosis",
+      "Lung Abscess",
+      "Bronchiectasis",
+      "Lung Cancer"
+    ],
+    "answer": "Tuberculosis",
+    "explanation": "The presentation and imaging findings are suggestive of pulmonary tuberculosis."
+  },
+  {
+    "question": "A 30-year-old female presents with abdominal pain, diarrhea, and a family history of celiac disease. What is the most likely diagnosis?",
+    "options": [
+      "Celiac Disease",
+      "Irritable Bowel Syndrome",
+      "Crohn's Disease",
+      "Ulcerative Colitis"
+    ],
+    "answer": "Celiac Disease",
+    "explanation": "The symptoms and family history suggest celiac disease, which is an autoimmune condition."
+  },
+  {
+    "question": "A 50-year-old male with a history of alcohol abuse presents with confusion and ataxia. What is the most likely diagnosis?",
+    "options": [
+      "Wernicke's Encephalopathy",
+      "Korsakoff Syndrome",
+      "Hepatic Encephalopathy",
+      "Thiamine Deficiency"
+    ],
+    "answer": "Wernicke's Encephalopathy",
+    "explanation": "Confusion and ataxia in the context of alcohol abuse suggest Wernicke's encephalopathy due to thiamine deficiency."
+  },
+  {
+    "question": "A 22-year-old male presents with sudden onset of severe right flank pain radiating to the groin. What is the most likely diagnosis?",
+    "options": [
+      "Appendicitis",
+      "Kidney Stone",
+      "Hernia",
+      "Pancreatitis"
+    ],
+    "answer": "Kidney Stone",
+    "explanation": "Sudden flank pain radiating to the groin is characteristic of renal colic due to a kidney stone."
+  },
+  {
+    "question": "A 60-year-old female presents with fatigue and pallor. Blood tests show microcytic, hypochromic anemia. What is the most likely cause?",
+    "options": [
+      "Iron Deficiency",
+      "Vitamin B12 Deficiency",
+      "Folate Deficiency",
+      "Chronic Disease"
+    ],
+    "answer": "Iron Deficiency",
+    "explanation": "Microcytic, hypochromic anemia is most commonly caused by iron deficiency."
+  },
+  {
+    "question": "A 70-year-old male presents with a history of progressive memory loss and difficulty with daily activities. What is the most likely diagnosis?",
+    "options": [
+      "Alzheimer's Disease",
+      "Vascular Dementia",
+      "Lewy Body Dementia",
+      "Frontotemporal Dementia"
+    ],
+    "answer": "Alzheimer's Disease",
+    "explanation": "Progressive memory loss and difficulty with daily activities are characteristic of Alzheimer's disease."
+  },
+  {
+    "question": "A 25-year-old female presents with a rash, joint pain, and a positive anti-dsDNA antibody test. What is the most likely diagnosis?",
+    "options": [
+      "Rheumatoid Arthritis",
+      "Systemic Lupus Erythematosus",
+      "Psoriatic Arthritis",
+      "Scleroderma"
+    ],
+    "answer": "Systemic Lupus Erythematosus",
+    "explanation": "The symptoms and positive anti-dsDNA suggest systemic lupus erythematosus (SLE)."
+  },
+  {
+    "question": "A 48-year-old male with a history of smoking presents with a chronic cough and hemoptysis. CT scan reveals a lung mass. What is the most likely diagnosis?",
+    "options": [
+      "COPD",
+      "Lung Cancer",
+      "Tuberculosis",
+      "Bronchiectasis"
+    ],
+    "answer": "Lung Cancer",
+    "explanation": "A lung mass in a smoker with hemoptysis is highly suggestive of lung cancer."
+  },
+  {
+    "question": "A 30-year-old woman presents with difficulty swallowing solids and liquids. Barium swallow reveals a dilated esophagus. What is the most likely diagnosis?",
+    "options": [
+      "Achalasia",
+      "Esophageal Stricture",
+      "Gastroesophageal Reflux Disease",
+      "Esophagitis"
+    ],
+    "answer": "Achalasia",
+    "explanation": "A dilated esophagus and difficulty swallowing suggest achalasia, characterized by lower esophageal sphincter dysfunction."
+  },
+  {
+    "question": "A 55-year-old male presents with sudden onset of severe chest pain, which radiates to the back. What is the most likely diagnosis?",
+    "options": [
+      "Myocardial Infarction",
+      "Aortic Dissection",
+      "Pulmonary Embolism",
+      "Gastroesophageal Reflux Disease"
+    ],
+    "answer": "Aortic Dissection",
+    "explanation": "Sudden severe chest pain radiating to the back is characteristic of aortic dissection."
+  },
+  {
+    "question": "A 35-year-old male presents with a painful swelling in the left testicle and fever. What is the most likely diagnosis?",
+    "options": [
+      "Testicular Torsion",
+      "Epididymitis",
+      "Orchitis",
+      "Hernia"
+    ],
+    "answer": "Epididymitis",
+    "explanation": "The combination of swelling, pain, and fever suggests epididymitis, often associated with infection."
+  },
+  {
+    "question": "A 40-year-old female presents with fatigue, pallor, and glossitis. Laboratory tests show macrocytic anemia. What is the most likely cause?",
+    "options": [
+      "Iron Deficiency",
+      "Vitamin B12 Deficiency",
+      "Folate Deficiency",
+      "Aplastic Anemia"
+    ],
+    "answer": "Vitamin B12 Deficiency",
+    "explanation": "Macrocytic anemia is commonly caused by vitamin B12 deficiency."
+  },
+  {
+    "question": "A 60-year-old female presents with shortness of breath and wheezing. Spirometry shows reversible airway obstruction. What is the most likely diagnosis?",
+    "options": [
+      "Asthma",
+      "COPD",
+      "Bronchiectasis",
+      "Pulmonary Fibrosis"
+    ],
+    "answer": "Asthma",
+    "explanation": "Reversible airway obstruction on spirometry is characteristic of asthma."
+  },
+  {
+    "question": "A 45-year-old male presents with chronic cough, sputum production, and a history of smoking. What is the most likely diagnosis?",
+    "options": [
+      "Chronic Bronchitis",
+      "Asthma",
+      "Lung Cancer",
+      "Pulmonary Fibrosis"
+    ],
+    "answer": "Chronic Bronchitis",
+    "explanation": "Chronic cough and sputum production in a smoker suggest chronic bronchitis."
+  },
+  {
+    "question": "A 50-year-old male presents with chest pain and difficulty breathing. ECG shows ST elevation in leads V1-V4. What is the most likely diagnosis?",
+    "options": [
+      "Anterior Wall Myocardial Infarction",
+      "Inferior Wall Myocardial Infarction",
+      "Unstable Angina",
+      "Pericarditis"
+    ],
+    "answer": "Anterior Wall Myocardial Infarction",
+    "explanation": "ST elevation in leads V1-V4 indicates an anterior wall myocardial infarction."
+  },
+  {
+    "question": "A 30-year-old female presents with a rash on her cheeks and nasal bridge. Laboratory tests reveal a positive ANA. What is the most likely diagnosis?",
+    "options": [
+      "Systemic Lupus Erythematosus",
+      "Dermatomyositis",
+      "Sjögren's Syndrome",
+      "Rheumatoid Arthritis"
+    ],
+    "answer": "Systemic Lupus Erythematosus",
+    "explanation": "A rash on the cheeks and a positive ANA test suggest systemic lupus erythematosus."
+  },
+  {
+    "question": "A 50-year-old male presents with fever, chills, and persistent cough. Chest X-ray shows infiltrates in the right lower lobe. What is the most likely diagnosis?",
+    "options": [
+      "Bacterial Pneumonia",
+      "Viral Pneumonia",
+      "Tuberculosis",
+      "Pulmonary Embolism"
+    ],
+    "answer": "Bacterial Pneumonia",
+    "explanation": "Infiltrates in the right lower lobe on X-ray with fever and cough suggest bacterial pneumonia."
+  },
+  {
+    "question": "A 70-year-old female presents with sudden onset of severe headache and neck stiffness. What is the most likely diagnosis?",
+    "options": [
+      "Migraine",
+      "Subarachnoid Hemorrhage",
+      "Tension Headache",
+      "Meningitis"
+    ],
+    "answer": "Subarachnoid Hemorrhage",
+    "explanation": "Sudden severe headache with neck stiffness suggests subarachnoid hemorrhage."
+  }
+]
+}
