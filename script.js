@@ -26,6 +26,15 @@ function loadContent(subject) {
     html += `</select>`;
   }
 
+  // Add number-of-questions input
+  html += `
+    <div>
+      <label for="num-questions">Number of Questions:</label>
+      <input type="number" id="num-questions" min="1" max="600" value="10">
+    </div>
+  `;
+
+
   // Render buttons with IDs (no inline onclick)
   html += `
     <div>
@@ -40,7 +49,16 @@ function loadContent(subject) {
 
   // Attach event listeners here, subject is still available
   document.getElementById("notes-btn").addEventListener("click", () => loadSelected("notes", subject));
-  document.getElementById("quiz-btn").addEventListener("click", () => loadSelected("quiz", subject));
+  //document.getElementById("quiz-btn").addEventListener("click", () => loadSelected("quiz", subject));
+   document.getElementById("quiz-btn").addEventListener("click", () => {
+    const numQuestions = parseInt(document.getElementById("num-questions").value, 10);
+    if (!isNaN(numQuestions) && numQuestions > 0) {
+      startQuiz(subject.quizFile, numQuestions); // pass chosen number
+    } else {
+      alert("Please enter a valid number of questions.");
+    }
+  });
+
   document.getElementById("flashcards-btn").addEventListener("click", () => loadSelected("flashcards", subject));
   document.getElementById("workflow-btn").addEventListener("click", () => loadSelected("workflow", subject));
 }
@@ -91,10 +109,19 @@ function loadNotes(file) {
 }
 
 // Quiz Loader
-function startQuiz(file) {
+function startQuiz(file,numQuestions) {
   fetch(`data/${file}`)
     .then(res => res.json())
     .then(data => {
+      // Shuffle questions
+      const shuffled = data.quiz
+        .map(q => ({ q, sort: Math.random() }))
+        .sort((a, b) => a.sort - b.sort)
+        .map(({ q }) => q);
+
+      // Pick requested number (or fewer if not enough)
+      const questionsToShow = shuffled.slice(0, numQuestions);
+
       let quizHTML = "<form id='quiz-form'>";
       data.quiz.forEach((q, i) => {
         quizHTML += `<div>
@@ -202,6 +229,7 @@ function navigateTo(sectionId) {
   document.getElementById(sectionId).scrollIntoView({ behavior: "smooth" });
 
 }
+
 
 
 
