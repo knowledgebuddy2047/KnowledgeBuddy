@@ -49,16 +49,7 @@ function loadContent(subject) {
 
   // Attach event listeners here, subject is still available
   document.getElementById("notes-btn").addEventListener("click", () => loadSelected("notes", subject));
-  //document.getElementById("quiz-btn").addEventListener("click", () => loadSelected("quiz", subject));
-   document.getElementById("quiz-btn").addEventListener("click", () => {
-    const numQuestions = parseInt(document.getElementById("num-questions").value, 10);
-    if (!isNaN(numQuestions) && numQuestions > 0) {
-      startQuiz(subject.quizFile, numQuestions); // pass chosen number
-    } else {
-      alert("Please enter a valid number of questions.");
-    }
-  });
-
+  document.getElementById("quiz-btn").addEventListener("click", () => loadSelected("quiz", subject));
   document.getElementById("flashcards-btn").addEventListener("click", () => loadSelected("flashcards", subject));
   document.getElementById("workflow-btn").addEventListener("click", () => loadSelected("workflow", subject));
 }
@@ -239,6 +230,7 @@ function navigateTo(sectionId) {
   document.getElementById(sectionId).scrollIntoView({ behavior: "smooth" });
 
 }
+
 
 
 
