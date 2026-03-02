@@ -270,8 +270,8 @@ function renderFlashcard() {
       </div>
     </div>
     <div class="controls">
-      <button onclick="prevFlashcard()"><img src="images/arrow-left.png" class="icon" alt="Prev"></button>
-      <button onclick="nextFlashcard()"><img src="images/arrow-right.png" class="icon" alt="Next"></button>
+      <button onclick="prevFlashcard()"><img src="images/previous.png" class="icon" alt="Prev"></button>
+      <button onclick="nextFlashcard()"><img src="images/next.png" class="icon" alt="Next"></button>
       <button onclick="shuffleFlashcards()"><img src="images/shuffle.png" class="icon" alt="Shuffle"></button>
     </div>
     <div class="progress">Card ${flashIndex + 1} of ${flashcardsData.length}</div>
@@ -303,6 +303,7 @@ function shuffleFlashcards() {
   flashFlipped = false;
   renderFlashcard();
 }
+
 
 
 
