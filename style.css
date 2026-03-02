@@ -171,8 +171,8 @@ body {
 /* Flashcard Container */
 .flashcard {
   width: 80%;        /* scales with screen size */
-  max-width: 400px;  /* prevents it from getting too big */
-  height: 200px;     /* can be fixed or relative */
+  max-width: 600px;  /* prevents it from getting too big */
+  height: 300px;     /* can be fixed or relative */
   aspect-ratio: 16 / 9;
   margin: 20px auto;
   perspective: 1000px; /* enables 3D flip */
@@ -233,8 +233,8 @@ body {
 }
 
 .controls button img.icon {
-  width: 60px;
-  height: 60px;
+  width: 90px;
+  height: 90px;
   transition: transform 0.2s ease;
 }
 
@@ -248,6 +248,7 @@ body {
   font-weight: bold;
   color: #0073e6; /* matches your site theme */
 }
+
 
 
 
