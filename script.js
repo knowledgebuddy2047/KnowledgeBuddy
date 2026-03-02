@@ -240,6 +240,71 @@ function navigateTo(sectionId) {
 }
 
 
+// Flashcards Loader
+let flashcardsData = [];
+let flashIndex = 0;
+let flashFlipped = false;
+
+function showFlashcards(file) {
+  fetch(`data/${file}`)
+    .then(res => res.json())
+    .then(data => {
+      flashcardsData = data.flashcards;
+      flashIndex = 0;
+      renderFlashcard();
+    })
+    .catch(err => {
+      document.getElementById("content-body").innerHTML =
+        `<p>⚠️ Error loading flashcards: ${err.message}</p>`;
+    });
+}
+
+function renderFlashcard() {
+  if (flashcardsData.length === 0) return;
+
+  const cardHTML = `
+    <div class="flashcard">
+      <div class="card ${flashFlipped ? "flip" : ""}" id="card" onclick="flipFlashcard()">
+        <div class="front">${flashcardsData[flashIndex].front}</div>
+        <div class="back">${flashcardsData[flashIndex].back}</div>
+      </div>
+    </div>
+    <div class="controls">
+      <button onclick="prevFlashcard()"><img src="images/arrow-left.png" class="icon" alt="Prev"></button>
+      <button onclick="nextFlashcard()"><img src="images/arrow-right.png" class="icon" alt="Next"></button>
+      <button onclick="shuffleFlashcards()"><img src="images/shuffle.png" class="icon" alt="Shuffle"></button>
+    </div>
+    <div class="progress">Card ${flashIndex + 1} of ${flashcardsData.length}</div>
+  `;
+
+  document.getElementById("content-body").innerHTML = cardHTML;
+}
+
+function flipFlashcard() {
+  flashFlipped = !flashFlipped;
+  renderFlashcard();
+}
+
+function nextFlashcard() {
+  flashIndex = (flashIndex + 1) % flashcardsData.length;
+  flashFlipped = false;
+  renderFlashcard();
+}
+
+function prevFlashcard() {
+  flashIndex = (flashIndex - 1 + flashcardsData.length) % flashcardsData.length;
+  flashFlipped = false;
+  renderFlashcard();
+}
+
+function shuffleFlashcards() {
+  flashcardsData.sort(() => Math.random() - 0.5);
+  flashIndex = 0;
+  flashFlipped = false;
+  renderFlashcard();
+}
+
+
 
 
 
