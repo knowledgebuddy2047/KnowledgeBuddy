@@ -1,0 +1,126 @@
+{
+  "flashcards": [
+    {
+      "front": "What is sound?",
+      "back": "Sound is a form of energy that produces a sensation of hearing in our ears."
+    },
+    {
+      "front": "How is sound produced?",
+      "back": "Sound is produced by vibrating objects, such as vocal cords, tuning forks, or stretched strings."
+    },
+    {
+      "front": "What is vibration?",
+      "back": "A rapid to-and-fro motion of an object that produces sound."
+    },
+    {
+      "front": "What is a medium?",
+      "back": "The matter (solid, liquid, or gas) through which sound travels."
+    },
+    {
+      "front": "Why are sound waves called mechanical waves?",
+      "back": "Because they require a medium and involve oscillations of particles in the medium."
+    },
+    {
+      "front": "What type of wave is sound?",
+      "back": "Sound waves are longitudinal waves, where particles oscillate parallel to the direction of propagation."
+    },
+    {
+      "front": "What is compression in a sound wave?",
+      "back": "A region of high pressure and density where particles are crowded together."
+    },
+    {
+      "front": "What is rarefaction in a sound wave?",
+      "back": "A region of low pressure and density where particles are spread apart."
+    },
+    {
+      "front": "Define wavelength.",
+      "back": "The distance between two consecutive compressions or rarefactions in a sound wave."
+    },
+    {
+      "front": "Define frequency.",
+      "back": "The number of oscillations or compressions/rarefactions passing a point per unit time; measured in hertz (Hz)."
+    },
+    {
+      "front": "Define time period.",
+      "back": "The time taken for one complete oscillation of a sound wave."
+    },
+    {
+      "front": "Define amplitude.",
+      "back": "The maximum disturbance of particles from their mean position; determines loudness."
+    },
+    {
+      "front": "Define pitch.",
+      "back": "The brain’s interpretation of the frequency of a sound; higher frequency means higher pitch."
+    },
+    {
+      "front": "Define loudness.",
+      "back": "A measure of the amplitude of a sound wave; greater amplitude means louder sound."
+    },
+    {
+      "front": "Define intensity of sound.",
+      "back": "The amount of sound energy passing per second through unit area."
+    },
+    {
+      "front": "Write the formula for speed of sound.",
+      "back": "v = λ × ν, where λ is wavelength and ν is frequency."
+    },
+    {
+      "front": "In which medium does sound travel fastest?",
+      "back": "Sound travels fastest in solids, slower in liquids, and slowest in gases."
+    },
+    {
+      "front": "What is echo?",
+      "back": "The reflection of sound heard after the original sound, distinct if the obstacle is at least 17.2 m away."
+    },
+    {
+      "front": "What is reverberation?",
+      "back": "Persistence of sound due to repeated reflections in a hall or auditorium."
+    },
+    {
+      "front": "What is the audible range of human hearing?",
+      "back": "20 Hz to 20,000 Hz."
+    },
+    {
+      "front": "What is infrasound?",
+      "back": "Sound of frequency below 20 Hz."
+    },
+    {
+      "front": "What is ultrasound?",
+      "back": "Sound of frequency above 20,000 Hz."
+    },
+    {
+      "front": "State Archimedes’ principle of ultrasound applications.",
+      "back": "Ultrasound can be used for cleaning, detecting cracks, medical imaging, and echocardiography."
+    },
+
+    // Application-based flashcards
+    {
+      "front": "Why can’t we hear sound on the moon?",
+      "back": "Because there is no medium (air) for sound waves to propagate."
+    },
+    {
+      "front": "Why does a guitar produce higher pitch than a car horn?",
+      "back": "Because the guitar string vibrates at a higher frequency than the horn."
+    },
+    {
+      "front": "Why do concert halls have curved ceilings?",
+      "back": "To reflect sound evenly across the hall so it reaches all corners."
+    },
+    {
+      "front": "Why do animals sense earthquakes earlier than humans?",
+      "back": "Because earthquakes produce low-frequency infrasound that animals can detect."
+    },
+    {
+      "front": "Why is ultrasound used in medical imaging?",
+      "back": "Because it can penetrate tissues and reflect from regions of different density to form images."
+    },
+    {
+      "front": "Why is reverberation undesirable in auditoriums?",
+      "back": "Because excessive persistence of sound makes speech or music unclear."
+    },
+    {
+      "front": "Why does loud sound travel farther than soft sound?",
+      "back": "Because louder sound has greater amplitude and energy."
+    }
+  ]
+}
