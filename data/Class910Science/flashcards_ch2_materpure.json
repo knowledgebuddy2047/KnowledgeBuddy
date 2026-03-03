@@ -1,0 +1,114 @@
+{
+  "flashcards": [
+    {
+      "front": "What does 'pure' mean in science?",
+      "back": "A pure substance consists of only one type of particle with uniform chemical nature."
+    },
+    {
+      "front": "What is a mixture?",
+      "back": "A mixture contains more than one pure substance combined physically, with variable composition."
+    },
+    {
+      "front": "Differentiate between homogeneous and heterogeneous mixtures.",
+      "back": "Homogeneous mixtures have uniform composition (e.g., salt in water), while heterogeneous mixtures have non-uniform composition (e.g., oil and water)."
+    },
+    {
+      "front": "What is a solution?",
+      "back": "A homogeneous mixture of two or more substances, consisting of a solvent and solute."
+    },
+    {
+      "front": "Give examples of solutions.",
+      "back": "Sugar in water (solid in liquid), tincture of iodine (solid in liquid), soda water (gas in liquid), air (gas in gas)."
+    },
+    {
+      "front": "What are the properties of a solution?",
+      "back": "Homogeneous, particles smaller than 1 nm, do not scatter light, stable, cannot be separated by filtration."
+    },
+    {
+      "front": "Define saturated solution.",
+      "back": "A solution that has dissolved the maximum amount of solute at a given temperature."
+    },
+    {
+      "front": "What is solubility?",
+      "back": "The amount of solute present in a saturated solution at a given temperature."
+    },
+    {
+      "front": "What is a suspension?",
+      "back": "A heterogeneous mixture where solute particles remain suspended in the medium and are visible to the naked eye."
+    },
+    {
+      "front": "Properties of a suspension?",
+      "back": "Particles visible, scatter light, unstable, settle down, can be separated by filtration."
+    },
+    {
+      "front": "What is a colloid?",
+      "back": "A heterogeneous mixture with particles too small to be seen but large enough to scatter light (Tyndall effect)."
+    },
+    {
+      "front": "What is the Tyndall effect?",
+      "back": "Scattering of light by colloidal particles, making the path of light visible."
+    },
+    {
+      "front": "What are the components of a colloid?",
+      "back": "Dispersed phase (particles) and dispersion medium."
+    },
+    {
+      "front": "Define element.",
+      "back": "A basic form of matter that cannot be broken down into simpler substances by chemical reactions."
+    },
+    {
+      "front": "Define compound.",
+      "back": "A substance composed of two or more elements chemically combined in a fixed proportion."
+    },
+    {
+      "front": "Differentiate between mixtures and compounds.",
+      "back": "Mixtures: variable composition, properties of constituents, separated by physical methods. Compounds: fixed composition, new properties, separated only by chemical methods."
+    },
+    {
+      "front": "What is a physical change?",
+      "back": "A change in physical properties without altering chemical composition (e.g., melting of ice)."
+    },
+    {
+      "front": "What is a chemical change?",
+      "back": "A change that alters chemical composition, forming new substances (e.g., rusting of iron)."
+    },
+
+    // Application-based flashcards
+    {
+      "front": "Why does milk show Tyndall effect?",
+      "back": "Because milk is a colloid with particles that scatter light."
+    },
+    {
+      "front": "Why is air considered a solution?",
+      "back": "Because it is a homogeneous mixture of gases like nitrogen and oxygen."
+    },
+    {
+      "front": "Why does a suspension scatter light?",
+      "back": "Because its particles are large enough to make the path of light visible."
+    },
+    {
+      "front": "Why does butter separate from curd?",
+      "back": "Because centrifugation separates colloidal particles from the dispersion medium."
+    },
+    {
+      "front": "Why does soda water taste uniform?",
+      "back": "Because carbon dioxide is evenly dissolved in water, forming a homogeneous solution."
+    },
+    {
+      "front": "Why does Pragya observe crystals when cooling a saturated solution?",
+      "back": "Because solubility decreases with temperature, excess solute separates out."
+    },
+    {
+      "front": "Why is burning of a candle both physical and chemical change?",
+      "back": "Melting of wax is physical, while burning of wax to form new substances is chemical."
+    },
+    {
+      "front": "Why is rusting of iron a chemical change?",
+      "back": "Because iron reacts with oxygen and moisture to form a new substance, iron oxide."
+    },
+    {
+      "front": "Why is wood considered a heterogeneous mixture?",
+      "back": "Because it contains different components like cellulose, lignin, and water in non-uniform distribution."
+    }
+  ]
+}
