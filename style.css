@@ -233,8 +233,8 @@ body {
 }
 
 .controls button img.icon {
-  width: 90px;
-  height: 90px;
+  width: 120px;
+  height: 120px;
   transition: transform 0.2s ease;
 }
 
@@ -248,6 +248,7 @@ body {
   font-weight: bold;
   color: #0073e6; /* matches your site theme */
 }
+
 
 
 
