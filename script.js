@@ -281,6 +281,7 @@ function renderFlashcard() {
 }
 
 function flipFlashcard() {
+  document.getElementById("card").classList.toggle("flip");
   flashFlipped = !flashFlipped;
   renderFlashcard();
 }
@@ -303,6 +304,7 @@ function shuffleFlashcards() {
   flashFlipped = false;
   renderFlashcard();
 }
+
 
 
 
