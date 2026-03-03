@@ -1,0 +1,122 @@
+{
+  "flashcards": [
+    {
+      "front": "What is a tissue?",
+      "back": "A group of cells similar in structure and function that work together to perform a specific function."
+    },
+    {
+      "front": "Why are tissues important in multicellular organisms?",
+      "back": "They allow division of labour, with different groups of cells specialized for specific functions, increasing efficiency."
+    },
+    {
+      "front": "What are the two main types of plant tissues?",
+      "back": "Meristematic tissue and permanent tissue."
+    },
+    {
+      "front": "What are the types of meristematic tissue?",
+      "back": "Apical, lateral, and intercalary meristems."
+    },
+    {
+      "front": "What is differentiation?",
+      "back": "The process by which meristematic cells take up permanent shape, size, and function to form permanent tissues."
+    },
+    {
+      "front": "Name the types of simple permanent tissues.",
+      "back": "Parenchyma, collenchyma, and sclerenchyma."
+    },
+    {
+      "front": "What is parenchyma?",
+      "back": "Living, thin-walled, loosely arranged cells that store food; may perform photosynthesis (chlorenchyma) or help in floating (aerenchyma)."
+    },
+    {
+      "front": "What is collenchyma?",
+      "back": "Living, elongated cells with irregularly thickened corners that provide flexibility and mechanical support."
+    },
+    {
+      "front": "What is sclerenchyma?",
+      "back": "Dead, thick-walled cells with lignin that provide hardness and strength to plant parts."
+    },
+    {
+      "front": "What is the epidermis?",
+      "back": "The outer protective tissue of plants, forming a continuous layer without intercellular spaces."
+    },
+    {
+      "front": "What are stomata?",
+      "back": "Small pores in the epidermis enclosed by guard cells, responsible for gaseous exchange and transpiration."
+    },
+    {
+      "front": "What is cork?",
+      "back": "Protective tissue formed by secondary meristem; cells are dead, compact, and contain suberin, making them impervious to water and gases."
+    },
+    {
+      "front": "What are complex permanent tissues?",
+      "back": "Tissues made of more than one type of cell working together, e.g., xylem and phloem."
+    },
+    {
+      "front": "What are the elements of xylem?",
+      "back": "Tracheids, vessels, xylem parenchyma, and xylem fibres."
+    },
+    {
+      "front": "What are the elements of phloem?",
+      "back": "Sieve tubes, companion cells, phloem fibres, phloem parenchyma, and sieve cells."
+    },
+    {
+      "front": "What are the four types of animal tissues?",
+      "back": "Epithelial tissue, connective tissue, muscular tissue, and nervous tissue."
+    },
+    {
+      "front": "What is epithelial tissue?",
+      "back": "Protective covering tissue forming linings of organs and cavities; types include squamous, cuboidal, columnar, ciliated, and glandular."
+    },
+    {
+      "front": "What is connective tissue?",
+      "back": "Tissue with loosely spaced cells embedded in matrix; examples include blood, bone, cartilage, ligament, tendon, areolar tissue, and adipose tissue."
+    },
+    {
+      "front": "What is muscular tissue?",
+      "back": "Elongated muscle fibres with contractile proteins; types are striated (voluntary), smooth (involuntary), and cardiac (involuntary, rhythmic)."
+    },
+    {
+      "front": "What is nervous tissue?",
+      "back": "Specialized tissue made of neurons that transmit impulses rapidly; found in brain, spinal cord, and nerves."
+    },
+
+    // Application-based flashcards
+    {
+      "front": "Why do roots grow only at their tips?",
+      "back": "Because apical meristematic tissue is present at the tips, responsible for lengthwise growth."
+    },
+    {
+      "front": "Why do desert plants have thick epidermis with cutin?",
+      "back": "To reduce water loss and protect against harsh conditions."
+    },
+    {
+      "front": "Why does coconut husk feel hard?",
+      "back": "Because it is made of sclerenchyma tissue with thick lignified walls."
+    },
+    {
+      "front": "Why do leaves have stomata?",
+      "back": "For gaseous exchange needed for photosynthesis and for transpiration."
+    },
+    {
+      "front": "Why are ligaments elastic but tendons less flexible?",
+      "back": "Ligaments connect bones to bones and need elasticity, while tendons connect muscles to bones and require strength."
+    },
+    {
+      "front": "Why can we fold our ear but not our arm bone?",
+      "back": "The ear contains cartilage, which is flexible, while bones are rigid due to calcium and phosphorus compounds."
+    },
+    {
+      "front": "Why are cardiac muscles called involuntary and rhythmic?",
+      "back": "Because they contract automatically and continuously without conscious control to pump blood."
+    },
+    {
+      "front": "Why is blood considered a connective tissue?",
+      "back": "Because it connects different parts of the body by transporting oxygen, nutrients, hormones, and waste."
+    },
+    {
+      "front": "Why are neurons long and branched?",
+      "back": "To transmit impulses quickly over long distances and connect with multiple cells."
+    }
+  ]
+}
