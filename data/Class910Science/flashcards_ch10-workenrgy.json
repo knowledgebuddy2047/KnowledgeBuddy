@@ -1,0 +1,94 @@
+{
+  "flashcards": [
+    {
+      "front": "When do we say that work is done?",
+      "back": "Work is done when a force is applied on an object and the object is displaced in the direction of the force."
+    },
+    {
+      "front": "Write the formula for work done.",
+      "back": "W = F × s, where F is force and s is displacement in the direction of force."
+    },
+    {
+      "front": "Define 1 joule of work.",
+      "back": "Work done when a force of 1 N displaces an object by 1 m in the direction of the force."
+    },
+    {
+      "front": "What is energy?",
+      "back": "Energy is the capacity to do work."
+    },
+    {
+      "front": "What is kinetic energy?",
+      "back": "The energy possessed by an object due to its motion."
+    },
+    {
+      "front": "Write the formula for kinetic energy.",
+      "back": "Ek = ½ mv², where m is mass and v is velocity."
+    },
+    {
+      "front": "What is potential energy?",
+      "back": "The energy possessed by an object due to its position or configuration."
+    },
+    {
+      "front": "Write the formula for gravitational potential energy.",
+      "back": "Ep = mgh, where m is mass, g is acceleration due to gravity, and h is height."
+    },
+    {
+      "front": "State the law of conservation of energy.",
+      "back": "Energy can neither be created nor destroyed; it can only change from one form to another, and the total energy remains constant."
+    },
+    {
+      "front": "What is mechanical energy?",
+      "back": "The sum of kinetic energy and potential energy of an object."
+    },
+    {
+      "front": "Define power.",
+      "back": "Power is the rate of doing work or the rate of transfer of energy."
+    },
+    {
+      "front": "Write the formula for power.",
+      "back": "P = W/t, where W is work done and t is time taken."
+    },
+    {
+      "front": "What is the SI unit of power?",
+      "back": "Watt (W), defined as 1 joule of work done per second."
+    },
+    {
+      "front": "What is 1 kilowatt?",
+      "back": "1 kW = 1000 W = 1000 J/s."
+    },
+
+    // Application-based flashcards
+    {
+      "front": "Why is work not done when you push a wall?",
+      "back": "Because there is no displacement of the wall despite the force applied."
+    },
+    {
+      "front": "Why is work done considered positive when lifting an object?",
+      "back": "Because the force applied is in the same direction as the displacement."
+    },
+    {
+      "front": "Why is work done considered negative when friction acts on a moving object?",
+      "back": "Because friction acts opposite to the direction of displacement."
+    },
+    {
+      "front": "Why does a moving bullet pierce a target?",
+      "back": "Because it possesses kinetic energy due to its motion."
+    },
+    {
+      "front": "Why does a stretched rubber band have energy?",
+      "back": "Because work done on it is stored as potential energy."
+    },
+    {
+      "front": "Why does a raised hammer drive a nail into wood?",
+      "back": "Because it possesses gravitational potential energy which converts into kinetic energy when released."
+    },
+    {
+      "front": "Why do athletes land on sand pits during long jump?",
+      "back": "To increase the time of impact, reducing force by lowering the rate of change of momentum."
+    },
+    {
+      "front": "Why is a powerful motorbike faster than a less powerful one?",
+      "back": "Because it can transfer energy at a higher rate, i.e., it has greater power."
+    }
+  ]
+}
