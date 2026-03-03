@@ -1,0 +1,125 @@
+{
+  "flashcards": [
+    {
+      "front": "What is matter?",
+      "back": "Anything that occupies space and has mass."
+    },
+    {
+      "front": "What were the five basic elements according to early Indian philosophers?",
+      "back": "Air, Earth, Fire, Sky, and Water (Panch Tatva)."
+    },
+    {
+      "front": "What are the two modern classifications of matter?",
+      "back": "Based on physical properties and chemical nature."
+    },
+    {
+      "front": "What does Activity 1.1 (salt in water) show?",
+      "back": "Matter is made up of particles that occupy spaces between each other."
+    },
+    {
+      "front": "What does Activity 1.2 (potassium permanganate dilution) demonstrate?",
+      "back": "Particles of matter are extremely small and can spread throughout large volumes."
+    },
+    {
+      "front": "What are the three main characteristics of particles of matter?",
+      "back": "They have space between them, they are continuously moving, and they attract each other."
+    },
+    {
+      "front": "What is diffusion?",
+      "back": "The intermixing of particles of two different types of matter on their own."
+    },
+    {
+      "front": "How does temperature affect diffusion?",
+      "back": "Higher temperature increases kinetic energy, making diffusion faster."
+    },
+    {
+      "front": "What are the three states of matter?",
+      "back": "Solid, Liquid, and Gas."
+    },
+    {
+      "front": "What are the properties of solids?",
+      "back": "Definite shape, distinct boundaries, fixed volume, negligible compressibility, and rigidity."
+    },
+    {
+      "front": "What are the properties of liquids?",
+      "back": "No fixed shape, fixed volume, fluidity, and ability to diffuse."
+    },
+    {
+      "front": "What are the properties of gases?",
+      "back": "No fixed shape or volume, highly compressible, diffuse rapidly, and exert pressure on container walls."
+    },
+    {
+      "front": "What is the melting point of ice?",
+      "back": "273 K (0°C)."
+    },
+    {
+      "front": "What is latent heat of fusion?",
+      "back": "The amount of heat required to change 1 kg of solid into liquid at its melting point."
+    },
+    {
+      "front": "What is the boiling point of water?",
+      "back": "373 K (100°C)."
+    },
+    {
+      "front": "What is latent heat of vaporisation?",
+      "back": "The heat required to change 1 kg of liquid into gas at its boiling point."
+    },
+    {
+      "front": "What is sublimation?",
+      "back": "The direct change of solid into gas without becoming liquid."
+    },
+    {
+      "front": "What is deposition?",
+      "back": "The direct change of gas into solid without becoming liquid."
+    },
+    {
+      "front": "What factors affect evaporation?",
+      "back": "Surface area, temperature, humidity, and wind speed."
+    },
+    {
+      "front": "Why does evaporation cause cooling?",
+      "back": "Particles absorb energy from surroundings to evaporate, lowering the surrounding temperature."
+    },
+    {
+      "front": "Why does the smell of hot sizzling food reach us faster than cold food?",
+      "back": "Because diffusion increases with temperature as particles move faster."
+    },
+    {
+      "front": "Why is a diver able to cut through water easily?",
+      "back": "Because particles of matter have space between them, allowing movement."
+    },
+    {
+      "front": "Why does ice float on water?",
+      "back": "Because ice has lower density than liquid water due to its open crystalline structure."
+    },
+    {
+      "front": "Why does a desert cooler work better on a hot dry day?",
+      "back": "Because low humidity increases the rate of evaporation, enhancing cooling."
+    },
+    {
+      "front": "Why does water kept in an earthen pot (matka) become cool in summer?",
+      "back": "Because water evaporates through the porous walls, absorbing heat and cooling the pot."
+    },
+    {
+      "front": "Why does our palm feel cold when we put acetone, petrol, or perfume on it?",
+      "back": "Because these liquids evaporate quickly, absorbing heat from the skin and causing cooling."
+    },
+    {
+      "front": "Why can we sip hot tea faster from a saucer than a cup?",
+      "back": "Because the larger surface area in the saucer increases the rate of evaporation, cooling the tea faster."
+    },
+    {
+      "front": "Why should we wear cotton clothes in summer?",
+      "back": "Cotton absorbs sweat and exposes it to air, allowing faster evaporation and cooling of the body."
+    },
+    {
+      "front": "Why do we see water droplets on the outer surface of a glass containing ice-cold water?",
+      "back": "Because water vapour in air condenses on the cold surface into liquid droplets."
+    },
+    {
+      "front": "Why does a gas exert pressure on the walls of its container?",
+      "back": "Because gas particles move randomly at high speed and collide with the container walls."
+    }
+   
+  ]
+}
