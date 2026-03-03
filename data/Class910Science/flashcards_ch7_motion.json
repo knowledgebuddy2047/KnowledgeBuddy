@@ -1,0 +1,106 @@
+{
+  "flashcards": [
+    {
+      "front": "What is motion?",
+      "back": "Motion is the change in position of an object with respect to time and a reference point."
+    },
+    {
+      "front": "What is displacement?",
+      "back": "The shortest distance measured from the initial to the final position of an object in a specific direction."
+    },
+    {
+      "front": "What is distance?",
+      "back": "The total path length covered by an object, irrespective of direction."
+    },
+    {
+      "front": "Can displacement be zero while distance is not?",
+      "back": "Yes, for example when an object returns to its starting point, displacement is zero but distance is non-zero."
+    },
+    {
+      "front": "What is uniform motion?",
+      "back": "When an object covers equal distances in equal intervals of time."
+    },
+    {
+      "front": "What is non-uniform motion?",
+      "back": "When an object covers unequal distances in equal intervals of time."
+    },
+    {
+      "front": "Define speed.",
+      "back": "The distance travelled by an object per unit time."
+    },
+    {
+      "front": "Define velocity.",
+      "back": "The displacement of an object per unit time in a given direction."
+    },
+    {
+      "front": "What is average speed?",
+      "back": "Total distance travelled divided by total time taken."
+    },
+    {
+      "front": "What is average velocity?",
+      "back": "Total displacement divided by total time taken."
+    },
+    {
+      "front": "What is acceleration?",
+      "back": "The rate of change of velocity per unit time."
+    },
+    {
+      "front": "What is uniform acceleration?",
+      "back": "When velocity changes by equal amounts in equal intervals of time."
+    },
+    {
+      "front": "What is non-uniform acceleration?",
+      "back": "When velocity changes by unequal amounts in equal intervals of time."
+    },
+    {
+      "front": "What is the SI unit of speed and velocity?",
+      "back": "Metre per second (m/s)."
+    },
+    {
+      "front": "What is the SI unit of acceleration?",
+      "back": "Metre per second squared (m/s²)."
+    },
+    {
+      "front": "State the three equations of motion.",
+      "back": "v = u + at; s = ut + ½at²; v² - u² = 2as."
+    },
+    {
+      "front": "What does the slope of a distance-time graph represent?",
+      "back": "Speed of the object."
+    },
+    {
+      "front": "What does the slope of a velocity-time graph represent?",
+      "back": "Acceleration of the object."
+    },
+    {
+      "front": "What does the area under a velocity-time graph represent?",
+      "back": "Displacement of the object."
+    },
+
+    // Application-based flashcards
+    {
+      "front": "Why does a passenger in a moving bus see roadside trees moving backwards?",
+      "back": "Because motion is observed relative to a reference point; the passenger’s frame of reference differs from that of a person standing outside."
+    },
+    {
+      "front": "Why does the odometer of a car measure distance but not displacement?",
+      "back": "Because it records the total path length travelled, irrespective of direction."
+    },
+    {
+      "front": "Why is Usha’s average velocity zero when she swims back and forth in a pool?",
+      "back": "Because her final position coincides with her initial position, making displacement zero."
+    },
+    {
+      "front": "Why do drivers need to maintain distance between vehicles?",
+      "back": "Because braking produces negative acceleration, and the car still travels some distance before stopping."
+    },
+    {
+      "front": "Why does thunder reach us after lightning?",
+      "back": "Because light travels much faster than sound, so we see lightning instantly but hear thunder later."
+    },
+    {
+      "front": "Why is the motion of a freely falling body considered uniformly accelerated?",
+      "back": "Because its velocity increases by equal amounts in equal intervals of time due to gravity."
+    }
+  ]
+}
