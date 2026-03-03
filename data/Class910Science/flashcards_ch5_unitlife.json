@@ -1,0 +1,122 @@
+{
+  "flashcards": [
+    {
+      "front": "Who discovered cells and how?",
+      "back": "Robert Hooke in 1665, while examining a thin slice of cork under a primitive microscope."
+    },
+    {
+      "front": "Why is the cell called the fundamental unit of life?",
+      "back": "Because all living organisms are made up of cells, and cells perform all basic functions of life."
+    },
+    {
+      "front": "What are unicellular organisms?",
+      "back": "Organisms made up of a single cell, e.g., Amoeba, Paramoecium, Chlamydomonas, bacteria."
+    },
+    {
+      "front": "What are multicellular organisms?",
+      "back": "Organisms made up of many cells that perform specialized functions, e.g., plants, animals, fungi."
+    },
+    {
+      "front": "What is the plasma membrane?",
+      "back": "The outermost covering of the cell that separates cell contents from the external environment and is selectively permeable."
+    },
+    {
+      "front": "What is diffusion?",
+      "back": "The movement of particles from a region of high concentration to low concentration."
+    },
+    {
+      "front": "What is osmosis?",
+      "back": "The diffusion of water molecules through a selectively permeable membrane toward higher solute concentration."
+    },
+    {
+      "front": "Define hypotonic solution.",
+      "back": "A solution with higher water concentration than the cell, causing the cell to swell by osmosis."
+    },
+    {
+      "front": "Define isotonic solution.",
+      "back": "A solution with equal water concentration as the cell, causing no net movement of water."
+    },
+    {
+      "front": "Define hypertonic solution.",
+      "back": "A solution with lower water concentration than the cell, causing the cell to shrink by osmosis."
+    },
+    {
+      "front": "What is plasmolysis?",
+      "back": "The shrinkage of cell contents away from the cell wall due to water loss by osmosis."
+    },
+    {
+      "front": "What is the nucleus?",
+      "back": "A double-membrane bound organelle containing DNA, chromosomes, and genes; controls cell activities and reproduction."
+    },
+    {
+      "front": "What is chromatin?",
+      "back": "Entangled thread-like DNA material in a non-dividing cell that condenses into chromosomes during division."
+    },
+    {
+      "front": "Differentiate between prokaryotic and eukaryotic cells.",
+      "back": "Prokaryotes: small, nucleoid region, single chromosome, no membrane-bound organelles. Eukaryotes: larger, defined nucleus, multiple chromosomes, membrane-bound organelles."
+    },
+    {
+      "front": "What is cytoplasm?",
+      "back": "The fluid content inside the plasma membrane containing organelles that perform specific functions."
+    },
+    {
+      "front": "What is the endoplasmic reticulum (ER)?",
+      "back": "A network of membrane-bound tubes and sheets; RER synthesizes proteins, SER synthesizes lipids and detoxifies drugs."
+    },
+    {
+      "front": "What is the Golgi apparatus?",
+      "back": "A system of flattened sacs that stores, modifies, and packages products; also forms lysosomes."
+    },
+    {
+      "front": "What are lysosomes?",
+      "back": "Membrane-bound sacs with digestive enzymes that break down waste and worn-out organelles; called 'suicide bags'."
+    },
+    {
+      "front": "What are mitochondria?",
+      "back": "Double-membrane organelles known as the 'powerhouses of the cell'; produce ATP and have their own DNA and ribosomes."
+    },
+    {
+      "front": "What are plastids?",
+      "back": "Organelles found in plant cells; chloroplasts (photosynthesis), chromoplasts (pigments), leucoplasts (storage)."
+    },
+    {
+      "front": "What are vacuoles?",
+      "back": "Storage sacs; small in animal cells, large in plant cells, providing turgidity and storing nutrients."
+    },
+
+    // Application-based flashcards
+    {
+      "front": "Why do raisins swell in water but shrink in sugar solution?",
+      "back": "They swell in water due to osmosis (water enters), and shrink in concentrated sugar solution as water leaves."
+    },
+    {
+      "front": "Why do plant cells not burst in hypotonic solutions?",
+      "back": "Because the rigid cell wall provides structural support and prevents bursting."
+    },
+    {
+      "front": "Why are lysosomes called suicide bags?",
+      "back": "Because they can burst and release enzymes that digest their own cell when damaged."
+    },
+    {
+      "front": "Why are mitochondria called the powerhouses of the cell?",
+      "back": "Because they release energy in the form of ATP, which is used for cellular activities."
+    },
+    {
+      "front": "Why do chloroplasts have their own DNA and ribosomes?",
+      "back": "To synthesize some of their own proteins and enzymes required for photosynthesis."
+    },
+    {
+      "front": "Why is the plasma membrane called selectively permeable?",
+      "back": "Because it allows only certain substances to enter or exit the cell while blocking others."
+    },
+    {
+      "front": "Why do dead cells not undergo plasmolysis?",
+      "back": "Because only living cells can absorb water by osmosis."
+    },
+    {
+      "front": "Why is ATP called the energy currency of the cell?",
+      "back": "Because it stores and supplies energy for all cellular processes."
+    }
+  ]
+}
