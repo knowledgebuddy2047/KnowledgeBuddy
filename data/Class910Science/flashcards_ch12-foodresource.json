@@ -1,0 +1,111 @@
+{
+  "flashcards": [
+    {
+      "front": "What is the main source of food for humans?",
+      "back": "Plants (agriculture) and animals (animal husbandry)."
+    },
+    {
+      "front": "What are kharif crops?",
+      "back": "Crops grown in the rainy season (June–October), e.g., paddy, maize, cotton."
+    },
+    {
+      "front": "What are rabi crops?",
+      "back": "Crops grown in the winter season (November–April), e.g., wheat, gram, mustard."
+    },
+    {
+      "front": "What are the three major approaches to improve crop yields?",
+      "back": "Crop variety improvement, crop production improvement, and crop protection management."
+    },
+    {
+      "front": "What is hybridisation?",
+      "back": "Crossing between genetically dissimilar plants to produce improved varieties."
+    },
+    {
+      "front": "What are genetically modified crops?",
+      "back": "Crops developed by introducing specific genes to provide desired traits like pest resistance."
+    },
+    {
+      "front": "What are desirable agronomic characteristics?",
+      "back": "Tallness and branching for fodder crops; dwarfness in cereals for higher yield."
+    },
+    {
+      "front": "What are macronutrients?",
+      "back": "Nutrients required in large amounts, e.g., nitrogen, phosphorus, potassium."
+    },
+    {
+      "front": "What are micronutrients?",
+      "back": "Nutrients required in small amounts, e.g., iron, zinc, copper."
+    },
+    {
+      "front": "What is manure?",
+      "back": "Organic matter prepared by decomposition of animal excreta and plant waste; improves soil fertility."
+    },
+    {
+      "front": "What is green manure?",
+      "back": "Green plants like sun hemp or guar grown and ploughed into soil to enrich it with nitrogen and phosphorus."
+    },
+    {
+      "front": "What are fertilizers?",
+      "back": "Commercially produced plant nutrients supplying nitrogen, phosphorus, and potassium."
+    },
+    {
+      "front": "What is organic farming?",
+      "back": "Farming with minimal chemicals, using organic manures, biofertilizers, and crop rotation."
+    },
+    {
+      "front": "What are the main irrigation systems in India?",
+      "back": "Wells, canals, river lift systems, tanks, rainwater harvesting, and watershed management."
+    },
+    {
+      "front": "What is mixed cropping?",
+      "back": "Growing two or more crops simultaneously on the same land, e.g., wheat + gram."
+    },
+    {
+      "front": "What is intercropping?",
+      "back": "Growing two or more crops in a definite pattern, e.g., soyabean + maize."
+    },
+    {
+      "front": "What is crop rotation?",
+      "back": "Growing different crops on the same land in succession to maintain soil fertility."
+    },
+    {
+      "front": "What are weeds?",
+      "back": "Unwanted plants in cultivated fields, e.g., Parthenium (gajar ghas)."
+    },
+    {
+      "front": "What is animal husbandry?",
+      "back": "Scientific management of livestock including feeding, breeding, and disease control."
+    },
+    {
+      "front": "What are milch animals?",
+      "back": "Milk-producing female cattle."
+    },
+    {
+      "front": "What are draught animals?",
+      "back": "Animals used for farm labour like tilling and carting."
+    },
+    {
+      "front": "What is poultry farming?",
+      "back": "Raising domestic fowl for egg production (layers) and meat (broilers)."
+    },
+    {
+      "front": "What is capture fishing?",
+      "back": "Obtaining fish from natural water resources like rivers and seas."
+    },
+    {
+      "front": "What is culture fishery?",
+      "back": "Fish farming in controlled environments like ponds or tanks."
+    },
+
+    // Application-based flashcards
+    {
+      "front": "Why is crop variety improvement important?",
+      "back": "To develop varieties with higher yield, better quality, resistance to diseases, and adaptability to different climates."
+    },
+    {
+      "front": "Why should manure be preferred over fertilizers for long-term soil fertility?",
+      "back": "Because manure replenishes organic matter and supports soil microorganisms, unlike fertilizers which may degrade soil quality."
+    },
+    {
+      "front": "Why is irrigation necessary in India?",
+      "back": "Because most agriculture is rain-fed and poor monsoons can
