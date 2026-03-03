@@ -1,0 +1,98 @@
+{
+  "flashcards": [
+    {
+      "front": "What is gravitation?",
+      "back": "The force of attraction between any two objects in the universe."
+    },
+    {
+      "front": "State the Universal Law of Gravitation.",
+      "back": "Every object attracts every other object with a force proportional to the product of their masses and inversely proportional to the square of the distance between them."
+    },
+    {
+      "front": "Write the formula for gravitational force.",
+      "back": "F = G × (M × m) / d², where G is the universal gravitational constant."
+    },
+    {
+      "front": "What is the value of the universal gravitational constant (G)?",
+      "back": "6.67 × 10⁻¹¹ N·m²/kg²."
+    },
+    {
+      "front": "What is free fall?",
+      "back": "The motion of an object towards the earth under the influence of gravitational force alone."
+    },
+    {
+      "front": "What is acceleration due to gravity?",
+      "back": "The acceleration experienced by an object in free fall due to earth’s gravitational force, denoted by g."
+    },
+    {
+      "front": "What is the average value of g on earth?",
+      "back": "9.8 m/s²."
+    },
+    {
+      "front": "Differentiate between mass and weight.",
+      "back": "Mass is the measure of inertia and remains constant everywhere; weight is the force of gravity acting on mass and varies with location."
+    },
+    {
+      "front": "What is the relation between weight and mass?",
+      "back": "W = m × g."
+    },
+    {
+      "front": "What is the weight of an object on the moon compared to earth?",
+      "back": "Weight on the moon is 1/6th of its weight on earth."
+    },
+    {
+      "front": "Define thrust.",
+      "back": "The force acting on a surface in a direction perpendicular to it."
+    },
+    {
+      "front": "Define pressure.",
+      "back": "Pressure = Thrust / Area; SI unit is Pascal (Pa)."
+    },
+    {
+      "front": "What is buoyancy?",
+      "back": "The upward force exerted by a fluid on an object immersed in it."
+    },
+    {
+      "front": "State Archimedes’ Principle.",
+      "back": "A body immersed fully or partially in a fluid experiences an upward force equal to the weight of the fluid displaced by it."
+    },
+    {
+      "front": "Define density.",
+      "back": "Density = Mass / Volume."
+    },
+
+    // Application-based flashcards
+    {
+      "front": "Why does the earth not move towards a falling apple?",
+      "back": "Because the earth’s mass is extremely large compared to the apple, so its acceleration is negligible."
+    },
+    {
+      "front": "Why do all objects fall at the same rate in vacuum?",
+      "back": "Because acceleration due to gravity is independent of mass."
+    },
+    {
+      "front": "Why does a sheet of paper fall slower than a stone?",
+      "back": "Because air resistance opposes the motion of the paper more than the stone."
+    },
+    {
+      "front": "Why do camels run easily in deserts?",
+      "back": "Because their broad feet spread the thrust over a larger area, reducing pressure on sand."
+    },
+    {
+      "front": "Why do knives have sharp edges?",
+      "back": "To concentrate thrust on a smaller area, increasing pressure for cutting."
+    },
+    {
+      "front": "Why does a cork float while an iron nail sinks?",
+      "back": "Because cork has lower density than water, while iron has higher density than water."
+    },
+    {
+      "front": "Why do ships made of iron float but iron sheets sink?",
+      "back": "Because ships displace more water, creating buoyant force greater than their weight, while sheets do not."
+    },
+    {
+      "front": "Why do athletes land on sand or cushioned beds in high jump?",
+      "back": "To increase the time of impact, reducing force by lowering the rate of change of momentum."
+    }
+  ]
+}
