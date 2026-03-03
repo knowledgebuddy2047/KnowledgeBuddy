@@ -280,11 +280,14 @@ function renderFlashcard() {
   document.getElementById("content-body").innerHTML = cardHTML;
 }
 
+
 function flipFlashcard() {
-  document.getElementById("card").classList.toggle("flip");
-  flashFlipped = !flashFlipped;
-  /*renderFlashcard();*/
+  const card = document.getElementById("card");
+  card.classList.toggle("flip");
+  flashFlipped = card.classList.contains("flip"); 
+  // ✅ no renderFlashcard() here
 }
+
 
 function nextFlashcard() {
   flashIndex = (flashIndex + 1) % flashcardsData.length;
@@ -304,6 +307,7 @@ function shuffleFlashcards() {
   flashFlipped = false;
   renderFlashcard();
 }
+
 
 
 
