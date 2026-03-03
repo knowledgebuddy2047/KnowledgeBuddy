@@ -208,13 +208,16 @@ body {
 }
 
 .front {
-  background: #d1e7ff; /* light blue */
+  background: #0073e6;  /* question side */
+  color: #ffffff;
 }
 
 .back {
-  background: #f0f0f0; /* light gray */
+  background: #ffcc00;  /* answer side */
+  color: #333333;
   transform: rotateY(180deg);
 }
+
 
 /* Controls with Icon Buttons */
 .controls {
@@ -246,6 +249,7 @@ body {
   font-weight: bold;
   color: #0073e6; /* matches your site theme */
 }
+
 
 
 
