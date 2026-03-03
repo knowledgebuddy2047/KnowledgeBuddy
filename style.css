@@ -171,8 +171,8 @@ body {
 /* Flashcard Container */
 .flashcard {
   width: 80%;        /* scales with screen size */
-  max-width: 600px;  /* prevents it from getting too big */
-  height: 300px;     /* can be fixed or relative */
+  max-width: 800px;  /* prevents it from getting too big */
+  height: 600px;     /* can be fixed or relative */
   aspect-ratio: 16 / 9;
   margin: 20px auto;
   perspective: 1000px; /* enables 3D flip */
@@ -248,6 +248,7 @@ body {
   font-weight: bold;
   color: #0073e6; /* matches your site theme */
 }
+
 
 
 
