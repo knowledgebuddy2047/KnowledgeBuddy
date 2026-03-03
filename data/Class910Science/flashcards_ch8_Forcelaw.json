@@ -1,0 +1,86 @@
+{
+  "flashcards": [
+    {
+      "front": "What is force?",
+      "back": "A push or pull that changes or tends to change the state of motion or shape of an object."
+    },
+    {
+      "front": "What are balanced forces?",
+      "back": "Forces equal in magnitude and opposite in direction that do not change the state of rest or motion of an object."
+    },
+    {
+      "front": "What are unbalanced forces?",
+      "back": "Forces that are unequal in magnitude and opposite in direction, causing a change in the state of motion of an object."
+    },
+    {
+      "front": "State Newton’s First Law of Motion.",
+      "back": "An object remains at rest or in uniform motion in a straight line unless acted upon by an unbalanced external force."
+    },
+    {
+      "front": "What is inertia?",
+      "back": "The natural tendency of an object to resist a change in its state of rest or motion."
+    },
+    {
+      "front": "How is inertia related to mass?",
+      "back": "The mass of an object is a measure of its inertia; heavier objects have greater inertia."
+    },
+    {
+      "front": "State Newton’s Second Law of Motion.",
+      "back": "The rate of change of momentum of an object is proportional to the applied unbalanced force in the direction of the force."
+    },
+    {
+      "front": "Define momentum.",
+      "back": "Momentum (p) is the product of mass (m) and velocity (v) of an object, p = mv."
+    },
+    {
+      "front": "What is the SI unit of force?",
+      "back": "Newton (N), defined as the force that produces an acceleration of 1 m/s² in a mass of 1 kg."
+    },
+    {
+      "front": "State Newton’s Third Law of Motion.",
+      "back": "To every action, there is an equal and opposite reaction, acting on two different bodies."
+    },
+    {
+      "front": "What is the SI unit of momentum?",
+      "back": "Kilogram-metre per second (kg·m/s)."
+    },
+    {
+      "front": "What is the mathematical form of Newton’s Second Law?",
+      "back": "F = ma, where F is force, m is mass, and a is acceleration."
+    },
+
+    // Application-based flashcards
+    {
+      "front": "Why do passengers fall forward when a moving bus stops suddenly?",
+      "back": "Because of inertia, their bodies tend to continue moving forward even though the bus has stopped."
+    },
+    {
+      "front": "Why do passengers fall backward when a bus starts suddenly?",
+      "back": "Because of inertia, their bodies tend to remain at rest while the bus moves forward."
+    },
+    {
+      "front": "Why do leaves fall off when a tree branch is shaken vigorously?",
+      "back": "Due to inertia, leaves resist the sudden motion of the branch and get detached."
+    },
+    {
+      "front": "Why does a fielder pull his hands backward while catching a fast ball?",
+      "back": "To increase the time of impact, reducing the rate of change of momentum and hence the force exerted on his hands."
+    },
+    {
+      "front": "Why does a gun recoil when fired?",
+      "back": "Because the bullet exerts an equal and opposite force on the gun, causing it to move backward."
+    },
+    {
+      "front": "Why do athletes land on sand or cushioned beds in high jump events?",
+      "back": "To increase the time of impact, reducing the force experienced by their bodies."
+    },
+    {
+      "front": "Why is it easier to push an empty box than a box full of books?",
+      "back": "Because the box with books has more mass and therefore greater inertia."
+    },
+    {
+      "front": "Why does a sailor’s boat move backward when he jumps forward?",
+      "back": "Due to Newton’s Third Law, the forward action force on the sailor produces an equal and opposite reaction force on the boat."
+    }
+  ]
+}
