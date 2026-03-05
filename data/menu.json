@@ -80,7 +80,98 @@
       "quiz": "quiz_class9_science.json", 
       "flashcards": "data/Class910Science/flashcards_ch12-foodresource.json", 
       "workflow": "workflow_class9_science.json" 
-    }     
+    },
+    {
+      "title": "Chemical Reactions and Equations",
+      "notes": "notes_class10_science.html", 
+      "quiz": "quiz_class10_science.json", 
+      "flashcards": "data/Class910Science/flashcards_ch12-foodresource.json", 
+      "workflow": "workflow_class9_science.json" 
+    },
+    {
+      "title": "Acids, Bases and Salts",
+      "notes": "notes_class10_science.html", 
+      "quiz": "quiz_class10_science.json", 
+      "flashcards": "data/Class910Science/flashcards_ch12-foodresource.json", 
+      "workflow": "workflow_class9_science.json" 
+    },
+    {
+      "title": "Metals and Non-metals",
+      "notes": "notes_class10_science.html", 
+      "quiz": "quiz_class10_science.json", 
+      "flashcards": "data/Class910Science/flashcards_ch12-foodresource.json", 
+      "workflow": "workflow_class9_science.json" 
+    },
+    {
+      "title": "Carbon and its Compounds",
+      "notes": "notes_class10_science.html", 
+      "quiz": "quiz_class10_science.json", 
+      "flashcards": "data/Class910Science/flashcards_ch12-foodresource.json", 
+      "workflow": "workflow_class9_science.json" 
+    },
+    {
+      "title": "Life Processes",
+      "notes": "notes_class10_science.html", 
+      "quiz": "quiz_class10_science.json", 
+      "flashcards": "data/Class910Science/flashcards_ch12-foodresource.json", 
+      "workflow": "workflow_class9_science.json" 
+    },
+    {
+      "title": "Control and Coordination",
+      "notes": "notes_class10_science.html", 
+      "quiz": "quiz_class10_science.json", 
+      "flashcards": "data/Class910Science/flashcards_ch12-foodresource.json", 
+      "workflow": "workflow_class9_science.json" 
+    },
+    {
+      "title": "How do Organisms Reproduce?",
+      "notes": "notes_class10_science.html", 
+      "quiz": "quiz_class10_science.json", 
+      "flashcards": "data/Class910Science/flashcards_ch12-foodresource.json", 
+      "workflow": "workflow_class9_science.json" 
+    },
+    {
+      "title": "Heredity",
+      "notes": "notes_class10_science.html", 
+      "quiz": "quiz_class10_science.json", 
+      "flashcards": "data/Class910Science/flashcards_ch12-foodresource.json", 
+      "workflow": "workflow_class9_science.json" 
+    },
+     {
+      "title": "Light – Reflection and Refraction",
+      "notes": "notes_class10_science.html", 
+      "quiz": "quiz_class10_science.json", 
+      "flashcards": "data/Class910Science/flashcards_ch12-foodresource.json", 
+      "workflow": "workflow_class9_science.json" 
+    },
+     {
+      "title": "The Human Eye and the Colourful World",
+      "notes": "notes_class10_science.html", 
+      "quiz": "quiz_class10_science.json", 
+      "flashcards": "data/Class910Science/flashcards_ch12-foodresource.json", 
+      "workflow": "workflow_class9_science.json" 
+    },
+    {
+      "title": "Electricity",
+      "notes": "notes_class10_science.html", 
+      "quiz": "quiz_class10_science.json", 
+      "flashcards": "data/Class910Science/flashcards_ch12-foodresource.json", 
+      "workflow": "workflow_class9_science.json" 
+    },
+    {
+      "title": "Magnetic Effects of Electric Current",
+      "notes": "notes_class10_science.html", 
+      "quiz": "quiz_class10_science.json", 
+      "flashcards": "data/Class910Science/flashcards_ch12-foodresource.json", 
+      "workflow": "workflow_class9_science.json" 
+    },
+    {
+      "title": "Our Environment",
+      "notes": "notes_class10_science.html", 
+      "quiz": "quiz_class10_science.json", 
+      "flashcards": "data/Class910Science/flashcards_ch12-foodresource.json", 
+      "workflow": "workflow_class9_science.json" 
+    }
 ]
 },  
     {
@@ -256,6 +347,7 @@
   ]
 
 }
+
 
 
 
