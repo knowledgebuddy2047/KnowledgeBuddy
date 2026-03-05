@@ -17,76 +17,6 @@
       "quiz": "quiz_class9_science.json", 
       "flashcards": "Class910Science/flashcards_ch2_materpure.json", 
       "workflow": "workflow_class9_science.json" 
-    },
-    {
-     "title": "Atoms and Molecules",
-      "notes": "notes_class9_science.html", 
-      "quiz": "quiz_class9_science.json", 
-      "flashcards": "Class910Science/flashcard_ch3_atommole", 
-      "workflow": "workflow_class9_science.json" 
-    },
-    {
-      "title": "Structure of Atoms",
-      "notes": "notes_class9_science.html", 
-      "quiz": "quiz_class9_science.json", 
-      "flashcards": "Class910Science/flashcard_ch4-strucofatoms", 
-      "workflow": "workflow_class9_science.json" 
-    },
-    {
-     "title": "Fundamental Unit of Life",
-      "notes": "notes_class9_science.html", 
-      "quiz": "quiz_class9_science.json", 
-      "flashcards": "Class910Science/flashcards_ch5_unitlife.json", 
-      "workflow": "workflow_class9_science.json" 
-    },
-    {
-      "title": "Tissues",
-      "notes": "notes_class9_science.html", 
-      "quiz": "quiz_class9_science.json", 
-      "flashcards": "Class910Science/flashcards_ch6_tissue.json", 
-      "workflow": "workflow_class9_science.json" 
-    },
-    {
-      "title": "Motion",
-      "notes": "notes_class9_science.html", 
-      "quiz": "quiz_class9_science.json", 
-      "flashcards": "Class910Science/flashcards_ch7_motion.json", 
-      "workflow": "workflow_class9_science.json" 
-    },
-    {
-      "title": "Force and Laws of Motion",
-      "notes": "notes_class9_science.html", 
-      "quiz": "quiz_class9_science.json", 
-      "flashcards": "Class910Science/flashcards_ch8_Forcelaw.json", 
-      "workflow": "workflow_class9_science.json" 
-    },
-    {
-      "title": "Gravitation",
-      "notes": "notes_class9_science.html", 
-      "quiz": "quiz_class9_science.json", 
-      "flashcards": "Class910Science/flashcards_ch9-gravitation.json", 
-      "workflow": "workflow_class9_science.json" 
-    },
-    {
-      "title": "Work and Energy",
-      "notes": "notes_class9_science.html", 
-      "quiz": "quiz_class9_science.json", 
-      "flashcards": "Class910Science/flashcards_ch10-workenrgy.json", 
-      "workflow": "workflow_class9_science.json" 
-    },
-    {
-      "title": "Sound",
-      "notes": "notes_class9_science.html", 
-      "quiz": "quiz_class9_science.json", 
-      "flashcards": "Class910Science/flashcards_ch11-sound.json", 
-      "workflow": "workflow_class9_science.json" 
-    },
-    {
-      "title": "Improvement in Food Resources",
-      "notes": "notes_class9_science.html", 
-      "quiz": "quiz_class9_science.json", 
-      "flashcards": "data/Class910Science/flashcards_ch12-foodresource.json", 
-      "workflow": "workflow_class9_science.json" 
     }
 ]
 },  
@@ -263,6 +193,7 @@
   ]
 
 }
+
 
 
 
