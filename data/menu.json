@@ -5,7 +5,7 @@
       "description": "Concept notes, quizzes, and flashcards.", 
        "chapters": [
        {
-      "title": "Matters in our surroundin",
+      "title": "Matters in our surrounding",
       "notes": "notes_class9_science.html",
       "quiz": "quiz_class9_science.json",
       "flashcards": "Class910Science/flashcards_ch1-matters.json",
@@ -263,6 +263,7 @@
   ]
 
 }
+
 
 
 
