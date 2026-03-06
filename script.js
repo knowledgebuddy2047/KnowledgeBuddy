@@ -247,23 +247,15 @@ let flashFlipped = false;
 
 function showFlashcards(file) {
   fetch(`data/${file}`)
-    .then(res => {
-      if (!res.ok) {
-        throw new Error(`HTTP error! Status: ${res.status}`);
-      }
-      return res.json();
-    })
+    .then(res => res.json())
     .then(data => {
-      if (!data.flashcards) {
-        throw new Error("Invalid flashcard data format");
-      }
-      flashcardsData = data.flashcards; 
+      flashcardsData = data.flashcards;
       flashIndex = 0;
       renderFlashcard();
     })
     .catch(err => {
       document.getElementById("content-body").innerHTML =
-        `<p>⚠️ Error loading flashcards: ${err?.message || err}</p>`;
+        `<p>⚠️ Error loading flashcards: ${err.message}</p>`;
     });
 }
 
@@ -316,6 +308,7 @@ function shuffleFlashcards() {
   flashFlipped = false;
   renderFlashcard();
 }
+
 
 
 
