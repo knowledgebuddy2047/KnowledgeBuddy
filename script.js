@@ -201,25 +201,6 @@ function submitQuiz() {
   document.getElementById("content-body").innerHTML = resultsHTML;
 }
 
-
-
-// Flashcards Loader
-function showFlashcards(file) {
-  fetch(`data/${file}`)
-    .then(res => res.json())
-    .then(data => {
-      let cardsHTML = "";
-      data.flashcards.forEach(card => {
-        cardsHTML += `
-          <div class="flashcard">
-            <div class="front">${card.front}</div>
-            <div class="back">${card.back}</div>
-          </div>`;
-      });
-      document.getElementById("content-body").innerHTML = cardsHTML;
-    });
-}
-
 // Workflow Loader
 function showWorkflow(file) {
   fetch(`data/${file}`)
@@ -308,6 +289,7 @@ function shuffleFlashcards() {
   flashFlipped = false;
   renderFlashcard();
 }
+
 
 
 
