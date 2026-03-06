@@ -77,7 +77,6 @@
       "back": "Displacement of the object."
     },
 
-    // Application-based flashcards
     {
       "front": "Why does a passenger in a moving bus see roadside trees moving backwards?",
       "back": "Because motion is observed relative to a reference point; the passenger’s frame of reference differs from that of a person standing outside."
