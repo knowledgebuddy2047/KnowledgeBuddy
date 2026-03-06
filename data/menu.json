@@ -19,13 +19,6 @@
       "workflow": "workflow_class9_science.json" 
     },
     {
-      "title": "Tissues",
-      "notes": "notes_class9_science.html", 
-      "quiz": "quiz_class9_science.json", 
-      "flashcards": "Class910Science/flashcards_ch6_tissue.json", 
-      "workflow": "workflow_class9_science.json" 
-    },
-    {
      "title": "Atoms and Molecules",
       "notes": "notes_class9_science.html", 
       "quiz": "quiz_class9_science.json", 
@@ -44,6 +37,13 @@
       "notes": "notes_class9_science.html", 
       "quiz": "quiz_class9_science.json", 
       "flashcards": "Class910Science/flashcards_ch5_unitlife.json", 
+      "workflow": "workflow_class9_science.json" 
+    },
+     {
+      "title": "Tissues",
+      "notes": "notes_class9_science.html", 
+      "quiz": "quiz_class9_science.json", 
+      "flashcards": "Class910Science/flashcards_ch6_tissue.json", 
       "workflow": "workflow_class9_science.json" 
     },
     {
@@ -347,6 +347,7 @@
   ]
 
 }
+
 
 
 
