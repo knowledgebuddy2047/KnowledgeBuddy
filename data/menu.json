@@ -15,7 +15,7 @@
       "title": "Matter arround us is pure?",
       "notes": "notes_class9_science.html", 
       "quiz": "quiz_class9_science.json", 
-      "flashcards": "Class910Science/flashcards_ch2_materpure.json", 
+      "flashcards": "data/Class910Science/flashcards_ch2_materpure.json", 
       "workflow": "workflow_class9_science.json" 
     },
     {
@@ -347,6 +347,7 @@
   ]
 
 }
+
 
 
 
