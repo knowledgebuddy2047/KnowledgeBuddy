@@ -61,7 +61,7 @@
       "back": "Density = Mass / Volume."
     },
 
-    // Application-based flashcards
+    
     {
       "front": "Why does the earth not move towards a falling apple?",
       "back": "Because the earth’s mass is extremely large compared to the apple, so its acceleration is negligible."
