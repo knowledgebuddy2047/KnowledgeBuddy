@@ -247,17 +247,26 @@ let flashFlipped = false;
 
 function showFlashcards(file) {
   fetch(`data/${file}`)
-    .then(res => res.json())
+    .then(res => {
+      if (!res.ok) {
+        throw new Error(`HTTP error! Status: ${res.status}`);
+      }
+      return res.json();
+    })
     .then(data => {
-      flashcardsData = data.flashcards;
+      if (!data.flashcards) {
+        throw new Error("Invalid flashcard data format");
+      }
+      flashcardsData = data.flashcards; // make sure declared globally or in scope
       flashIndex = 0;
       renderFlashcard();
     })
     .catch(err => {
       document.getElementById("content-body").innerHTML =
-        `<p>⚠️ Error loading flashcards: ${err.message}</p>`;
+        `<p>⚠️ Error loading flashcards: ${err?.message || err}</p>`;
     });
 }
+
 
 function renderFlashcard() {
   if (flashcardsData.length === 0) return;
@@ -307,6 +316,7 @@ function shuffleFlashcards() {
   flashFlipped = false;
   renderFlashcard();
 }
+
 
 
 
