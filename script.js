@@ -257,7 +257,7 @@ function showFlashcards(file) {
       if (!data.flashcards) {
         throw new Error("Invalid flashcard data format");
       }
-      flashcardsData = data.flashcards; // make sure declared globally or in scope
+      flashcardsData = data.flashcards; 
       flashIndex = 0;
       renderFlashcard();
     })
@@ -316,6 +316,7 @@ function shuffleFlashcards() {
   flashFlipped = false;
   renderFlashcard();
 }
+
 
 
 
