@@ -6,7 +6,7 @@
        "chapters": [
        {
       "title": "Matters in our surrounding",
-      "notes": "notes_class9_science.html",
+      "notes": "Class910Science/notes_ch1_matters.html",
       "quiz": "quiz_class9_science.json",
       "flashcards": "Class910Science/flashcards_ch1-matters.json",
       "workflow": "workflow_class9_science.json"
@@ -347,6 +347,7 @@
   ]
 
 }
+
 
 
 
