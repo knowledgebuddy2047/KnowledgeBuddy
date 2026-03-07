@@ -1,0 +1,98 @@
+{
+  "flashcards": [
+    {
+      "front": "Who discovered the electron?",
+      "back": "J.J. Thomson."
+    },
+    {
+      "front": "Who discovered canal rays and what particle did they lead to?",
+      "back": "E. Goldstein discovered canal rays, which led to the discovery of protons."
+    },
+    {
+      "front": "Who discovered the neutron?",
+      "back": "James Chadwick in 1932."
+    },
+    {
+      "front": "What is Thomson’s model of the atom?",
+      "back": "An atom is a positively charged sphere with electrons embedded in it, making it electrically neutral."
+    },
+    {
+      "front": "What is Rutherford’s nuclear model of the atom?",
+      "back": "An atom has a small, dense, positively charged nucleus with electrons revolving around it in empty space."
+    },
+    {
+      "front": "What were the key observations of Rutherford’s gold foil experiment?",
+      "back": "Most alpha particles passed through, some deflected at small angles, and a few rebounded, showing a dense nucleus."
+    },
+    {
+      "front": "What was the main drawback of Rutherford’s model?",
+      "back": "It could not explain why electrons revolving around the nucleus do not lose energy and collapse into it."
+    },
+    {
+      "front": "What are Bohr’s postulates?",
+      "back": "Electrons revolve in discrete orbits without radiating energy, and each orbit corresponds to a fixed energy level."
+    },
+    {
+      "front": "What is the formula for maximum electrons in a shell?",
+      "back": "2n², where n is the orbit number."
+    },
+    {
+      "front": "What is valency?",
+      "back": "The combining capacity of an atom, determined by the number of electrons gained, lost, or shared to complete an octet."
+    },
+    {
+      "front": "Define atomic number (Z).",
+      "back": "The number of protons in the nucleus of an atom."
+    },
+    {
+      "front": "Define mass number (A).",
+      "back": "The sum of protons and neutrons in the nucleus of an atom."
+    },
+    {
+      "front": "What are isotopes?",
+      "back": "Atoms of the same element with the same atomic number but different mass numbers."
+    },
+    {
+      "front": "What are isobars?",
+      "back": "Atoms of different elements with different atomic numbers but the same mass number."
+    },
+
+    
+    {
+      "front": "Why does an atom remain electrically neutral?",
+      "back": "Because the number of protons (positive charge) equals the number of electrons (negative charge)."
+    },
+    {
+      "front": "Why did Rutherford conclude that most of the atom is empty space?",
+      "back": "Because most alpha particles passed straight through the gold foil without deflection."
+    },
+    {
+      "front": "Why is Bohr’s model more successful than Rutherford’s?",
+      "back": "It explained the stability of atoms by proposing discrete energy levels where electrons do not lose energy."
+    },
+    {
+      "front": "Why is helium chemically inert?",
+      "back": "Because it has a completely filled outer shell (2 electrons), giving it a valency of zero."
+    },
+    {
+      "front": "Why does chlorine have a valency of 1?",
+      "back": "Because it has 7 electrons in its outermost shell and needs only 1 more to complete its octet."
+    },
+    {
+      "front": "Why is the average atomic mass of chlorine 35.5 u?",
+      "back": "Because chlorine exists as isotopes Cl-35 and Cl-37 in a 3:1 ratio, giving a weighted average."
+    },
+    {
+      "front": "Why are isotopes useful in medicine?",
+      "back": "Because certain isotopes like cobalt are used in cancer treatment and iodine in treating goitre."
+    },
+    {
+      "front": "Why is sodium’s electronic configuration written as 2,8,1?",
+      "back": "Because it has 11 electrons distributed in K, L, and M shells according to the 2n² rule."
+    },
+    {
+      "front": "Why is the mass of an atom concentrated in its nucleus?",
+      "back": "Because protons and neutrons (nucleons) are located in the nucleus and contribute nearly all the mass."
+    }
+  ]
+}
