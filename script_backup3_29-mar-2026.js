@@ -56,9 +56,6 @@ function loadContent(subject) {
   const bcEl = document.getElementById("breadcrumb-subject");
   if (bcEl) bcEl.textContent = subject.name;
 
-  // Tell chatbot which subject is active
-  if (window.naChat) window.naChat.setSubject(subject.name, null);
-
   let html = `<p class="subject-desc">${subject.description}</p>`;
 
   // Chapter selector block
@@ -101,14 +98,6 @@ function loadContent(subject) {
   </div>`;
 
   document.getElementById("content-body").innerHTML = html;
-
-  // When student picks a chapter, update chatbot context
-  document.getElementById("chapter-select")?.addEventListener("change", function() {
-    const idx = this.value;
-    if (idx !== "" && window.naChat) {
-      window.naChat.setSubject(subject.name, subject.chapters[idx].title);
-    }
-  });
 
   // Attach event listeners
   document.getElementById("notes-btn").addEventListener("click",       () => loadSelected("notes",       subject));
@@ -208,21 +197,7 @@ function showToast(msg) {
 function loadNotes(file) {
   fetch(`data/${file}`)
     .then(res => res.text())
-    .then(html => {
-      // Strip any <head>, <style>, <body> tags from the notes file
-      // so their embedded CSS doesn't leak into the page
-      var clean = html
-        .replace(/<head[\s\S]*?<\/head>/gi, '')
-        .replace(/<style[\s\S]*?<\/style>/gi, '')
-        .replace(/<\/?body[^>]*>/gi, '')
-        .replace(/<\/?html[^>]*>/gi, '');
-      // Wrap in .notes-content so our scoped CSS applies correctly
-      document.getElementById("content-body").innerHTML =
-        '<div class="notes-content">' + clean + '</div>';
-      // Tell chatbot the notes content so it can answer from them
-      const notesText = document.querySelector('.notes-content')?.innerText || '';
-      if (window.naChat) window.naChat.setNotesMode(notesText);
-    })
+    .then(html => { document.getElementById("content-body").innerHTML = html; })
     .catch(() => { document.getElementById("content-body").innerHTML = notFoundHTML('notes'); });
 }
 
@@ -237,11 +212,7 @@ function loadSlide(file) {
 function showWorkflow(file) {
   fetch(`data/${file}`)
     .then(res => res.text())
-    .then(html => {
-      document.getElementById("content-body").innerHTML = html;
-      // Tell chatbot video is playing
-      if (window.naChat) window.naChat.setVideoMode();
-    })
+    .then(html => { document.getElementById("content-body").innerHTML = html; })
     .catch(() => { document.getElementById("content-body").innerHTML = notFoundHTML('video'); });
 }
 
@@ -272,42 +243,9 @@ function startQuiz(file, numQuestions) {
       userAnswers = {};
 
       const quizHTML = `
-        <style>
-          #quiz-header {
-            display:flex; align-items:center; justify-content:space-between;
-            flex-wrap:wrap; gap:10px; margin-bottom:12px;
-          }
-          #quiz-luck {
-            font-size:1.05rem; font-weight:700;
-            color:#16a34a;
-            background:#dcfce7;
-            border:1.5px solid #bbf7d0;
-            border-radius:50px;
-            padding:6px 16px;
-          }
-          #timer {
-            font-size:1rem; font-weight:700;
-            color:#b45309;
-            background:#fef3c7;
-            border:1.5px solid #fde68a;
-            border-radius:50px;
-            padding:6px 16px;
-          }
-          #submit-quiz-btn {
-            background:#dc2626; color:#fff;
-            border:none; border-radius:8px;
-            padding:8px 20px; font-size:.9rem; font-weight:700;
-            cursor:pointer; white-space:nowrap;
-            box-shadow:0 2px 8px rgba(220,38,38,.3);
-            transition:background .2s, transform .1s;
-          }
-          #submit-quiz-btn:hover { background:#b91c1c; transform:scale(1.03); }
-          #submit-quiz-btn:active { transform:scale(.97); }
-        </style>
         <div id="quiz-header">
-          <span id="quiz-luck">🍀 Best of Luck!</span>
+          <h3 class="text-green">🍀 Best of Luck!</h3>
           <div id="timer">Loading…</div>
-          <button id="submit-quiz-btn" type="button" onclick="submitQuiz()">Submit Quiz ✔</button>
         </div>
         <div id="quiz-body">
           <div id="quiz-nav" class="sidebar"></div>
@@ -318,6 +256,9 @@ function startQuiz(file, numQuestions) {
                 <button type="button" onclick="prevQuestion()">← Previous</button>
                 <button type="button" onclick="nextQuestion()">Next →</button>
               </div>
+              <button class="action-button" type="button" onclick="submitQuiz()" style="margin-top:8px;">
+                Submit Quiz
+              </button>
             </form>
           </div>
         </div>`;

@@ -56,9 +56,6 @@ function loadContent(subject) {
   const bcEl = document.getElementById("breadcrumb-subject");
   if (bcEl) bcEl.textContent = subject.name;
 
-  // Tell chatbot which subject is active
-  if (window.naChat) window.naChat.setSubject(subject.name, null);
-
   let html = `<p class="subject-desc">${subject.description}</p>`;
 
   // Chapter selector block
@@ -101,14 +98,6 @@ function loadContent(subject) {
   </div>`;
 
   document.getElementById("content-body").innerHTML = html;
-
-  // When student picks a chapter, update chatbot context
-  document.getElementById("chapter-select")?.addEventListener("change", function() {
-    const idx = this.value;
-    if (idx !== "" && window.naChat) {
-      window.naChat.setSubject(subject.name, subject.chapters[idx].title);
-    }
-  });
 
   // Attach event listeners
   document.getElementById("notes-btn").addEventListener("click",       () => loadSelected("notes",       subject));
@@ -208,21 +197,7 @@ function showToast(msg) {
 function loadNotes(file) {
   fetch(`data/${file}`)
     .then(res => res.text())
-    .then(html => {
-      // Strip any <head>, <style>, <body> tags from the notes file
-      // so their embedded CSS doesn't leak into the page
-      var clean = html
-        .replace(/<head[\s\S]*?<\/head>/gi, '')
-        .replace(/<style[\s\S]*?<\/style>/gi, '')
-        .replace(/<\/?body[^>]*>/gi, '')
-        .replace(/<\/?html[^>]*>/gi, '');
-      // Wrap in .notes-content so our scoped CSS applies correctly
-      document.getElementById("content-body").innerHTML =
-        '<div class="notes-content">' + clean + '</div>';
-      // Tell chatbot the notes content so it can answer from them
-      const notesText = document.querySelector('.notes-content')?.innerText || '';
-      if (window.naChat) window.naChat.setNotesMode(notesText);
-    })
+    .then(html => { document.getElementById("content-body").innerHTML = html; })
     .catch(() => { document.getElementById("content-body").innerHTML = notFoundHTML('notes'); });
 }
 
@@ -237,11 +212,7 @@ function loadSlide(file) {
 function showWorkflow(file) {
   fetch(`data/${file}`)
     .then(res => res.text())
-    .then(html => {
-      document.getElementById("content-body").innerHTML = html;
-      // Tell chatbot video is playing
-      if (window.naChat) window.naChat.setVideoMode();
-    })
+    .then(html => { document.getElementById("content-body").innerHTML = html; })
     .catch(() => { document.getElementById("content-body").innerHTML = notFoundHTML('video'); });
 }
 

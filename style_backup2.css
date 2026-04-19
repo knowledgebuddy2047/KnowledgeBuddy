@@ -792,98 +792,39 @@ input[type="radio"]:checked::after {
   border-collapse: collapse;
   margin-top: 16px;
   font-size: .92rem;
-  border: 1.5px solid var(--border);
-  border-radius: var(--r-md);
-  overflow: hidden;
-  table-layout: fixed;
 }
-
-/* Column widths: left label 45%, right select 55% */
-.match-table col.col-left  { width: 45%; }
-.match-table col.col-right { width: 55%; }
-
+.match-table th, .match-table td {
+  padding: 10px 14px;
+  border: 1px solid var(--border);
+  text-align: left;
+}
 .match-table th {
-  padding: 12px 18px;
-  background: #f0f5ff;
+  background: #f8faff;
   font-weight: 700;
-  font-size: .78rem;
+  font-size: .8rem;
   text-transform: uppercase;
-  letter-spacing: .08em;
+  letter-spacing: .06em;
   color: var(--accent);
-  border-bottom: 1.5px solid var(--border);
-  text-align: left;
 }
-
-/* No vertical border between the two header cells */
-.match-table th:first-child {
-  border-right: 2px solid var(--border);
-}
-
-.match-table td {
-  padding: 12px 18px;
-  border-bottom: 1px solid var(--border);
-  text-align: left;
-  vertical-align: middle;
-}
-
-/* Left cell — item label */
-.match-table td:first-child {
-  font-weight: 600;
-  color: var(--ink);
-  border-right: 2px solid var(--border);
-  background: #fafbff;
-}
-
-/* Last row — no bottom border */
-.match-table tr:last-child td {
-  border-bottom: none;
-}
-
-/* Subtle alternating row tint */
-.match-table tbody tr:nth-child(even) td { background: #f8faff; }
-.match-table tbody tr:nth-child(even) td:first-child { background: #f2f5ff; }
-
-/* Hover highlight across the whole row */
-.match-table tbody tr:hover td { background: #eff6ff; }
-.match-table tbody tr:hover td:first-child { background: #e8f0ff; }
+.match-table tr:hover td { background: #f8faff; }
 
 /* Select inside match table */
 .match-table select {
   width: 100%;
-  padding: 9px 36px 9px 12px;
+  padding: 8px 12px;
   font-family: var(--font-sans);
-  font-size: .9rem;
+  font-size: .88rem;
   color: var(--ink);
   background: var(--white);
-  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 24 24' fill='none' stroke='%236b7280' stroke-width='2.5'%3E%3Cpath d='M6 9l6 6 6-6'/%3E%3C/svg%3E");
-  background-repeat: no-repeat;
-  background-position: right 12px center;
   border: 1.5px solid var(--border);
   border-radius: var(--r-sm);
   appearance: none;
   cursor: pointer;
-  transition: border-color .18s, box-shadow .18s;
-}
-.match-table select:hover {
-  border-color: var(--accent-lt);
 }
 .match-table select:focus {
   outline: none;
   border-color: var(--accent);
-  box-shadow: 0 0 0 3px rgba(26,86,219,.12);
-  background-color: #f8faff;
-}
-/* Highlight the cell when a value is selected */
-.match-table select.has-value {
-  border-color: var(--green);
-  color: #065f46;
-  background-color: #f0fdf8;
-}
-
-@media (max-width: 480px) {
-  .match-table { table-layout: auto; }
-  .match-table td, .match-table th { padding: 10px 12px; }
-  .match-table select { font-size: .83rem; }
+  box-shadow: 0 0 0 3px rgba(26,86,219,.1);
 }
 
 #question-container {
@@ -1145,11 +1086,8 @@ input[type="radio"]:checked::after {
 
 }
 
-/* ── Global table rules scoped to notes only ──────────────────
-   These were originally unscoped and were overriding .match-table.
-   Now safely scoped to .notes-content so quiz tables are unaffected.
-   ────────────────────────────────────────────────────────────── */
-.notes-content table {
+/* General table styling */
+table {
   width: 100%;
   border-collapse: collapse;
   margin: 20px 0;
@@ -1160,7 +1098,9 @@ input[type="radio"]:checked::after {
   border-radius: 6px;
   overflow: hidden;
 }
-.notes-content table thead th {
+
+/* Table headers */
+table thead th {
   background-color: #004d80;
   color: #ffffff;
   text-align: center;
@@ -1168,24 +1108,28 @@ input[type="radio"]:checked::after {
   font-weight: 600;
   letter-spacing: 0.5px;
 }
-.notes-content table tbody td {
+
+/* Table body cells */
+table tbody td {
   padding: 12px;
   border-bottom: 1px solid #e0e0e0;
   text-align: center;
 }
-.notes-content table tbody td:first-child {
+
+/* First column (features/labels) */
+table tbody td:first-child {
   font-weight: 600;
   text-align: left;
   background-color: #f7f9fc;
   color: #333;
 }
-.notes-content table tbody tr:nth-child(even) {
+
+/* Alternate row shading */
+table tbody tr:nth-child(even) {
   background-color: #f9f9f9;
 }
-.notes-content table tbody tr:hover {
-  background-color: #eaf4ff;
-  transition: background-color 0.2s ease-in-out;
-}
+
+/* High-yield highlights */
 .high-yield {
   color: #d32f2f;
   font-weight: 700;
@@ -1193,12 +1137,63 @@ input[type="radio"]:checked::after {
   padding: 2px 6px;
   border-radius: 4px;
 }
+
+/* Hover effect for rows */
+table tbody tr:hover {
+  background-color: #eaf4ff;
+  transition: background-color 0.2s ease-in-out;
+}
+
+
+/* Wrapper for responsive scroll */
 .table-container {
   width: 100%;
   overflow-x: auto;
   margin: 20px 0;
   border: 1px solid #ddd;
   border-radius: 6px;
+}
+
+/* Table styling */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-family: "Segoe UI", Arial, sans-serif;
+  font-size: 14px;
+  background-color: #fff;
+  min-width: 900px; /* ensures structure even on small screens */
+}
+
+thead th {
+  background-color: #004d80;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+  font-weight: 600;
+}
+
+tbody td {
+  padding: 10px;
+  border-bottom: 1px solid #e0e0e0;
+  text-align: center;
+}
+
+/* First column emphasis */
+tbody td:first-child {
+  font-weight: 600;
+  text-align: left;
+  background-color: #f7f9fc;
+}
+
+/* Alternate row shading */
+tbody tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+/* Hover effect */
+tbody tr:hover {
+  background-color: #eaf4ff;
+  transition: background-color 0.2s ease-in-out;
 }
 
 

@@ -1,0 +1,586 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About — Narottama Academy</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,500;0,700;0,900;1,400;1,700&family=DM+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+
+  <style>
+    /* ── Reset & shared vars ── */
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    :root {
+      --saffron-deep:  #92400E;
+      --saffron-mid:   #B45309;
+      --saffron-warm:  #D97706;
+      --saffron-light: #FEF3C7;
+      --saffron-pale:  #FFFBEB;
+      --ink-dark:      #1C1917;
+      --ink-mid:       #44403C;
+      --ink-soft:      #78716C;
+      --cream:         #FAFAF9;
+      --white:         #FFFFFF;
+      --nav-h:         86px;
+      --nav-h-mob:     70px;
+    }
+
+    body { background: var(--cream); color: var(--ink-dark); }
+
+    /* ════════════════════════════
+       NAV — same as index.html
+    ════════════════════════════ */
+    .na-header {
+      position: sticky; top: 0; z-index: 200; width: 100%; height: var(--nav-h);
+      background: rgba(255,255,255,0.97); backdrop-filter: blur(8px);
+      border-top: 3px solid var(--saffron-warm);
+      border-bottom: 1px solid rgba(146,64,14,0.13);
+      box-shadow: 0 1px 14px rgba(146,64,14,0.08);
+      display: flex; align-items: center;
+    }
+    .na-header__inner {
+      width: 100%; max-width: 1280px; margin: 0 auto; padding: 0 28px;
+      display: flex; align-items: center; justify-content: space-between; gap: 16px;
+    }
+    .na-logo { display: flex; align-items: center; gap: 14px; text-decoration: none; flex-shrink: 0; }
+    .na-logo__flame { width: 54px; height: 68px; flex-shrink: 0; }
+    .na-logo__text { display: flex; flex-direction: column; gap: 3px; }
+    .na-logo__name { font-family: 'Playfair Display', Georgia, serif; font-size: 21px; font-weight: 700; letter-spacing: 3.5px; color: var(--ink-dark); line-height: 1; white-space: nowrap; }
+    .na-logo__sanskrit { font-family: 'DM Sans', sans-serif; font-size: 11px; font-weight: 400; letter-spacing: 1px; color: var(--saffron-mid); white-space: nowrap; line-height: 1; }
+    .na-logo__dedication { font-family: 'Playfair Display', Georgia, serif; font-size: 9px; font-weight: 400; font-style: italic; letter-spacing: 0.5px; color: var(--ink-soft); white-space: nowrap; line-height: 1; }
+    .na-nav { display: flex; gap: 2px; list-style: none; }
+    .na-nav a { display: block; padding: 6px 14px; font-family: 'DM Sans', sans-serif; font-size: 14px; font-weight: 500; color: var(--ink-mid); text-decoration: none; border-radius: 7px; transition: background .18s, color .18s; }
+    .na-nav a:hover, .na-nav a.active { background: var(--saffron-light); color: var(--saffron-deep); }
+    .na-badge { font-family: 'Playfair Display', Georgia, serif; font-size: 8.5px; font-weight: 700; letter-spacing: 2px; color: var(--saffron-deep); background: var(--saffron-light); border: 1px solid rgba(146,64,14,0.2); border-radius: 4px; padding: 3px 9px; white-space: nowrap; flex-shrink: 0; }
+    .na-hamburger { display: none; flex-direction: column; gap: 5px; cursor: pointer; background: none; border: none; padding: 5px; border-radius: 6px; transition: background .15s; }
+    .na-hamburger:hover { background: var(--saffron-light); }
+    .na-hamburger span { display: block; width: 22px; height: 2px; background: var(--ink-dark); border-radius: 2px; transition: transform .25s, opacity .25s; transform-origin: center; }
+    .na-hamburger.open span:nth-child(1) { transform: translateY(7px) rotate(45deg); }
+    .na-hamburger.open span:nth-child(2) { opacity: 0; transform: scaleX(0); }
+    .na-hamburger.open span:nth-child(3) { transform: translateY(-7px) rotate(-45deg); }
+    .na-drawer { display: none; position: fixed; top: var(--nav-h-mob); left: 0; right: 0; background: rgba(255,255,255,0.98); backdrop-filter: blur(8px); border-bottom: 1px solid rgba(146,64,14,0.12); box-shadow: 0 8px 24px rgba(146,64,14,0.1); z-index: 199; padding: 10px 16px 18px; transform: translateY(-6px); opacity: 0; transition: transform .22s ease, opacity .22s ease; pointer-events: none; }
+    .na-drawer.open { transform: translateY(0); opacity: 1; pointer-events: all; }
+    .na-drawer ul { list-style: none; display: flex; flex-direction: column; gap: 2px; }
+    .na-drawer a { display: block; padding: 10px 14px; font-family: 'DM Sans', sans-serif; font-size: 15px; font-weight: 500; color: var(--ink-mid); text-decoration: none; border-radius: 8px; transition: background .15s, color .15s; }
+    .na-drawer a:hover, .na-drawer a.active { background: var(--saffron-light); color: var(--saffron-deep); }
+    .na-drawer__footer { margin-top: 12px; padding-top: 12px; border-top: 1px solid rgba(146,64,14,0.1); display: flex; align-items: center; justify-content: space-between; }
+    .na-drawer__tagline { font-family: 'DM Sans', sans-serif; font-size: 9px; font-weight: 500; letter-spacing: 1.5px; color: var(--saffron-mid); text-transform: uppercase; }
+    @media (max-width: 768px) {
+      .na-header { height: var(--nav-h-mob); }
+      .na-header__inner { padding: 0 16px; }
+      .na-nav, .na-badge { display: none; }
+      .na-hamburger { display: flex; }
+      .na-drawer { display: block; }
+      .na-logo__name { font-size: 17px; letter-spacing: 2px; }
+      .na-logo__sanskrit { font-size: 9.5px; }
+      .na-logo__dedication { display: none; }
+      .na-logo__flame { width: 42px; height: 52px; }
+      .na-logo { gap: 8px; }
+    }
+    @media (max-width: 360px) { .na-logo__sanskrit { display: none; } }
+
+    /* ════════════════════════════
+       ABOUT PAGE STYLES
+    ════════════════════════════ */
+
+    /* ── Page hero ── */
+    .about-hero {
+      background: linear-gradient(135deg, #1C1917 0%, #292524 60%, #3C1F0A 100%);
+      padding: 80px 24px 90px;
+      text-align: center;
+      position: relative;
+      overflow: hidden;
+    }
+    .about-hero::before {
+      content: '';
+      position: absolute; inset: 0;
+      background: radial-gradient(ellipse at 50% 0%, rgba(217,119,6,0.18) 0%, transparent 70%);
+    }
+    .about-hero__label {
+      font-family: 'DM Sans', sans-serif; font-size: 11px; font-weight: 500;
+      letter-spacing: 3px; color: var(--saffron-warm); text-transform: uppercase;
+      margin-bottom: 20px;
+    }
+    .about-hero__title {
+      font-family: 'Playfair Display', Georgia, serif;
+      font-size: clamp(36px, 6vw, 62px); font-weight: 700;
+      color: #FAFAF9; line-height: 1.1; margin-bottom: 20px;
+      position: relative;
+    }
+    .about-hero__title em {
+      font-style: italic; color: var(--saffron-warm);
+    }
+    .about-hero__sub {
+      font-family: 'DM Sans', sans-serif; font-size: 17px; font-weight: 300;
+      color: rgba(250,250,249,0.65); max-width: 540px; margin: 0 auto;
+      line-height: 1.7; position: relative;
+    }
+
+    /* ── Shared section layout ── */
+    .about-section {
+      max-width: 900px; margin: 0 auto; padding: 72px 24px;
+    }
+    .section-eyebrow {
+      font-family: 'DM Sans', sans-serif; font-size: 10px; font-weight: 600;
+      letter-spacing: 3px; color: var(--saffron-warm); text-transform: uppercase;
+      margin-bottom: 14px;
+    }
+    .section-heading {
+      font-family: 'Playfair Display', Georgia, serif;
+      font-size: clamp(26px, 4vw, 38px); font-weight: 700;
+      color: var(--ink-dark); line-height: 1.2; margin-bottom: 20px;
+    }
+    .section-heading em { font-style: italic; color: var(--saffron-mid); }
+    .section-body {
+      font-family: 'DM Sans', sans-serif; font-size: 16px; font-weight: 400;
+      color: var(--ink-mid); line-height: 1.8;
+    }
+    .section-body p + p { margin-top: 16px; }
+
+    /* ── Tribute card ── */
+    .tribute-wrap {
+      background: linear-gradient(135deg, #1C1917, #3C1F0A);
+      border-radius: 20px; padding: 52px 48px;
+      display: flex; gap: 48px; align-items: flex-start;
+      position: relative; overflow: hidden;
+    }
+    .tribute-wrap::before {
+      content: '';
+      position: absolute; top: -40px; right: -40px;
+      width: 220px; height: 220px;
+      background: radial-gradient(circle, rgba(217,119,6,0.2) 0%, transparent 70%);
+    }
+    .tribute-flame {
+      flex-shrink: 0; width: 80px; height: 100px;
+      position: relative; z-index: 1;
+    }
+    .tribute-text { position: relative; z-index: 1; }
+    .tribute-text blockquote {
+      font-family: 'Playfair Display', Georgia, serif;
+      font-size: clamp(20px, 3vw, 28px); font-weight: 700; font-style: italic;
+      color: var(--saffron-warm); line-height: 1.4; margin-bottom: 20px;
+    }
+    .tribute-text p {
+      font-family: 'DM Sans', sans-serif; font-size: 15px; font-weight: 300;
+      color: rgba(250,250,249,0.75); line-height: 1.8;
+    }
+    .tribute-text p + p { margin-top: 12px; }
+    .tribute-name {
+      margin-top: 24px; padding-top: 20px;
+      border-top: 1px solid rgba(217,119,6,0.3);
+      font-family: 'Playfair Display', Georgia, serif;
+      font-size: 13px; font-style: italic; color: rgba(250,250,249,0.5);
+    }
+
+    @media (max-width: 640px) {
+      .tribute-wrap { flex-direction: column; gap: 28px; padding: 36px 28px; }
+      .tribute-flame { width: 56px; height: 70px; }
+    }
+
+    /* ── Mission pillars ── */
+    .pillars-grid {
+      display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+      gap: 20px; margin-top: 40px;
+    }
+    .pillar-card {
+      background: var(--white); border: 1px solid rgba(146,64,14,0.1);
+      border-radius: 16px; padding: 32px 28px;
+      transition: transform .2s, box-shadow .2s;
+    }
+    .pillar-card:hover { transform: translateY(-4px); box-shadow: 0 12px 32px rgba(146,64,14,0.1); }
+    .pillar-icon {
+      width: 48px; height: 48px; border-radius: 12px;
+      background: var(--saffron-light); display: flex; align-items: center;
+      justify-content: center; margin-bottom: 18px;
+    }
+    .pillar-icon svg { width: 24px; height: 24px; }
+    .pillar-title {
+      font-family: 'Playfair Display', Georgia, serif;
+      font-size: 18px; font-weight: 700; color: var(--ink-dark); margin-bottom: 10px;
+    }
+    .pillar-body {
+      font-family: 'DM Sans', sans-serif; font-size: 14px; color: var(--ink-soft); line-height: 1.7;
+    }
+
+    /* ── What we offer ── */
+    .offer-section { background: var(--saffron-pale); }
+    .offer-grid {
+      display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 16px; margin-top: 40px;
+    }
+    .offer-item {
+      background: var(--white); border-radius: 14px;
+      padding: 28px 24px; text-align: center;
+      border: 1px solid rgba(146,64,14,0.08);
+    }
+    .offer-num {
+      font-family: 'Playfair Display', Georgia, serif;
+      font-size: 40px; font-weight: 900; color: var(--saffron-warm);
+      line-height: 1; margin-bottom: 6px;
+    }
+    .offer-label {
+      font-family: 'DM Sans', sans-serif; font-size: 13px; font-weight: 600;
+      color: var(--ink-mid); letter-spacing: 0.5px; margin-bottom: 8px;
+    }
+    .offer-desc {
+      font-family: 'DM Sans', sans-serif; font-size: 12px; color: var(--ink-soft); line-height: 1.6;
+    }
+
+    /* ── Human excellence philosophy ── */
+    .philosophy-section { background: var(--white); }
+    .philosophy-quote {
+      border-left: 4px solid var(--saffron-warm);
+      padding: 24px 32px; margin: 32px 0;
+      background: var(--saffron-pale); border-radius: 0 12px 12px 0;
+    }
+    .philosophy-quote p {
+      font-family: 'Playfair Display', Georgia, serif;
+      font-size: 18px; font-style: italic; color: var(--ink-dark); line-height: 1.6;
+    }
+    .philosophy-quote cite {
+      display: block; margin-top: 10px;
+      font-family: 'DM Sans', sans-serif; font-size: 12px;
+      color: var(--saffron-mid); font-style: normal; letter-spacing: 1px;
+    }
+
+    /* ── Exams covered ── */
+    .exams-grid {
+      display: flex; flex-wrap: wrap; gap: 10px; margin-top: 32px;
+    }
+    .exam-pill {
+      font-family: 'DM Sans', sans-serif; font-size: 13px; font-weight: 500;
+      padding: 8px 18px; border-radius: 50px;
+      border: 1.5px solid rgba(146,64,14,0.2);
+      color: var(--saffron-deep); background: var(--saffron-light);
+    }
+
+    /* ── CTA ── */
+    .cta-section {
+      background: linear-gradient(135deg, #1C1917 0%, #3C1F0A 100%);
+      text-align: center; padding: 80px 24px;
+    }
+    .cta-section h2 {
+      font-family: 'Playfair Display', Georgia, serif;
+      font-size: clamp(28px, 4vw, 44px); font-weight: 700;
+      color: #FAFAF9; margin-bottom: 16px;
+    }
+    .cta-section h2 em { font-style: italic; color: var(--saffron-warm); }
+    .cta-section p {
+      font-family: 'DM Sans', sans-serif; font-size: 16px; font-weight: 300;
+      color: rgba(250,250,249,0.65); margin-bottom: 36px; line-height: 1.7;
+    }
+    .cta-btn {
+      display: inline-flex; align-items: center; gap: 10px;
+      background: var(--saffron-warm); color: #1C1917;
+      font-family: 'DM Sans', sans-serif; font-size: 15px; font-weight: 600;
+      padding: 14px 32px; border-radius: 50px; text-decoration: none;
+      transition: background .2s, transform .15s;
+    }
+    .cta-btn:hover { background: var(--saffron-mid); color: white; transform: scale(1.03); }
+
+    /* ── Footer ── (same as index) ── */
+    .site-footer { background: #1C1917; padding: 32px 24px; }
+    .footer-inner { max-width: 1280px; margin: 0 auto; display: flex; flex-direction: column; align-items: center; gap: 12px; }
+    .footer-brand { display: flex; align-items: center; gap: 10px; font-family: 'Playfair Display', Georgia, serif; font-size: 16px; color: rgba(250,250,249,0.85); }
+    .footer-copy { font-family: 'DM Sans', sans-serif; font-size: 12px; color: rgba(250,250,249,0.35); letter-spacing: 0.5px; }
+
+    /* ── Divider ── */
+    .about-divider {
+      width: 100%; height: 1px;
+      background: linear-gradient(90deg, transparent, rgba(146,64,14,0.2), transparent);
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Background orbs (same as index) -->
+  <div class="bg-orbs">
+    <div class="orb orb-1"></div>
+    <div class="orb orb-2"></div>
+    <div class="orb orb-3"></div>
+  </div>
+
+  <!-- ══ NAVIGATION (identical to index.html) ══ -->
+  <header class="na-header" role="banner">
+    <div class="na-header__inner">
+      <a href="index.html" class="na-logo" aria-label="Narottama Academy — Home">
+        <svg class="na-logo__flame" viewBox="0 0 36 44" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+          <defs>
+            <linearGradient id="nf-o" x1="18" y1="44" x2="18" y2="0" gradientUnits="userSpaceOnUse">
+              <stop offset="0%" stop-color="#C2410C"/>
+              <stop offset="42%" stop-color="#EA580C"/>
+              <stop offset="76%" stop-color="#F59E0B"/>
+              <stop offset="100%" stop-color="#FDE68A"/>
+            </linearGradient>
+            <linearGradient id="nf-i" x1="18" y1="42" x2="18" y2="4" gradientUnits="userSpaceOnUse">
+              <stop offset="0%" stop-color="#EA580C"/>
+              <stop offset="55%" stop-color="#FCD34D"/>
+              <stop offset="100%" stop-color="#FFFBEB"/>
+            </linearGradient>
+          </defs>
+          <path d="M18,4 C18,4 24,12 26,20 C28,27 26,33 22,38 C26,32 28,25 26,18 C29,24 28,31 24,37 C28,30 29,22 25,14 C28,20 27,29 23,36 C27,26 27,17 22,8 C20,5.5 19,3 18,1 C17,3 16,5.5 14,8 C9,17 9,26 13,36 C9,29 10,20 13,14 C7,22 8,30 12,37 C8,31 7,24 10,18 C8,25 9,32 13,38 C9,33 7,27 9,20 C11,12 18,4 18,4Z" fill="url(#nf-o)" opacity="0.92"/>
+          <path d="M18,10 C18,10 22,17 23,23 C24,28 22,33 19,38 C22,32 23,27 22,21 C24,26 23,31 21,36 C24,29 24,22 21,16 C23,21 22,28 20,34 C22,27 21,20 18,14 C15,20 14,27 16,34 C14,28 13,21 15,16 C12,22 12,29 15,36 C13,31 12,26 14,21 C13,27 14,32 17,38 C14,33 12,28 13,23 C14,17 18,10 18,10Z" fill="url(#nf-i)" opacity="0.95"/>
+          <ellipse cx="18" cy="6" rx="3.5" ry="5" fill="#FFFBEB" opacity="0.88"/>
+        </svg>
+        <div class="na-logo__text">
+          <span class="na-logo__name">NAROTTAMA</span>
+          <span class="na-logo__sanskrit">नरोत्तम · Academy of Human Excellence · Est. 2024</span>
+          <span class="na-logo__dedication">In loving memory of Narottama</span>
+        </div>
+      </a>
+      <nav aria-label="Main navigation">
+        <ul class="na-nav">
+          <li><a href="index.html">Subjects</a></li>
+          <li><a href="about.html" class="active">About</a></li>
+          <li><a href="contact.html">Contact</a></li>
+        </ul>
+      </nav>
+      <span class="na-badge" aria-hidden="true">N·A·H·E</span>
+      <button class="na-hamburger" id="na-hamburger" aria-label="Open menu" aria-expanded="false" aria-controls="na-drawer">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </header>
+
+  <nav class="na-drawer" id="na-drawer" aria-label="Mobile navigation" aria-hidden="true">
+    <ul>
+      <li><a href="index.html">Subjects</a></li>
+      <li><a href="about.html" class="active">About</a></li>
+      <li><a href="contact.html">Contact</a></li>
+    </ul>
+    <div class="na-drawer__footer">
+      <span class="na-drawer__tagline">In loving memory of Narottama</span>
+      <span class="na-badge">N·A·H·E</span>
+    </div>
+  </nav>
+
+  <!-- ══ HERO ══ -->
+  <section class="about-hero">
+    <div class="about-hero__label">Our Story</div>
+    <h1 class="about-hero__title">Built on a <em>father's belief</em><br>in human excellence</h1>
+    <p class="about-hero__sub">Narottama Academy was born from a simple conviction — that every person, at any stage of life, has the capacity to learn, grow, and excel.</p>
+  </section>
+
+  <div class="about-divider"></div>
+
+  <!-- ══ TRIBUTE ══ -->
+  <section style="background: var(--cream); padding: 72px 24px;">
+    <div style="max-width: 900px; margin: 0 auto;">
+      <div class="section-eyebrow">The name behind the mission</div>
+      <div class="tribute-wrap">
+        <svg class="tribute-flame" viewBox="0 0 36 44" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <defs>
+            <linearGradient id="tf-o" x1="18" y1="44" x2="18" y2="0" gradientUnits="userSpaceOnUse">
+              <stop offset="0%" stop-color="#C2410C"/>
+              <stop offset="42%" stop-color="#EA580C"/>
+              <stop offset="76%" stop-color="#F59E0B"/>
+              <stop offset="100%" stop-color="#FDE68A"/>
+            </linearGradient>
+            <linearGradient id="tf-i" x1="18" y1="42" x2="18" y2="4" gradientUnits="userSpaceOnUse">
+              <stop offset="0%" stop-color="#EA580C"/>
+              <stop offset="55%" stop-color="#FCD34D"/>
+              <stop offset="100%" stop-color="#FFFBEB"/>
+            </linearGradient>
+          </defs>
+          <path d="M18,4 C18,4 24,12 26,20 C28,27 26,33 22,38 C26,32 28,25 26,18 C29,24 28,31 24,37 C28,30 29,22 25,14 C28,20 27,29 23,36 C27,26 27,17 22,8 C20,5.5 19,3 18,1 C17,3 16,5.5 14,8 C9,17 9,26 13,36 C9,29 10,20 13,14 C7,22 8,30 12,37 C8,31 7,24 10,18 C8,25 9,32 13,38 C9,33 7,27 9,20 C11,12 18,4 18,4Z" fill="url(#tf-o)" opacity="0.95"/>
+          <path d="M18,10 C18,10 22,17 23,23 C24,28 22,33 19,38 C22,32 23,27 22,21 C24,26 23,31 21,36 C24,29 24,22 21,16 C23,21 22,28 20,34 C22,27 21,20 18,14 C15,20 14,27 16,34 C14,28 13,21 15,16 C12,22 12,29 15,36 C13,31 12,26 14,21 C13,27 14,32 17,38 C14,33 12,28 13,23 C14,17 18,10 18,10Z" fill="url(#tf-i)" opacity="0.98"/>
+          <ellipse cx="18" cy="6" rx="3.5" ry="5" fill="#FFFBEB" opacity="0.95"/>
+        </svg>
+        <div class="tribute-text">
+          <blockquote>"नरोत्तम — the best among humans. A name that carries a whole philosophy."</blockquote>
+          <p>This academy is named in loving memory of Narottama — a father whose belief in human potential never wavered. He understood, long before it was fashionable, that excellence is not a gift given to a few — it is a discipline available to anyone willing to pursue it.</p>
+          <p>Every quiz question answered, every flashcard turned, every concept understood on this platform is a small act of honouring that belief. His name lives here — not as decoration, but as direction.</p>
+          <div class="tribute-name">— Founded by his son, carrying the flame forward</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <div class="about-divider"></div>
+
+  <!-- ══ MISSION ══ -->
+  <section style="padding: 72px 24px;">
+    <div style="max-width: 900px; margin: 0 auto;">
+      <div class="section-eyebrow">What drives us</div>
+      <h2 class="section-heading">Our <em>Mission</em></h2>
+      <div class="section-body">
+        <p>Most competitive exams — whether Class 10 boards, JEE, NEET, or MBBS postgrad — test the same core skills: deep understanding, pattern recognition, and the ability to recall under pressure. We believe the process of cracking any of them is fundamentally the same.</p>
+        <p>Narottama Academy exists to give every student — regardless of background, city, or coaching budget — access to that process. Structured notes, intelligent quizzes, and spaced repetition flashcards, all in one place.</p>
+      </div>
+      <div class="pillars-grid">
+        <div class="pillar-card">
+          <div class="pillar-icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="#92400E" stroke-width="2" stroke-linecap="round">
+              <path d="M12 2L2 7l10 5 10-5-10-5z"/><path d="M2 17l10 5 10-5"/><path d="M2 12l10 5 10-5"/>
+            </svg>
+          </div>
+          <div class="pillar-title">Deep Understanding</div>
+          <div class="pillar-body">Notes that explain the why, not just the what. Built for genuine comprehension, not surface-level memorisation.</div>
+        </div>
+        <div class="pillar-card">
+          <div class="pillar-icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="#92400E" stroke-width="2" stroke-linecap="round">
+              <circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/>
+            </svg>
+          </div>
+          <div class="pillar-title">Practice Under Pressure</div>
+          <div class="pillar-body">Timed quizzes with randomised questions simulate real exam conditions — so nothing surprises you on the day.</div>
+        </div>
+        <div class="pillar-card">
+          <div class="pillar-icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="#92400E" stroke-width="2" stroke-linecap="round">
+              <path d="M4 4h6v6H4zM14 4h6v6h-6zM4 14h6v6H4zM14 14h6v6h-6z"/>
+            </svg>
+          </div>
+          <div class="pillar-title">Spaced Repetition</div>
+          <div class="pillar-body">Flashcards designed around how memory actually works — review what you're about to forget, skip what you already know.</div>
+        </div>
+        <div class="pillar-card">
+          <div class="pillar-icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="#92400E" stroke-width="2" stroke-linecap="round">
+              <path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/>
+              <path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/>
+            </svg>
+          </div>
+          <div class="pillar-title">For Every Learner</div>
+          <div class="pillar-body">Class 9 student or MBBS doctor — the platform scales to your level, your exam, and your pace.</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <div class="about-divider"></div>
+
+  <!-- ══ PHILOSOPHY ══ -->
+  <section class="philosophy-section" style="padding: 72px 24px;">
+    <div style="max-width: 900px; margin: 0 auto;">
+      <div class="section-eyebrow">The idea of human excellence</div>
+      <h2 class="section-heading">Why <em>Human Excellence?</em></h2>
+      <div class="section-body">
+        <p>The phrase "human excellence" — or <em>Narottama</em> in Sanskrit — is not about being better than others. It is about becoming the best version of yourself. It is the ancient idea that every human being carries within them the capacity for mastery, wisdom, and contribution.</p>
+      </div>
+      <div class="philosophy-quote">
+        <p>"Excellence is not a destination. It is a continuous process of learning, unlearning, and re-learning — applied to any field, any exam, any stage of life."</p>
+        <cite>— The founding principle of Narottama Academy</cite>
+      </div>
+      <div class="section-body">
+        <p>This is why we cover subjects as diverse as Class 9 Science and MBBS Pathology on the same platform. The exam changes. The process of excellence does not. We believe the habits that crack NEET are the same habits that make a great doctor — curiosity, discipline, and the willingness to be tested.</p>
+      </div>
+    </div>
+  </section>
+
+  <div class="about-divider"></div>
+
+  <!-- ══ WHAT WE OFFER ══ -->
+  <section style="background: var(--saffron-pale); padding: 72px 24px;">
+    <div style="max-width: 900px; margin: 0 auto;">
+      <div class="section-eyebrow">The platform</div>
+      <h2 class="section-heading">What we <em>offer</em></h2>
+      <div class="offer-grid">
+        <div class="offer-item">
+          <div class="offer-num">10+</div>
+          <div class="offer-label">Subjects</div>
+          <div class="offer-desc">From school science to medical specialities</div>
+        </div>
+        <div class="offer-item">
+          <div class="offer-num">1000+</div>
+          <div class="offer-label">Quiz Questions</div>
+          <div class="offer-desc">MCQ, multiple select, assertion-reason & match columns</div>
+        </div>
+        <div class="offer-item">
+          <div class="offer-num">500+</div>
+          <div class="offer-label">Flashcards</div>
+          <div class="offer-desc">Spaced repetition ready, shuffleable, self-scored</div>
+        </div>
+        <div class="offer-item">
+          <div class="offer-num">100%</div>
+          <div class="offer-label">Free to use</div>
+          <div class="offer-desc">No paywalls. No login required. Just open and learn.</div>
+        </div>
+      </div>
+      <div style="margin-top: 40px;">
+        <div class="section-eyebrow" style="margin-bottom: 16px;">Exams covered</div>
+        <div class="exams-grid">
+          <span class="exam-pill">Class 9 Science</span>
+          <span class="exam-pill">Class 10 Science</span>
+          <span class="exam-pill">JEE Physics</span>
+          <span class="exam-pill">NEET Biology</span>
+          <span class="exam-pill">MBBS Pathology</span>
+          <span class="exam-pill">MBBS Microbiology</span>
+          <span class="exam-pill">MBBS Pharmacology</span>
+          <span class="exam-pill">MBBS Anatomy</span>
+          <span class="exam-pill">MBBS Biochemistry</span>
+          <span class="exam-pill">MBBS Physiology</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <div class="about-divider"></div>
+
+  <!-- ══ CTA ══ -->
+  <section class="cta-section">
+    <h2>Ready to begin your<br><em>journey to excellence?</em></h2>
+    <p>Choose a subject, pick a chapter, and start learning — notes, quizzes, and flashcards are waiting for you.</p>
+    <a href="index.html" class="cta-btn">
+      Explore Subjects
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+    </a>
+  </section>
+
+  <!-- ══ FOOTER ══ -->
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <div class="footer-brand">
+        <svg width="22" height="28" viewBox="0 0 36 44" fill="none">
+          <defs>
+            <linearGradient id="ff-o" x1="18" y1="44" x2="18" y2="0" gradientUnits="userSpaceOnUse">
+              <stop offset="0%" stop-color="#C2410C"/>
+              <stop offset="45%" stop-color="#EA580C"/>
+              <stop offset="78%" stop-color="#F59E0B"/>
+              <stop offset="100%" stop-color="#FDE68A"/>
+            </linearGradient>
+          </defs>
+          <path d="M18,4 C18,4 24,12 26,20 C28,27 26,33 22,38 C26,32 28,25 26,18 C29,24 28,31 24,37 C28,30 29,22 25,14 C28,20 27,29 23,36 C27,26 27,17 22,8 C20,5.5 19,3 18,1 C17,3 16,5.5 14,8 C9,17 9,26 13,36 C9,29 10,20 13,14 C7,22 8,30 12,37 C8,31 7,24 10,18 C8,25 9,32 13,38 C9,33 7,27 9,20 C11,12 18,4 18,4Z" fill="url(#ff-o)" opacity="0.9"/>
+          <ellipse cx="18" cy="6" rx="3" ry="4.5" fill="#FFFBEB" opacity="0.85"/>
+        </svg>
+        <span>Narottama Academy</span>
+      </div>
+      <p class="footer-copy">© 2026 Narottama Academy · Empowering Smarter Learning</p>
+    </div>
+  </footer>
+
+  <!-- Hamburger script -->
+  <script>
+    (function () {
+      var btn    = document.getElementById('na-hamburger');
+      var drawer = document.getElementById('na-drawer');
+      btn.addEventListener('click', function () {
+        var open = drawer.classList.toggle('open');
+        btn.classList.toggle('open', open);
+        btn.setAttribute('aria-expanded', open);
+        drawer.setAttribute('aria-hidden', !open);
+      });
+      drawer.querySelectorAll('a').forEach(function (a) {
+        a.addEventListener('click', function () {
+          drawer.classList.remove('open');
+          btn.classList.remove('open');
+          btn.setAttribute('aria-expanded', 'false');
+          drawer.setAttribute('aria-hidden', 'true');
+        });
+      });
+      document.addEventListener('click', function (e) {
+        if (!btn.contains(e.target) && !drawer.contains(e.target)) {
+          drawer.classList.remove('open');
+          btn.classList.remove('open');
+          btn.setAttribute('aria-expanded', 'false');
+          drawer.setAttribute('aria-hidden', 'true');
+        }
+      });
+    })();
+  </script>
+
+</body>
+</html>

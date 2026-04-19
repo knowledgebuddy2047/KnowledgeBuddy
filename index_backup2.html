@@ -24,12 +24,11 @@
     :root{
       --saffron-deep:#92400E;--saffron-mid:#B45309;--saffron-warm:#D97706;
       --saffron-light:#FEF3C7;--ink-dark:#1C1917;--ink-mid:#44403C;
-      --nav-h:86px;--nav-h-mob:70px;--ink-soft:#78716C;
+      --nav-h:68px;--nav-h-mob:58px;
     }
     .na-header{
       position:sticky;top:0;z-index:200;width:100%;height:var(--nav-h);
       background:rgba(255,255,255,0.97);backdrop-filter:blur(8px);
-      border-top:3px solid var(--saffron-warm);
       border-bottom:1px solid rgba(146,64,14,0.13);
       box-shadow:0 1px 14px rgba(146,64,14,0.08);
       display:flex;align-items:center;
@@ -38,26 +37,16 @@
       width:100%;max-width:1280px;margin:0 auto;padding:0 28px;
       display:flex;align-items:center;justify-content:space-between;gap:16px;
     }
-    .na-logo{display:flex;align-items:center;gap:14px;text-decoration:none;flex-shrink:0;}
-    .na-logo__flame{width:54px;height:68px;flex-shrink:0;}
+    .na-logo{display:flex;align-items:center;gap:11px;text-decoration:none;flex-shrink:0;}
+    .na-logo__flame{width:32px;height:40px;flex-shrink:0;}
     .na-logo__text{display:flex;flex-direction:column;gap:2px;}
     .na-logo__name{
-      font-family:'Playfair Display',Georgia,serif;font-size:21px;font-weight:700;
-      letter-spacing:3.5px;color:var(--ink-dark);line-height:1;white-space:nowrap;
-    }
-    .na-logo__sanskrit{
-      font-family:'DM Sans',sans-serif;font-size:11px;font-weight:400;
-      letter-spacing:1px;color:var(--saffron-mid);white-space:nowrap;line-height:1;
+      font-family:'Playfair Display',Georgia,serif;font-size:19px;font-weight:700;
+      letter-spacing:3px;color:var(--ink-dark);line-height:1;white-space:nowrap;
     }
     .na-logo__tagline{
-      font-family:'DM Sans',sans-serif;font-size:9px;font-weight:500;
-      letter-spacing:1.5px;color:var(--saffron-deep);text-transform:uppercase;
-      white-space:nowrap;line-height:1;
-    }
-    .na-logo__dedication{
-      font-family:'Playfair Display',Georgia,serif;font-size:9px;font-weight:400;
-      font-style:italic;letter-spacing:0.5px;
-      color:var(--ink-soft,#78716C);white-space:nowrap;line-height:1;
+      font-family:'DM Sans',sans-serif;font-size:10.5px;font-weight:500;
+      letter-spacing:1.2px;color:var(--saffron-deep);text-transform:uppercase;white-space:nowrap;
     }
     .na-nav{display:flex;gap:2px;list-style:none;margin:0;padding:0;}
     .na-nav a{
@@ -118,14 +107,13 @@
       .na-nav,.na-badge{display:none;}
       .na-hamburger{display:flex;}
       .na-drawer{display:block;}
-      .na-logo__name{font-size:17px;letter-spacing:2px;}
-      .na-logo__sanskrit{font-size:9.5px;}
-      .na-logo__dedication{display:none;}
-      .na-logo__flame{width:42px;height:52px;}
+      .na-logo__name{font-size:16px;letter-spacing:2px;}
+      .na-logo__tagline{font-size:7px;}
+      .na-logo__flame{width:26px;height:32px;}
       .na-logo{gap:8px;}
     }
     @media(max-width:360px){
-      .na-logo__sanskrit{display:none;}
+      .na-logo__tagline{display:none;}
     }
   </style>
 
@@ -153,8 +141,7 @@
         </svg>
         <div class="na-logo__text">
           <span class="na-logo__name">NAROTTAMA</span>
-          <span class="na-logo__sanskrit">नरोत्तम · Academy of Human Excellence · Est. 2024</span>
-          <span class="na-logo__dedication">In loving memory of Narottama</span>
+          <span class="na-logo__tagline">Academy of Human Excellence</span>
         </div>
       </a>
 
@@ -304,6 +291,5 @@
   </footer>
 
   <script src="script.js"></script>
-  <script src="chatbot.js"></script>
 </body>
 </html>

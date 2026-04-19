@@ -56,9 +56,6 @@ function loadContent(subject) {
   const bcEl = document.getElementById("breadcrumb-subject");
   if (bcEl) bcEl.textContent = subject.name;
 
-  // Tell chatbot which subject is active
-  if (window.naChat) window.naChat.setSubject(subject.name, null);
-
   let html = `<p class="subject-desc">${subject.description}</p>`;
 
   // Chapter selector block
@@ -102,14 +99,6 @@ function loadContent(subject) {
 
   document.getElementById("content-body").innerHTML = html;
 
-  // When student picks a chapter, update chatbot context
-  document.getElementById("chapter-select")?.addEventListener("change", function() {
-    const idx = this.value;
-    if (idx !== "" && window.naChat) {
-      window.naChat.setSubject(subject.name, subject.chapters[idx].title);
-    }
-  });
-
   // Attach event listeners
   document.getElementById("notes-btn").addEventListener("click",       () => loadSelected("notes",       subject));
   document.getElementById("quiz-btn").addEventListener("click",        () => loadSelected("quiz",        subject));
@@ -124,36 +113,7 @@ function loadSelected(type, subject) {
   const index  = select ? select.value : null;
 
   if (!index) {
-    const sel = document.getElementById("chapter-select");
-    if (sel) {
-      // Inject shake CSS once
-      if (!document.getElementById("chapter-error-style")) {
-        const style = document.createElement("style");
-        style.id = "chapter-error-style";
-        style.textContent = [
-          "@keyframes shake{0%,100%{transform:translateX(0)}20%{transform:translateX(-6px)}40%{transform:translateX(6px)}60%{transform:translateX(-4px)}80%{transform:translateX(4px)}}",
-          ".chapter-error{border:2px solid #dc2626!important;box-shadow:0 0 0 3px rgba(220,38,38,.2)!important;animation:shake .35s ease;}"
-        ].join("");
-        document.head.appendChild(style);
-      }
-      sel.classList.add("chapter-error");
-      sel.focus();
-      // Remove any previous error hint
-      const prev = document.getElementById("chapter-error-hint");
-      if (prev) prev.remove();
-      // Show inline error message right below the dropdown
-      const hint = document.createElement("p");
-      hint.id = "chapter-error-hint";
-      hint.textContent = "Please select a chapter to continue.";
-      hint.style.cssText = "color:#dc2626;font-size:.85rem;font-weight:600;margin:6px 0 0;";
-      sel.parentNode.insertBefore(hint, sel.nextSibling);
-      // Clear error state once user picks a chapter
-      sel.addEventListener("change", function() {
-        sel.classList.remove("chapter-error");
-        var h = document.getElementById("chapter-error-hint");
-        if (h) h.remove();
-      }, { once: true });
-    }
+    showToast("Please select a chapter first!");
     return;
   }
 
@@ -208,21 +168,7 @@ function showToast(msg) {
 function loadNotes(file) {
   fetch(`data/${file}`)
     .then(res => res.text())
-    .then(html => {
-      // Strip any <head>, <style>, <body> tags from the notes file
-      // so their embedded CSS doesn't leak into the page
-      var clean = html
-        .replace(/<head[\s\S]*?<\/head>/gi, '')
-        .replace(/<style[\s\S]*?<\/style>/gi, '')
-        .replace(/<\/?body[^>]*>/gi, '')
-        .replace(/<\/?html[^>]*>/gi, '');
-      // Wrap in .notes-content so our scoped CSS applies correctly
-      document.getElementById("content-body").innerHTML =
-        '<div class="notes-content">' + clean + '</div>';
-      // Tell chatbot the notes content so it can answer from them
-      const notesText = document.querySelector('.notes-content')?.innerText || '';
-      if (window.naChat) window.naChat.setNotesMode(notesText);
-    })
+    .then(html => { document.getElementById("content-body").innerHTML = html; })
     .catch(() => { document.getElementById("content-body").innerHTML = notFoundHTML('notes'); });
 }
 
@@ -237,11 +183,7 @@ function loadSlide(file) {
 function showWorkflow(file) {
   fetch(`data/${file}`)
     .then(res => res.text())
-    .then(html => {
-      document.getElementById("content-body").innerHTML = html;
-      // Tell chatbot video is playing
-      if (window.naChat) window.naChat.setVideoMode();
-    })
+    .then(html => { document.getElementById("content-body").innerHTML = html; })
     .catch(() => { document.getElementById("content-body").innerHTML = notFoundHTML('video'); });
 }
 
@@ -272,42 +214,9 @@ function startQuiz(file, numQuestions) {
       userAnswers = {};
 
       const quizHTML = `
-        <style>
-          #quiz-header {
-            display:flex; align-items:center; justify-content:space-between;
-            flex-wrap:wrap; gap:10px; margin-bottom:12px;
-          }
-          #quiz-luck {
-            font-size:1.05rem; font-weight:700;
-            color:#16a34a;
-            background:#dcfce7;
-            border:1.5px solid #bbf7d0;
-            border-radius:50px;
-            padding:6px 16px;
-          }
-          #timer {
-            font-size:1rem; font-weight:700;
-            color:#b45309;
-            background:#fef3c7;
-            border:1.5px solid #fde68a;
-            border-radius:50px;
-            padding:6px 16px;
-          }
-          #submit-quiz-btn {
-            background:#dc2626; color:#fff;
-            border:none; border-radius:8px;
-            padding:8px 20px; font-size:.9rem; font-weight:700;
-            cursor:pointer; white-space:nowrap;
-            box-shadow:0 2px 8px rgba(220,38,38,.3);
-            transition:background .2s, transform .1s;
-          }
-          #submit-quiz-btn:hover { background:#b91c1c; transform:scale(1.03); }
-          #submit-quiz-btn:active { transform:scale(.97); }
-        </style>
         <div id="quiz-header">
-          <span id="quiz-luck">🍀 Best of Luck!</span>
+          <h3 class="text-green">🍀 Best of Luck!</h3>
           <div id="timer">Loading…</div>
-          <button id="submit-quiz-btn" type="button" onclick="submitQuiz()">Submit Quiz ✔</button>
         </div>
         <div id="quiz-body">
           <div id="quiz-nav" class="sidebar"></div>
@@ -318,6 +227,9 @@ function startQuiz(file, numQuestions) {
                 <button type="button" onclick="prevQuestion()">← Previous</button>
                 <button type="button" onclick="nextQuestion()">Next →</button>
               </div>
+              <button class="action-button" type="button" onclick="submitQuiz()" style="margin-top:8px;">
+                Submit Quiz
+              </button>
             </form>
           </div>
         </div>`;
@@ -326,7 +238,7 @@ function startQuiz(file, numQuestions) {
       buildNavigation();
       currentQuestionIndex = 0;
       showQuestion(0);
-      startTimer(currentQuizQuestions.length); // use actual count, not requested
+      startTimer(numQuestions);
     })
     .catch(err => {
       console.error("Error loading quiz:", err);
@@ -390,13 +302,7 @@ function updateNav(i) {
   const selectedSelects = [];
   selects.forEach(sel => { if (sel.value !== "") answered = true; selectedSelects.push(sel.value); });
 
-  if (selectedSelects.length) {
-    userAnswers[i] = selectedSelects;
-  } else if (selectedInputs.length) {
-    userAnswers[i] = selectedInputs;
-  } else if (!userAnswers[i] || userAnswers[i].length === 0) {
-    userAnswers[i] = [];
-  }
+  userAnswers[i] = selectedInputs.length ? selectedInputs : selectedSelects.length ? selectedSelects : [];
   navBtn.classList.add(answered ? "answered" : "unanswered");
 }
 
@@ -503,131 +409,53 @@ function submitQuiz() {
   if (!confirm("Are you sure you want to submit the quiz?")) return;
   if (quizTimerInterval) { clearInterval(quizTimerInterval); quizTimerInterval = null; }
 
-  // Save the currently visible question's answers before evaluating
-  updateNav(currentQuestionIndex);
-
   let score = 0;
-  let correct_count = 0, incorrect_count = 0, not_attempted = 0;
-  let resultsHTML = ``;
+  let resultsHTML = `<h3>Quiz Results</h3><ul>`;
 
   currentQuizQuestions.forEach((q, i) => {
+    let answer = null;
     const correct = q.answer;
     const explanation = q.explanation || "";
-    let answer = userAnswers[i] ?? [];
-    let statusClass = "";
     let statusText = "";
 
     if (!q.type || q.type === "mcq_single" || q.type === "assertion_reason") {
-      const selected = Array.isArray(answer) ? answer[0] : answer;
-      if (!selected) {
-        statusText = "⚠️ Not attempted"; statusClass = "result-skipped"; not_attempted++;
-      } else if (evaluateSingle(selected, correct)) {
-        statusText = "✅ Correct"; statusClass = "result-correct"; score++; correct_count++;
-      } else {
-        statusText = "❌ Incorrect"; statusClass = "result-incorrect"; incorrect_count++;
-      }
-      answer = selected || null;
+      const selected = document.querySelector(`input[name="q${i}"]:checked`);
+      answer = selected ? selected.value : null;
+      statusText = evaluateSingle(answer, correct) ? (++score, "✅ Correct") : answer ? "❌ Incorrect" : "⚠️ Not attempted";
     } else if (q.type === "mcq_multiple") {
-      const selected = Array.isArray(answer) ? answer : [];
-      if (selected.length === 0) {
-        statusText = "⚠️ Not attempted"; statusClass = "result-skipped"; not_attempted++;
-      } else if (arraysEqual(selected, correct)) {
-        statusText = "✅ Correct"; statusClass = "result-correct"; score++; correct_count++;
-      } else {
-        statusText = "❌ Incorrect"; statusClass = "result-incorrect"; incorrect_count++;
-      }
+      const selected = Array.from(document.querySelectorAll(`input[name="q${i}"]:checked`)).map(e => e.value);
+      answer = selected;
+      statusText = selected.length === 0 ? "⚠️ Not attempted" : arraysEqual(selected, correct) ? (++score, "✅ Correct") : "❌ Incorrect";
     } else if (q.type === "match_columns") {
-      // userAnswers stores array of selected right-side values indexed by left position
-      const savedArr = Array.isArray(answer) ? answer : [];
       let userMapping = {};
-      q.left.forEach((l, idx) => { userMapping[l] = savedArr[idx] || ""; });
-      const allCorrect = Object.keys(correct).every(k => userMapping[k] === correct[k]);
-      const hasAny = savedArr.some(v => v);
-      if (!hasAny) {
-        statusText = "⚠️ Not attempted"; statusClass = "result-skipped"; not_attempted++;
-      } else if (allCorrect) {
-        statusText = "✅ Correct"; statusClass = "result-correct"; score++; correct_count++;
-      } else {
-        statusText = "❌ Incorrect"; statusClass = "result-incorrect"; incorrect_count++;
-      }
+      q.left.forEach((l, idx) => {
+        const sel = document.querySelector(`select[name="q${i}-${idx}"]`);
+        if (sel) userMapping[l] = sel.value;
+      });
       answer = userMapping;
+      const allCorrect = Object.keys(correct).every(k => userMapping[k] === correct[k]);
+      statusText = Object.keys(userMapping).length === 0 ? "⚠️ Not attempted" : allCorrect ? (++score, "✅ Correct") : "❌ Incorrect";
     }
 
-    resultsHTML += `
-      <div class="result-item ${statusClass}">
-        <div class="result-status-bar">${statusText}</div>
-        <p class="result-question"><strong>Q${i+1}.</strong> ${q.question || ""}</p>
-        <div class="result-answers">
-          <span class="result-label">Your answer:</span>
-          <span class="result-value ${statusClass === 'result-correct' ? 'ans-correct' : statusClass === 'result-incorrect' ? 'ans-wrong' : 'ans-skipped'}">${formatAnswer(answer) || "—"}</span>
-        </div>
-        ${statusClass !== "result-correct" ? `
-        <div class="result-answers">
-          <span class="result-label">Correct answer:</span>
-          <span class="result-value ans-correct">${formatAnswer(correct)}</span>
-        </div>` : ""}
-        ${explanation ? `<div class="result-explanation">💡 ${explanation}</div>` : ""}
-      </div>`;
+    resultsHTML += `<li>
+      <strong>Q${i+1}:</strong> ${q.question || ""}<br>
+      Your answer: <em>${formatAnswer(answer)}</em><br>
+      Correct answer: <em>${formatAnswer(correct)}</em><br>
+      ${statusText}
+      ${explanation ? `<br><span style="color:var(--ink-soft)">💡 ${explanation}</span>` : ""}
+    </li>`;
   });
 
-  const total = currentQuizQuestions.length;
-  const pct = Math.round((score / total) * 100);
+  const pct = (score / currentQuizQuestions.length) * 100;
   const msg = pct >= 80 ? "🎉 Excellent! You're mastering this topic." :
               pct >= 50 ? "👍 Good effort! Keep practising to improve." :
                           "💡 Don't worry — review the notes and try again!";
-  const scoreColor = pct >= 80 ? "#16a34a" : pct >= 50 ? "#d97706" : "#dc2626";
 
-  const summaryHTML = `
-    <div class="result-summary-card">
-      <h2 class="result-title">📋 Quiz Results</h2>
-      <div class="result-score-ring" style="border-color:${scoreColor};">
-        <span class="result-score-pct" style="color:${scoreColor};">${pct}%</span>
-        <span class="result-score-label">${score} / ${total}</span>
-      </div>
-      <p class="result-msg">${msg}</p>
-      <div class="result-stats">
-        <div class="stat-box stat-correct">✅ Correct<br><strong>${correct_count}</strong></div>
-        <div class="stat-box stat-wrong">❌ Wrong<br><strong>${incorrect_count}</strong></div>
-        <div class="stat-box stat-skip">⚠️ Skipped<br><strong>${not_attempted}</strong></div>
-      </div>
-    </div>
-    <div class="result-details-header">
-      <h3>Question-wise Breakdown</h3>
-    </div>
-    <div class="result-list">
-      ${resultsHTML}
-    </div>
-    <style>
-      .result-summary-card { background:var(--surface,#fff); border-radius:16px; padding:28px 24px; text-align:center; box-shadow:0 2px 16px rgba(0,0,0,.08); margin-bottom:24px; }
-      .result-title { font-size:1.3rem; margin-bottom:16px; }
-      .result-score-ring { display:inline-flex; flex-direction:column; align-items:center; justify-content:center; width:110px; height:110px; border-radius:50%; border:6px solid; margin-bottom:12px; }
-      .result-score-pct { font-size:1.8rem; font-weight:700; line-height:1; }
-      .result-score-label { font-size:.85rem; color:#6b7280; }
-      .result-msg { font-size:1rem; color:#374151; margin-bottom:16px; }
-      .result-stats { display:flex; gap:12px; justify-content:center; flex-wrap:wrap; }
-      .stat-box { flex:1; min-width:80px; padding:10px 8px; border-radius:10px; font-size:.85rem; text-align:center; }
-      .stat-correct { background:#dcfce7; color:#166534; }
-      .stat-wrong   { background:#fee2e2; color:#991b1b; }
-      .stat-skip    { background:#fef9c3; color:#854d0e; }
-      .result-details-header { margin:0 0 12px; }
-      .result-details-header h3 { font-size:1.05rem; font-weight:600; color:#374151; }
-      .result-list { display:flex; flex-direction:column; gap:12px; }
-      .result-item { background:var(--surface,#fff); border-radius:12px; border-left:4px solid #e5e7eb; padding:14px 16px; box-shadow:0 1px 6px rgba(0,0,0,.06); }
-      .result-correct { border-left-color:#16a34a; }
-      .result-incorrect { border-left-color:#dc2626; }
-      .result-skipped { border-left-color:#d97706; }
-      .result-status-bar { font-size:.8rem; font-weight:600; margin-bottom:6px; }
-      .result-question { margin:0 0 8px; font-size:.95rem; line-height:1.4; }
-      .result-answers { font-size:.88rem; margin-bottom:4px; }
-      .result-label { color:#6b7280; margin-right:4px; }
-      .result-value { font-weight:500; }
-      .ans-correct { color:#16a34a; }
-      .ans-wrong   { color:#dc2626; }
-      .ans-skipped { color:#d97706; }
-      .result-explanation { margin-top:8px; font-size:.85rem; color:#6b7280; background:#f9fafb; border-radius:6px; padding:6px 10px; }
-    </style>`;
+  resultsHTML += `</ul>
+    <p><strong>Final Score: ${score} / ${currentQuizQuestions.length} (${Math.round(pct)}%)</strong></p>
+    <p style="margin-top:8px;">${msg}</p>`;
 
-  document.getElementById("content-body").innerHTML = summaryHTML;
+  document.getElementById("content-body").innerHTML = resultsHTML;
 }
 
 function evaluateSingle(a, c) { return a && a === c; }

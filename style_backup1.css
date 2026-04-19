@@ -792,98 +792,39 @@ input[type="radio"]:checked::after {
   border-collapse: collapse;
   margin-top: 16px;
   font-size: .92rem;
-  border: 1.5px solid var(--border);
-  border-radius: var(--r-md);
-  overflow: hidden;
-  table-layout: fixed;
 }
-
-/* Column widths: left label 45%, right select 55% */
-.match-table col.col-left  { width: 45%; }
-.match-table col.col-right { width: 55%; }
-
+.match-table th, .match-table td {
+  padding: 10px 14px;
+  border: 1px solid var(--border);
+  text-align: left;
+}
 .match-table th {
-  padding: 12px 18px;
-  background: #f0f5ff;
+  background: #f8faff;
   font-weight: 700;
-  font-size: .78rem;
+  font-size: .8rem;
   text-transform: uppercase;
-  letter-spacing: .08em;
+  letter-spacing: .06em;
   color: var(--accent);
-  border-bottom: 1.5px solid var(--border);
-  text-align: left;
 }
-
-/* No vertical border between the two header cells */
-.match-table th:first-child {
-  border-right: 2px solid var(--border);
-}
-
-.match-table td {
-  padding: 12px 18px;
-  border-bottom: 1px solid var(--border);
-  text-align: left;
-  vertical-align: middle;
-}
-
-/* Left cell — item label */
-.match-table td:first-child {
-  font-weight: 600;
-  color: var(--ink);
-  border-right: 2px solid var(--border);
-  background: #fafbff;
-}
-
-/* Last row — no bottom border */
-.match-table tr:last-child td {
-  border-bottom: none;
-}
-
-/* Subtle alternating row tint */
-.match-table tbody tr:nth-child(even) td { background: #f8faff; }
-.match-table tbody tr:nth-child(even) td:first-child { background: #f2f5ff; }
-
-/* Hover highlight across the whole row */
-.match-table tbody tr:hover td { background: #eff6ff; }
-.match-table tbody tr:hover td:first-child { background: #e8f0ff; }
+.match-table tr:hover td { background: #f8faff; }
 
 /* Select inside match table */
 .match-table select {
   width: 100%;
-  padding: 9px 36px 9px 12px;
+  padding: 8px 12px;
   font-family: var(--font-sans);
-  font-size: .9rem;
+  font-size: .88rem;
   color: var(--ink);
   background: var(--white);
-  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 24 24' fill='none' stroke='%236b7280' stroke-width='2.5'%3E%3Cpath d='M6 9l6 6 6-6'/%3E%3C/svg%3E");
-  background-repeat: no-repeat;
-  background-position: right 12px center;
   border: 1.5px solid var(--border);
   border-radius: var(--r-sm);
   appearance: none;
   cursor: pointer;
-  transition: border-color .18s, box-shadow .18s;
-}
-.match-table select:hover {
-  border-color: var(--accent-lt);
 }
 .match-table select:focus {
   outline: none;
   border-color: var(--accent);
-  box-shadow: 0 0 0 3px rgba(26,86,219,.12);
-  background-color: #f8faff;
-}
-/* Highlight the cell when a value is selected */
-.match-table select.has-value {
-  border-color: var(--green);
-  color: #065f46;
-  background-color: #f0fdf8;
-}
-
-@media (max-width: 480px) {
-  .match-table { table-layout: auto; }
-  .match-table td, .match-table th { padding: 10px 12px; }
-  .match-table select { font-size: .83rem; }
+  box-shadow: 0 0 0 3px rgba(26,86,219,.1);
 }
 
 #question-container {
@@ -894,14 +835,32 @@ input[type="radio"]:checked::after {
 }
 
 /* === QUIZ RESULTS === */
-/* Quiz results — scoped to .quiz-results wrapper added by JS */
-.quiz-results h3 {
+#content-body h3 {
   font-family: var(--font-serif);
   font-size: 1.6rem;
   margin-bottom: 24px;
   color: var(--ink);
 }
-.quiz-results > p > strong {
+#content-body ul {
+  list-style: none;
+  padding: 0;
+}
+#content-body > ul > li {
+  background: var(--white);
+  border: 1.5px solid var(--border);
+  border-radius: var(--r-md);
+  padding: 20px 24px;
+  margin-bottom: 12px;
+  font-size: .93rem;
+  line-height: 1.7;
+  color: var(--ink-mid);
+  box-shadow: var(--shadow-sm);
+}
+#content-body > ul > li em {
+  color: var(--ink-soft);
+  font-style: italic;
+}
+#content-body > p > strong {
   font-family: var(--font-serif);
   font-size: 1.3rem;
   color: var(--ink);
@@ -1033,10 +992,7 @@ input[type="radio"]:checked::after {
 }
 
 /* === NOTES / SLIDE CONTENT === */
-/* Anchor button style scoped away from notes — notes have their own links */
-#content-body > a,
-#content-body > p > a,
-.subject-detail > a {
+#content-body a {
   display: inline-flex;
   align-items: center;
   gap: 6px;
@@ -1050,8 +1006,7 @@ input[type="radio"]:checked::after {
   transition: all .2s;
   border: 1px solid #bfdbfe;
 }
-#content-body > a:hover,
-#content-body > p > a:hover {
+#content-body a:hover {
   background: var(--accent);
   color: white;
   border-color: var(--accent);
@@ -1145,11 +1100,8 @@ input[type="radio"]:checked::after {
 
 }
 
-/* ── Global table rules scoped to notes only ──────────────────
-   These were originally unscoped and were overriding .match-table.
-   Now safely scoped to .notes-content so quiz tables are unaffected.
-   ────────────────────────────────────────────────────────────── */
-.notes-content table {
+/* General table styling */
+table {
   width: 100%;
   border-collapse: collapse;
   margin: 20px 0;
@@ -1160,7 +1112,9 @@ input[type="radio"]:checked::after {
   border-radius: 6px;
   overflow: hidden;
 }
-.notes-content table thead th {
+
+/* Table headers */
+table thead th {
   background-color: #004d80;
   color: #ffffff;
   text-align: center;
@@ -1168,24 +1122,28 @@ input[type="radio"]:checked::after {
   font-weight: 600;
   letter-spacing: 0.5px;
 }
-.notes-content table tbody td {
+
+/* Table body cells */
+table tbody td {
   padding: 12px;
   border-bottom: 1px solid #e0e0e0;
   text-align: center;
 }
-.notes-content table tbody td:first-child {
+
+/* First column (features/labels) */
+table tbody td:first-child {
   font-weight: 600;
   text-align: left;
   background-color: #f7f9fc;
   color: #333;
 }
-.notes-content table tbody tr:nth-child(even) {
+
+/* Alternate row shading */
+table tbody tr:nth-child(even) {
   background-color: #f9f9f9;
 }
-.notes-content table tbody tr:hover {
-  background-color: #eaf4ff;
-  transition: background-color 0.2s ease-in-out;
-}
+
+/* High-yield highlights */
 .high-yield {
   color: #d32f2f;
   font-weight: 700;
@@ -1193,6 +1151,15 @@ input[type="radio"]:checked::after {
   padding: 2px 6px;
   border-radius: 4px;
 }
+
+/* Hover effect for rows */
+table tbody tr:hover {
+  background-color: #eaf4ff;
+  transition: background-color 0.2s ease-in-out;
+}
+
+
+/* Wrapper for responsive scroll */
 .table-container {
   width: 100%;
   overflow-x: auto;
@@ -1201,209 +1168,46 @@ input[type="radio"]:checked::after {
   border-radius: 6px;
 }
 
-
-
-
-/* ============================================================
-   NOTES CONTENT SCOPE
-   Notes HTML files are loaded into #content-body.
-   The .notes-content wrapper (added by loadNotes in script.js)
-   isolates notes styles from the rest of the site.
-   All rules here ONLY apply inside the notes panel.
-   ============================================================ */
-
-.notes-content {
-  font-family: "Segoe UI", Arial, sans-serif;
-  line-height: 1.6;
-  color: #333;
-}
-
-.notes-content h1 {
-  text-align: center;
-  color: #004d80;
-  font-size: 26px;
-  margin-bottom: 28px;
-  border-bottom: 3px solid #004d80;
-  padding-bottom: 10px;
-  font-family: "Segoe UI", Arial, sans-serif;
-  font-weight: 700;
-  letter-spacing: normal;
-}
-
-.notes-content h2 {
-  color: #004d80;
-  font-size: 20px;
-  margin-top: 32px;
-  margin-bottom: 12px;
-  font-family: "Segoe UI", Arial, sans-serif;
-  font-weight: 700;
-  border-bottom: none;
-  letter-spacing: normal;
-  text-align: left;
-}
-
-.notes-content h3 {
-  color: #006699;
-  font-size: 17px;
-  margin-top: 24px;
-  margin-bottom: 8px;
-  font-family: "Segoe UI", Arial, sans-serif;
-  font-weight: 600;
-}
-
-.notes-content p {
-  font-size: 15px;
-  color: #444;
-  margin-bottom: 14px;
-  font-family: "Segoe UI", Arial, sans-serif;
-  font-weight: 400;
-  font-style: normal;
-  background: none;
-  border: none;
-  padding: 0;
-}
-
-.notes-content ul,
-.notes-content ol {
-  margin-left: 24px;
-  margin-bottom: 14px;
-  padding: 0;
-  list-style: revert;
-}
-
-.notes-content ul li,
-.notes-content ol li {
-  font-size: 15px;
-  color: #444;
-  margin-bottom: 7px;
-  font-family: "Segoe UI", Arial, sans-serif;
-  background: none;
-  border: none;
-  border-radius: 0;
-  padding: 0;
-  box-shadow: none;
-}
-
-/* Case study boxes — notes use section h3 + p/ul pattern */
-.notes-content section h3 + p,
-.notes-content section h3 + ul,
-.notes-content section h3 + ol {
-  background-color: #fff;
-  border-left: 4px solid #006699;
-  padding: 12px;
-  margin: 8px 0 18px 0;
-  border-radius: 6px;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
-  list-style: revert;
-}
-
-/* Exam question list items */
-.notes-content ol li {
-  background-color: #fff;
-  padding: 12px;
-  border-radius: 6px;
-  box-shadow: 0 1px 4px rgba(0,0,0,0.08);
-  margin-bottom: 10px;
-}
-
-/* Highlighted answers in exam questions */
-.notes-content ol li strong {
-  color: #004d80;
-}
-
-.notes-content strong {
-  color: #222;
-  font-weight: 700;
-}
-
-/* High-yield emphasis (red italic in notes) */
-.notes-content em {
-  color: #d32f2f;
-  font-weight: 600;
-  font-style: normal;
-}
-
-/* Summary last section */
-.notes-content section:last-of-type ul {
-  background-color: #fff;
-  padding: 15px;
-  border-radius: 6px;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
-}
-
-/* Tables inside notes */
-.notes-content table {
+/* Table styling */
+table {
   width: 100%;
   border-collapse: collapse;
-  margin: 18px 0;
   font-family: "Segoe UI", Arial, sans-serif;
   font-size: 14px;
   background-color: #fff;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.08);
-  border-radius: 6px;
-  overflow: hidden;
-  min-width: unset;
+  min-width: 900px; /* ensures structure even on small screens */
 }
 
-.notes-content thead th {
+thead th {
   background-color: #004d80;
   color: #fff;
-  padding: 11px 12px;
+  padding: 10px;
   text-align: center;
   font-weight: 600;
-  letter-spacing: 0.4px;
 }
 
-.notes-content tbody td {
-  padding: 10px 12px;
+tbody td {
+  padding: 10px;
   border-bottom: 1px solid #e0e0e0;
   text-align: center;
 }
 
-.notes-content tbody td:first-child {
+/* First column emphasis */
+tbody td:first-child {
   font-weight: 600;
   text-align: left;
   background-color: #f7f9fc;
-  color: #333;
 }
 
-.notes-content tbody tr:nth-child(even) {
+/* Alternate row shading */
+tbody tr:nth-child(even) {
   background-color: #f9f9f9;
 }
 
-.notes-content tbody tr:hover {
+/* Hover effect */
+tbody tr:hover {
   background-color: #eaf4ff;
+  transition: background-color 0.2s ease-in-out;
 }
 
-.notes-content .table-container {
-  width: 100%;
-  overflow-x: auto;
-  margin: 18px 0;
-  border: 1px solid #ddd;
-  border-radius: 6px;
-}
 
-.notes-content .high-yield {
-  color: #d32f2f;
-  font-weight: 700;
-  background-color: #fff3f3;
-  padding: 2px 6px;
-  border-radius: 4px;
-}
-
-/* Links inside notes — render as normal links, not buttons */
-.notes-content a {
-  display: inline;
-  color: #006699;
-  font-weight: 500;
-  text-decoration: underline;
-  background: none;
-  border: none;
-  padding: 0;
-  font-size: inherit;
-}
-.notes-content a:hover {
-  color: #004d80;
-  background: none;
-  border: none;
-}

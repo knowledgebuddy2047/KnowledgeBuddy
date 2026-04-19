@@ -1,0 +1,700 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contact — Narottama Academy</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,500;0,700;0,900;1,400;1,700&family=DM+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    :root {
+      --saffron-deep:  #92400E;
+      --saffron-mid:   #B45309;
+      --saffron-warm:  #D97706;
+      --saffron-light: #FEF3C7;
+      --saffron-pale:  #FFFBEB;
+      --ink-dark:      #1C1917;
+      --ink-mid:       #44403C;
+      --ink-soft:      #78716C;
+      --cream:         #FAFAF9;
+      --white:         #FFFFFF;
+      --nav-h:         86px;
+      --nav-h-mob:     70px;
+      --radius:        14px;
+    }
+
+    body { background: var(--cream); color: var(--ink-dark); font-family: 'DM Sans', sans-serif; }
+
+    /* ════════════════════
+       NAV (same as site)
+    ════════════════════ */
+    .na-header { position: sticky; top: 0; z-index: 200; width: 100%; height: var(--nav-h); background: rgba(255,255,255,0.97); backdrop-filter: blur(8px); border-top: 3px solid var(--saffron-warm); border-bottom: 1px solid rgba(146,64,14,0.13); box-shadow: 0 1px 14px rgba(146,64,14,0.08); display: flex; align-items: center; }
+    .na-header__inner { width: 100%; max-width: 1280px; margin: 0 auto; padding: 0 28px; display: flex; align-items: center; justify-content: space-between; gap: 16px; }
+    .na-logo { display: flex; align-items: center; gap: 14px; text-decoration: none; flex-shrink: 0; }
+    .na-logo__flame { width: 54px; height: 68px; flex-shrink: 0; }
+    .na-logo__text { display: flex; flex-direction: column; gap: 3px; }
+    .na-logo__name { font-family: 'Playfair Display', Georgia, serif; font-size: 21px; font-weight: 700; letter-spacing: 3.5px; color: var(--ink-dark); line-height: 1; white-space: nowrap; }
+    .na-logo__sanskrit { font-family: 'DM Sans', sans-serif; font-size: 11px; font-weight: 400; letter-spacing: 1px; color: var(--saffron-mid); white-space: nowrap; line-height: 1; }
+    .na-logo__dedication { font-family: 'Playfair Display', Georgia, serif; font-size: 9px; font-style: italic; letter-spacing: 0.5px; color: var(--ink-soft); white-space: nowrap; line-height: 1; }
+    .na-nav { display: flex; gap: 2px; list-style: none; }
+    .na-nav a { display: block; padding: 6px 14px; font-family: 'DM Sans', sans-serif; font-size: 14px; font-weight: 500; color: var(--ink-mid); text-decoration: none; border-radius: 7px; transition: background .18s, color .18s; }
+    .na-nav a:hover, .na-nav a.active { background: var(--saffron-light); color: var(--saffron-deep); }
+    .na-badge { font-family: 'Playfair Display', Georgia, serif; font-size: 8.5px; font-weight: 700; letter-spacing: 2px; color: var(--saffron-deep); background: var(--saffron-light); border: 1px solid rgba(146,64,14,0.2); border-radius: 4px; padding: 3px 9px; white-space: nowrap; flex-shrink: 0; }
+    .na-hamburger { display: none; flex-direction: column; gap: 5px; cursor: pointer; background: none; border: none; padding: 5px; border-radius: 6px; transition: background .15s; }
+    .na-hamburger:hover { background: var(--saffron-light); }
+    .na-hamburger span { display: block; width: 22px; height: 2px; background: var(--ink-dark); border-radius: 2px; transition: transform .25s, opacity .25s; transform-origin: center; }
+    .na-hamburger.open span:nth-child(1) { transform: translateY(7px) rotate(45deg); }
+    .na-hamburger.open span:nth-child(2) { opacity: 0; transform: scaleX(0); }
+    .na-hamburger.open span:nth-child(3) { transform: translateY(-7px) rotate(-45deg); }
+    .na-drawer { display: none; position: fixed; top: var(--nav-h-mob); left: 0; right: 0; background: rgba(255,255,255,0.98); backdrop-filter: blur(8px); border-bottom: 1px solid rgba(146,64,14,0.12); box-shadow: 0 8px 24px rgba(146,64,14,0.1); z-index: 199; padding: 10px 16px 18px; transform: translateY(-6px); opacity: 0; transition: transform .22s ease, opacity .22s ease; pointer-events: none; }
+    .na-drawer.open { transform: translateY(0); opacity: 1; pointer-events: all; }
+    .na-drawer ul { list-style: none; display: flex; flex-direction: column; gap: 2px; }
+    .na-drawer a { display: block; padding: 10px 14px; font-family: 'DM Sans', sans-serif; font-size: 15px; font-weight: 500; color: var(--ink-mid); text-decoration: none; border-radius: 8px; transition: background .15s, color .15s; }
+    .na-drawer a:hover, .na-drawer a.active { background: var(--saffron-light); color: var(--saffron-deep); }
+    .na-drawer__footer { margin-top: 12px; padding-top: 12px; border-top: 1px solid rgba(146,64,14,0.1); display: flex; align-items: center; justify-content: space-between; }
+    .na-drawer__tagline { font-family: 'DM Sans', sans-serif; font-size: 9px; font-weight: 500; letter-spacing: 1.5px; color: var(--saffron-mid); text-transform: uppercase; }
+    @media (max-width: 768px) {
+      .na-header { height: var(--nav-h-mob); }
+      .na-header__inner { padding: 0 16px; }
+      .na-nav, .na-badge { display: none; }
+      .na-hamburger { display: flex; }
+      .na-drawer { display: block; }
+      .na-logo__name { font-size: 17px; letter-spacing: 2px; }
+      .na-logo__sanskrit { font-size: 9.5px; }
+      .na-logo__dedication { display: none; }
+      .na-logo__flame { width: 42px; height: 52px; }
+      .na-logo { gap: 8px; }
+    }
+    @media (max-width: 360px) { .na-logo__sanskrit { display: none; } }
+
+    /* ════════════════════
+       CONTACT PAGE
+    ════════════════════ */
+
+    /* Hero */
+    .contact-hero {
+      background: linear-gradient(135deg, #1C1917 0%, #292524 60%, #3C1F0A 100%);
+      padding: 72px 24px 80px;
+      text-align: center;
+      position: relative;
+      overflow: hidden;
+    }
+    .contact-hero::before {
+      content: '';
+      position: absolute; inset: 0;
+      background: radial-gradient(ellipse at 50% 0%, rgba(217,119,6,0.16) 0%, transparent 70%);
+      pointer-events: none;
+    }
+    .hero-eyebrow {
+      font-size: 11px; font-weight: 500; letter-spacing: 3px;
+      color: var(--saffron-warm); text-transform: uppercase; margin-bottom: 18px;
+    }
+    .hero-title {
+      font-family: 'Playfair Display', Georgia, serif;
+      font-size: clamp(34px, 5.5vw, 58px); font-weight: 700;
+      color: #FAFAF9; line-height: 1.15; margin-bottom: 18px;
+      position: relative;
+    }
+    .hero-title em { font-style: italic; color: var(--saffron-warm); }
+    .hero-sub {
+      font-size: 16px; font-weight: 300; color: rgba(250,250,249,0.6);
+      max-width: 480px; margin: 0 auto; line-height: 1.7;
+      position: relative;
+    }
+
+    /* Page divider */
+    .page-divider { width: 100%; height: 1px; background: linear-gradient(90deg, transparent, rgba(146,64,14,0.2), transparent); }
+
+    /* Main contact layout */
+    .contact-main {
+      max-width: 1100px; margin: 0 auto;
+      padding: 72px 24px;
+      display: grid;
+      grid-template-columns: 1fr 1.5fr;
+      gap: 56px;
+      align-items: start;
+    }
+    @media (max-width: 768px) {
+      .contact-main { grid-template-columns: 1fr; gap: 40px; padding: 48px 20px; }
+    }
+
+    /* ── Left panel ── */
+    .contact-info {}
+    .section-eyebrow {
+      font-size: 10px; font-weight: 600; letter-spacing: 3px;
+      color: var(--saffron-warm); text-transform: uppercase; margin-bottom: 14px;
+    }
+    .contact-info h2 {
+      font-family: 'Playfair Display', Georgia, serif;
+      font-size: clamp(24px, 3.5vw, 34px); font-weight: 700;
+      color: var(--ink-dark); line-height: 1.25; margin-bottom: 16px;
+    }
+    .contact-info h2 em { font-style: italic; color: var(--saffron-mid); }
+    .contact-info > p {
+      font-size: 15px; color: var(--ink-soft); line-height: 1.8; margin-bottom: 36px;
+    }
+
+    /* Contact cards */
+    .contact-cards { display: flex; flex-direction: column; gap: 14px; margin-bottom: 36px; }
+    .contact-card {
+      display: flex; align-items: flex-start; gap: 16px;
+      background: var(--white); border: 1px solid rgba(146,64,14,0.1);
+      border-radius: var(--radius); padding: 20px 22px;
+      transition: box-shadow .2s, transform .2s;
+      text-decoration: none;
+    }
+    .contact-card:hover { box-shadow: 0 8px 24px rgba(146,64,14,0.1); transform: translateY(-2px); }
+    .contact-card__icon {
+      width: 44px; height: 44px; border-radius: 10px;
+      background: var(--saffron-light); flex-shrink: 0;
+      display: flex; align-items: center; justify-content: center;
+    }
+    .contact-card__icon svg { width: 20px; height: 20px; }
+    .contact-card__body {}
+    .contact-card__label {
+      font-size: 10px; font-weight: 600; letter-spacing: 1.5px;
+      color: var(--saffron-mid); text-transform: uppercase; margin-bottom: 4px;
+    }
+    .contact-card__value {
+      font-family: 'Playfair Display', Georgia, serif;
+      font-size: 15px; font-weight: 500; color: var(--ink-dark);
+    }
+    .contact-card__sub { font-size: 12px; color: var(--ink-soft); margin-top: 2px; }
+
+    /* Response time note */
+    .response-note {
+      display: flex; align-items: center; gap: 10px;
+      background: var(--saffron-pale); border: 1px solid rgba(146,64,14,0.12);
+      border-radius: 10px; padding: 14px 18px;
+    }
+    .response-note svg { width: 18px; height: 18px; flex-shrink: 0; }
+    .response-note p { font-size: 13px; color: var(--saffron-deep); line-height: 1.5; }
+    .response-note strong { font-weight: 600; }
+
+    /* ── Right panel — form ── */
+    .contact-form-wrap {
+      background: var(--white);
+      border: 1px solid rgba(146,64,14,0.1);
+      border-radius: 20px;
+      padding: 40px 36px;
+      box-shadow: 0 4px 24px rgba(146,64,14,0.06);
+    }
+    @media (max-width: 480px) { .contact-form-wrap { padding: 28px 20px; } }
+
+    .form-title {
+      font-family: 'Playfair Display', Georgia, serif;
+      font-size: 22px; font-weight: 700; color: var(--ink-dark); margin-bottom: 6px;
+    }
+    .form-subtitle { font-size: 14px; color: var(--ink-soft); margin-bottom: 28px; line-height: 1.5; }
+
+    .form-row { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+    @media (max-width: 480px) { .form-row { grid-template-columns: 1fr; } }
+
+    .form-group { display: flex; flex-direction: column; gap: 6px; margin-bottom: 18px; }
+    .form-group:last-of-type { margin-bottom: 0; }
+
+    .form-label {
+      font-size: 12px; font-weight: 600; letter-spacing: 0.5px;
+      color: var(--ink-mid); text-transform: uppercase;
+    }
+
+    .form-input, .form-select, .form-textarea {
+      width: 100%;
+      font-family: 'DM Sans', sans-serif;
+      font-size: 15px; font-weight: 400; color: var(--ink-dark);
+      background: var(--cream);
+      border: 1.5px solid rgba(146,64,14,0.15);
+      border-radius: 10px;
+      padding: 12px 16px;
+      outline: none;
+      transition: border-color .2s, box-shadow .2s, background .2s;
+      appearance: none;
+    }
+    .form-input:focus, .form-select:focus, .form-textarea:focus {
+      border-color: var(--saffron-warm);
+      box-shadow: 0 0 0 3px rgba(217,119,6,0.15);
+      background: var(--white);
+    }
+    .form-input::placeholder, .form-textarea::placeholder { color: #A8A29E; }
+    .form-textarea { resize: vertical; min-height: 130px; line-height: 1.6; }
+
+    /* Custom select arrow */
+    .select-wrap { position: relative; }
+    .select-wrap::after {
+      content: '';
+      position: absolute; right: 14px; top: 50%; transform: translateY(-50%);
+      width: 0; height: 0;
+      border-left: 5px solid transparent;
+      border-right: 5px solid transparent;
+      border-top: 6px solid var(--saffron-mid);
+      pointer-events: none;
+    }
+    .form-select { cursor: pointer; padding-right: 36px; }
+
+    /* Topic chips */
+    .topic-chips { display: flex; flex-wrap: wrap; gap: 8px; }
+    .topic-chip {
+      font-size: 12px; font-weight: 500;
+      padding: 6px 14px; border-radius: 50px;
+      border: 1.5px solid rgba(146,64,14,0.2);
+      color: var(--ink-mid); background: var(--cream);
+      cursor: pointer; transition: all .18s; user-select: none;
+    }
+    .topic-chip:hover { border-color: var(--saffron-warm); color: var(--saffron-deep); background: var(--saffron-pale); }
+    .topic-chip.selected { border-color: var(--saffron-warm); color: var(--saffron-deep); background: var(--saffron-light); font-weight: 600; }
+
+    /* Submit button */
+    .form-submit {
+      width: 100%; margin-top: 24px;
+      display: flex; align-items: center; justify-content: center; gap: 10px;
+      background: var(--ink-dark); color: #FAFAF9;
+      font-family: 'DM Sans', sans-serif; font-size: 15px; font-weight: 600;
+      border: none; border-radius: 12px; padding: 16px 28px;
+      cursor: pointer; transition: background .2s, transform .15s;
+    }
+    .form-submit:hover { background: var(--saffron-deep); transform: scale(1.01); }
+    .form-submit:active { transform: scale(0.99); }
+    .form-submit svg { width: 18px; height: 18px; transition: transform .2s; }
+    .form-submit:hover svg { transform: translateX(3px); }
+
+    /* Success state */
+    .form-success {
+      display: none; text-align: center; padding: 48px 24px;
+    }
+    .form-success__icon {
+      width: 72px; height: 72px; border-radius: 50%;
+      background: var(--saffron-light); margin: 0 auto 20px;
+      display: flex; align-items: center; justify-content: center;
+    }
+    .form-success__icon svg { width: 32px; height: 32px; }
+    .form-success h3 {
+      font-family: 'Playfair Display', Georgia, serif;
+      font-size: 24px; font-weight: 700; color: var(--ink-dark); margin-bottom: 10px;
+    }
+    .form-success p { font-size: 15px; color: var(--ink-soft); line-height: 1.7; }
+    .form-success a {
+      display: inline-flex; align-items: center; gap: 8px;
+      margin-top: 24px; color: var(--saffron-mid);
+      font-size: 14px; font-weight: 600; text-decoration: none;
+    }
+    .form-success a:hover { color: var(--saffron-deep); }
+
+    /* ── FAQ section ── */
+    .faq-section {
+      background: var(--saffron-pale);
+      padding: 72px 24px;
+    }
+    .faq-inner { max-width: 780px; margin: 0 auto; }
+    .faq-inner h2 {
+      font-family: 'Playfair Display', Georgia, serif;
+      font-size: clamp(24px, 3.5vw, 34px); font-weight: 700;
+      color: var(--ink-dark); margin-bottom: 8px;
+    }
+    .faq-inner h2 em { font-style: italic; color: var(--saffron-mid); }
+    .faq-inner > p { font-size: 15px; color: var(--ink-soft); margin-bottom: 36px; line-height: 1.7; }
+
+    .faq-list { display: flex; flex-direction: column; gap: 12px; }
+    .faq-item {
+      background: var(--white); border: 1px solid rgba(146,64,14,0.1);
+      border-radius: var(--radius); overflow: hidden;
+    }
+    .faq-question {
+      width: 100%; display: flex; align-items: center; justify-content: space-between;
+      gap: 16px; padding: 20px 24px;
+      font-family: 'Playfair Display', Georgia, serif;
+      font-size: 16px; font-weight: 500; color: var(--ink-dark);
+      background: none; border: none; cursor: pointer; text-align: left;
+      transition: color .18s;
+    }
+    .faq-question:hover { color: var(--saffron-deep); }
+    .faq-question svg {
+      width: 18px; height: 18px; flex-shrink: 0;
+      color: var(--saffron-mid); transition: transform .25s;
+    }
+    .faq-item.open .faq-question svg { transform: rotate(45deg); }
+    .faq-answer {
+      max-height: 0; overflow: hidden;
+      transition: max-height .3s ease, padding .3s ease;
+      font-size: 15px; color: var(--ink-soft); line-height: 1.8;
+      padding: 0 24px;
+    }
+    .faq-item.open .faq-answer { max-height: 300px; padding: 0 24px 20px; }
+
+    /* ── Footer ── */
+    .site-footer { background: #1C1917; padding: 32px 24px; }
+    .footer-inner { max-width: 1280px; margin: 0 auto; display: flex; flex-direction: column; align-items: center; gap: 12px; }
+    .footer-brand { display: flex; align-items: center; gap: 10px; font-family: 'Playfair Display', Georgia, serif; font-size: 16px; color: rgba(250,250,249,0.85); }
+    .footer-copy { font-family: 'DM Sans', sans-serif; font-size: 12px; color: rgba(250,250,249,0.35); letter-spacing: 0.5px; }
+  </style>
+</head>
+<body>
+
+  <div class="bg-orbs">
+    <div class="orb orb-1"></div>
+    <div class="orb orb-2"></div>
+    <div class="orb orb-3"></div>
+  </div>
+
+  <!-- ══ NAV ══ -->
+  <header class="na-header" role="banner">
+    <div class="na-header__inner">
+      <a href="index.html" class="na-logo" aria-label="Narottama Academy — Home">
+        <svg class="na-logo__flame" viewBox="0 0 36 44" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+          <defs>
+            <linearGradient id="nf-o" x1="18" y1="44" x2="18" y2="0" gradientUnits="userSpaceOnUse">
+              <stop offset="0%" stop-color="#C2410C"/>
+              <stop offset="42%" stop-color="#EA580C"/>
+              <stop offset="76%" stop-color="#F59E0B"/>
+              <stop offset="100%" stop-color="#FDE68A"/>
+            </linearGradient>
+            <linearGradient id="nf-i" x1="18" y1="42" x2="18" y2="4" gradientUnits="userSpaceOnUse">
+              <stop offset="0%" stop-color="#EA580C"/>
+              <stop offset="55%" stop-color="#FCD34D"/>
+              <stop offset="100%" stop-color="#FFFBEB"/>
+            </linearGradient>
+          </defs>
+          <path d="M18,4 C18,4 24,12 26,20 C28,27 26,33 22,38 C26,32 28,25 26,18 C29,24 28,31 24,37 C28,30 29,22 25,14 C28,20 27,29 23,36 C27,26 27,17 22,8 C20,5.5 19,3 18,1 C17,3 16,5.5 14,8 C9,17 9,26 13,36 C9,29 10,20 13,14 C7,22 8,30 12,37 C8,31 7,24 10,18 C8,25 9,32 13,38 C9,33 7,27 9,20 C11,12 18,4 18,4Z" fill="url(#nf-o)" opacity="0.92"/>
+          <path d="M18,10 C18,10 22,17 23,23 C24,28 22,33 19,38 C22,32 23,27 22,21 C24,26 23,31 21,36 C24,29 24,22 21,16 C23,21 22,28 20,34 C22,27 21,20 18,14 C15,20 14,27 16,34 C14,28 13,21 15,16 C12,22 12,29 15,36 C13,31 12,26 14,21 C13,27 14,32 17,38 C14,33 12,28 13,23 C14,17 18,10 18,10Z" fill="url(#nf-i)" opacity="0.95"/>
+          <ellipse cx="18" cy="6" rx="3.5" ry="5" fill="#FFFBEB" opacity="0.88"/>
+        </svg>
+        <div class="na-logo__text">
+          <span class="na-logo__name">NAROTTAMA</span>
+          <span class="na-logo__sanskrit">नरोत्तम · Academy of Human Excellence · Est. 2024</span>
+          <span class="na-logo__dedication">In loving memory of Narottama</span>
+        </div>
+      </a>
+      <nav aria-label="Main navigation">
+        <ul class="na-nav">
+          <li><a href="index.html">Subjects</a></li>
+          <li><a href="about.html">About</a></li>
+          <li><a href="contact.html" class="active">Contact</a></li>
+        </ul>
+      </nav>
+      <span class="na-badge" aria-hidden="true">N·A·H·E</span>
+      <button class="na-hamburger" id="na-hamburger" aria-label="Open menu" aria-expanded="false" aria-controls="na-drawer">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </header>
+
+  <nav class="na-drawer" id="na-drawer" aria-label="Mobile navigation" aria-hidden="true">
+    <ul>
+      <li><a href="index.html">Subjects</a></li>
+      <li><a href="about.html">About</a></li>
+      <li><a href="contact.html" class="active">Contact</a></li>
+    </ul>
+    <div class="na-drawer__footer">
+      <span class="na-drawer__tagline">In loving memory of Narottama</span>
+      <span class="na-badge">N·A·H·E</span>
+    </div>
+  </nav>
+
+  <!-- ══ HERO ══ -->
+  <section class="contact-hero">
+    <div class="hero-eyebrow">Get in touch</div>
+    <h1 class="hero-title">We'd love to <em>hear from you</em></h1>
+    <p class="hero-sub">A question, a suggestion, or just want to say hello — every message is read and matters to us.</p>
+  </section>
+
+  <div class="page-divider"></div>
+
+  <!-- ══ MAIN: LEFT INFO + RIGHT FORM ══ -->
+  <div class="contact-main">
+
+    <!-- Left: info panel -->
+    <div class="contact-info">
+      <div class="section-eyebrow">Reach us</div>
+      <h2>Let's start a <em>conversation</em></h2>
+      <p>Whether you're a student, a teacher, or a parent — we want to hear from you. Tell us what's working, what isn't, or what you wish we had.</p>
+
+      <div class="contact-cards">
+        <a href="mailto:hello@narottamaacademy.in" class="contact-card">
+          <div class="contact-card__icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="#92400E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/>
+              <polyline points="22,6 12,13 2,6"/>
+            </svg>
+          </div>
+          <div class="contact-card__body">
+            <div class="contact-card__label">Email us</div>
+            <div class="contact-card__value">hello@narottamaacademy.in</div>
+            <div class="contact-card__sub">For general questions and feedback</div>
+          </div>
+        </a>
+
+        <a href="mailto:content@narottamaacademy.in" class="contact-card">
+          <div class="contact-card__icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="#92400E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M12 20h9"/><path d="M16.5 3.5a2.121 2.121 0 013 3L7 19l-4 1 1-4L16.5 3.5z"/>
+            </svg>
+          </div>
+          <div class="contact-card__body">
+            <div class="contact-card__label">Content & corrections</div>
+            <div class="contact-card__value">content@narottamaacademy.in</div>
+            <div class="contact-card__sub">Found an error? Let us know</div>
+          </div>
+        </a>
+
+        <a href="mailto:contribute@narottamaacademy.in" class="contact-card">
+          <div class="contact-card__icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="#92400E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M17 21v-2a4 4 0 00-4-4H5a4 4 0 00-4 4v2"/>
+              <circle cx="9" cy="7" r="4"/>
+              <path d="M23 21v-2a4 4 0 00-3-3.87"/>
+              <path d="M16 3.13a4 4 0 010 7.75"/>
+            </svg>
+          </div>
+          <div class="contact-card__body">
+            <div class="contact-card__label">Contribute content</div>
+            <div class="contact-card__value">contribute@narottamaacademy.in</div>
+            <div class="contact-card__sub">Want to help build this platform?</div>
+          </div>
+        </a>
+      </div>
+
+      <div class="response-note">
+        <svg viewBox="0 0 24 24" fill="none" stroke="#92400E" stroke-width="2" stroke-linecap="round">
+          <circle cx="12" cy="12" r="10"/>
+          <polyline points="12 6 12 12 16 14"/>
+        </svg>
+        <p><strong>Typical response time:</strong> We usually reply within 24–48 hours. All messages are read personally.</p>
+      </div>
+    </div>
+
+    <!-- Right: form panel -->
+    <div class="contact-form-wrap">
+      <div id="contact-form-inner">
+        <div class="form-title">Send us a message</div>
+        <div class="form-subtitle">Fill in the form and we'll get back to you as soon as possible.</div>
+
+        <div class="form-row">
+          <div class="form-group">
+            <label class="form-label" for="cf-name">Your name</label>
+            <input class="form-input" id="cf-name" type="text" placeholder="Ravi Kumar" autocomplete="name">
+          </div>
+          <div class="form-group">
+            <label class="form-label" for="cf-email">Email address</label>
+            <input class="form-input" id="cf-email" type="email" placeholder="ravi@email.com" autocomplete="email">
+          </div>
+        </div>
+
+        <div class="form-group">
+          <label class="form-label" for="cf-topic">What is this about?</label>
+          <div class="select-wrap">
+            <select class="form-select" id="cf-topic">
+              <option value="">— Select a topic —</option>
+              <option value="question">Question about content</option>
+              <option value="correction">Report an error</option>
+              <option value="suggestion">Suggest a new topic</option>
+              <option value="contribute">I want to contribute</option>
+              <option value="technical">Technical issue</option>
+              <option value="other">Something else</option>
+            </select>
+          </div>
+        </div>
+
+        <div class="form-group">
+          <label class="form-label">Related subject (optional)</label>
+          <div class="topic-chips" id="topic-chips">
+            <span class="topic-chip" data-val="class910">Class 9–10</span>
+            <span class="topic-chip" data-val="jee">JEE</span>
+            <span class="topic-chip" data-val="neet">NEET</span>
+            <span class="topic-chip" data-val="pathology">Pathology</span>
+            <span class="topic-chip" data-val="microbiology">Microbiology</span>
+            <span class="topic-chip" data-val="pharmacology">Pharmacology</span>
+            <span class="topic-chip" data-val="anatomy">Anatomy</span>
+            <span class="topic-chip" data-val="physiology">Physiology</span>
+            <span class="topic-chip" data-val="biochemistry">Biochemistry</span>
+          </div>
+        </div>
+
+        <div class="form-group">
+          <label class="form-label" for="cf-message">Your message</label>
+          <textarea class="form-textarea" id="cf-message" placeholder="Tell us what's on your mind — we read every message carefully."></textarea>
+        </div>
+
+        <button class="form-submit" id="cf-submit" type="button" onclick="submitContactForm()">
+          Send message
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M22 2L11 13"/><path d="M22 2L15 22 11 13 2 9l20-7z"/>
+          </svg>
+        </button>
+      </div>
+
+      <!-- Success state (hidden until submit) -->
+      <div class="form-success" id="form-success">
+        <div class="form-success__icon">
+          <svg viewBox="0 0 24 24" fill="none" stroke="#92400E" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M22 11.08V12a10 10 0 11-5.93-9.14"/>
+            <polyline points="22 4 12 14.01 9 11.01"/>
+          </svg>
+        </div>
+        <h3>Message sent!</h3>
+        <p>Thank you for reaching out. We'll read your message carefully and get back to you within 24–48 hours.</p>
+        <a href="index.html">
+          ← Back to subjects
+        </a>
+      </div>
+    </div>
+
+  </div>
+
+  <div class="page-divider"></div>
+
+  <!-- ══ FAQ ══ -->
+  <section class="faq-section">
+    <div class="faq-inner">
+      <div class="section-eyebrow">Common questions</div>
+      <h2>Frequently <em>asked</em></h2>
+      <p>Quick answers to the questions we hear most often.</p>
+
+      <div class="faq-list">
+
+        <div class="faq-item">
+          <button class="faq-question" onclick="toggleFaq(this)">
+            Is Narottama Academy free to use?
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg>
+          </button>
+          <div class="faq-answer">Yes — completely free. No login, no subscription, no paywall. Every note, quiz, and flashcard on the platform is open to everyone. That is a founding principle of this academy.</div>
+        </div>
+
+        <div class="faq-item">
+          <button class="faq-question" onclick="toggleFaq(this)">
+            I found a mistake in a quiz / notes. How do I report it?
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg>
+          </button>
+          <div class="faq-answer">Use the contact form above and select "Report an error". Mention the subject, chapter, and the specific question or section. We take accuracy seriously and will review and fix it promptly.</div>
+        </div>
+
+        <div class="faq-item">
+          <button class="faq-question" onclick="toggleFaq(this)">
+            Can I suggest a new subject or chapter?
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg>
+          </button>
+          <div class="faq-answer">Absolutely. Select "Suggest a new topic" in the form and tell us which exam, subject, or chapter you'd like added. We prioritise based on demand and will notify you when it goes live.</div>
+        </div>
+
+        <div class="faq-item">
+          <button class="faq-question" onclick="toggleFaq(this)">
+            How can I contribute content or questions?
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg>
+          </button>
+          <div class="faq-answer">We welcome contributions from teachers, doctors, and subject matter experts. Write to us at contribute@narottamaacademy.in or use the form above. We'll share our content format and review process with you.</div>
+        </div>
+
+        <div class="faq-item">
+          <button class="faq-question" onclick="toggleFaq(this)">
+            Will there be a mobile app?
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg>
+          </button>
+          <div class="faq-answer">The website is fully mobile-optimised and works well on all smartphones and tablets. A dedicated app is on the roadmap. If this is important to you, let us know via the contact form — it helps us prioritise.</div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- ══ FOOTER ══ -->
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <div class="footer-brand">
+        <svg width="22" height="28" viewBox="0 0 36 44" fill="none">
+          <defs>
+            <linearGradient id="ff-o" x1="18" y1="44" x2="18" y2="0" gradientUnits="userSpaceOnUse">
+              <stop offset="0%" stop-color="#C2410C"/>
+              <stop offset="45%" stop-color="#EA580C"/>
+              <stop offset="78%" stop-color="#F59E0B"/>
+              <stop offset="100%" stop-color="#FDE68A"/>
+            </linearGradient>
+          </defs>
+          <path d="M18,4 C18,4 24,12 26,20 C28,27 26,33 22,38 C26,32 28,25 26,18 C29,24 28,31 24,37 C28,30 29,22 25,14 C28,20 27,29 23,36 C27,26 27,17 22,8 C20,5.5 19,3 18,1 C17,3 16,5.5 14,8 C9,17 9,26 13,36 C9,29 10,20 13,14 C7,22 8,30 12,37 C8,31 7,24 10,18 C8,25 9,32 13,38 C9,33 7,27 9,20 C11,12 18,4 18,4Z" fill="url(#ff-o)" opacity="0.9"/>
+          <ellipse cx="18" cy="6" rx="3" ry="4.5" fill="#FFFBEB" opacity="0.85"/>
+        </svg>
+        <span>Narottama Academy</span>
+      </div>
+      <p class="footer-copy">© 2026 Narottama Academy · Empowering Smarter Learning</p>
+    </div>
+  </footer>
+
+  <script>
+    /* ── Hamburger ── */
+    (function () {
+      var btn    = document.getElementById('na-hamburger');
+      var drawer = document.getElementById('na-drawer');
+      btn.addEventListener('click', function () {
+        var open = drawer.classList.toggle('open');
+        btn.classList.toggle('open', open);
+        btn.setAttribute('aria-expanded', open);
+        drawer.setAttribute('aria-hidden', !open);
+      });
+      drawer.querySelectorAll('a').forEach(function (a) {
+        a.addEventListener('click', function () {
+          drawer.classList.remove('open');
+          btn.classList.remove('open');
+          btn.setAttribute('aria-expanded', 'false');
+          drawer.setAttribute('aria-hidden', 'true');
+        });
+      });
+      document.addEventListener('click', function (e) {
+        if (!btn.contains(e.target) && !drawer.contains(e.target)) {
+          drawer.classList.remove('open');
+          btn.classList.remove('open');
+          btn.setAttribute('aria-expanded', 'false');
+          drawer.setAttribute('aria-hidden', 'true');
+        }
+      });
+    })();
+
+    /* ── Topic chips toggle ── */
+    document.querySelectorAll('.topic-chip').forEach(function (chip) {
+      chip.addEventListener('click', function () {
+        chip.classList.toggle('selected');
+      });
+    });
+
+    /* ── FAQ accordion ── */
+    function toggleFaq(btn) {
+      var item = btn.parentElement;
+      var isOpen = item.classList.contains('open');
+      // Close all
+      document.querySelectorAll('.faq-item').forEach(function (el) {
+        el.classList.remove('open');
+      });
+      // Open clicked if it wasn't already open
+      if (!isOpen) item.classList.add('open');
+    }
+
+    /* ── Form submit ── */
+    function submitContactForm() {
+      var name    = document.getElementById('cf-name').value.trim();
+      var email   = document.getElementById('cf-email').value.trim();
+      var topic   = document.getElementById('cf-topic').value;
+      var message = document.getElementById('cf-message').value.trim();
+
+      if (!name) { highlight('cf-name',    'Please enter your name.');    return; }
+      if (!email || !email.includes('@')) { highlight('cf-email', 'Please enter a valid email.'); return; }
+      if (!topic) { highlight('cf-topic',  'Please select a topic.');     return; }
+      if (!message) { highlight('cf-message', 'Please write a message.'); return; }
+
+      // Show success state
+      document.getElementById('contact-form-inner').style.display = 'none';
+      document.getElementById('form-success').style.display = 'block';
+    }
+
+    function highlight(id, msg) {
+      var el = document.getElementById(id);
+      el.style.borderColor = '#dc2626';
+      el.style.boxShadow   = '0 0 0 3px rgba(220,38,38,0.15)';
+      el.focus();
+      // Remove highlight on next input/change
+      el.addEventListener('input',  function () { el.style.borderColor = ''; el.style.boxShadow = ''; }, { once: true });
+      el.addEventListener('change', function () { el.style.borderColor = ''; el.style.boxShadow = ''; }, { once: true });
+    }
+  </script>
+
+</body>
+</html>
