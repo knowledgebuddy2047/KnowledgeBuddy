@@ -1,0 +1,52 @@
+<head>
+  <meta charset="utf-8">
+  <title>PDF.js Demo</title>
+  <style>
+#pdf-viewer canvas {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 10px auto;
+  border: 1px solid #ddd;
+}
+canvas {
+      display: block;
+      margin: 10px auto;
+      border: 1px solid #ddd;
+    }
+  </style>
+</head>
+<body>
+  <h2>My Presentation</h2>
+  <div id="pdf-viewer"></div>
+
+  <!-- Load pdf.js library -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.16.105/pdf.min.js"></script>
+ <script>
+  // Must include .pdf extension
+  const url = 'PDF_Pathology_Ch2_cellinjuryagingadption.pdf';
+
+  const pdfjsLib = window['pdfjsLib'];
+  pdfjsLib.GlobalWorkerOptions.workerSrc =
+    'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.16.105/pdf.worker.min.js';
+
+  pdfjsLib.getDocument(url).promise.then(function(pdf) {
+    for (let pageNum = 1; pageNum <= pdf.numPages; pageNum++) {
+      pdf.getPage(pageNum).then(function(page) {
+        const scale = 1.2;
+        const viewport = page.getViewport({ scale });
+        const canvas = document.createElement('canvas');
+        const context = canvas.getContext('2d');
+        canvas.height = viewport.height;
+        canvas.width = viewport.width;
+        document.getElementById('pdf-viewer').appendChild(canvas);
+        page.render({ canvasContext: context, viewport });
+      });
+    }
+  }).catch(err => {
+    document.getElementById('pdf-viewer').innerHTML =
+      `<p style="color:red">⚠️ Failed to load PDF: ${err.message}</p>`;
+    console.error("PDF.js error:", err);
+  });
+</script>
+</body>
