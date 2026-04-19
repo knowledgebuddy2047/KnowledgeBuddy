@@ -1,0 +1,224 @@
+{
+  "quiz": [
+
+{
+    "type": "mcq_single",
+    "question": "Which of the following is the most accurate definition of neoplasia according to the sources?",
+    "options": [
+      "A mass of tissue that grows only as long as a stimulus is present.",
+      "A coordinated proliferation of cells resulting in a functional organ mass.",
+      "An abnormal, autonomous, and purposeless proliferation of cells that persists after cessation of the stimulus.",
+      "A localized collection of ectopic normal tissue."
+    ],
+    "answer": "An abnormal, autonomous, and purposeless proliferation of cells that persists after cessation of the stimulus.",
+    "explanation": "Neoplasia is defined as a mass formed by abnormal, excessive, and autonomous growth that continues even after the initial growth-causing stimulus is removed [1, 2]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following are characteristics of malignant tumors compared to benign tumors?",
+    "options": [
+      "Rapid rate of growth",
+      "Presence of a well-defined capsule",
+      "Ability to metastasize",
+      "High nuclear-to-cytoplasmic (N:C) ratio",
+      "Frequent presence of atypical mitoses"
+    ],
+    "answer": [
+      "Rapid rate of growth",
+      "Ability to metastasize",
+      "High nuclear-to-cytoplasmic (N:C) ratio",
+      "Frequent presence of atypical mitoses"
+    ],
+    "explanation": "Malignant tumors are characterized by rapid growth, metastasis, increased N:C ratio (approaching 1:1), and atypical mitoses, whereas benign tumors are typically encapsulated and slow-growing [3-6]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Staging of a tumor is generally more clinically significant than its histological grading.",
+    "reason": "Staging assesses the clinical extent of the spread of the tumor within the patient, which better guides therapy and predicts prognosis.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "While grading assesses the degree of differentiation, staging (like TNM) evaluates the actual spread of the disease, which is the primary factor in determining survival and treatment plans [7, 8]."
+  },
+  {
+    "type": "match_columns",
+    "question": "Match the specific tumor terminology with its correct biological description:",
+    "left": [
+      "Teratoma",
+      "Hamartoma",
+      "Choristoma",
+      "Mixed Tumour"
+    ],
+    "right": [
+      "Disorganised mass of mature tissue indigenous to the organ",
+      "Ectopic island of normal tissue in an abnormal location",
+      "Arises from totipotent cells representing all three germ layers",
+      "Combination of epithelial and mesenchymal elements in one organ"
+    ],
+    "answer": {
+      "Teratoma": "Arises from totipotent cells representing all three germ layers",
+      "Hamartoma": "Disorganised mass of mature tissue indigenous to the organ",
+      "Choristoma": "Ectopic island of normal tissue in an abnormal location",
+      "Mixed Tumour": "Combination of epithelial and mesenchymal elements in one organ"
+    },
+    "explanation": "Teratomas involve ectoderm, mesoderm, and endoderm [9]. Hamartomas are indigenous but disorganized [10]. Choristomas are heterotopic normal tissue [11]. Mixed tumors, like pleomorphic adenoma, contain multiple tissue types [12]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "A clinical pitfall in reasoning occurs when a tumor is classified as 'benign' and thus assumed to be harmless. Which scenario best illustrates this critical thinking challenge?",
+    "options": [
+      "A lipoma on the back causing a visible bump.",
+      "A small meningioma located in the brainstem area.",
+      "A 2cm fibroadenoma in the breast of a young woman.",
+      "A skin wart on the finger."
+    ],
+    "answer": "A small meningioma located in the brainstem area.",
+    "explanation": "A critical thinking focus identifies that benign tumors can be fatal due to their location (e.g., intracranial) even if they are histologically 'innocent' [13, 14]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Regarding tumor heterogeneity, why is a single needle biopsy sometimes a 'common pitfall' in clinical diagnosis?",
+    "options": [
+      "Biopsies always transform benign cells into malignant ones.",
+      "The degree of differentiation can vary significantly from one area of the tumor to another.",
+      "Needle biopsies cannot be stained for IHC.",
+      "The stroma is more important than the parenchyma for diagnosis."
+    ],
+    "answer": "The degree of differentiation can vary significantly from one area of the tumor to another.",
+    "explanation": "Tumors are heterogeneous; one biopsy site might show well-differentiated cells while another area is highly anaplastic, leading to potential sampling error [15, 16]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "CASE STUDY: A 65-year-old male presents with persistent cough and weight loss. Imaging reveals an irregular 4cm mass in the left lung with hilar lymph node enlargement. He suddenly develops severe lower back pain. What is the most likely pathological progression under pressure to stabilize the patient?",
+    "options": [
+      "The patient has a second primary tumor in the lumbar spine.",
+      "The lung carcinoma has spread via the hematogenous route to the vertebrae.",
+      "The back pain is likely unrelated and due to muscle strain.",
+      "The hilar lymph nodes have directly compressed the spinal cord."
+    ],
+    "answer": "The lung carcinoma has spread via the hematogenous route to the vertebrae.",
+    "explanation": "Lung cancers frequently metastasize via systemic veins/arteries to the brain, bones, and adrenals. New-onset back pain in a cancer patient is a red flag for vertebral metastasis [17-19]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "UNIVERSITY LEVEL: Which gene is known as the 'protector of the genome' because it induces G1 arrest to allow for DNA repair?",
+    "options": [
+      "RAS",
+      "MYC",
+      "p53 (TP53)",
+      "RB gene"
+    ],
+    "answer": "p53 (TP53)",
+    "explanation": "p53 senses DNA damage and prevents the cell from entering the G1 phase transiently to allow for repair or induces apoptosis if repair is impossible [20, 21]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "PLAB/USMLE PATTERN: A 2-year-old child is found to have a white reflex in the left eye. Genetic testing shows a deletion on chromosome 13q. According to the 'Two-Hit' hypothesis, what is the required sequence for tumor development?",
+    "options": [
+      "Two separate point mutations in the RAS oncogene.",
+      "Inheritance of one mutant allele followed by a somatic mutation in the second allele.",
+      "Simultaneous translocation of chromosomes 9 and 22.",
+      "Overexpression of VEGF in the retinal vasculature."
+    ],
+    "answer": "Inheritance of one mutant allele followed by a somatic mutation in the second allele.",
+    "explanation": "Knudson's 'Two-Hit' hypothesis states that in familial retinoblastoma, one mutant RB gene is inherited (germline), and the second allele must be mutated somatically for the tumor to form [22, 23]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "BIAS RECOGNITION: A clinician identifies a firm breast lump in a 25-year-old and immediately diagnoses it as a 'fibroadenoma' without ordering a biopsy because of the patient's age. This is an example of which cognitive bias?",
+    "options": [
+      "Availability Bias",
+      "Premature Closure",
+      "Confirmation Bias",
+      "Hindsight Bias"
+    ],
+    "answer": "Premature Closure",
+    "explanation": "Premature closure occurs when a clinician stops the diagnostic process too early (e.g., assuming a mass is benign based only on age) without completing the 'triple assessment' [24, 25]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which route of metastasis is most characteristic of a Krukenberg tumor of the ovary?",
+    "options": [
+      "Lymphatic permeation",
+      "Hematogenous spread via portal vein",
+      "Transcoelomic spread (seeding across body cavities)",
+      "Spread via cerebrospinal fluid"
+    ],
+    "answer": "Transcoelomic spread (seeding across body cavities)",
+    "explanation": "Krukenberg tumor is a classic example of transcoelomic spread, where carcinoma of the stomach seeds both ovaries via the peritoneal cavity [26, 27]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "In the TNM staging system, what does a 'T0' designation signify?",
+    "options": [
+      "The tumor has metastasized to the brain.",
+      "There is no primary tumor visible.",
+      "An in situ lesion (carcinoma in situ).",
+      "The tumor is larger than 5 cm."
+    ],
+    "answer": "An in situ lesion (carcinoma in situ).",
+    "explanation": "In TNM staging, T0 to T4 ranges from in situ lesions (confined to the epithelium) to the most extensive primary tumors [28]."
+  },
+  {
+    "type": "match_columns",
+    "question": "Match the virus with its associated human malignancy:",
+    "left": [
+      "Epstein-Barr Virus",
+      "Human Papilloma Virus 16/18",
+      "Hepatitis B Virus",
+      "Human Herpes Virus 8"
+    ],
+    "right": [
+      "Burkitt’s Lymphoma",
+      "Cervical Carcinoma",
+      "Hepatocellular Carcinoma",
+      "Kaposi’s Sarcoma"
+    ],
+    "answer": {
+      "Epstein-Barr Virus": "Burkitt’s Lymphoma",
+      "Human Papilloma Virus 16/18": "Cervical Carcinoma",
+      "Hepatitis B Virus": "Hepatocellular Carcinoma",
+      "Human Herpes Virus 8": "Kaposi’s Sarcoma"
+    },
+    "explanation": "EBV is linked to Burkitt’s [29]; High-risk HPV to cervical cancer [30]; HBV to liver cancer [31]; and HHV-8 to Kaposi's [32]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which factors are involved in the 'Warburg Effect' or the autonomous growth of cancer cells?",
+    "options": [
+      "Escape from apoptosis (BCL2 mutation)",
+      "Upregulation of telomerase to avoid aging",
+      "Inactivation of tumor suppressor genes like APC",
+      "Strict adherence to paracrine growth signals",
+      "Sustained angiogenesis via VEGF"
+    ],
+    "answer": [
+      "Escape from apoptosis (BCL2 mutation)",
+      "Upregulation of telomerase to avoid aging",
+      "Inactivation of tumor suppressor genes like APC",
+      "Sustained angiogenesis via VEGF"
+    ],
+    "explanation": "Cancer cells acquire self-sufficiency in growth by escaping apoptosis, immortalizing via telomerase, losing 'brakes' like APC, and inducing neovascularization (angiogenesis) [33-36]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which microscopic feature is the most definitive evidence of 'anaplasia'?",
+    "options": [
+      "Uniform cell size and shape",
+      "Presence of regular, bipolar mitoses",
+      "Variation in cell size and shape (pleomorphism) with atypical mitoses",
+      "Well-developed basement membrane with basal polarity"
+    ],
+    "answer": "Variation in cell size and shape (pleomorphism) with atypical mitoses",
+    "explanation": "Anaplasia is characterized by pleomorphism, loss of polarity, hyperchromatism, and specifically atypical or tripolar mitotic figures [6, 37, 38]."
+  }
+
+
+  ]
+
+}

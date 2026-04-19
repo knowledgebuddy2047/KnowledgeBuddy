@@ -1,0 +1,674 @@
+{
+  "quiz":
+
+[
+  {
+    "type": "mcq_single",
+    "question": "Which specific functional zone of the lymph node is primarily composed of B-cells and contains germinal centres?",
+    "options": [
+      "Medulla",
+      "Paracortex",
+      "Cortex follicles",
+      "Subcapsular sinus"
+    ],
+    "answer": "Cortex follicles",
+    "explanation": "According to the source, the B-cell zone lies in the follicles in the cortex, while the T-cell zone is predominantly in the paracortex and medulla. [1, 2]"
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the characteristic cytologic finding in the myeloblasts of Acute Myeloid Leukaemia that represents abnormal derivatives of primary granules?",
+    "options": [
+      "Döhle bodies",
+      "Auer rods",
+      "Russell bodies",
+      "Birbeck granules"
+    ],
+    "answer": "Auer rods",
+    "explanation": "Auer rods are rod-like cytoplasmic inclusions found in AML blasts, representing abnormal derivatives of primary azurophilic granules. [3]"
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following are components of the 'mitotic pool' in granulopoiesis?",
+    "options": [
+      "Myeloblast",
+      "Promyelocyte",
+      "Myelocyte",
+      "Metamyelocyte"
+    ],
+    "answer": [
+      "Myeloblast",
+      "Promyelocyte",
+      "Myelocyte"
+    ],
+    "explanation": "The proliferative or mitotic pool comprises the myeloblast, promyelocyte, and myelocyte; subsequent stages belong to the post-mitotic pool. [4, 5]"
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "A 'shift-to-left' in the peripheral blood is characteristic of severe bacterial infections.",
+    "reason": "It involves the appearance of hypersegmented neutrophils with more than 5 nuclear lobes.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Assertion is true, Reason is false",
+    "explanation": "A 'shift-to-left' refers to immature neutrophils (bands/myelocytes), whereas hypersegmentation is a 'shift-to-right' seen in conditions like megaloblastic anaemia. [6]"
+  },
+  {
+    "type": "match_columns",
+    "question": "Match the chronic nonspecific lymphadenitis pattern with its associated cause/feature:",
+    "left": [
+      "Follicular hyperplasia",
+      "Paracortical hyperplasia",
+      "Sinus histiocytosis",
+      "Dermatopathic lymphadenopathy"
+    ],
+    "right": [
+      "B-cell area proliferation (e.g., Rheumatoid arthritis)",
+      "T-cell area expansion (e.g., Dilantin/Phenytoin)",
+      "Histiocyte expansion in sinuses (e.g., Breast cancer drainage)",
+      "Melanin pigment in macrophages"
+    ],
+    "answer": {
+      "Follicular hyperplasia": "B-cell area proliferation (e.g., Rheumatoid arthritis)",
+      "Paracortical hyperplasia": "T-cell area expansion (e.g., Dilantin/Phenytoin)",
+      "Sinus histiocytosis": "Histiocyte expansion in sinuses (e.g., Breast cancer drainage)",
+      "Dermatopathic lymphadenopathy": "Melanin pigment in macrophages"
+    },
+    "explanation": "These patterns reflect specific immune responses in different anatomic compartments of the lymph node. [7-9]"
+  },
+  {
+    "type": "mcq_single",
+    "question": "In the diagnosis of Infectious Mononucleosis, what is the required minimum percentage of atypical T-cells (Downey cells) in the peripheral blood?",
+    "options": [
+      "2-3%",
+      "5-8%",
+      "10-12%",
+      "25-30%"
+    ],
+    "answer": "10-12%",
+    "explanation": "Essential to the diagnosis of IM is the presence of at least 10-12% atypical T-cells lying in a background of lymphocytosis. [10]"
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Myeloid leukaemoid reaction can be distinguished from Chronic Myeloid Leukaemia (CML) using the NAP score.",
+    "reason": "The NAP score is characteristically high in leukaemoid reactions and low/absent in CML.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "Neutrophil alkaline phosphatase (NAP) activity is high in reactive states but reduced in the malignant clones of CML. [11, 12]"
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which chromosomal translocation is diagnostic for Chronic Myeloid Leukaemia (CML) and results in the BCR-ABL fusion gene?",
+    "options": [
+      "t(8;14)",
+      "t(15;17)",
+      "t(9;22)",
+      "t(11;14)"
+    ],
+    "answer": "t(9;22)",
+    "explanation": "The Philadelphia chromosome is a reciprocal translocation t(9;22)(q34;q11) forming the BCR-ABL fusion gene. [13, 14]"
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which features distinguish Polycythaemia Vera (PV) from secondary erythrocytosis?",
+    "options": [
+      "Splenomegaly",
+      "Low serum erythropoietin",
+      "Increased platelets and leucocytes",
+      "High altitude exposure"
+    ],
+    "answer": [
+      "Splenomegaly",
+      "Low serum erythropoietin",
+      "Increased platelets and leucocytes"
+    ],
+    "explanation": "Secondary polycythaemia (like from high altitude) lacks splenomegaly, has high EPO, and generally normal WBC/platelet counts, unlike PV. [15, 16]"
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the current WHO blast threshold for a diagnosis of Acute Myeloid Leukaemia (AML)?",
+    "options": [
+      "10%",
+      "20%",
+      "30%",
+      "50%"
+    ],
+    "answer": "20%",
+    "explanation": "The WHO classification lowered the cut-off for AML to 20% blasts in the bone marrow or blood, down from the 30% required by the FAB system. [17, 18]"
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Acute leukaemia is primarily caused by the rapid proliferation of leukaemic cells.",
+    "reason": "The generation time of leukaemic blasts is actually somewhat prolonged compared to normal precursors.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Assertion is false, Reason is true",
+    "explanation": "Acute leukaemia is caused by a *maturation defect* rather than rapid proliferation; the generation time of blasts is actually prolonged. [19]"
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which subtype of AML is associated with DIC (Disseminated Intravascular Coagulation) and the translocation t(15;17)?",
+    "options": [
+      "M1 (AML without maturation)",
+      "M3 (Acute promyelocytic leukaemia)",
+      "M5 (Acute monocytic leukaemia)",
+      "M7 (Acute megakaryoblastic leukaemia)"
+    ],
+    "answer": "M3 (Acute promyelocytic leukaemia)",
+    "explanation": "AML M3 is characterized by hypergranular promyelocytes, t(15;17), and a high risk of DIC due to granule release. [20, 21]"
+  },
+  {
+    "type": "match_columns",
+    "question": "Match the lymphoma subtype with its hallmark feature:",
+    "left": [
+      "Follicular lymphoma",
+      "Burkitt's lymphoma",
+      "Mantle cell lymphoma",
+      "MALT lymphoma"
+    ],
+    "right": [
+      "t(14;18) and BCL-2 overexpression",
+      "'Starry sky' pattern and MYC gene",
+      "t(11;14) and BCL-1 overexpression",
+      "Association with H. pylori"
+    ],
+    "answer": {
+      "Follicular lymphoma": "t(14;18) and BCL-2 overexpression",
+      "Burkitt's lymphoma": "'Starry sky' pattern and MYC gene",
+      "Mantle cell lymphoma": "t(11;14) and BCL-1 overexpression",
+      "MALT lymphoma": "Association with H. pylori"
+    },
+    "explanation": "These are defining genetic and etiologic hallmarks of specific B-cell non-Hodgkin's lymphomas. [22-24]"
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which histological variant of Reed-Sternberg cell is pathognomonic for the Nodular Sclerosis type of Hodgkin's disease?",
+    "options": [
+      "Classic (Owl-eye) RS cell",
+      "Lacunar type RS cell",
+      "Popcorn (L&H) cell",
+      "Pleomorphic RS cell"
+    ],
+    "answer": "Lacunar type RS cell",
+    "explanation": "Lacunar RS cells, appearing to sit in empty spaces due to formalin fixation, are characteristic of the Nodular Sclerosis type. [25, 26]"
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following are components of the 'CRAB' criteria (major manifestations) for Multiple Myeloma?",
+    "options": [
+      "Hypercalcaemia",
+      "Renal failure",
+      "Anaemia",
+      "Bony lytic lesions"
+    ],
+    "answer": [
+      "Hypercalcaemia",
+      "Renal failure",
+      "Anaemia",
+      "Bony lytic lesions"
+    ],
+    "explanation": "While the source lists them individually, multiple myeloma is defined by marrow plasmacytosis and end-organ damage (bony pain/lesions, renal failure, anaemia, hypercalcaemia). [27-30]"
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the hallmark ultrastructural feature of Langerhans cell histiocytosis (LCH)?",
+    "options": [
+      "Auer rods",
+      "Birbeck granules",
+      "Russell bodies",
+      "Hassall's corpuscles"
+    ],
+    "answer": "Birbeck granules",
+    "explanation": "Birbeck granules (rod-shaped tennis-racket structures) are the electron microscopic diagnostic marker for Langerhans cell histiocytosis. [31]"
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which condition is defined by the triad of multifocal bony defects, diabetes insipidus, and exophthalmos?",
+    "options": [
+      "Letterer-Siwe disease",
+      "Hand-Schüller-Christian disease",
+      "Eosinophilic granuloma",
+      "Multiple myeloma"
+    ],
+    "answer": "Hand-Schüller-Christian disease",
+    "explanation": "This triad is the classic clinical presentation for the multifocal form of LCH. [32, 33]"
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Splenectomy is indicated in the treatment of Autoimmune Haemolytic Anaemia (AIHA).",
+    "reason": "The spleen is a major site of sequestration and destruction of antibody-coated red cells.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "The spleen filters out abnormal blood cells; removing it can improve cytopenias caused by splenic sequestration/destruction. [34, 35]"
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which primary tumour of the thymus is most strongly associated with Myasthenia Gravis?",
+    "options": [
+      "Lymphoma",
+      "Thymoma",
+      "Teratoma",
+      "Germ cell tumour"
+    ],
+    "answer": "Thymoma",
+    "explanation": "Thymomas are frequently associated with paraneoplastic syndromes, most commonly Myasthenia Gravis. [36, 37]"
+  },
+  {
+    "type": "mcq_single",
+    "question": "Critical Thinking: A clinician observes 'smear cells' or 'basket cells' in a 70-year-old patient with an absolute lymphocyte count of 150,000/µl. What is the most likely diagnosis?",
+    "options": [
+      "ALL",
+      "CML",
+      "CLL",
+      "Infectious Mononucleosis"
+    ],
+    "answer": "CLL",
+    "explanation": "The combination of old age, massive lymphocytosis, and fragile 'smudge' cells (due to malignancy) is classic for CLL. [38]"
+  },
+  {
+    "type": "mcq_single",
+    "question": "Case Study: A 4-year-old child presents with fever, nosebleeds, and bone pain. Blood count shows TLC 80,000/µl with 90% blasts that are PAS positive and MPO negative. Diagnosis?",
+    "options": [
+      "AML M1",
+      "AML M3",
+      "ALL",
+      "Neuroblastoma"
+    ],
+    "answer": "ALL",
+    "explanation": "Childhood age, bone marrow failure (bleeding/fever), PAS positivity (lymphoid), and MPO negativity (not myeloid) point to ALL. [39-43]"
+  },
+  {
+    "type": "mcq_single",
+    "question": "Decision Under Pressure: A patient with massive splenomegaly due to chronic malaria suddenly develops acute abdominal pain and hypotension. What is the priority?",
+    "options": [
+      "Start IV antibiotics",
+      "Immediate CT scan of the abdomen",
+      "Surgical emergency for splenic rupture",
+      "Perform a splenic aspiration"
+    ],
+    "answer": "Surgical emergency for splenic rupture",
+    "explanation": "In an enlarged spleen, sudden pain and shock indicate a surgical emergency due to rapid blood loss from rupture. [44]"
+  },
+  {
+    "type": "mcq_single",
+    "question": "PLAB/USMLE Pattern: A 65-year-old male presents with generalized lymphadenopathy and an M-band on serum electrophoresis. Biopsy shows small lymphocytes and plasmacytoid cells. What is the diagnosis?",
+    "options": [
+      "Multiple Myeloma",
+      "Waldenström’s macroglobulinaemia",
+      "Hodgkin’s disease",
+      "Acute Lymphoblastic Leukaemia"
+    ],
+    "answer": "Waldenström’s macroglobulinaemia",
+    "explanation": "Waldenström's features a hybrid picture: lymphadenopathy/splenomegaly (like lymphoma) and an M-band (like myeloma) caused by IgM secreting cells. [45-47]"
+  },
+  {
+    "type": "mcq_single",
+    "question": "Critical Thinking Focus: Why is the 'generation time' of leukaemic blasts being longer than normal precursors significant for therapy?",
+    "options": [
+      "Blasts are more sensitive to chemotherapy",
+      "Multiple cycles of drugs are needed because cells are often in the G0 (resting) phase",
+      "Chemotherapy only works on G0 cells",
+      "Treatment should be given only once"
+    ],
+    "answer": "Multiple cycles of drugs are needed because cells are often in the G0 (resting) phase",
+    "explanation": "Because the generation time is prolonged, not all blasts are dividing simultaneously; multiple drug cycles are needed to target cells as they enter the cycle. [19]"
+  },
+  {
+    "type": "mcq_single",
+    "question": "Bias Recognition: A clinician immediately diagnoses a patient with jaw swelling and a 'starry sky' biopsy in Africa as Burkitt's lymphoma. Which bias is demonstrated?",
+    "options": [
+      "Anchoring bias",
+      "Availability bias",
+      "Confirmation bias",
+      "Search satisfaction"
+    ],
+    "answer": "Availability bias",
+    "explanation": "Availability bias involves relying on the most 'available' or common memory/example (Burkitt's in Africa) while potentially ignoring other possibilities. [General Reasoning applied to text]"
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which factors are involved in the etiology of lymphohaematopoietic malignancies?",
+    "options": [
+      "Ionising radiation (e.g., Hiroshima survivors)",
+      "Viruses (e.g., EBV, HTLV-I)",
+      "Chemical carcinogens (e.g., Benzene)",
+      "Genetic syndromes (e.g., Down's syndrome)"
+    ],
+    "answer": [
+      "Ionising radiation (e.g., Hiroshima survivors)",
+      "Viruses (e.g., EBV, HTLV-I)",
+      "Chemical carcinogens (e.g., Benzene)",
+      "Genetic syndromes (e.g., Down's syndrome)"
+    ],
+    "explanation": "All listed factors have a demonstrated association with increased risk of leukaemias and lymphomas. [48-52]"
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the primary site of formation for NK (Natural Killer) cells?",
+    "options": [
+      "Thymus",
+      "Bursa of Fabricius",
+      "Bone marrow",
+      "Lymph node follicles"
+    ],
+    "answer": "Bone marrow",
+    "explanation": "B and T cells have specific maturation sites (marrow/thymus), and NK cells are produced in the bone marrow and are not dependent on the thymus. [53]"
+  },
+  {
+    "type": "mcq_single",
+    "question": "In Multiple Myeloma, what are the Russell bodies found in the cytoplasm of myeloma cells?",
+    "options": [
+      "Mitochondrial remnants",
+      "Hyaline globules of synthesised immunoglobulin",
+      "Phagocytosed red cells",
+      "Aggregated iron granules"
+    ],
+    "answer": "Hyaline globules of synthesised immunoglobulin",
+    "explanation": "Russell bodies represent the accumulation of synthesized immunoglobulins within the cytoplasm of malignant plasma cells. [54]"
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which condition is characterized by 'pancytopenia' due to marrow failure, splenomegaly, and 'TRAP' positivity?",
+    "options": [
+      "CML",
+      "Hairy cell leukaemia",
+      "Multiple myeloma",
+      "MDS"
+    ],
+    "answer": "Hairy cell leukaemia",
+    "explanation": "Hairy cell leukaemia shows hairy projections on cells, TRAP (tartrate-resistant acid phosphatase) positivity, and massive splenomegaly with pancytopenia. [55, 56]"
+  },
+  {
+    "type": "mcq_single",
+    "question": "University Level: Describe the 'Ann Arbor Staging' for Stage III Hodgkin’s Disease.",
+    "options": [
+      "Single lymph node region",
+      "Two regions on the same side of the diaphragm",
+      "Regions on both sides of the diaphragm",
+      "Diffuse involvement of extralymphatic organs"
+    ],
+    "answer": "Regions on both sides of the diaphragm",
+    "explanation": "Stage III involves lymph node regions on both sides of the diaphragm, potentially with splenic involvement (IIIS). [57, 58]"
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the 'Gingival Hypertrophy' specifically associated with in the FAB AML classification?",
+    "options": [
+      "M1",
+      "M3",
+      "M5 (Monocytic)",
+      "M7"
+    ],
+    "answer": "M5 (Monocytic)",
+    "explanation": "Infiltration of the gums is a frequent finding specifically in myelomonocytic (M4) and monocytic (M5) leukaemias. [59]"
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which cytokine, secreted by myeloma cells, acts as the primary 'osteoclast-activating factor' (OAF) causing bone destruction?",
+    "options": [
+      "IL-6",
+      "IL-1 (and others like VEGF/TNF)",
+      "IL-5",
+      "Transforming growth factor-b"
+    ],
+    "answer": "IL-1 (and others like VEGF/TNF)",
+    "explanation": "While IL-6 drives cell survival, IL-1, lymphotoxin, and VEGF act as osteoclast-activating factors causing bony lytic lesions. [60]"
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "MDS (Myelodysplastic Syndromes) are also known as 'preleukaemic' syndromes.",
+    "reason": "The bone marrow in MDS is hypocellular with ineffective blood cell formation.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Assertion is true, Reason is false",
+    "explanation": "The assertion is true, but the reason is false: the bone marrow in MDS is typically *cellular* (normal to hypercellular) despite peripheral cytopenias. [61, 62]"
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which finding on a blood film is classic for Lead poisoning (or thalassaemia) but mentioned here as a feature of Myelofibrosis?",
+    "options": [
+      "Auer rods",
+      "Basophilic stippling",
+      "Howell-Jolly bodies",
+      "Döhle bodies"
+    ],
+    "answer": "Basophilic stippling",
+    "explanation": "Peripheral blood in myelofibrosis shows bizarre red cell shapes and basophilic stippling. [63]"
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the significance of 'Gamna-Gandy bodies' in the spleen?",
+    "options": [
+      "They are sites of malignant transformation",
+      "They represent focal areas of haemorrhage and fibrosis due to congestion",
+      "They are primary tumours of the spleen",
+      "They are sites of extramedullary haematopoiesis"
+    ],
+    "answer": "They represent focal areas of haemorrhage and fibrosis due to congestion",
+    "explanation": "Long-standing congestion in Banti's spleen (fibrocongestive splenomegaly) results in these siderofibrotic nodules. [64]"
+  },
+  {
+    "type": "mcq_single",
+    "question": "Reflective Thinking: Why does the WHO classification now consider B-cell CLL and Small Lymphocytic Lymphoma (SLL) as the same biologic entity?",
+    "options": [
+      "They occur in the same age group",
+      "They respond to the same chemotherapy",
+      "They represent different stages of the same biologic process involving the same cell type",
+      "They both have the Philadelphia chromosome"
+    ],
+    "answer": "They represent different stages of the same biologic process involving the same cell type",
+    "explanation": "WHO considers blood and tissue location secondary to the cell of origin; CLL and SLL involve the same mature B-cell. [65-67]"
+  },
+  {
+    "type": "mcq_single",
+    "question": "USMLE Pattern: A 30-year-old male presents with night sweats and a single enlarged cervical lymph node. Biopsy shows 'Popcorn cells' that are CD20+ but CD15/30 negative. Diagnosis?",
+    "options": [
+      "Classic Hodgkin's Disease",
+      "Nodular Lymphocyte Predominant Hodgkin's Disease (NLPHD)",
+      "Burkitt's Lymphoma",
+      "Follicular Lymphoma"
+    ],
+    "answer": "Nodular Lymphocyte Predominant Hodgkin's Disease (NLPHD)",
+    "explanation": "NLPHD is distinct for its 'popcorn' cells and B-cell marker (CD20) positivity, unlike the CD15/30 markers of classic HD. [68, 69]"
+  },
+  {
+    "type": "mcq_single",
+    "question": "PLAB Pattern: A patient on 'Dilantin' (Phenytoin) for seizures develops generalized lymphadenopathy. Which pattern of reactive hyperplasia is expected?",
+    "options": [
+      "Follicular hyperplasia",
+      "Paracortical hyperplasia",
+      "Sinus histiocytosis",
+      "Sarcoidosis-like granulomas"
+    ],
+    "answer": "Paracortical hyperplasia",
+    "explanation": "Paracortical (T-cell area) hyperplasia is common in immunologic reactions to drugs like Dilantin. [8]"
+  },
+  {
+    "type": "mcq_single",
+    "question": "Problem-Solving: In a 'dry tap' bone marrow aspiration, which investigation is mandatory to rule out Myelofibrosis or AML?",
+    "options": [
+      "Repeat aspiration at a different site",
+      "Trephine biopsy",
+      "Serum electrophoresis",
+      "PET scan"
+    ],
+    "answer": "Trephine biopsy",
+    "explanation": "A dry tap occurs when marrow is fibrotic or too tightly packed; a trephine biopsy is necessary to see the architecture and cellularity. [18, 63]"
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the primary function of Hassall's corpuscles in the thymus?",
+    "options": [
+      "Production of T-cells",
+      "Secretion of thymopoietin",
+      "Unknown (but they are concentrically arranged epithelial cells)",
+      "Phagocytosis of dying cells"
+    ],
+    "answer": "Unknown (but they are concentrically arranged epithelial cells)",
+    "explanation": "Hassall's corpuscles are distinctive thymic structures whose function is not specified, but they are defined by their epithelial arrangement. [70]"
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which virus is specifically etiologically linked to Adult T-cell Leukaemia/Lymphoma (ATLL)?",
+    "options": [
+      "EBV",
+      "HIV",
+      "HTLV-I",
+      "HHV-8"
+    ],
+    "answer": "HTLV-I",
+    "explanation": "ATLL is an uncommon T-cell malignancy uniquely associated with the retrovirus HTLV-I. [50, 71]"
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which conditions are known as 'paraneoplastic syndromes' associated with Thymoma?",
+    "options": [
+      "Myasthenia Gravis",
+      "Pure Red Cell Aplasia",
+      "Hypogammaglobulinaemia",
+      "Cushing’s Syndrome"
+    ],
+    "answer": [
+      "Myasthenia Gravis",
+      "Pure Red Cell Aplasia",
+      "Hypogammaglobulinaemia"
+    ],
+    "explanation": "Thymomas are famous for Myasthenia Gravis, PRCA, and immune deficiencies. [37]"
+  },
+  {
+    "type": "mcq_single",
+    "question": "Case Study: A 60-year-old male with persistent 'waxing and waning' lymphadenopathy has a biopsy showing follicles composed of small cleaved cells. Translocation t(14;18) is found. Diagnosis?",
+    "options": [
+      "Small Lymphocytic Lymphoma",
+      "Follicular Lymphoma",
+      "Mantle Cell Lymphoma",
+      "Nodular Sclerosis HD"
+    ],
+    "answer": "Follicular Lymphoma",
+    "explanation": "The waxing/waning clinical course and the t(14;18) translocation involving BCL-2 are definitive for Follicular Lymphoma. [22, 72]"
+  },
+  {
+    "type": "mcq_single",
+    "question": "Critical Thinking: Why is 'Bence Jones protein' screening in urine alone insufficient for a Multiple Myeloma diagnosis?",
+    "options": [
+      "It is always absent in myeloma",
+      "It only detects the 'M' component in 2/3 of cases; others may have non-secretory disease or only serum components",
+      "It is too expensive",
+      "It only detects intact IgG"
+    ],
+    "answer": "It only detects the 'M' component in 2/3 of cases; others may have non-secretory disease or only serum components",
+    "explanation": "About 2/3 excrete Bence Jones (light chains) in urine; a full diagnosis requires the triad of marrow, radiology, and M-protein. [30]"
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "MDS cases with isolated 'del 5q' have a better prognosis than RAEB (Excess Blasts).",
+    "reason": "RAEB-1 and RAEB-2 have marrow blast counts closer to the 20% AML threshold.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "Isolated del 5q is a favorable subtype, while RAEB carries a high risk of transformation to AML. [73-75]"
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which cell-surface marker (CD) is characteristically expressed by 'Hairy cells' but NOT standard B-cells?",
+    "options": [
+      "CD19",
+      "CD20",
+      "CD103",
+      "CD5"
+    ],
+    "answer": "CD103",
+    "explanation": "Hairy cells express pan-B markers (CD19/20) plus specific markers like CD103, CD11, and CD25. [56]"
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the commonest form of B-cell Non-Hodgkin's Lymphoma?",
+    "options": [
+      "Follicular lymphoma",
+      "Diffuse Large B-cell Lymphoma (DLBCL)",
+      "MALT lymphoma",
+      "Burkitt's lymphoma"
+    ],
+    "answer": "Diffuse Large B-cell Lymphoma (DLBCL)",
+    "explanation": "DLBCL is the most common subtype, comprising approximately 31% of all NHLs. [76]"
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which clinical feature of Multiple Myeloma is specifically caused by the hyperviscosity of the 'M component'?",
+    "options": [
+      "Bone pain",
+      "Lytic lesions",
+      "Visual disturbances and headaches",
+      "Pathologic fractures"
+    ],
+    "answer": "Visual disturbances and headaches",
+    "explanation": "Hyperviscosity syndrome resulting from high immunoglobulin levels interferes with blood flow, causing neurologic and visual symptoms. [29]"
+  },
+  {
+    "type": "mcq_single",
+    "question": "Bias Recognition: Stopping the search for malignancy in a young adult with 'fever and sore throat' after a positive Paul-Bunnell test. What is the danger?",
+    "options": [
+      "Missing a bacterial superinfection",
+      "Missing a co-existing or misdiagnosed Hodgkin’s lymphoma (Search Satisfaction bias)",
+      "The test is 100% accurate",
+      "IM never has complications"
+    ],
+    "answer": "Missing a co-existing or misdiagnosed Hodgkin’s lymphoma (Search Satisfaction bias)",
+    "explanation": "Search satisfaction bias involves stopping once a finding explains the symptom, but RS-like cells can occur in IM, causing diagnostic confusion. [77, 78]"
+  },
+  {
+    "type": "mcq_single",
+    "question": "What happens to the 'TLC' (Total Leucocyte Count) immediately after splenectomy?",
+    "options": [
+      "Severe leucopenia",
+      "Immediate leucocytosis peaking in 1-2 days",
+      "No change",
+      "Persistent lymphopenia"
+    ],
+    "answer": "Immediate leucocytosis peaking in 1-2 days",
+    "explanation": "Removal of the spleen (a major sequestration site) leads to a rapid rise in white cells and platelets. [79]"
+  },
+  {
+    "type": "mcq_single",
+    "question": "In 'Sezary Syndrome', what is the defining feature of the malignant T-cells in the blood?",
+    "options": [
+      "Auer rods",
+      "Cerebriform nuclei",
+      "Owl-eye nuclei",
+      "Popcorn shape"
+    ],
+    "answer": "Cerebriform nuclei",
+    "explanation": "Sézary cells are characterized by their distinctive cerebriform (brain-like) nuclei. [80]"
+  }
+]
+}

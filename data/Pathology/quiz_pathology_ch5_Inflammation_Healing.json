@@ -1,0 +1,220 @@
+{
+  "quiz": [
+
+    {
+    "type": "mcq_single",
+    "question": "Which cardinal sign of inflammation was added later by Virchow to the original four named by Celsus?",
+    "options": [
+      "Rubor (redness)",
+      "Tumor (swelling)",
+      "Calor (heat)",
+      "Functio laesa (loss of function)"
+    ],
+    "answer": "Functio laesa (loss of function)",
+    "explanation": "Celsus named the first four signs in the 1st century A.D.; Virchow later added 'functio laesa' as the fifth sign [1, 2]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following are characteristics of acute inflammation?",
+    "options": [
+      "Accumulation of fluid and plasma at the affected site",
+      "Presence of lymphocytes and plasma cells",
+      "Intravascular activation of platelets",
+      "Polymorphonuclear neutrophils as the primary inflammatory cells"
+    ],
+    "answer": [
+      "Accumulation of fluid and plasma at the affected site",
+      "Intravascular activation of platelets",
+      "Polymorphonuclear neutrophils as the primary inflammatory cells"
+    ],
+    "explanation": "Acute inflammation is characterized by fluid accumulation, platelet activation, and neutrophils, whereas lymphocytes and plasma cells are characteristic of chronic inflammation [3]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Inflammation is distinct from infection.",
+    "reason": "Inflammation is a protective response to various etiologic agents, while infection is the invasion of the body by harmful microbes.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "According to the sources, inflammation is a body's protective response to injury (infectious or non-infectious), while infection is the actual microbial invasion and its toxic effects [4]."
+  },
+  {
+    "type": "match_columns",
+    "question": "Match the following cell types with their classification based on proliferative capacity:",
+    "left": [
+      "Labile cells",
+      "Stable cells",
+      "Permanent cells"
+    ],
+    "right": [
+      "Surface epithelial cells and haematopoietic cells",
+      "Parenchymal cells of liver and kidney",
+      "Neurons and cardiac muscle cells"
+    ],
+    "answer": {
+      "Labile cells": "Surface epithelial cells and haematopoietic cells",
+      "Stable cells": "Parenchymal cells of liver and kidney",
+      "Permanent cells": "Neurons and cardiac muscle cells"
+    },
+    "explanation": "Labile cells multiply throughout life; stable cells retain capacity to multiply in response to stimuli; permanent cells lose ability to proliferate around birth [5-7]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "In the 'Triple Response' described by Lewis, what causes the 'Flare'?",
+    "options": [
+      "Local vasodilation of capillaries and venules",
+      "Vasodilation of adjacent arterioles",
+      "Transudation of fluid into the extravascular space",
+      "Direct endothelial injury by toxins"
+    ],
+    "answer": "Vasodilation of adjacent arterioles",
+    "explanation": "The 'Flare' is the bright reddish flush surrounding the red line, resulting specifically from the vasodilation of adjacent arterioles [8]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which chemical mediators are primarily responsible for increased vascular permeability in acute inflammation?",
+    "options": [
+      "Histamine",
+      "Bradykinin",
+      "Leukotrienes (LTC4, LTD4, LTE4)",
+      "Prostaglandin I2 (Prostacyclin)"
+    ],
+    "answer": [
+      "Histamine",
+      "Bradykinin",
+      "Leukotrienes (LTC4, LTD4, LTE4)"
+    ],
+    "explanation": "Histamine, bradykinin, and leukotrienes are potent mediators of increased permeability; Prostacyclin primarily causes vasodilation and inhibits platelet aggregation [9-12]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "A 'soft tubercle' is considered the hallmark of tuberculous lesions.",
+    "reason": "It is characterized by central caseation necrosis due to the interaction of mycobacteria with activated T cells.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "The 'soft tubercle' (caseating granuloma) is the classic tuberculous lesion, formed once caseation necrosis develops in the center of the cellular mass [13]."
+  },
+  {
+    "type": "match_columns",
+    "question": "Match the specific type of giant cell with its clinical association:",
+    "left": [
+      "Langhans’ giant cells",
+      "Foreign body giant cells",
+      "Touton giant cells",
+      "Aschoff giant cells"
+    ],
+    "right": [
+      "Tuberculosis and Sarcoidosis",
+      "Talc or suture material reactions",
+      "Xanthoma (lipid content)",
+      "Rheumatic nodules"
+    ],
+    "answer": {
+      "Langhans’ giant cells": "Tuberculosis and Sarcoidosis",
+      "Foreign body giant cells": "Talc or suture material reactions",
+      "Touton giant cells": "Xanthoma (lipid content)",
+      "Aschoff giant cells": "Rheumatic nodules"
+    },
+    "explanation": "These are distinct morphological types of multinucleated giant cells seen in specific inflammatory conditions [14-16]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "During the cellular phase of inflammation, which adhesion molecule is primarily involved in the 'rolling' phase of neutrophils?",
+    "options": [
+      "ICAM-1",
+      "P-selectin",
+      "VCAM-1",
+      "PECAM-1"
+    ],
+    "answer": "P-selectin",
+    "explanation": "Selectins (like P-selectin and E-selectin) are involved in the rolling phase, whereas ICAM-1 and VCAM-1 facilitate firm adhesion [17-19]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "A 25-year-old female sustains a mild sunburn after a day at the beach. What is the mechanism of the delayed, prolonged vascular leakage she experiences?",
+    "options": [
+      "Endothelial cell contraction mediated by histamine",
+      "Direct endothelial cell injury causing necrosis",
+      "Structural re-organisation of cytoskeleton by cytokines (IL-1, TNF-α)",
+      "Leucocyte-mediated endothelial injury"
+    ],
+    "answer": "Structural re-organisation of cytoskeleton by cytokines (IL-1, TNF-α)",
+    "explanation": "Delayed prolonged leakage, such as in sunburns, occurs due to cytoskeletal retraction or mild damage mediated by IL-1 and TNF-α, appearing 4-6 hours after injury [20, 21]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which component of the Ghon’s complex represents the primary focus of infection in the lung?",
+    "options": [
+      "Hilar lymph node",
+      "Tracheo-bronchial lymph nodes",
+      "Ghon’s focus",
+      "Tuberculous lymphangitis"
+    ],
+    "answer": "Ghon’s focus",
+    "explanation": "Ghon’s complex consists of the primary lung focus (Ghon's focus), lymphatic vessels, and the hilar lymph nodes [22, 23]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "In leprosy, which feature is characteristic of the 'Lepromatous' (LL) polar form compared to the 'Tuberculoid' (TT) form?",
+    "options": [
+      "Hard tubercles erode the basal layer of the epidermis",
+      "Presence of a subepidermal uninvolved 'clear zone'",
+      "High resistance and a positive lepromin test",
+      "Paucibacillary status with few lepra bacilli"
+    ],
+    "answer": "Presence of a subepidermal uninvolved 'clear zone'",
+    "explanation": "Lepromatous leprosy (LL) is characterized by a 'clear zone' separating the dermal lepra cell infiltrate from the epidermis; this zone is absent in Tuberculoid leprosy (TT) [24-26]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "A surgeon performs a debridement on a large, jagged, and dirty wound. This wound will subsequently undergo which type of healing?",
+    "options": [
+      "Healing by first intention",
+      "Healing by second intention",
+      "Regeneration only",
+      "Resolution"
+    ],
+    "answer": "Healing by second intention",
+    "explanation": "Large, open, or infected wounds with extensive tissue loss heal by second intention, requiring exuberant granulation tissue to bridge the defect [27, 28]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "A clinician must not assume all granulomatous inflammation is due to Tuberculosis even in endemic areas.",
+    "reason": "Sarcoidosis, Leprosy, and foreign body reactions also produce granulomas but require different management.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "Cognitive bias (representativeness heuristic) can lead to diagnostic errors; a structured differential diagnosis including other granulomatous diseases is essential [29, 30]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which specific protein is measured as a useful 'acute phase reactant' to indicate inflammation in the body?",
+    "options": [
+      "C-reactive protein (CRP)",
+      "Alpha-1 antitrypsin",
+      "Haptoglobin",
+      "Ceruloplasmin"
+    ],
+    "answer": "C-reactive protein (CRP)",
+    "explanation": "CRP is an immune agent and opsonizing agent; its levels are a useful clinical indicator of systemic inflammation [31]."
+  }
+
+  ]
+
+}

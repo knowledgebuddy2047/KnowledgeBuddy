@@ -1,0 +1,464 @@
+{
+  "quiz":
+
+[
+  {
+    "type": "mcq_single",
+    "question": "What percentage of the human skeleton is composed of cortical (compact) bone?",
+    "options": ["20%", "50%", "80%", "95%"],
+    "answer": "80%",
+    "explanation": "Cortical or compact bone comprises 80% of the skeleton and provides structural rigidity, while trabecular bone makes up the remaining 20% [1]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following are the primary cell types found in bone tissue?",
+    "options": ["Osteoblasts", "Osteocytes", "Chondrocytes", "Osteoclasts"],
+    "answer": ["Osteoblasts", "Osteocytes", "Osteoclasts"],
+    "explanation": "Bone consists of three main cell types: osteoblasts (synthesis), osteocytes (incorporated in matrix), and osteoclasts (resorption). Chondrocytes are specific to cartilage [2-4]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Serum levels of bone-related alkaline phosphatase are used as a marker for osteoblastic activity.",
+    "reason": "Osteoblasts are multinucleated cells responsible for bone resorption.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Assertion is true, Reason is false",
+    "explanation": "Alkaline phosphatase is indeed a marker for osteoblastic activity [2]. However, the reason is false because osteoblasts are uninucleate and synthesize bone; it is the osteoclast that is multinucleate and responsible for resorption [2, 5]."
+  },
+  {
+    "type": "match_columns",
+    "question": "Match the following cartilage types with their typical anatomical locations:",
+    "left": ["Hyaline cartilage", "Fibrocartilage", "Elastic cartilage"],
+    "right": ["Intervertebral disc annulus", "Epiglottis", "Trachea and Bronchi"],
+    "answer": {
+      "Hyaline cartilage": "Trachea and Bronchi",
+      "Fibrocartilage": "Intervertebral disc annulus",
+      "Elastic cartilage": "Epiglottis"
+    },
+    "explanation": "Hyaline cartilage is found in the respiratory tract; fibrocartilage is found in the annulus fibrosus; and elastic cartilage is found in the epiglottis [3, 6]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Woven bone is considered an immature form of bone tissue. Up to what age is it typically seen in children?",
+    "options": ["Under 1 year", "Under 4 years", "Under 10 years", "Until puberty"],
+    "answer": "Under 4 years",
+    "explanation": "Woven bone is immature, rapidly deposited bone seen in fetal life and in children under 4 years of age [7]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which organism is implicated in the vast majority of cases of pyogenic osteomyelitis?",
+    "options": ["Escherichia coli", "Streptococcus pyogenes", "Staphylococcus aureus", "Pseudomonas aeruginosa"],
+    "answer": "Staphylococcus aureus",
+    "explanation": "Although various organisms can cause the infection, Staphylococcus aureus is implicated in the vast majority of osteomyelitis cases [8]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "A sequestrum is a piece of dead bone resulting from ischaemic necrosis.",
+    "reason": "An involucrum is an encasing sheath of new reactive bone formed beneath the periosteum.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason does not explain Assertion",
+    "explanation": "Both statements are correct definitions of pathologic features in osteomyelitis, but the formation of the involucrum does not explain why bone becomes a sequestrum [9, 10]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the commonest cause of dwarfism, characterized by selective interference with endochondral ossification?",
+    "options": ["Osteogenesis imperfecta", "Osteopetrosis", "Achondroplasia", "Cretinism"],
+    "answer": "Achondroplasia",
+    "explanation": "Achondroplasia is an autosomal dominant genetic abnormality and the commonest cause of dwarfism [11, 12]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following are extra-skeletal manifestations of osteogenesis imperfecta?",
+    "options": ["Blue sclerae", "Hearing loss", "Imperfect teeth", "Hyperthyroidism"],
+    "answer": ["Blue sclerae", "Hearing loss", "Imperfect teeth"],
+    "explanation": "Osteogenesis imperfecta involves various tissues containing type I collagen, leading to blue sclerae, hearing loss, and dental issues [12]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "In Osteopetrosis (marble bone disease), what is the primary cellular defect?",
+    "options": ["Osteoblast overactivity", "Osteoclast dysfunction", "Chondrocyte hyperplasia", "Matrix mineralization failure"],
+    "answer": "Osteoclast dysfunction",
+    "explanation": "Osteopetrosis is caused by a hereditary defect in osteoclast function, leading to a failure in bone resorption and a net overgrowth of dense bone [13]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Osteoporosis is difficult to distinguish radiologically from other osteopenias in its early stages.",
+    "reason": "Radiologic evidence of osteoporosis only becomes apparent after more than 30% of bone mass has been lost.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "The significant loss of bone mass required for X-ray detection makes early radiological diagnosis difficult [14]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which clinical feature distinguishes a 'Pituitary Dwarf' from a 'Cretin'?",
+    "options": ["Stature height", "Mental state", "Bone age", "Genetic inheritance"],
+    "answer": "Mental state",
+    "explanation": "A pituitary dwarf generally has a normal mental state for their age, whereas a cretin (hypothyroid dwarfism) typically presents with mental retardation [32, 161 (in context of endocrine notes cross-referenced)]."
+  },
+  {
+    "type": "match_columns",
+    "question": "Match the following metabolic bone disorders with their primary deficiency/cause:",
+    "left": ["Scurvy", "Osteomalacia", "Osteitis fibrosa cystica", "Skeletal fluorosis"],
+    "right": ["Vitamin D deficiency", "Hyperparathyroidism", "Vitamin C deficiency", "Excess sodium fluoride"],
+    "answer": {
+      "Scurvy": "Vitamin C deficiency",
+      "Osteomalacia": "Vitamin D deficiency",
+      "Osteitis fibrosa cystica": "Hyperparathyroidism",
+      "Skeletal fluorosis": "Excess sodium fluoride"
+    },
+    "explanation": "These conditions result from specific nutrient deficiencies, endocrine overactivity, or environmental toxicity [15-18]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which biochemical abnormality is the hallmark of Primary Hyperparathyroidism leading to osteitis fibrosa cystica?",
+    "options": ["Hypocalcaemia", "Hypercalcaemia", "Hypophosphataemia", "Hyperuricaemia"],
+    "answer": "Hypercalcaemia",
+    "explanation": "The chief biochemical abnormalities in excessive parathyroid hormone secretion are hypercalcaemia, hypophosphataemia, and hypercalciuria [19]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the characteristic histological 'mosaic pattern' or 'jigsaw puzzle' appearance of cement lines associated with?",
+    "options": ["Osteosarcoma", "Fibrous dysplasia", "Paget’s disease of bone", "Osteopetrosis"],
+    "answer": "Paget’s disease of bone",
+    "explanation": "In the mixed stage of Paget’s disease, the imbalance of bone formation and resorption results in a characteristic mosaic pattern of cement lines [20]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Secondary hyperparathyroidism in chronic renal failure is caused by hyperphosphataemia.",
+    "reason": "Hyperphosphataemia leads to hypocalcaemia, which stimulates parathormone secretion.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "Impaired renal excretion of phosphate causes retention, which triggers hypocalcaemia and subsequent PTH elaboration [21, 22]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following are recognized types of Fibrous Dysplasia?",
+    "options": ["Monostotic", "Polyostotic", "Albright syndrome", "Osteodeformans"],
+    "answer": ["Monostotic", "Polyostotic", "Albright syndrome"],
+    "explanation": "Three types of fibrous dysplasia are distinguished: monostotic (single bone), polyostotic (multiple bones), and Albright syndrome (polyostotic with endocrine dysfunction) [23]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which gene mutation is associated with the phenotype spectrum of Fibrous Dysplasia?",
+    "options": ["EXT1", "RB gene", "GNAS1", "RANK"],
+    "answer": "GNAS1",
+    "explanation": "Fibrous dysplasia is due to an activating mutation in the GNAS1 gene [23]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "A 12-year-old boy presents with pain and diffuse hard swelling around his right lower femur. X-ray shows an osteolytic mass in the metaphysis with a 'sunburst pattern'. What is the most likely diagnosis?",
+    "options": ["Ewing’s sarcoma", "Osteosarcoma", "Giant cell tumour", "Osteoid osteoma"],
+    "answer": "Osteosarcoma",
+    "explanation": "The age, location (metaphysis of the femur), and characteristic sunburst pattern on X-ray are classic features of osteosarcoma [24-26]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which benign tumor is characteristically associated with nocturnal pain that is often relieved by aspirin?",
+    "options": ["Osteoma", "Osteoid Osteoma", "Osteoblastoma", "Chondroblastoma"],
+    "answer": "Osteoid Osteoma",
+    "explanation": "Osteoid osteoma is typically small and located in the cortex of a long bone, associated with nocturnal pain possibly due to prostaglandin E2 elaboration [27]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "A Codman’s triangle is pathognomonic for Osteosarcoma.",
+    "reason": "It is formed at the angle between the elevated periosteum and the underlying bone surface.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Assertion is false, Reason is true",
+    "explanation": "While Codman's triangle is a characteristic sign of osteosarcoma [28, 29], it is not strictly pathognomonic as it can occur with other processes that lift the periosteum. The reason correctly describes how it is formed [28]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which tumor is characteristically located in the epiphysis and shows a 'soap bubble' appearance on X-ray?",
+    "options": ["Osteosarcoma", "Giant cell tumour (osteoclastoma)", "Ewing’s sarcoma", "Chondrosarcoma"],
+    "answer": "Giant cell tumour (osteoclastoma)",
+    "explanation": "Giant cell tumours typically arise in the epiphysis of long bones and produce a characteristic 'soap bubble' radiographic appearance [30]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Ewing’s sarcoma is a highly malignant small round cell tumour. What is its characteristic radiographic appearance?",
+    "options": ["Sunburst pattern", "Soap bubble appearance", "Onion-skin appearance", "Cotton-wool appearance"],
+    "answer": "Onion-skin appearance",
+    "explanation": "Ewing’s sarcoma often produces patchy subperiosteal reactive bone formation resulting in a characteristic 'onion-skin' appearance [31]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following tumors are part of the 'small round cell tumor' group?",
+    "options": ["Ewing’s sarcoma", "Neuroblastoma", "Osteosarcoma", "Embryonal rhabdomyosarcoma"],
+    "answer": ["Ewing’s sarcoma", "Neuroblastoma", "Embryonal rhabdomyosarcoma"],
+    "explanation": "Small round cell tumors include Ewing's, PNET, neuroblastoma, embryonal rhabdomyosarcoma, and lymphomas [32]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which tumor arises from remnants of the notochord and contains highly vacuolated 'physaliphorous' cells?",
+    "options": ["Osteosarcoma", "Chordoma", "Chondrosarcoma", "Adamantinoma"],
+    "answer": "Chordoma",
+    "explanation": "Chordomas arise from notochord remnants and are histologically composed of vacuolated physaliphorous cells [33, 34]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Metastases to the skeleton are more frequent than primary bone tumours.",
+    "reason": "Most skeletal metastases are derived from haematogenous spread.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "Skeletal metastases are very common and usually result from haematogenous spread from primary sites like the breast or prostate [35]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which form of arthritis is characterized by Heberden’s nodes at the base of the terminal phalanx?",
+    "options": ["Rheumatoid arthritis", "Gouty arthritis", "Osteoarthritis", "Suppurative arthritis"],
+    "answer": "Osteoarthritis",
+    "explanation": "Degenerative changes in the interphalangeal joints in osteoarthritis lead to hard bony enlargements called Heberden’s nodes [36]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following are common extra-articular manifestations of Rheumatoid Arthritis?",
+    "options": ["Rheumatoid nodules", "Heberden’s nodes", "Vasculitis", "Pannus formation"],
+    "answer": ["Rheumatoid nodules", "Vasculitis"],
+    "explanation": "Rheumatoid nodules and vasculitis are extra-articular. Heberden's nodes are characteristic of osteoarthritis, and pannus is an articular lesion [36-38]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Rheumatoid Factor (RF) is a specific diagnostic marker found only in Rheumatoid Arthritis.",
+    "reason": "RF is an autoantibody (usually IgM) against the Fc portion of autologous IgG.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Assertion is false, Reason is true",
+    "explanation": "The reason is a correct definition [37, 39], but the assertion is false because RF titers can be elevated in other unrelated diseases like viral hepatitis or leprosy [40]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "A 25-year-old female presents with tremors, nervousness, and prominent eyes (exophthalmos). Her thyroid gland is diffusely enlarged. What is the most likely diagnosis?",
+    "options": ["Hashimoto’s thyroiditis", "Graves' disease", "Pappilary carcinoma", "Toxic nodular goitre"],
+    "answer": "Graves' disease",
+    "explanation": "The combination of diffuse thyroid enlargement, tremors, and exophthalmos in a young female is highly suggestive of Graves' disease [41, 42]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which condition is characterized by a 'Pott’s disease' involving the vertebral bodies and potential psoas abscess formation?",
+    "options": ["Pyogenic osteomyelitis", "Tuberculous osteomyelitis", "Paget’s disease", "Osteosarcoma"],
+    "answer": "Tuberculous osteomyelitis",
+    "explanation": "Tuberculosis of the spine is known as Pott’s disease and may result in a psoas or 'cold' abscess [43, 44]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Gout is primarily a disorder of purine metabolism.",
+    "reason": "Hyperuricaemia is defined as a serum uric acid level in excess of 7 mg/dl.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason does not explain Assertion",
+    "explanation": "Both statements are true [45, 46], but the definition of hyperuricaemia does not explain why the disorder is one of purine metabolism."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which joint is most commonly affected during the initial attack of acute gouty arthritis?",
+    "options": ["Knee", "Wrist", "Great toe", "Elbow"],
+    "answer": "Great toe",
+    "explanation": "Acute gouty arthritis is predominantly a disease of lower extremities, most commonly affecting the great toe [47]."
+  },
+  {
+    "type": "match_columns",
+    "question": "Match the joint disease with its characteristic histologic or clinical finding:",
+    "left": ["Gout", "Pseudogout", "Osteoarthritis", "Rheumatoid Arthritis"],
+    "right": ["Pannus formation", "Calcium pyrophosphate crystals", "Monosodium urate crystals", "Eburnation of bone"],
+    "answer": {
+      "Gout": "Monosodium urate crystals",
+      "Pseudogout": "Calcium pyrophosphate crystals",
+      "Osteoarthritis": "Eburnation of bone",
+      "Rheumatoid Arthritis": "Pannus formation"
+    },
+    "explanation": "Gout involves urate crystals [45]; pseudogout involve calcium pyrophosphate [48]; OA features bone denudation/eburnation [49]; RA features pannus [37]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the primary immunological defect in Myasthenia Gravis?",
+    "options": ["Destruction of motor neurons", "Reduced number of available acetylcholine receptors (AChRs)", "Vitamin B12 deficiency", "Excessive acetylcholine production"],
+    "answer": "Reduced number of available acetylcholine receptors (AChRs)",
+    "explanation": "In Myasthenia Gravis, autoantibodies damage or block AChRs at the motor end-plates, leading to weakened muscle contraction [50, 51]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following are clinical features of Duchenne’s Muscular Dystrophy?",
+    "options": ["Symmetric weakness", "Pseudohypertrophy of calf muscles", "Onset by age 5", "Late onset in the 5th decade"],
+    "answer": ["Symmetric weakness", "Pseudohypertrophy of calf muscles", "Onset by age 5"],
+    "explanation": "Duchenne's is a childhood-onset dystrophy (by age 5) featuring symmetric weakness and calf pseudohypertrophy [52, 53]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Denervation atrophy is characterized by groups of small angulated muscle fibres.",
+    "reason": "Muscle atrophy does not occur in simple demyelination without conduction block.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Assertion is true, Reason is false",
+    "explanation": "The reason is false because in demyelination there *is* a conduction block, but it does not cause atrophy because there is no denervation [52, 54]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Critical Thinking: A 60-year-old male with a history of myocardial infarction and diabetes presents with pain in both legs and a darkening great toe. What is the most critical underlying process to investigate?",
+    "options": ["Gouty arthritis", "Ischaemic necrosis/gangrene", "Osteosarcoma", "Rheumatoid nodules"],
+    "answer": "Ischaemic necrosis/gangrene",
+    "explanation": "In a diabetic with hypertension and MI history, darkening of the toe suggests gangrene/ischaemia rather than a primary bone tumor or arthritis [42]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Reflective Analysis: Why might a 'Brown Tumour' of hyperparathyroidism be easily misdiagnosed as an osteoclastoma (Giant cell tumour)?",
+    "options": ["Identical radiological 'sunburst' pattern", "Both contain numerous multinucleate giant cells", "Both are primary malignant bone tumors", "Both occur exclusively in children"],
+    "answer": "Both contain numerous multinucleate giant cells",
+    "explanation": "Histologically, brown tumors contain multinucleate giant cells and haemosiderin, requiring differentiation from giant cell tumors [55]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Bias Recognition: A clinician assumes a 15-year-old with fever and a tender limb has osteomyelitis. However, X-ray shows an 'onion-skin' periosteal reaction. Which cognitive bias might lead to missing a malignant diagnosis?",
+    "options": ["Availability Bias", "Anchoring Bias", "Confirmation Bias", "Sutton's Law"],
+    "answer": "Anchoring Bias",
+    "explanation": "Anchoring on the initial signs of infection (fever/leucocytosis) might lead a clinician to ignore radiographic signs of Ewing's sarcoma, which often mimics osteomyelitis clinically [31]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "A pathology report describes 'Chinese letter shapes' of woven bone without osteoblastic rimming. This is the histological hallmark of:",
+    "options": ["Osteopetrosis", "Paget's disease", "Fibrous dysplasia", "Osteogenesis imperfecta"],
+    "answer": "Fibrous dysplasia",
+    "explanation": "Fibrous dysplasia features irregular trabeculae of woven bone in Chinese letter or fish-hook shapes with a characteristically absent osteoblastic rim [56]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the function of Type B synoviocytes in the synovial membrane?",
+    "options": ["Production of degradative enzymes", "Phagocytosis of debris", "Synthesis of hyaluronic acid", "Synthesis of Type II collagen"],
+    "answer": "Synthesis of hyaluronic acid",
+    "explanation": "Type A synoviocytes are related to macrophages and produce enzymes, while Type B synoviocytes synthesize hyaluronic acid [57]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "In the context of fracture healing, what is the term for the encasing sheath of new bone?",
+    "options": ["Sequestrum", "Involucrum", "Callus", "Nidus"],
+    "answer": "Involucrum",
+    "explanation": "In osteomyelitis, the involucrum is the sheath of new bone around the sequestrum [10]. In general fracture healing, the term for the new bridging tissue is callus [58]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which factors are known to contribute to primary Osteoarthritis?",
+    "options": ["Obesity", "Ageing", "Microbial trigger antigens", "Heredity"],
+    "answer": ["Obesity", "Ageing", "Heredity"],
+    "explanation": "Wear and tear, obesity, ageing, and heredity contribute to primary OA [59]. Microbial triggers are associated with Rheumatoid Arthritis [39]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Avascular necrosis (osteonecrosis) mainly involves the medulla of the long bone diaphysis.",
+    "reason": "The cortex is relatively unaffected due to its separate collateral circulation.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "The medulla is supplied by nutrient arteries that are vulnerable to obstruction, while the cortex has collateral flow that protects it [60]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which syndrome is characterized by the triad of polyostotic fibrous dysplasia, café-au-lait spots, and sexual precocity?",
+    "options": ["Gardner's syndrome", "Albright syndrome", "Felty’s syndrome", "Pott’s disease"],
+    "answer": "Albright syndrome",
+    "explanation": "Albright (or McCune-Albright) syndrome involves these three specific features and is more common in females [61]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which cell surface marker is consistently expressed by tumour cells of the Ewing’s sarcoma/PNET group?",
+    "options": ["HMB-45", "CD99", "S-100", "Vimentin"],
+    "answer": "CD99",
+    "explanation": "CD99, a product of the MIC-2 gene, is a consistently expressed marker for ES/PNET [62]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "A 'tousle' or 'jigsaw puzzle' appearance of cement lines is diagnostic of which stage of Paget's disease?",
+    "options": ["Osteolytic stage", "Mixed stage", "Osteosclerotic stage", "Quiescent stage"],
+    "answer": "Mixed stage",
+    "explanation": "The mosaic or jigsaw puzzle appearance develops during the mixed osteolytic-osteoblastic stage [20]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Joint cartilage consists of a high water content (80%).",
+    "reason": "This high water content is responsible for articular lubrication and function.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "The composition of the cartilage matrix allows it to perform its unique mechanical and lubricating roles in joints [63]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the most frequent site of skeletal metastases?",
+    "options": ["Skull", "Spine", "Femur", "Ribs"],
+    "answer": "Spine",
+    "explanation": "The most commonly involved bones in skeletal metastases are the spine, followed by the pelvis, femur, and skull [35]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "In Myasthenia Gravis, which organ often shows hyperplasia or a tumor (thymoma)?",
+    "options": ["Thyroid", "Thymus", "Adrenal cortex", "Pituitary"],
+    "answer": "Thymus",
+    "explanation": "The thymus appears to play a role in sensitizing B cells to produce anti-AChR antibodies in MG [51]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which tumor contains 'physaliphorous' cells and arises from the remnants of the primitive axial skeleton?",
+    "options": ["Osteosarcoma", "Chordoma", "Ewing's Sarcoma", "Chondrosarcoma"],
+    "answer": "Chordoma",
+    "explanation": "Chordomas arise from notochord remnants and feature these characteristic bubbly-appearing cells [33, 34]."
+  }
+]
+}

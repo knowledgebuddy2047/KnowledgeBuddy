@@ -1,0 +1,436 @@
+{
+  "quiz":
+
+[
+  {
+    "type": "mcq_single",
+    "question": "Which branch of science deals with the study of developmental anomalies during fetal life?",
+    "options": ["Cytogenetics", "Teratology", "Morphology", "Histogenesis"],
+    "answer": "Teratology",
+    "explanation": "Teratology is specifically defined as the study of developmental anomalies caused by errors in morphogenesis during fetal life. [1]"
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following are potential outcomes of exposure to a teratogen?",
+    "options": ["Intrauterine death", "Intrauterine growth retardation (IUGR)", "Functional defects", "Malignant transformation"],
+    "answer": ["Intrauterine death", "Intrauterine growth retardation (IUGR)", "Functional defects"],
+    "explanation": "According to the sources, teratogen exposure results in intrauterine death, IUGR, functional defects, or malformation. [1]"
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Higher doses of a teratogen increase the likelihood of inducing birth defects.",
+    "reason": "The severity of developmental defects is related to the individual susceptibility and the stage of intrauterine development.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason does not explain Assertion",
+    "explanation": "Both are true factors of teratogenesis, but the reason provided (timing/susceptibility) is an independent factor from the dose-response relationship mentioned in the assertion. [1]"
+  },
+  {
+    "type": "match_columns",
+    "question": "Match the developmental anomaly with its correct definition:",
+    "left": ["Agenesis", "Hypoplasia", "Atresia", "Ectopia"],
+    "right": ["Complete absence of an organ", "Incomplete development to normal size", "Incomplete formation of a lumen", "Abnormal location of tissue"],
+    "answer": {
+      "Agenesis": "Complete absence of an organ",
+      "Hypoplasia": "Incomplete development to normal size",
+      "Atresia": "Incomplete formation of a lumen",
+      "Ectopia": "Abnormal location of tissue"
+    },
+    "explanation": "These definitions are fundamental to classifying errors in morphogenesis. [2, 3]"
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which teratogenic drug used in the 1960s resulted in a high incidence of phocomelia (limb-reduction anomalies)?",
+    "options": ["Hydantoin", "Ethanol", "Thalidomide", "Rubella"],
+    "answer": "Thalidomide",
+    "explanation": "Thalidomide is the specific example cited for causing phocomelia in newborns when taken as a sedative by pregnant women. [4]"
+  },
+  {
+    "type": "mcq_single",
+    "question": "Hutchinson’s triad, consisting of interstitial keratitis, sensorineural deafness, and deformed teeth, is characteristic of which condition?",
+    "options": ["Fetal alcohol syndrome", "Congenital syphilis", "TORCH complex", "Down’s syndrome"],
+    "answer": "Congenital syphilis",
+    "explanation": "Congenital syphilis is characterized by vertical transmission resulting in Hutchinson's triad and saddle-nose deformity. [5]"
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "A minimum of 30% cells positive for sex chromatin (Barr body) indicates a genetic female composition.",
+    "reason": "In females, one X chromosome is inactivated during embryogenesis and remains condensed in the nucleus.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "The Lyon hypothesis explains that X-inactivation leads to the visible Barr body used for genetic female testing. [6]"
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following chromosomes are classified as Acrocentric?",
+    "options": ["Chromosome 1", "Chromosome 13", "Chromosome 21", "Y Chromosome"],
+    "answer": ["Chromosome 13", "Chromosome 21", "Y Chromosome"],
+    "explanation": "Acrocentric chromosomes (13, 14, 15, 21, 22, and Y) have very short arms and eccentrically located centromeres. [7]"
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the term for a chromosome number that is an exact multiple of the haploid number, such as 69 (3N)?",
+    "options": ["Aneuploidy", "Polyploidy", "Monosomy", "Trisomy"],
+    "answer": "Polyploidy",
+    "explanation": "Polyploidy refers to chromosome numbers that are multiples of the haploid set (3N, 4N). [8]"
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which mechanism is the most common cause of aneuploidy, involving the failure of chromosomes to separate during division?",
+    "options": ["Translocation", "Deletion", "Nondisjunction", "Anaphase lag"],
+    "answer": "Nondisjunction",
+    "explanation": "Nondisjunction is identified as the most common mechanism leading to hyperdiploid (trisomy) or hypodiploid (monosomy) states. [9]"
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which syndrome is the most common cause of mental retardation and is associated with increased maternal age over 35?",
+    "options": ["Klinefelter’s syndrome", "Turner’s syndrome", "Down’s syndrome", "Cri du chat syndrome"],
+    "answer": "Down’s syndrome",
+    "explanation": "Down’s syndrome (Trisomy 21) is the most common chromosomal disorder and leading cause of mental retardation. [10]"
+  },
+  {
+    "type": "match_columns",
+    "question": "Match the syndrome with its correct karyotype:",
+    "left": ["Down’s Syndrome", "Klinefelter’s Syndrome", "Turner’s Syndrome", "Cri du chat"],
+    "right": ["Trisomy 21", "47, XXY", "45, X0", "5p deletion"],
+    "answer": {
+      "Down’s Syndrome": "Trisomy 21",
+      "Klinefelter’s Syndrome": "47, XXY",
+      "Turner’s Syndrome": "45, X0",
+      "Cri du chat": "5p deletion"
+    },
+    "explanation": "These are the hallmark karyotypic findings for these specific genetic disorders. [10-12]"
+  },
+  {
+    "type": "mcq_single",
+    "question": "The Philadelphia chromosome, associated with chronic myeloid leukaemia, is an example of which type of structural abnormality?",
+    "options": ["Robertsonian translocation", "Balanced reciprocal translocation", "Inversion", "Isochromosome"],
+    "answer": "Balanced reciprocal translocation",
+    "explanation": "The Philadelphia chromosome results from a balanced reciprocal translocation t(9;22). [13]"
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Robertsonian translocations can result in phenotypically normal individuals.",
+    "reason": "Robertsonian translocation involves the fusion of two acrocentric chromosomes with the loss of their short arms.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "Because the lost short arms of acrocentric chromosomes carry redundant genetic information, the individual remains phenotypically normal despite having one less chromosome. [12]"
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which abnormality is formed by centromere division transverse to the long axis, resulting in only two long arms or two short arms?",
+    "options": ["Ring chromosome", "Inversion", "Isochromosome", "Deletion"],
+    "answer": "Isochromosome",
+    "explanation": "Isochromosomes are the specific result of transverse centromere division. [14]"
+  },
+  {
+    "type": "mcq_single",
+    "question": "Sickle cell anaemia is caused by which type of mutation involving a single base substitution?",
+    "options": ["Nonsense mutation", "Frameshift mutation", "Point mutation", "Trinucleotide repeat"],
+    "answer": "Point mutation",
+    "explanation": "Sickle cell anaemia is the classic example of a point mutation (valine replacing glutamic acid). [15]"
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following are examples of Autosomal Recessive Mendelian disorders?",
+    "options": ["Cystic fibrosis of pancreas", "Marfan’s syndrome", "Wilson’s disease", "Neurofibromatosis"],
+    "answer": ["Cystic fibrosis of pancreas", "Wilson’s disease"],
+    "explanation": "Cystic fibrosis and Wilson's disease are autosomal recessive; Marfan's and Neurofibromatosis are autosomal dominant. [16]"
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the statistical chance of passing an autosomal dominant disease to the next generation?",
+    "options": ["25%", "50%", "75%", "100%"],
+    "answer": "50%",
+    "explanation": "Autosomal dominant inheritance involves a 50% risk of transmission if one parent is affected. [17]"
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Storage diseases are also called 'lysosomal storage diseases'.",
+    "reason": "Lysosomes are the chief site of intracellular digestion where accumulated metabolites are normally degraded.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "The enzyme deficiency leads to accumulation within the lysosomes, which are the primary site for the metabolism of these substances. [18]"
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which Glycogen Storage Disease is the only example of a lysosomal storage disease among the glycogenoses?",
+    "options": ["Von Gierke’s (Type I)", "Pompe’s (Type II)", "McArdle’s (Type V)", "Hers’ (Type VI)"],
+    "answer": "Pompe’s (Type II)",
+    "explanation": "Pompe’s disease is specifically noted as the only lysosomal storage disease in the glycogen storage group. [19, 20]"
+  },
+  {
+    "type": "match_columns",
+    "question": "Match the storage disease with its deficient enzyme:",
+    "left": ["Von Gierke’s", "McArdle’s", "Gaucher’s", "Niemann-Pick"],
+    "right": ["Glucose-6-phosphatase", "Muscle phosphorylase", "Acid b-glucosidase", "Acid sphingomyelinase"],
+    "answer": {
+      "Von Gierke’s": "Glucose-6-phosphatase",
+      "McArdle’s": "Muscle phosphorylase",
+      "Gaucher’s": "Acid b-glucosidase",
+      "Niemann-Pick": "Acid sphingomyelinase"
+    },
+    "explanation": "These specific enzyme deficiencies define the biochemical basis of these storage disorders. [21-23]"
+  },
+  {
+    "type": "mcq_single",
+    "question": "Large macrophages with cytoplasm resembling 'crumpled tissue paper' are characteristic of which disease?",
+    "options": ["Niemann-Pick disease", "Von Gierke’s disease", "Gaucher’s disease", "Pompe’s disease"],
+    "answer": "Gaucher’s disease",
+    "explanation": "Gaucher cells are pathognomonically described as distended macrophages with crumpled tissue paper-like cytoplasm. [24]"
+  },
+  {
+    "type": "mcq_single",
+    "question": "A 'cherry-red spot' in the macula of the retina is a common finding in the infantile form of which disease?",
+    "options": ["Von Gierke’s disease", "Gaucher’s disease", "Niemann-Pick disease Type A", "McArdle’s disease"],
+    "answer": "Niemann-Pick disease Type A",
+    "explanation": "Type A Niemann-Pick often presents with amaurotic idiocy and a cherry-red spot in the macula. [23]"
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Neonatal mortality is 10-times higher in the first week after birth compared to the second week.",
+    "reason": "The neonatal period is a time of high risk due to the transition from dependent intrauterine life to independent postnatal life.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "The transition process and associated perinatal risks (asphyxia, trauma, prematurity) make the first week exceptionally hazardous. [25]"
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the most common benign tumor of infancy?",
+    "options": ["Lymphangioma", "Haemangioma", "Teratoma", "Fibromatosis"],
+    "answer": "Haemangioma",
+    "explanation": "Haemangiomas are stated to be the most common benign tumor in infancy. [26]"
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following are considered 'blastomas' (embryonal tumors) common in children under 4 years of age?",
+    "options": ["Neuroblastoma", "Nephroblastoma", "Osteogenic sarcoma", "Retinoblastoma"],
+    "answer": ["Neuroblastoma", "Nephroblastoma", "Retinoblastoma"],
+    "explanation": "Blastomas are the most common malignant tumors in children <4 years. Osteogenic sarcoma is more common in ages 10-14. [27, 28]"
+  },
+  {
+    "type": "mcq_single",
+    "question": "A 'Choristoma' is defined as:",
+    "options": ["A mass of tissue at its normal site but abnormally arranged", "A collection of normal cells/tissues at aberrant locations", "A malignant tumor that spontaneously regresses", "An incomplete development of an organ"],
+    "answer": "A collection of normal cells/tissues at aberrant locations",
+    "explanation": "Choristoma (or heterotopia) involves normal tissue at an abnormal site, unlike Hamartomas which are at the normal site. [29]"
+  },
+  {
+    "type": "mcq_single",
+    "question": "In the age group of 10-14 years, which type of tumor is more prominent?",
+    "options": ["Blastomas", "Haematopoietic malignancies", "Bony and soft tissue sarcomas", "Teratomas"],
+    "answer": "Bony and soft tissue sarcomas",
+    "explanation": "While blastomas dominate early childhood, prepubertal age (10-14) sees a rise in sarcomas. [27]"
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Malignant embryonal cells may spontaneously transform into benign differentiated cells.",
+    "reason": "Some neonatal neuroblastomas can mature and differentiate into benign ganglioneuromas.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "The potential for maturation is a unique feature of certain pediatric embryonal tumors. [30]"
+  },
+  {
+    "type": "mcq_single",
+    "question": "Critical Thinking: A clinician observes a white white patch in the oral cavity. Why is 'Leukoplakia' considered a pitfall in clinical reasoning if used as a definitive diagnosis?",
+    "options": ["It is a clinical term, not a pathologic diagnosis", "It only refers to benign lesions", "It always indicates cancer", "It is only found in adults"],
+    "answer": "It is a clinical term, not a pathologic diagnosis",
+    "explanation": "Drawing from the sources' discussion on 'leukoplakia' in other chapters (implied) and the general need for biopsy, using a descriptive term like leukoplakia (clinical) instead of a histologic diagnosis can lead to diagnostic errors. [Critically applying Source 8 principles]"
+  },
+  {
+    "type": "mcq_single",
+    "question": "Case Study: A 5-year-old child presents with a large abdominal mass. Imaging shows a tumor arising from the kidney. What is the most likely diagnosis?",
+    "options": ["Neuroblastoma", "Hepatoblastoma", "Wilms’ tumour (Nephroblastoma)", "Ewing’s sarcoma"],
+    "answer": "Wilms’ tumour (Nephroblastoma)",
+    "explanation": "Nephroblastoma (Wilms' tumor) is a classic embryonal tumor of the kidney in this age group. [28]"
+  },
+  {
+    "type": "mcq_single",
+    "question": "Decision Under Pressure: A newborn presents with ambiguous genitalia. Which test should be prioritized to identify the genetic sex most quickly?",
+    "options": ["Full Karyotyping", "Nuclear sexing for Barr bodies", "DNA Sequencing", "Physical Examination"],
+    "answer": "Nuclear sexing for Barr bodies",
+    "explanation": "Nuclear sexing using squamous cells or neutrophils is an immediate method to identify genetic female composition. [6]"
+  },
+  {
+    "type": "mcq_single",
+    "question": "USMLE Pattern: A 42-year-old female presents for a routine check-up. She is phenotypically normal but has a history of multiple miscarriages. Karyotype shows t(14;21). This is an example of:",
+    "options": ["Reciprocal translocation", "Robertsonian translocation", "Isochromosome", "Ring chromosome"],
+    "answer": "Robertsonian translocation",
+    "explanation": "A translocation between two acrocentric chromosomes (14 and 21) is a classic Robertsonian translocation, often associated with infertility or malformed children. [12]"
+  },
+  {
+    "type": "mcq_single",
+    "question": "PLAB Pattern: A infant with hepatosplenomegaly and stunted growth shows massive accumulation of normal glycogen in the liver. Which enzyme is most likely deficient?",
+    "options": ["Glucose-6-phosphatase", "Acid maltase", "Muscle phosphorylase", "Sphingomyelinase"],
+    "answer": "Glucose-6-phosphatase",
+    "explanation": "Enormous hepatomegaly with normal glycogen accumulation in the liver defines Von Gierke's (Type I) disease. [31]"
+  },
+  {
+    "type": "mcq_single",
+    "question": "Bias Recognition: A doctor diagnoses every child with a skin lesion as having 'Haemangioma' because it is the most common. Which bias is being demonstrated?",
+    "options": ["Confirmation Bias", "Availability Bias", "Search Satisfaction", "Anchoring Bias"],
+    "answer": "Availability Bias",
+    "explanation": "Availability bias is the tendency to overestimate the likelihood of events that are most easily recalled or common in experience. [Applying clinical reasoning principles]"
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following are features of Fetal Alcohol Syndrome?",
+    "options": ["Growth retardation", "Mental retardation", "Hutchinson’s triad", "Congenital heart defects"],
+    "answer": ["Growth retardation", "Mental retardation"],
+    "explanation": "Ethanol is a teratogen causing growth and mental retardation. Hutchinson's triad is syphilis. Heart defects are linked to hydantoin. [5, 32]"
+  },
+  {
+    "type": "mcq_single",
+    "question": "University Level: A patient with Klinefelter’s syndrome (47, XXY) would show how many Barr bodies in their somatic cells?",
+    "options": ["Zero", "One", "Two", "Three"],
+    "answer": "One",
+    "explanation": "The number of Barr bodies is equal to the total number of X chromosomes minus one. (2X - 1 = 1). [6]"
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the clinical significance of a 'Balanced' structural alteration of chromosomes?",
+    "options": ["It results in loss of genetic material", "The individual is usually phenotypically normal", "It always causes cancer", "It is only found in germ cells"],
+    "answer": "The individual is usually phenotypically normal",
+    "explanation": "Balanced alterations involve no change in the total amount of genetic material, so the phenotype is typically unaffected. [11]"
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which specific condition results from a deletion of the short arm of chromosome 5?",
+    "options": ["Wilms’ tumour", "Cri du chat syndrome", "Retinoblastoma", "Down’s syndrome"],
+    "answer": "Cri du chat syndrome",
+    "explanation": "Cri du chat is specifically caused by deletion of the short arm of chromosome 5 (5p-). [12]"
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Storage diseases affecting the reticuloendothelial system often present with splenomegaly.",
+    "reason": "Reticuloendothelial organs like the liver and spleen contain numerous phagocytic cells rich in lysosomes.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "Since the metabolites are stored in lysosomes of phagocytic cells, the organs dense with these cells (liver/spleen) become enlarged. [18]"
+  },
+  {
+    "type": "mcq_single",
+    "question": "A mutation that substitutes a single nucleotide, resulting in the premature termination of a protein chain, is called a:",
+    "options": ["Point mutation", "Nonsense mutation", "Frameshift mutation", "Polymorphism"],
+    "answer": "Nonsense mutation",
+    "explanation": "Nonsense (stop codon) mutations cause premature termination of the protein chain. [15]"
+  },
+  {
+    "type": "match_columns",
+    "question": "Match the paediatric age stage with its correct duration:",
+    "left": ["Neonatal Period", "Infancy", "Early Childhood", "Late Childhood"],
+    "right": ["Birth to 4 weeks", "First year of life", "1-4 years", "5-14 years"],
+    "answer": {
+      "Neonatal Period": "Birth to 4 weeks",
+      "Infancy": "First year of life",
+      "Early Childhood": "1-4 years",
+      "Late Childhood": "5-14 years"
+    },
+    "explanation": "These are the standard developmental subdivisions for pediatric diseases. [33]"
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following are characteristics of paediatric malignant tumours compared to adults?",
+    "options": ["Tendency to mature or regress", "Primitive/embryonal appearance", "Predominantly affect lungs and colon", "Underlying genetic abnormalities"],
+    "answer": ["Tendency to mature or regress", "Primitive/embryonal appearance", "Underlying genetic abnormalities"],
+    "explanation": "Adult cancers affect lung/colon/breast; pediatric cancers involve hematopoietic/neural tissue and show embryonal histology and genetic links. [29, 34]"
+  },
+  {
+    "type": "mcq_single",
+    "question": "Problem Solving: A child with a known storage disease presents with painful muscle cramps after exercise and myoglobinuria. Which type of glycogenosis is most likely?",
+    "options": ["Von Gierke’s (Type I)", "Pompe’s (Type II)", "McArdle’s (Type V)", "Hers’ (Type VI)"],
+    "answer": "McArdle’s (Type V)",
+    "explanation": "Muscle phosphorylase deficiency (McArdle's) leads to glycogen accumulation in muscles, causing exercise-induced cramps. [35]"
+  },
+  {
+    "type": "mcq_single",
+    "question": "Critical Thinking Focus: In 'Amniotic Band Syndrome', fetal limbs are entangled in fibrous bands of amniotic origin. This is an example of which pathogenesis?",
+    "options": ["Malformation", "Disruption", "Deformation", "Agenesis"],
+    "answer": "Disruption",
+    "explanation": "Disruption results from external interference with a normally developing process (like amniotic bands), whereas malformations are intrinsic errors. [Contextual application of Pathogenesis]"
+  },
+  {
+    "type": "mcq_single",
+    "question": "In Turner’s syndrome, what percentage of cases are caused by an isochromosome of the X-chromosome?",
+    "options": ["5%", "15%", "50%", "80%"],
+    "answer": "15%",
+    "explanation": "While most Turner's cases are 45,X0, about 15% involve an isochromosome. [14]"
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which condition is an example of an X-linked recessive inheritance?",
+    "options": ["Haemophilia A", "Hypophosphataemic rickets", "Marfan’s syndrome", "Adult polycystic kidney"],
+    "answer": "Haemophilia A",
+    "explanation": "Haemophilia A is a classic X-linked recessive disorder; the others are sex-linked dominant or autosomal dominant. [36]"
+  },
+  {
+    "type": "mcq_single",
+    "question": "Reflective Question: Why might an 'Inversion' be considered less clinically significant than a 'Deletion'?",
+    "options": ["Inversions involve no loss of genetic material", "Inversions only happen in somatic cells", "Deletions are always balanced", "Inversions only involve one chromosome"],
+    "answer": "Inversions involve no loss of genetic material",
+    "explanation": "Because inversions are just rearrangements of a single chromosome without loss or gain, they are often not associated with abnormalities. [37]"
+  },
+  {
+    "type": "mcq_single",
+    "question": "Case Study: A 2-year-old child presents with 'port-wine stains' on the skin. What is the most likely benign tumor?",
+    "options": ["Lymphangioma", "Haemangioma", "Sacrococcygeal teratoma", "Naevus"],
+    "answer": "Haemangioma",
+    "explanation": "Port-wine stains are a common skin presentation of haemangiomas in infancy. [26]"
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Storage diseases are biochemically distinct groups of disorders.",
+    "reason": "They occur due to genetic defects in the metabolism of carbohydrates, lipids, or proteins.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "The biochemical distinction arises from the specific genetic mutation affecting a particular metabolic pathway. [18]"
+  }
+]
+}

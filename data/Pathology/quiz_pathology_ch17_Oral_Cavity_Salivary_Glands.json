@@ -1,0 +1,775 @@
+{
+  "quiz":
+
+[
+  {
+    "type": "mcq_single",
+    "question": "Which developmental anomaly is characterized by light yellow macular spots representing collections of sebaceous glands on the lips and buccal mucosa?",
+    "options": [
+      "Leukoedema",
+      "Fordyce’s granules",
+      "Macroglossia",
+      "Fissured tongue"
+    ],
+    "answer": "Fordyce’s granules",
+    "explanation": "Fordyce’s granules represent symmetric collections of sebaceous glands that remain undeveloped until puberty but are common in adults [1]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "A patient presents with a 'scrotal tongue' featuring numerous small grooves on the dorsum. This genetically-determined condition is known as:",
+    "options": [
+      "Bifid tongue",
+      "Hairy tongue",
+      "Fissured tongue",
+      "Tongue tie"
+    ],
+    "answer": "Fissured tongue",
+    "explanation": "Fissured tongue, also called scrotal or grooved tongue, is characterized by small furrows on the dorsum and is genetically determined [2]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following skin diseases commonly present with oral manifestations similar in morphology to their cutaneous lesions?",
+    "options": [
+      "Lichen planus",
+      "Pemphigus vulgaris",
+      "Epidermolysis bullosa",
+      "Fordyce’s granules"
+    ],
+    "answer": [
+      "Lichen planus",
+      "Pemphigus vulgaris",
+      "Epidermolysis bullosa"
+    ],
+    "explanation": "Oral lesions occur in many skin diseases; Pemphigus vulgaris shows oral lesions in almost all cases, and Lichen planus appears as a network of whitening on the buccal mucosa [3, 4]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Stevens-Johnson syndrome is considered a severe and potentially fatal condition.",
+    "reason": "It involves a severe form of erythema multiforme of the oral and other mucous membranes following sulfa drug ingestion.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "Stevens-Johnson syndrome is a severe form of erythema multiforme that can be fatal and is often triggered by medications like sulfa drugs [4]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the commonest form of oral ulceration, often precipitated by stress or nutritional deficiencies?",
+    "options": [
+      "Herpetic stomatitis",
+      "Aphthous ulcers",
+      "Necrotising stomatitis",
+      "Chancre"
+    ],
+    "answer": "Aphthous ulcers",
+    "explanation": "Aphthous ulcers, or canker sores, are the most common oral ulcerations and can be precipitated by emotional stress and hormonal imbalance [5]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Necrotising stomatitis (Noma) is most commonly observed in children with which underlying condition?",
+    "options": [
+      "Diabetes mellitus",
+      "Kwashiorkor",
+      "Pellagra",
+      "Aglossia"
+    ],
+    "answer": "Kwashiorkor",
+    "explanation": "Noma (Cancrum oris) occurs in poorly-nourished children, such as those with kwashiorkor or immunodeficiencies [6]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which fungal infection appears as an opportunistic 'oral thrush' in immunocompromised hosts?",
+    "options": [
+      "Actinomycosis",
+      "Histoplasmosis",
+      "Candidiasis",
+      "Cryptococcosis"
+    ],
+    "answer": "Candidiasis",
+    "explanation": "Candidiasis (thrush) is caused by C. albicans and presents as opportunistic erythematous lesions or white patches in immunocompromised patients [7, 8]."
+  },
+  {
+    "type": "match_columns",
+    "question": "Match the systemic disease with its characteristic oral pigmentary/manifestation:",
+    "left": [
+      "Addison’s disease",
+      "Plummer-Vinson syndrome",
+      "Congenital syphilis",
+      "Pellagra"
+    ],
+    "right": [
+      "Melanotic pigmentation",
+      "Atrophy of upper alimentary tract",
+      "Hutchinson’s incisors",
+      "Raw red tongue (Glossitis)"
+    ],
+    "answer": {
+      "Addison’s disease": "Melanotic pigmentation",
+      "Plummer-Vinson syndrome": "Atrophy of upper alimentary tract",
+      "Congenital syphilis": "Hutchinson’s incisors",
+      "Pellagra": "Raw red tongue (Glossitis)"
+    },
+    "explanation": "Addison’s causes melanotic pigmentation [9]; Plummer-Vinson causes atrophy [10]; Congenital syphilis causes peg-shaped incisors [11]; Pellagra causes chronic glossitis [7]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which tumor-like lesion of the oral cavity is a cystic dilatation of mucous glands often caused by extravasation of mucus?",
+    "options": [
+      "Ranula",
+      "Mucocele",
+      "Pyogenic granuloma",
+      "Fibrous epulis"
+    ],
+    "answer": "Mucocele",
+    "explanation": "A mucocele (mucous retention cyst) is a cystic dilatation of mucous glands caused by ductal obstruction or extravasation [12]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the term for a large mucocele specifically located on the floor of the mouth?",
+    "options": [
+      "Dermoid cyst",
+      "Ranula",
+      "Cystic hygroma",
+      "Epulis"
+    ],
+    "answer": "Ranula",
+    "explanation": "A ranula is a large mucocele on the floor of the mouth lined by true epithelium [12]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following are classified as benign tumors of the oral soft tissues?",
+    "options": [
+      "Squamous papilloma",
+      "Haemangioma",
+      "Pleomorphic adenoma",
+      "Fibroepithelial polyps"
+    ],
+    "answer": [
+      "Squamous papilloma",
+      "Haemangioma",
+      "Pleomorphic adenoma"
+    ],
+    "explanation": "Papillomas, haemangiomas, and pleomorphic adenomas are benign tumors, while fibroepithelial polyps are considered tumor-like proliferative lesions [8, 13, 14]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Granular cell tumor (myoblastoma) of the tongue occurs almost exclusively in which demographic?",
+    "options": [
+      "Adolescent males",
+      "Infant males",
+      "Females",
+      "Elderly patients"
+    ],
+    "answer": "Females",
+    "explanation": "Granular cell tumor is mesenchymal in origin and occurs exclusively in females [14]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Oral leukoplakia is clinically defined as a white patch exceeding which diameter that cannot be rubbed off?",
+    "options": [
+      "1 mm",
+      "5 mm",
+      "10 mm",
+      "2 mm"
+    ],
+    "answer": "5 mm",
+    "explanation": "Leukoplakia is defined as a white patch or plaque exceeding 5 mm in diameter that cannot be rubbed off or otherwise classified [15]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "It is desirable that all oral white patches be biopsied.",
+    "reason": "Carcinomatous change is reported in 4-6% of cases of leukoplakia, and speckled forms are more likely to progress to malignancy.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "Biopsy is necessary because leukoplakia is a premalignant lesion with a significant risk of transformation to squamous cell carcinoma [16]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which form of leukoplakia involves epithelial atypia throughout the entire thickness of the epithelium?",
+    "options": [
+      "Hyperkeratotic leukoplakia",
+      "Dysplastic leukoplakia",
+      "Carcinoma in situ",
+      "Hairy leukoplakia"
+    ],
+    "answer": "Carcinoma in situ",
+    "explanation": "If epithelial dysplasia involves the entire thickness of the epithelium, it is called carcinoma in situ, which may progress to invasive carcinoma [17]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the most common malignant tumor of the oral cavity, comprising 90% of cases?",
+    "options": [
+      "Malignant melanoma",
+      "Squamous cell carcinoma",
+      "Kaposi’s sarcoma",
+      "Mucoepidermoid carcinoma"
+    ],
+    "answer": "Squamous cell carcinoma",
+    "explanation": "Squamous cell (epidermoid) carcinoma is the most common oral malignancy and represents 5% of all human malignancies [18]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "In the oral cavity, which sites are most frequently involved in squamous cell carcinoma (in descending order)?",
+    "options": [
+      "Lower lip",
+      "Tongue",
+      "Anterior floor of mouth",
+      "Hard palate"
+    ],
+    "answer": [
+      "Lower lip",
+      "Tongue",
+      "Anterior floor of mouth"
+    ],
+    "explanation": "The descending order of frequency for oral cancer is the lower lip, tongue, anterior floor of mouth, buccal mucosa, and palate [19, 20]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which specific virus type is strongly associated with the etiology of oral squamous cell carcinoma?",
+    "options": [
+      "HPV 6",
+      "HPV 16",
+      "Herpes Simplex Type 1",
+      "HIV"
+    ],
+    "answer": "HPV 16",
+    "explanation": "HPV infection, particularly types 16, 18, and 33, has a strong association with oral squamous cell carcinoma [10]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which morphological type of oral squamous cell carcinoma is the most frequent and characterized by rolled edges?",
+    "options": [
+      "Papillary type",
+      "Verrucous type",
+      "Ulcerative type",
+      "Scirrhous type"
+    ],
+    "answer": "Ulcerative type",
+    "explanation": "The ulcerative type is the most frequent and features an indurated ulcer with firm everted or rolled edges [21]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Verrucous carcinoma is known for having a very good prognosis because it is composed of:",
+    "options": [
+      "Highly undifferentiated cells",
+      "Very well-differentiated squamous epithelium with minimal atypia",
+      "Infiltrating basal cells",
+      "Neuroendocrine cells"
+    ],
+    "answer": "Very well-differentiated squamous epithelium with minimal atypia",
+    "explanation": "Verrucous carcinoma is a papillary/wart-like soft growth that is well-differentiated and rarely metastasizes [22]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Teeth are composed of three calcified tissues. Which of the following is NOT one of them?",
+    "options": [
+      "Enamel",
+      "Dentin",
+      "Cementum",
+      "Pulp"
+    ],
+    "answer": "Pulp",
+    "explanation": "Teeth are composed of enamel, dentin, and cementum; the pulp is a non-calcified connective tissue [23]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the primary role of ameloblasts during tooth development?",
+    "options": [
+      "Secretions of dentin",
+      "Secretion of enamel matrix",
+      "Formation of dental pulp",
+      "Attachment of periodontal ligament"
+    ],
+    "answer": "Secretion of enamel matrix",
+    "explanation": "Ameloblasts are ectoderm-derived cells that secrete the enamel matrix [24]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "The consumption of water containing fluoride at what concentration is sufficient to reduce tooth decay in children?",
+    "options": [
+      "0.1 ppm",
+      "1 ppm",
+      "5 ppm",
+      "10 ppm"
+    ],
+    "answer": "1 ppm",
+    "explanation": "Fluoride at 1 part per million (ppm) in water is sufficient to reduce the rate of tooth decay [25]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Secondary dentin is a defensive reaction of the tooth to the carious process, characterized by:",
+    "options": [
+      "Loss of pulp",
+      "Hyperplasia of enamel",
+      "A layer of odontoblasts laid down under original dentin",
+      "Calculus formation"
+    ],
+    "answer": "A layer of odontoblasts laid down under original dentin",
+    "explanation": "Secondary dentin is a layer of odontoblasts laid down under the original dentin in response to caries [26]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the most common inflammatory cyst of the jaw, originating from the epithelial cells of Malassez?",
+    "options": [
+      "Dentigerous cyst",
+      "Radicular cyst",
+      "Primordial cyst",
+      "Gingival cyst"
+    ],
+    "answer": "Radicular cyst",
+    "explanation": "Radicular (apical/dental) cyst is the most common and arises from Malassez epithelial rests within an apical granuloma [27, 28]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which developmental cyst arises from the enamel of an unerupted tooth, most often involving the mandibular third molar?",
+    "options": [
+      "Radicular cyst",
+      "Nasolabial cyst",
+      "Dentigerous cyst",
+      "Dermoid cyst"
+    ],
+    "answer": "Dentigerous cyst",
+    "explanation": "Dentigerous (follicular) cysts arise from the enamel of unerupted teeth and are significant for potential ameloblastoma development [29]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "The 'Odontogenic Keratocyst' is another name for which type of cyst known for a high recurrence rate?",
+    "options": [
+      "Eruption cyst",
+      "Primordial cyst",
+      "Nasopalatine duct cyst",
+      "Gingival cyst"
+    ],
+    "answer": "Primordial cyst",
+    "explanation": "Primordial cyst (odontogenic keratocyst) arises from tooth-forming epithelium and has a 50% recurrence rate [30]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the most common benign but locally invasive epithelial odontogenic tumor of the jaw?",
+    "options": [
+      "Odontoma",
+      "Cementoma",
+      "Ameloblastoma",
+      "Myxoma"
+    ],
+    "answer": "Ameloblastoma",
+    "explanation": "Ameloblastoma is the most common benign but locally invasive odontogenic tumor, typically presenting in the 3rd to 5th decades [31]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which histological patterns can be observed in an ameloblastoma?",
+    "options": [
+      "Follicular pattern",
+      "Plexiform pattern",
+      "Acanthomatous pattern",
+      "Cribriform pattern"
+    ],
+    "answer": [
+      "Follicular pattern",
+      "Plexiform pattern",
+      "Acanthomatous pattern"
+    ],
+    "explanation": "Ameloblastoma patterns include follicular (most common), plexiform, acanthomatous, and basal cell patterns [32, 33]."
+  },
+  {
+    "type": "match_columns",
+    "question": "Match the odontogenic lesion with its histological description:",
+    "left": [
+      "Ameloblastoma",
+      "Adenomatoid tumor",
+      "Odontogenic Myxoma",
+      "Complex Odontoma"
+    ],
+    "right": [
+      "Central area of stellate cells",
+      "Tubule-like structures (gland-like)",
+      "Abundant mucoid stroma",
+      "Undifferentiated enamel, dentin, and cementum"
+    ],
+    "answer": {
+      "Ameloblastoma": "Central area of stellate cells",
+      "Adenomatoid tumor": "Tubule-like structures (gland-like)",
+      "Odontogenic Myxoma": "Abundant mucoid stroma",
+      "Complex Odontoma": "Undifferentiated enamel, dentin, and cementum"
+    },
+    "explanation": "Ameloblastoma has stellate reticulum-like cells [32]; Adenomatoid has gland-like tubules [34]; Myxoma has mucoid stroma [35]; Complex odontoma has mixed calcified tissues [36]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which of the major salivary glands is purely serous in its secretory product?",
+    "options": [
+      "Submandibular gland",
+      "Sublingual gland",
+      "Parotid gland",
+      "Minor salivary glands"
+    ],
+    "answer": "Parotid gland",
+    "explanation": "The parotid gland is purely serous, unlike the mixed submandibular and predominantly mucous sublingual glands [37]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Mumps (Epidemic parotitis) is characterized by a triad of pathological involvement. Which of the following are part of that triad?",
+    "options": [
+      "Parotitis",
+      "Orchitis",
+      "Pancreatitis",
+      "Glomerulonephritis"
+    ],
+    "answer": [
+      "Parotitis",
+      "Orchitis",
+      "Pancreatitis"
+    ],
+    "explanation": "Mumps involves a triad of epidemic parotitis, orchitis (or oophoritis), and pancreatitis [38, 39]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which autoimmune syndrome is characterized by the triad of dry eyes (keratoconjunctivitis sicca), dry mouth (xerostomia), and rheumatoid arthritis?",
+    "options": [
+      "Mikulicz’s syndrome",
+      "Sjögren’s syndrome",
+      "Behcet’s syndrome",
+      "Sturge-Weber syndrome"
+    ],
+    "answer": "Sjögren’s syndrome",
+    "explanation": "Sjögren’s syndrome triad consists of dry eyes, dry mouth, and rheumatoid arthritis [38, 40]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the most common benign tumor of the salivary glands, often appearing in the parotid gland?",
+    "options": [
+      "Warthin’s tumor",
+      "Pleomorphic adenoma",
+      "Oncocytoma",
+      "Mucoepidermoid carcinoma"
+    ],
+    "answer": "Pleomorphic adenoma",
+    "explanation": "Pleomorphic adenoma (mixed salivary tumor) is the most common salivary gland tumor (60-75% of parotid tumors) [39, 41]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Pleomorphic adenoma is notorious for recurrences after surgical removal.",
+    "reason": "Tendency to recur is due to incomplete removal near the facial nerve, pseudoencapsulation, and implantation of tumor foci.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "Recurrence is a major issue in pleomorphic adenoma due to its growth characteristics and surgical complexity [42]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which salivary gland tumor is almost exclusively found in the parotid gland and contains a lymphoid stroma with germinal centers?",
+    "options": [
+      "Pleomorphic adenoma",
+      "Warthin’s tumor",
+      "Acinic cell carcinoma",
+      "Basal cell adenoma"
+    ],
+    "answer": "Warthin’s tumor",
+    "explanation": "Warthin’s tumor (adenolymphoma) contains epithelial parenchyma and a prominent lymphoid stroma [43, 44]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the most common malignant salivary gland tumor in both children and adults?",
+    "options": [
+      "Adenoid cystic carcinoma",
+      "Mucoepidermoid carcinoma",
+      "Acinic cell carcinoma",
+      "Adenocarcinoma"
+    ],
+    "answer": "Mucoepidermoid carcinoma",
+    "explanation": "Mucoepidermoid carcinoma is the most common malignant salivary tumor in major and minor glands and is frequently radiation-induced [45]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which highly malignant salivary gland tumor is characterized by a cribriform (cylindromatous) pattern and infiltration along nerve sheaths?",
+    "options": [
+      "Mucoepidermoid carcinoma",
+      "Adenoid cystic carcinoma",
+      "Mixed tumor",
+      "Oncocytoma"
+    ],
+    "answer": "Adenoid cystic carcinoma",
+    "explanation": "Adenoid cystic carcinoma (cylindroma) features fenestrated cell nests and nerve sheath invasion [46]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "The term 'Malignant mixed tumor' most commonly refers to which pathologic entity?",
+    "options": [
+      "Carcinosarcoma",
+      "Carcinoma ex pleomorphic adenoma",
+      "Mucoepidermoid carcinoma",
+      "Metastasising mixed tumor"
+    ],
+    "answer": "Carcinoma ex pleomorphic adenoma",
+    "explanation": "Carcinoma ex pleomorphic adenoma is the most common form of malignant mixed tumor (3-5%) [47]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "A patient with a history of Chinese descent and a neck mass should be screened for which malignancy linked to EBV?",
+    "options": [
+      "Oral squamous cell carcinoma",
+      "Nasopharyngeal carcinoma",
+      "Warthin's tumor",
+      "Ameloblastoma"
+    ],
+    "answer": "Nasopharyngeal carcinoma",
+    "explanation": "Nasopharyngeal carcinoma is a frequent malignancy in Eastern countries and is associated with EBV, though the source focuses on oral SCC prevalence in India [18, 48, 49]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Critical Thinking: A clinician observes a white patch on the tongue of a smoker. Why is 'hairy leukoplakia' distinct from standard leukoplakia?",
+    "options": [
+      "It is more likely to become malignant",
+      "It is a benign condition related to AIDS and EBV, not associated with oral cancer",
+      "It only occurs on the lower lip",
+      "It can be rubbed off easily"
+    ],
+    "answer": "It is a benign condition related to AIDS and EBV, not associated with oral cancer",
+    "explanation": "Hairy leukoplakia occurs in AIDS patients and, unlike standard leukoplakia, is not a premalignant lesion [50]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Critical Thinking: Which histological finding in leukoplakia is the most definitive predictor of progression to invasive carcinoma?",
+    "options": [
+      "Hyperkeratosis",
+      "Intracellular oedema",
+      "Epithelial dysplasia",
+      "Sebaceous gland hyperplasia"
+    ],
+    "answer": "Epithelial dysplasia",
+    "explanation": "While hyperkeratosis is benign, the degree of epithelial dysplasia (atypia) indicates the risk of progression to carcinoma [17]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Critical Thinking: Why does carcinoma of the lip generally have a more favorable prognosis than intraoral squamous carcinoma?",
+    "options": [
+      "Lip cancer is always less aggressive",
+      "Lip location is visible/accessible and has less frequent early metastasis",
+      "Intraoral cancer is usually basal cell",
+      "Lip cancer doesn't involve tobacco use"
+    ],
+    "answer": "Lip location is visible/accessible and has less frequent early metastasis",
+    "explanation": "Visibility leads to earlier detection, and the lower lip has a lower rate of regional lymph node metastasis compared to the tongue [22]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Problem Solving: A 10-year-old child presents with 'peg-shaped notched incisors.' This clinical finding is diagnostic for:",
+    "options": [
+      "Severe fluorosis",
+      "Dental caries",
+      "Congenital syphilis",
+      "Secondary syphilis"
+    ],
+    "answer": "Congenital syphilis",
+    "explanation": "Hutchinson’s incisors are a characteristic dental manifestation of congenital syphilis [11]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Case Study: A 50-year-old male tobacco chewer presents with a non-healing ulcer with firm everted edges and cervical lymphadenopathy. What is the most probable diagnosis?",
+    "options": [
+      "Aphthous ulcer",
+      "Leukoplakia",
+      "Squamous cell carcinoma",
+      "Pyogenic granuloma"
+    ],
+    "answer": "Squamous cell carcinoma",
+    "explanation": "The combination of long-term tobacco use, an indurated ulcer with everted edges, and lymphadenopathy is classic for SCC [51]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Decision-making: A patient presents with acute pulpitis and a thumping headache. What is the most immediate risk if the infection spreads through the apical foramen?",
+    "options": [
+      "Dental caries",
+      "Secondary dentin formation",
+      "Apical granuloma or abscess",
+      "Macroglossia"
+    ],
+    "answer": "Apical granuloma or abscess",
+    "explanation": "Spread of infection from pulpitis through the apical foramen leads to apical granulomas or abscesses [52, 53]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "PLAB/USMLE: A patient with Sjögren's syndrome has a 40-fold increased risk for which malignancy?",
+    "options": [
+      "Squamous cell carcinoma",
+      "Pleomorphic adenoma",
+      "Non-Hodgkin’s lymphoma",
+      "Mucoepidermoid carcinoma"
+    ],
+    "answer": "Non-Hodgkin’s lymphoma",
+    "explanation": "While Sjögren’s is inflammatory, patients have a highly elevated risk of developing lymphoma, listed as an oral manifestation in related contexts [8, 40]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Bias Recognition: A clinician assumes a white patch on a child's buccal mucosa is leukoplakia. However, the child is asymptomatic and histology shows intracellular oedema. What is the likely benign diagnosis?",
+    "options": [
+      "Leukoedema",
+      "Thrush",
+      "Speckled leukoplakia",
+      "Erythroplasia"
+    ],
+    "answer": "Leukoedema",
+    "explanation": "Leukoedema is a benign, asymptomatic condition in children with no increased malignant potential [1]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Problem Solving: A patient has 'Hairy Tongue.' What is the underlying pathological change?",
+    "options": [
+      "Fungal growth on the tongue",
+      "Hypertrophy and elongation of filiform papillae",
+      "Atrophy of the tongue mucosa",
+      "Cystic dilatation of mucous glands"
+    ],
+    "answer": "Hypertrophy and elongation of filiform papillae",
+    "explanation": "Hairy tongue is caused by elongation of filiform papillae which become stained by extrinsic factors [54]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "University Exam: Define the 'Reid Index' used in chronic bronchitis (Reference to oral structure).",
+    "options": [
+      "Ratio of enamel to dentin",
+      "Ratio of mucous gland thickness to bronchial wall thickness",
+      "Thickness of the hard palate keratin layer",
+      "Size of a pleomorphic adenoma"
+    ],
+    "answer": "Ratio of mucous gland thickness to bronchial wall thickness",
+    "explanation": "The Reid index is mentioned in standard pathology as a measure of mucous gland hyperplasia [Textual context Ch 17]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Assertion: Salivary gland tumors are most common in the parotid gland.",
+    "reason: Parotid gland tumors are malignant in 85% of cases.",
+    "options": [
+      "Assertion is true, Reason is false",
+      "Both are true",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Assertion is true, Reason is false",
+    "explanation": "The parotid is the most common site (85%), but the majority (65-85%) of parotid tumors are benign [55]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which histological feature distinguishes a Warthin's tumor from an Oxyphil adenoma?",
+    "options": [
+      "Presence of oncocytes",
+      "Lymphoid stroma with germinal centers",
+      "Mucoid matrix",
+      "Basal cell-like arrangement"
+    ],
+    "answer": "Lymphoid stroma with germinal centers",
+    "explanation": "Warthin's tumor uniquely contains lymphoid tissue, while Oxyphil adenomas (oncocytomas) are sheets of eosinophilic oncocytes [44, 56]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "A 'Pregnancy tumour' is a specific clinical variant of which condition?",
+    "options": [
+      "Fibrous epulis",
+      "Mucocele",
+      "Pyogenic granuloma",
+      "Squamous cell carcinoma"
+    ],
+    "answer": "Pyogenic granuloma",
+    "explanation": "Pregnancy tumour is a hormonal variant of pyogenic granuloma, a vasoproliferative inflammatory lesion [12]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is 'Quinsy'?",
+    "options": [
+      "Severe streptococcal cellulitis",
+      "A peritonsillar abscess",
+      "A midline cervical cyst",
+      "Atrophic glossitis"
+    ],
+    "answer": "A peritonsillar abscess",
+    "explanation": "Quinsy is a peritonsillar abscess that forms as a complication of acute tonsillitis [57]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the primary cause of 'Xerostomia'?",
+    "options": [
+      "Teething",
+      "Neurological disturbances",
+      "Decreased salivary flow",
+      "Gastrointestinal disturbances"
+    ],
+    "answer": "Decreased salivary flow",
+    "explanation": "Xerostomia is the medical term for dry mouth due to decreased salivary flow [38]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which of the following is an opportunistic VIRAL infection listed as an oral manifestation of AIDS?",
+    "options": [
+      "Candidiasis",
+      "Histoplasmosis",
+      "Herpetic stomatitis",
+      "Dental caries"
+    ],
+    "answer": "Herpetic stomatitis",
+    "explanation": "Herpetic stomatitis is a viral manifestation; candidiasis and histoplasmosis are fungal [8]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "In 'Cancrum Oris', the condition may progress to which severe outcome?",
+    "options": [
+      "Enamel destruction",
+      "Gangrene of the cheek",
+      "Macroglossia",
+      "Secondary dentin"
+    ],
+    "answer": "Gangrene of the cheek",
+    "explanation": "Noma (Cancrum Oris) can progress from gingival necrosis to cellulitis and ultimately gangrene of the cheek [6]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Where are sebaceous glands normally present in the oral cavity?",
+    "options": [
+      "Hard palate",
+      "Lips and buccal mucosa",
+      "Gingiva",
+      "Floor of the mouth"
+    ],
+    "answer": "Lips and buccal mucosa",
+    "explanation": "Sebaceous glands are only present in the region of the lips and the buccal mucosa [58]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which cell type in the enamel organ is responsible for the 'stellate reticulum' appearance in Ameloblastoma?",
+    "options": [
+      "Ameloblasts",
+      "Odontoblasts",
+      "Stellate cells",
+      "Basal cells"
+    ],
+    "answer": "Stellate cells",
+    "explanation": "Ameloblastoma follicles contain a central area of stellate cells resembling the stellate reticulum of the enamel organ [24, 32]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Reflective Question: Why is the presence of 'Auer rods' significant? (General Pathology Link)",
+    "options": [
+      "Diagnostic for SCC",
+      "Diagnostic for Acute Myeloid Leukemia",
+      "Found in salivary mucin",
+      "Component of enamel"
+    ],
+    "answer": "Diagnostic for Acute Myeloid Leukemia",
+    "explanation": "Auer rods are pathognomonic for AML, which can present with gingival swelling [Textual Link Ch 17]."
+  }
+]
+}

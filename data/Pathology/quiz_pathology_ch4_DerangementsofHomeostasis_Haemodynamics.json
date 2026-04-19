@@ -1,0 +1,228 @@
+{
+  "quiz": [
+    {
+    "type": "mcq_single",
+    "question": "In a normal adult male weighing 65 kg, what is the approximate volume of intracellular fluid (ICF)?",
+    "options": [
+      "12 litres",
+      "18 litres",
+      "22 litres",
+      "30 litres"
+    ],
+    "answer": "22 litres",
+    "explanation": "Total body water is ~60% of body weight (40L for 65kg). ICF comprises ~33% of body weight, which is approximately 21.45 (rounded to 22) litres [1, 2]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following electrolytes are the predominant cations and anions found within the intracellular fluid (ICF)?",
+    "options": [
+      "Sodium",
+      "Potassium",
+      "Magnesium",
+      "Phosphates",
+      "Chloride"
+    ],
+    "answer": [
+      "Potassium",
+      "Magnesium",
+      "Phosphates"
+    ],
+    "explanation": "In intracellular fluid, the main cations are potassium and magnesium, and the main anions are phosphates and proteins [3]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "At the venular end of a capillary, fluid and solutes typically re-enter the plasma.",
+    "reason": "The plasma oncotic pressure at the venular end (25 mmHg) exceeds the hydrostatic pressure (12 mmHg).",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "At the venular end, the inward-driving oncotic pressure (25 mmHg) overcomes the outward-driving hydrostatic pressure (12 mmHg), facilitating reabsorption [4]."
+  },
+  {
+    "type": "match_columns",
+    "question": "Match the following types of oedema with their characteristic features or causes:",
+    "left": [
+      "Transudate",
+      "Exudate",
+      "Pitting Oedema",
+      "Non-pitting Oedema"
+    ],
+    "right": [
+      "Low protein content (< 1 g/dl)",
+      "High specific gravity (> 1.018)",
+      "Subcutaneous tissue displacement",
+      "Elephantiasis or Myxoedema"
+    ],
+    "answer": {
+      "Transudate": "Low protein content (< 1 g/dl)",
+      "Exudate": "High specific gravity (> 1.018)",
+      "Pitting Oedema": "Subcutaneous tissue displacement",
+      "Non-pitting Oedema": "Elephantiasis or Myxoedema"
+    },
+    "explanation": "Transudates have low protein and specific gravity; exudates are inflammatory with high values. Pitting involves fluid displacement, while non-pitting is seen in specific conditions like elephantiasis [5, 6]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the primary mechanism of 'nephrotic oedema' in patients with heavy proteinuria?",
+    "options": [
+      "Increased capillary hydrostatic pressure",
+      "Decreased plasma oncotic pressure",
+      "Lymphatic obstruction",
+      "Increased capillary permeability"
+    ],
+    "answer": "Decreased plasma oncotic pressure",
+    "explanation": "Persistent and heavy albuminuria leads to hypoalbuminaemia, which lowers plasma oncotic pressure, resulting in severe generalized oedema [7]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Cardiac oedema in an ambulatory patient is typically described as 'dependent oedema'.",
+    "reason": "Oedema in heart failure is significantly influenced by gravity, appearing first in the lower extremities.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "Cardiac oedema is characteristically dependent, appearing in the legs of standing patients and the sacral area of bedridden patients due to gravity [8]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "A 60-year-old male with chronic right-sided heart failure presents with an enlarged, tender liver. Gross examination of such a liver typically reveals which appearance?",
+    "options": [
+      "Sago spleen",
+      "Nutmeg liver",
+      "Bread and butter heart",
+      "Lardaceous liver"
+    ],
+    "answer": "Nutmeg liver",
+    "explanation": "Chronic venous congestion of the liver in right heart failure produces a mottled 'nutmeg' appearance due to centrilobular congestion and peripheral fatty change [9]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which factors comprise 'Virchow’s triad,' predisposing a patient to thrombus formation?",
+    "options": [
+      "Endothelial injury",
+      "Altered blood flow (stasis/turbulence)",
+      "Hypercoagulability",
+      "Hypoproteinaemia",
+      "Arterial hypertension"
+    ],
+    "answer": [
+      "Endothelial injury",
+      "Altered blood flow (stasis/turbulence)",
+      "Hypercoagulability"
+    ],
+    "explanation": "Virchow’s triad consists of endothelial injury, altered blood flow, and hypercoagulability [10]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "A 45-year-old woman collapses suddenly three days after major hip surgery with severe dyspnoea and tachycardia. What is the most likely cause?",
+    "options": [
+      "Air embolism",
+      "Fat embolism",
+      "Pulmonary thromboembolism",
+      "Amniotic fluid embolism"
+    ],
+    "answer": "Pulmonary thromboembolism",
+    "explanation": "Sudden post-operative collapse with dyspnoea is classically a massive pulmonary thromboembolism, often originating from deep vein thrombosis [11, 12]."
+  },
+  {
+    "type": "match_columns",
+    "question": "Match the following morphological findings in shock with their respective organs:",
+    "left": [
+      "Heart failure cells",
+      "Gamna-Gandy bodies",
+      "Acute Tubular Necrosis (ATN)",
+      "Zonal lesions"
+    ],
+    "right": [
+      "CVC Lung",
+      "CVC Spleen",
+      "Shock Kidney",
+      "Heart in Shock"
+    ],
+    "answer": {
+      "Heart failure cells": "CVC Lung",
+      "Gamna-Gandy bodies": "CVC Spleen",
+      "Acute Tubular Necrosis (ATN)": "Shock Kidney",
+      "Zonal lesions": "Heart in Shock"
+    },
+    "explanation": "Heart failure cells are haemosiderin-laden macrophages in the lungs; Gamna-Gandy bodies are siderofibrotic nodules in the spleen; ATN is the renal result of shock; and zonal lesions are contraction bands in myocytes during shock [13-16]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "A deep-sea diver surfaces too rapidly and experiences joint pain ('the bends') and respiratory distress ('the chokes'). This is caused by bubbles of which gas?",
+    "options": [
+      "Oxygen",
+      "Carbon dioxide",
+      "Nitrogen",
+      "Helium"
+    ],
+    "answer": "Nitrogen",
+    "explanation": "In decompression sickness, nitrogen dissolved in tissues under high pressure comes out of solution as bubbles during rapid ascent [17, 18]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Septic shock often presents with a 'hyperdynamic' circulation, unlike hypovolaemic shock.",
+    "reason": "Septic shock involves profound peripheral vasodilatation and pooling of blood due to inflammatory mediators.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "Inflammatory mediators like nitric oxide cause massive vasodilatation in septic shock, leading to initial hyperdynamic circulation, whereas hypovolaemic shock involves vasoconstriction [19, 20]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "During the 'Irreversible Decompensated' stage of shock, what factor is released that specifically depresses cardiac function?",
+    "options": [
+      "Tumour Necrosis Factor (TNF)",
+      "Interleukin-1 (IL-1)",
+      "Myocardial Depressant Factor (MDF)",
+      "Nitric Oxide"
+    ],
+    "answer": "Myocardial Depressant Factor (MDF)",
+    "explanation": "Reduced blood flow to the myocardium causes ischaemia and the release of Myocardial Depressant Factor (MDF), further depressing cardiac output [21]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which conditions are examples of non-pitting or 'solid' oedema?",
+    "options": [
+      "Congestive Cardiac Failure",
+      "Nephrotic Syndrome",
+      "Myxoedema",
+      "Elephantiasis",
+      "Liver Cirrhosis"
+    ],
+    "answer": [
+      "Myxoedema",
+      "Elephantiasis"
+    ],
+    "explanation": "Myxoedema (hypothyroidism) and elephantiasis (filariasis) are classic examples of non-pitting oedema [5, 22]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which of the following describes 'paradoxical embolism'?",
+    "options": [
+      "An embolus traveling against the flow of blood.",
+      "An embolus derived from a tumor.",
+      "An embolus passing from the venous to the arterial circulation via a septal defect.",
+      "An embolus composed of fat globules."
+    ],
+    "answer": "An embolus passing from the venous to the arterial circulation via a septal defect.",
+    "explanation": "A paradoxical or crossed embolus moves from the venous side to the arterial side through an abnormal communication like a patent foramen ovale [23]."
+  }
+
+
+  ]
+}

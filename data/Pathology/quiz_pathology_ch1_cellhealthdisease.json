@@ -1,0 +1,744 @@
+{
+  "quiz": [
+    {
+      "question": "What percentage of the human genome codes for proteins?",
+      "options": ["10%", "5%", "1.5%", "20%"],
+      "answer": "1.5%",
+      "explanation": "Only ~20,000 protein-coding genes exist, comprising about 1.5% of the genome."
+    },
+    {
+      "question": "Which of the following is a function of noncoding DNA?",
+      "options": ["Coding for enzymes", "Promoter and enhancer activity", "Protein synthesis", "ATP generation"],
+      "answer": "Promoter and enhancer activity",
+      "explanation": "Noncoding DNA regulates gene expression via promoters, enhancers, and regulatory RNAs."
+    },
+    {
+      "question": "Which chromatin type is transcriptionally active?",
+      "options": ["Heterochromatin", "Euchromatin", "Centromere", "Telomere"],
+      "answer": "Euchromatin",
+      "explanation": "Euchromatin is dispersed and transcriptionally active, while heterochromatin is condensed and inactive."
+    },
+    {
+      "question": "Histone acetylation generally leads to:",
+      "options": ["DNA condensation and gene silencing", "DNA unwinding and increased transcription", "DNA methylation", "RNA degradation"],
+      "answer": "DNA unwinding and increased transcription",
+      "explanation": "Acetylation opens chromatin, allowing transcription factors to access DNA."
+    },
+    {
+      "question": "Which enzyme processes pre-miRNA into mature miRNA?",
+      "options": ["RNA polymerase", "Dicer", "Cas9", "Histone acetyltransferase"],
+      "answer": "Dicer",
+      "explanation": "Dicer trims pre-miRNA into mature miRNA that associates with RISC for gene silencing."
+    },
+    {
+      "question": "Which of the following is NOT true about microRNAs?",
+      "options": [
+        "They are ~22 nucleotides long",
+        "They regulate translation post-transcriptionally",
+        "They are translated into proteins",
+        "They associate with RISC complex"
+      ],
+      "answer": "They are translated into proteins",
+      "explanation": "miRNAs are noncoding RNAs; they are not translated but regulate gene expression."
+    },
+    {
+      "question": "Which lncRNA is responsible for X chromosome inactivation?",
+      "options": ["XIST", "HOTAIR", "miR-21", "Cas9"],
+      "answer": "XIST",
+      "explanation": "XIST forms a repressive cloak on the X chromosome, silencing gene expression."
+    },
+    {
+      "question": "CRISPR-Cas9 introduces DNA breaks using:",
+      "options": ["Guide RNA and Cas9 nuclease", "Histone acetyltransferase", "DNA methyltransferase", "RNA polymerase"],
+      "answer": "Guide RNA and Cas9 nuclease",
+      "explanation": "Cas9 nuclease is directed by guide RNA to specific DNA sequences for cleavage."
+    },
+    {
+      "question": "Which DNA repair mechanism after CRISPR cleavage is error-prone?",
+      "options": ["Homologous recombination (HDR)", "Nonhomologous end joining (NHEJ)", "Base excision repair", "Mismatch repair"],
+      "answer": "Nonhomologous end joining (NHEJ)",
+      "explanation": "NHEJ often introduces insertions or deletions, making it error-prone."
+    },
+    {
+      "question": "Which organelle degrades phagocytosed microbes?",
+      "options": ["Proteasome", "Lysosome", "Peroxisome", "Golgi apparatus"],
+      "answer": "Lysosome",
+      "explanation": "Lysosomes contain hydrolytic enzymes that digest microbes and unwanted organelles."
+    },
+    {
+      "question": "Proteasomes primarily degrade:",
+      "options": ["Phagocytosed bacteria", "Tagged cytosolic proteins", "Long-chain fatty acids", "Secretory proteins"],
+      "answer": "Tagged cytosolic proteins",
+      "explanation": "Proteasomes degrade ubiquitin-tagged proteins into peptides."
+    },
+    {
+      "question": "Which organelle metabolizes very long-chain fatty acids?",
+      "options": ["Mitochondria", "Peroxisomes", "Lysosomes", "Endoplasmic reticulum"],
+      "answer": "Peroxisomes",
+      "explanation": "Peroxisomes contain oxidative enzymes for fatty acid metabolism."
+    },
+    {
+      "question": "Which of the following DNA variations is most common?",
+      "options": ["Copy number variations (CNVs)", "Single nucleotide polymorphisms (SNPs)", "Chromosomal translocations", "Inversions"],
+      "answer": "Single nucleotide polymorphisms (SNPs)",
+      "explanation": "Over 6 million SNPs have been identified, making them the most common variation."
+    },
+    {
+      "question": "Which epigenetic modification is associated with transcriptional silencing?",
+      "options": ["Histone acetylation", "DNA methylation", "Histone phosphorylation", "RNA splicing"],
+      "answer": "DNA methylation",
+      "explanation": "DNA methylation condenses chromatin and silences gene expression."
+    },
+    {
+      "question": "Which structural DNA region caps chromosome ends?",
+      "options": ["Centromere", "Telomere", "Promoter", "Enhancer"],
+      "answer": "Telomere",
+      "explanation": "Telomeres are repetitive sequences that protect chromosome ends during replication."
+    },
+    {
+      "question": "Centromeres are important because:",
+      "options": ["They cap chromosome ends", "They tether chromatids during mitosis", "They encode proteins", "They regulate transcription"],
+      "answer": "They tether chromatids during mitosis",
+      "explanation": "Centromeres form kinetochores that regulate chromosome segregation."
+    },
+    {
+      "question": "Which histone modification generally silences genes?",
+      "options": ["Histone acetylation", "Histone methylation of certain residues", "Histone phosphorylation", "Histone ubiquitination"],
+      "answer": "Histone methylation of certain residues",
+      "explanation": "Methylation of histone lysines often condenses DNA and silences transcription."
+    },
+    {
+      "question": "Which enzyme reverses histone acetylation?",
+      "options": ["Histone acetyltransferase", "Histone deacetylase (HDAC)", "DNA methyltransferase", "RNA polymerase"],
+      "answer": "Histone deacetylase (HDAC)",
+      "explanation": "HDAC removes acetyl groups, condensing chromatin and reducing transcription."
+    },
+    {
+      "question": "Which of the following is a mobile genetic element?",
+      "options": ["Telomere", "Centromere", "Transposon", "Promoter"],
+      "answer": "Transposon",
+      "explanation": "Transposons are 'jumping genes' that move within the genome."
+    },
+    {
+      "question": "Which RNA complex mediates gene silencing by miRNA?",
+      "options": ["RISC", "Spliceosome", "Ribosome", "RNA polymerase"],
+      "answer": "RISC",
+      "explanation": "RNA-induced silencing complex (RISC) binds miRNA and silences target mRNA."
+    },
+    {
+      "question": "Which of the following is true about CNVs?",
+      "options": ["They are always neutral", "They involve large DNA segments", "They only occur in coding regions", "They are smaller than SNPs"],
+      "answer": "They involve large DNA segments",
+      "explanation": "Copy number variations involve duplications or deletions of large DNA stretches."
+    },
+    {
+      "question": "Which organelle is abundant in liver cells for detoxification?",
+      "options": ["Rough ER", "Smooth ER", "Golgi apparatus", "Mitochondria"],
+      "answer": "Smooth ER",
+      "explanation": "Smooth ER modifies hydrophobic compounds like drugs into water-soluble molecules."
+    },
+    {
+      "question": "Which organelle synthesizes steroid hormones?",
+      "options": ["Rough ER", "Smooth ER", "Golgi apparatus", "Nucleus"],
+      "answer": "Smooth ER",
+      "explanation": "Smooth ER is abundant in gonads and liver for steroid hormone synthesis."
+    },
+    {
+      "question": "Which organelle is the site of protein sorting and packaging?",
+      "options": ["Nucleus", "Golgi apparatus", "Mitochondria", "Peroxisome"],
+      "answer": "Golgi apparatus",
+      "explanation": "Golgi modifies and sorts proteins for secretion or membrane insertion."
+    },
+    {
+      "question": "Which of the following is transcriptionally inactive chromatin?",
+      "options": ["Euchromatin", "Heterochromatin", "Promoter", "Enhancer"],
+      "answer": "Heterochromatin",
+      "explanation": "Heterochromatin is dense and transcriptionally inactive."
+    },
+    {
+      "question": "Which enzyme adds methyl groups to DNA?",
+      "options": ["DNA methyltransferase", "Histone acetyltransferase", "RNA polymerase", "Dicer"],
+      "answer": "DNA methyltransferase",
+      "explanation": "DNA methyltransferases catalyze methylation of cytosine residues in DNA."
+    },
+    {
+      "question": "Which organelle is the site of ATP generation?",
+      "options": ["Mitochondria", "Nucleus", "Golgi apparatus", "Peroxisome"],
+      "answer": "Mitochondria",
+      "explanation": "Mitochondria are the powerhouse of the cell, generating ATP via oxidative phosphorylation."
+    },
+    {
+      "question": "Which organelle is involved in apoptosis?",
+      "options": ["Mitochondria", "Lysosome", "Golgi apparatus", "Nucleus"],
+      "answer": "Mitochondria",
+      "explanation": "Mitochondria release cytochrome c, initiating apoptosis."
+    },
+    {
+      "question": "Which of the following is a neutral DNA variant?",
+      "options": ["SNP with no effect", "CNV deletion", "Frameshift mutation", "Nonsense mutation"],
+      "answer": "SNP with no effect",
+      "explanation": "Neutral SNPs do not affect gene function but can serve as genetic markers."
+    },
+    {
+      "question": "Which RNA polymerase transcribes miRNA genes?",
+      "options": ["RNA polymerase I", "RNA polymerase II", "RNA polymerase III", "DNA polymerase"],
+      "answer": "RNA polymerase II",
+      "explanation": "Most miRNA genes are transcribed by RNA polymerase II."
+    },
+    {
+      "question": "Which of the following is a function of lncRNA?",
+      "options": ["Protein synthesis", "Chromatin modification", "ATP generation", "DNA replication"],
+      "answer": "Chromatin modification",
+      "explanation": "lncRNAs can recruit chromatin-modifying enzymes to regulate gene expression."
+    },
+    {
+      "question": "Which of the following is an example of epigenetic regulation?",
+      "options": ["DNA methylation", "Point mutation", "Frameshift mutation", "Chromosomal translocation"],
+      "answer": "DNA methylation",
+      "explanation": "Epigenetic changes alter gene expression without changing DNA sequence."
+    },
+    {
+      "question": "Which of the following is a reversible modification?",
+      "options": ["DNA methylation", "Histone acetylation", "Frameshift mutation", "Gene deletion"],
+      "answer": "Histone acetylation",
+      "explanation": "Histone acetylation is reversible via histone deacetylases."
+    },
+    {
+      "question": "Which of the following is a function of peroxisomes?",
+      "options": ["Protein synthesis", "Fatty acid metabolism", "DNA replication", "RNA transcription"],
+      "answer": "Fatty acid metabolism",
+      "explanation": "Peroxisomes metabolize very long-chain fatty acids."
+    },
+    {
+      "question": "Which of the following is a role of proteasomes?",
+      "options": ["Degrade ubiquitin-tagged proteins", "Digest microbes", "Synthesize lipids", "Sort proteins"],
+      "answer": "Degrade ubiquitin-tagged proteins",
+      "explanation": "Proteasomes degrade proteins tagged with ubiquitin."
+    },
+    {
+      "question": "Which of the following is a function of lysosomes?",
+      "options": ["Protein synthesis", "Digestion of macromolecules", "ATP generation", "DNA replication"],
+      "answer": "Digestion of macromolecules",
+      "explanation": "Lysosomes contain hydrolytic enzymes to digest macromolecules."
+    },
+    {
+      "question": "Which of the following is a function of smooth ER?",
+      "options": ["Protein synthesis", "Steroid hormone synthesis", "DNA replication", "RNA transcription"],
+      "answer": "Steroid hormone synthesis",
+      "explanation": "Smooth ER synthesizes steroid hormones and detoxifies drugs."
+    },
+    {
+      "question": "Which of the following is a function of rough ER?",
+      "options": ["Protein synthesis for secretion", "Steroid hormone synthesis", "DNA replication", "RNA transcription"],
+      "answer": "Protein synthesis for secretion",
+      "explanation": "Rough ER synthesizes proteins destined for secretion or membrane insertion."
+    },
+    {
+      "question": "Which of the following is a function of Golgi apparatus?",
+      "options": ["Protein sorting and modification", "ATP generation", "DNA replication", "RNA transcription"],
+      "answer": "Protein sorting and modification",
+      "explanation": "Golgi modifies and sorts proteins for secretion or membrane placement."
+    },
+    {
+      "question": "Which of the following is a function of mitochondria?",
+      "options": ["ATP generation", "Protein sorting", "DNA replication", "RNA transcription"],
+      "answer": "ATP generation",
+      "explanation": "Mitochondria generate ATP via oxidative phosphorylation."
+    },
+    {
+      "question": "Which of the following is a function of nucleus?",
+      "options": ["DNA transcription", "ATP generation", "Protein sorting", "Fatty acid metabolism"],
+      "answer": "DNA transcription",
+      "explanation": "The nucleus houses DNA and is the site of transcription."
+    },
+    {
+      "question": "Which of the following is a function of centromere?",
+      "options": ["Chromosome segregation", "ATP generation", "Protein synthesis", "DNA replication"],
+      "answer": "Chromosome segregation",
+      "explanation": "Centromeres form kinetochores that regulate chromosome segregation."
+    },
+    {
+      "question": "Which of the following is a function of telomere?",
+      "options": ["Protect chromosome ends", "ATP generation", "Protein synthesis", "DNA replication"],
+      "answer": "Protect chromosome ends",
+      "explanation": "Telomeres protect chromosome ends during replication."
+    },
+    {
+      "question": "Which of the following is a function of enhancer?",
+      "options": ["Increase transcription", "ATP generation", "Protein synthesis", "DNA replication"],
+      "answer": "Increase transcription",
+      "explanation": "Enhancers increase transcription by binding transcription factors."
+    },
+    {
+      "question": "Which of the following is a function of promoter?",
+      "options": ["Initiate transcription", "ATP generation", "Protein synthesis", "DNA replication"],
+      "answer": "Initiate transcription",
+      "explanation": "Promoters initiate transcription by binding RNA polymerase."
+    },
+    {
+      "question": "Which of the following is a function of microRNA?",
+      "options": ["Post-transcriptional gene silencing", "Protein synthesis", "ATP generation", "DNA replication"],
+      "answer": "Post-transcriptional gene silencing",
+      "explanation": "miRNAs silence gene expression post-transcriptionally."
+    },
+    {
+      "question": "Which of the following is a function of lncRNA?",
+      "options": ["Chromatin modification", "Protein synthesis", "ATP generation", "DNA replication"],
+      "answer": "Chromatin modification",
+      "explanation": "lncRNAs recruit chromatin-modifying enzymes to regulate gene expression."
+    },
+    {
+      "question": "Which of the following is a function of CRISPR-Cas9?",
+      "options": ["Genome editing", "Protein synthesis", "ATP generation", "DNA replication"],
+      "answer": "Genome editing",
+      "explanation": "CRISPR-Cas9 edits genomes by introducing double-stranded DNA breaks."
+    },
+    {
+      "question": "Which of the following repair mechanisms is precise?",
+      "options": ["Homologous recombination (HDR)", "Nonhomologous end joining (NHEJ)", "Base excision repair", "Mismatch repair"],
+      "answer": "Homologous recombination (HDR)",
+      "explanation": "HDR introduces precise changes using donor DNA."
+    },
+
+    {
+      "question": "A 68-year-old male with long-standing, poorly controlled hypertension is found on echocardiography to have a left ventricular wall thickness of 1.8 cm (normal 1.1 cm). This increase in heart size is primarily due to which of the following cellular processes?",
+      "options": [
+        "Hyperplasia of cardiac myocytes",
+        "Hypertrophy involving increased structural protein synthesis",
+        "Metaplasia of the stromal tissue",
+        "Accumulation of lipofuscin within the myocytes"
+      ],
+      "answer": "Hypertrophy involving increased structural protein synthesis",
+      "explanation": "In response to increased workload like hypertension, adult cardiac muscle cells undergo hypertrophy because they have a limited capacity to divide; this involves synthesis of more proteins and myofilaments per cell [1, 2]."
+    },
+    {
+      "question": "A 32-year-old female presents for a routine follow-up 4 weeks postpartum. During pregnancy, her uterus increased significantly in size. Which of the following mechanisms best explains this physiologic adaptation?",
+      "options": [
+        "Pure hypertrophy of smooth muscle",
+        "Pure hyperplasia of smooth muscle",
+        "Both hypertrophy and hyperplasia of smooth muscle",
+        "Autophagy-induced expansion of the myometrium"
+      ],
+      "answer": "Both hypertrophy and hyperplasia of smooth muscle",
+      "explanation": "The massive physiologic enlargement of the uterus during pregnancy is a result of both estrogen-stimulated smooth muscle hypertrophy (increased cell size) and hyperplasia (increased cell number) [1, 3]."
+    },
+    {
+      "question": "A 55-year-old chronic smoker undergoes a bronchoscopy for a persistent cough. Biopsy of the bronchial mucosa shows that the normal ciliated columnar epithelium has been replaced by stratified squamous epithelium. What is the most likely consequence of this change?",
+      "options": [
+        "Improved clearance of mucus and debris",
+        "Increased risk of malignant transformation",
+        "Immediate progression to coagulative necrosis",
+        "Vitamin A-induced restoration of normal tissue"
+      ],
+      "answer": "Increased risk of malignant transformation",
+      "explanation": "While squamous metaplasia is a protective adaptation to irritation, the persistent stress that induces it can eventually lead to malignant transformation in the altered foci [4, 5]."
+    },
+    {
+      "question": "A 45-year-old male with a history of chronic gastroesophageal reflux disease (GERD) undergoes an endoscopy. Biopsy of the lower esophagus reveals columnar epithelium with goblet cells instead of the usual squamous epithelium. This finding is an example of:",
+      "options": [
+        "Squamous metaplasia",
+        "Atypical hyperplasia",
+        "Glandular metaplasia",
+        "Atrophy due to acid irritation"
+      ],
+      "answer": "Glandular metaplasia",
+      "explanation": "In chronic gastric reflux, the normal stratified squamous epithelium of the lower esophagus undergoes metaplastic transformation to gastric or intestinal-type columnar epithelium [6]."
+    },
+    {
+      "question": "A 24-year-old male has his leg in a cast for 6 weeks following a tibial fracture. After the cast is removed, he notices that the muscles of his affected calf are significantly smaller than the other side. This is most likely due to:",
+      "options": [
+        "Apoptosis of myocytes",
+        "Atrophy resulting from decreased protein synthesis and increased degradation",
+        "Liquefactive necrosis from reduced blood flow",
+        "Irreversible cell injury due to disuse"
+      ],
+      "answer": "Atrophy resulting from decreased protein synthesis and increased degradation",
+      "explanation": "Disuse atrophy occurs when a limb is immobilized; it results from a combination of decreased protein synthesis and increased degradation via the ubiquitin-proteasome pathway [7, 8]."
+    },
+    {
+      "question": "An 82-year-old male with advanced atherosclerosis dies of unrelated causes. At autopsy, his brain is noted to have narrowed gyri and widened sulci. This appearance is characteristic of:",
+      "options": [
+        "Metastatic calcification",
+        "Senile atrophy due to reduced blood supply",
+        "Cerebral hypertrophy",
+        "Hydrocephalus-induced pressure necrosis"
+      ],
+      "answer": "Senile atrophy due to reduced blood supply",
+      "explanation": "Aging and reduced blood supply associated with atherosclerosis lead to brain atrophy, morphologically visible as narrowing of the gyri and widening of the sulci [9, 10]."
+    },
+    {
+      "question": "A 48-year-old woman experiences heavy menstrual bleeding. A biopsy of the endometrium shows an increased number of glands. This condition is most likely caused by:",
+      "options": [
+        "Pathologic hyperplasia due to excessive estrogen",
+        "Physiologic hyperplasia after menses",
+        "Endometrial metaplasia",
+        "Hypertrophy of the uterine lining"
+      ],
+      "answer": "Pathologic hyperplasia due to excessive estrogen",
+      "explanation": "Pathologic hyperplasia can occur in the endometrium when the balance between estrogen and progesterone is disturbed, leading to increased estrogenic stimulation and abnormal bleeding [11]."
+    },
+    {
+      "question": "A 65-year-old male presents with sudden onset of chest pain. An EKG shows ST-segment elevation. Despite treatment, the patient dies. Autopsy reveals a pale area in the left ventricle. Microscopic examination shows myocytes with preserved outlines but no nuclei. What pattern of necrosis is this?",
+      "options": [
+        "Liquefactive necrosis",
+        "Coagulative necrosis",
+        "Caseous necrosis",
+        "Fibrinoid necrosis"
+      ],
+      "answer": "Coagulative necrosis",
+      "explanation": "Coagulative necrosis is characteristic of infarcts in solid organs (except the brain) and is marked by the preservation of tissue architecture for several days despite cell death [12, 13]."
+    },
+    {
+      "question": "A 70-year-old male suffers a major stroke and dies 4 days later. Autopsy of the brain reveals a soft, liquid-filled cavity in the area of the infarct. This is an example of:",
+      "options": [
+        "Coagulative necrosis",
+        "Liquefactive necrosis",
+        "Fat necrosis",
+        "Gangrenous necrosis"
+      ],
+      "answer": "Liquefactive necrosis",
+      "explanation": "Hypoxic death of cells within the central nervous system typically evokes liquefactive necrosis, where the dead cells are completely digested into a viscous liquid [13, 14]."
+    },
+    {
+      "question": "A 30-year-old patient with a history of fever and night sweats has a chest X-ray showing a hilar mass. A biopsy reveals a 'cheeselike' friable appearance grossly, and microscopic amorphous pink granular debris surrounded by a granuloma. What is the diagnosis?",
+      "options": [
+        "Coagulative necrosis in an abscess",
+        "Caseous necrosis due to Tuberculosis",
+        "Fat necrosis from trauma",
+        "Fibrinoid necrosis in a blood vessel"
+      ],
+      "answer": "Caseous necrosis due to Tuberculosis",
+      "explanation": "Caseous (cheeselike) necrosis is most often encountered in tuberculous infections and appears as amorphous granular pink debris that obliterates tissue architecture [15, 16]."
+    },
+    {
+      "question": "A 50-year-old alcoholic male presents with severe epigastric pain and vomiting. Surgeons find chalky white deposits in the mesentery during an emergency laparotomy. These deposits represent:",
+      "options": [
+        "Dystrophic calcification of healthy tissue",
+        "Fat necrosis with calcium soap formation (saponification)",
+        "Metastatic calcification from hypercalcemia",
+        "Accumulation of cholesterol esters"
+      ],
+      "answer": "Fat necrosis with calcium soap formation (saponification)",
+      "explanation": "In acute pancreatitis, leaked lipases split triglycerides in fat cells; the released fatty acids combine with calcium to produce grossly visible chalky white areas of saponification [17, 18]."
+    },
+    {
+      "question": "A skin biopsy from a patient with a known autoimmune disease shows a circumferential bright pink amorphous area in the wall of a small artery. This pattern is known as:",
+      "options": [
+        "Coagulative necrosis",
+        "Liquefactive necrosis",
+        "Fibrinoid necrosis",
+        "Caseous necrosis"
+      ],
+      "answer": "Fibrinoid necrosis",
+      "explanation": "Fibrinoid necrosis usually occurs in immune reactions where antigen-antibody complexes and leaking plasma proteins deposit in vessel walls, appearing bright pink on H&E stains [17, 19]."
+    },
+    {
+      "question": "A patient with a suspected myocardial infarction is tested for serum markers. The laboratory reports elevated levels of troponin and a unique cardiac isoform of creatine kinase. These proteins are in the blood because of:",
+      "options": [
+        "Increased protein synthesis by stressed myocytes",
+        "Active secretion of enzymes into the bloodstream",
+        "Leakage through damaged cell membranes during necrosis",
+        "Misfolding of proteins in the endoplasmic reticulum"
+      ],
+      "answer": "Leakage through damaged cell membranes during necrosis",
+      "explanation": "Leakage of tissue-specific intracellular proteins through damaged cell membranes provides a clinical means of detecting necrosis, such as troponin for cardiac damage [19]."
+    },
+    {
+      "question": "A 40-year-old worker in a dry-cleaning plant is exposed to carbon tetrachloride (CCl4). He develops liver failure due to the formation of reactive free radicals. Which mechanism primarily causes the initial cellular damage?",
+      "options": [
+        "Direct binding of CCl4 to DNA",
+        "Lipid peroxidation of the endoplasmic reticulum membranes",
+        "Inhibition of the sodium-potassium ATPase pump",
+        "Activation of the caspase cascade in the mitochondria"
+      ],
+      "answer": "Lipid peroxidation of the endoplasmic reticulum membranes",
+      "explanation": "CCl4 is converted to a toxic free radical in the liver, which causes membrane phospholipid peroxidation, starting in the ER and leading to decreased protein synthesis and eventually cell death [20]."
+    },
+    {
+      "question": "A 7-year-old boy with a history of recurrent respiratory infections is diagnosed with Cystic Fibrosis. The fundamental molecular pathology involves the CFTR protein being:",
+      "options": [
+        "Secreted in excessive amounts as a latent toxin",
+        "Misfolded, retained, and degraded in the endoplasmic reticulum",
+        "Hypertrophied within the Golgi apparatus",
+        "Stored in lysosomes as an indigestible material"
+      ],
+      "answer": "Misfolded, retained, and degraded in the endoplasmic reticulum",
+      "explanation": "The most common mutation in cystic fibrosis results in the misfolding of the CFTR protein, leading to its retention and degradation in the ER, causing a loss of essential function [21, 22]."
+    },
+    {
+      "question": "A child is found to have skeletal deformities and heals poorly after a minor injury. His diet is deficient in fruits and vegetables. The 'weakness' in his tissues is due to a cofactor deficiency for which enzyme?",
+      "options": [
+        "Superoxide dismutase",
+        "Lysyl oxidase",
+        "Catalase",
+        "Cytochrome P-450"
+      ],
+      "answer": "Lysyl oxidase",
+      "explanation": "Vitamin C (ascorbate) is a required cofactor for lysyl oxidase, which hydroxylates lysine residues to allow for crosslinking of collagen fibers. Deficiency leads to 'weak' collagen and poor wound healing [23]."
+    },
+    {
+      "question": "A 75-year-old male dies of a myocardial infarction. Autopsy reveals a brownish-yellow, granular pigment in his heart muscle, concentrated around the nuclei. This 'wear-and-tear' pigment is:",
+      "options": [
+        "Hemosiderin from past hemorrhages",
+        "Lipofuscin from lipid peroxidation",
+        "Melanin from migrating melanocytes",
+        "Anthracotic pigment from air pollution"
+      ],
+      "answer": "Lipofuscin from lipid peroxidation",
+      "explanation": "Lipofuscin is an insoluble brownish-yellow pigment that accumulates with age or atrophy; it represents complexes of lipid and protein from past free radical injury and lipid peroxidation [24, 25]."
+    },
+    {
+      "question": "A patient who has received multiple blood transfusions for a chronic hematologic disorder undergoes a liver biopsy. Prussian blue staining shows extensive golden-brown granular pigment within hepatocytes. This pigment is:",
+      "options": [
+        "Bilirubin",
+        "Lipofuscin",
+        "Hemosiderin",
+        "Melanin"
+      ],
+      "answer": "Hemosiderin",
+      "explanation": "Hemosiderin is a hemoglobin-derived pigment that accumulates when there is a local or systemic excess of iron; it can be identified by the Prussian blue histochemical reaction [26, 27]."
+    },
+    {
+      "question": "A 72-year-old male is diagnosed with severe aortic stenosis. An ultrasound shows his aortic valve is calcified and does not move properly. His serum calcium levels are normal. This is an example of:",
+      "options": [
+        "Metastatic calcification",
+        "Dystrophic calcification",
+        "Hypercalcemic deposition",
+        "Saponification of the valve"
+      ],
+      "answer": "Dystrophic calcification",
+      "explanation": "Dystrophic calcification occurs in injured or dead tissue (like a damaged heart valve) despite normal serum calcium levels [25, 28]."
+    },
+    {
+      "question": "A 60-year-old female with a parathyroid tumor has a serum calcium level of 14 mg/dL (normal 8.5-10.5). She develops shortness of breath, and a chest X-ray shows diffuse fine opacities in her lungs. These opacities most likely represent:",
+      "options": [
+        "Dystrophic calcification of the lung parenchyma",
+        "Metastatic calcification in normal tissues",
+        "Anthracotic pigment accumulation",
+        "Liquefactive necrosis from a fungal infection"
+      ],
+      "answer": "Metastatic calcification in normal tissues",
+      "explanation": "Metastatic calcification is associated with hypercalcemia and can occur in normal tissues, such as the lungs, kidneys, and gastric mucosa [29, 30]."
+    },
+    {
+      "question": "In a laboratory experiment, human fibroblasts are observed to stop dividing after a specific number of replications. This 'replicative senescence' is primarily caused by:",
+      "options": [
+        "Accumulation of misfolded proteins in the Golgi",
+        "Progressive shortening of telomeres",
+        "Hypertrophy of the smooth endoplasmic reticulum",
+        "Failure of the mitochondrial respiratory burst"
+      ],
+      "answer": "Progressive shortening of telomeres",
+      "explanation": "As somatic cells divide, a small section of the telomere is not duplicated. Progressive shortening eventually leads to chromosome ends being sensed as broken DNA, triggering cell cycle arrest [31, 32]."
+    },
+    {
+      "question": "Cancer cells often achieve immortality, meaning they can proliferate indefinitely. This is most frequently achieved by:",
+      "options": [
+        "Total loss of the p53 protein",
+        "Reactivation of telomerase",
+        "Increased production of IGF-1",
+        "Inhibition of all caspase activity"
+      ],
+      "answer": "Reactivation of telomerase",
+      "explanation": "In immortalized cancer cells, telomerase is typically reactivated, allowing the cells to stabilize their telomere length and proliferate indefinitely [31, 33]."
+    },
+    {
+      "question": "Research into aging has shown that calorie restriction slows the aging process in many species. Which biochemical signaling pathway is primarily involved in this effect?",
+      "options": [
+        "Increased insulin-like growth factor (IGF-1) signaling",
+        "Reduced IGF-1 signaling leading to better DNA repair",
+        "Activation of the respiratory burst in leukocytes",
+        "Upregulation of cytochrome P-450 activity"
+      ],
+      "answer": "Reduced IGF-1 signaling leading to better DNA repair",
+      "explanation": "Calorie restriction reduces IGF-1 signaling, which leads to lower rates of cell growth and metabolism, better DNA repair, and improved protein homeostasis [34]."
+    },
+    {
+      "question": "A patient being treated for epilepsy with phenobarbital notices that over time, the same dose is less effective at preventing seizures. This tolerance is due to which cellular adaptation in his liver?",
+      "options": [
+        "Atrophy of hepatocytes",
+        "Hypertrophy of the smooth endoplasmic reticulum (SER)",
+        "Hyperplasia of the rough endoplasmic reticulum (RER)",
+        "Metaplasia of the biliary epithelium"
+      ],
+      "answer": "Hypertrophy of the smooth endoplasmic reticulum (SER)",
+      "explanation": "Protracted use of drugs like barbiturates leads to hypertrophy of the smooth ER and an increase in P-450 enzyme activity, resulting in faster drug metabolism and tolerance [35, 36]."
+    },
+    {
+      "question": "A cell undergoes apoptosis. During the process, a specific phospholipid 'flips' from the inner leaflet of the plasma membrane to the outer leaflet to act as an 'eat-me' signal. This phospholipid is:",
+      "options": [
+        "Phosphatidylcholine",
+        "Phosphatidylethanolamine",
+        "Phosphatidylserine",
+        "Sphingomyelin"
+      ],
+      "answer": "Phosphatidylserine",
+      "explanation": "In apoptotic cells, phosphatidylserine flips to the outer leaflet, where it is recognized by macrophages, leading to rapid phagocytosis [37, 38]."
+    },
+    {
+      "question": "A mutation in the alpha-1-antitrypsin gene leads to the production of a protein that cannot fold properly. In the liver, this causes disease primarily through:",
+      "options": [
+        "Direct toxicity of the mutant protein in the blood",
+        "ER stress-induced apoptosis of hepatocytes",
+        "Lipid peroxidation of the mitochondrial membrane",
+        "Inhibition of DNA repair enzymes"
+      ],
+      "answer": "ER stress-induced apoptosis of hepatocytes",
+      "explanation": "Alpha-1-antitrypsin deficiency results in the accumulation of nonfunctional protein in hepatocytes, triggering an ER stress response that causes cell loss via apoptosis [39]."
+    },
+    {
+      "question": "During acute myocardial ischemia, the heart muscle stops contracting within 60 seconds. This immediate loss of function is primarily due to:",
+      "options": [
+        "Irreversible cell death (necrosis)",
+        "Depletion of ATP and failure of energy-dependent processes",
+        "Nuclear pyknosis in the myocytes",
+        "Release of lysosomal enzymes into the cytoplasm"
+      ],
+      "answer": "Depletion of ATP and failure of energy-dependent processes",
+      "explanation": "Hypoxia leads to a rapid failure of many energy-dependent metabolic pathways. While cell death takes longer, loss of function (like contractility) occurs almost immediately due to ATP deficiency [40, 41]."
+    },
+    {
+      "question": "A patient with poorly controlled Type II diabetes mellitus is noted to have abnormal deposits of a clear material within his renal tubular epithelial cells. This material is most likely:",
+      "options": [
+        "Triglycerides",
+        "Cholesterol",
+        "Glycogen",
+        "Immunoglobulin Russell bodies"
+      ],
+      "answer": "Glycogen",
+      "explanation": "Excessive intracellular deposits of glycogen are seen in poorly controlled diabetes mellitus, often accumulating in renal tubular epithelium and cardiac myocytes [42]."
+    },
+    {
+      "question": "In a cancer cell, the 'Warburg effect' describes which metabolic phenomenon?",
+      "options": [
+        "Pure oxidative phosphorylation despite low oxygen",
+        "Aerobic glycolysis to provide metabolic intermediates for growth",
+        "Total shutdown of the mitochondrial TCA cycle",
+        "Increased ATP production per glucose molecule"
+      ],
+      "answer": "Aerobic glycolysis to provide metabolic intermediates for growth",
+      "explanation": "The Warburg effect refers to rapidly growing cells increasing glucose uptake and forming lactic acid despite adequate oxygen, in order to provide carbon moieties for synthesis of lipids and proteins [43, 44]."
+    },
+    {
+      "question": "A patient with nephrotic syndrome has heavy protein leakage into his urine. Renal biopsy shows pink, hyaline cytoplasmic droplets in the proximal convoluted tubules. This finding represents:",
+      "options": [
+        "Irreversible tubular necrosis",
+        "Reabsorbed albumin in endocytic vesicles",
+        "Storage of misfolded CFTR protein",
+        "Dystrophic calcification of the tubules"
+      ],
+      "answer": "Reabsorbed albumin in endocytic vesicles",
+      "explanation": "When there is heavy protein leakage across the glomerulus, more protein is reabsorbed by pinocytosis, leading to the accumulation of visible protein droplets in the tubular cells [45]."
+    },
+    {
+      "question": "Which form of cell death is initiated by the 'inflammasome' and is characterized by the coexistence of apoptosis and fever?",
+      "options": [
+        "Necroptosis",
+        "Autophagy",
+        "Pyroptosis",
+        "Coagulative necrosis"
+      ],
+      "answer": "Pyroptosis",
+      "explanation": "Pyroptosis is associated with the inflammasome; it involves caspase activation that triggers both inflammation (fever) and apoptosis [46]."
+    },
+    {
+      "question": "A 15-year-old boy is diagnosed with Marfan syndrome. He is at risk for aortic aneurysm due to a genetic defect in which component of the extracellular matrix?",
+      "options": [
+        "Type IV Collagen",
+        "Fibronectin",
+        "Fibrillin",
+        "Laminin"
+      ],
+      "answer": "Fibrillin",
+      "explanation": "Marfan syndrome is caused by fibrillin defects, which lead to skeletal abnormalities and weakened aortic walls [47, 48]."
+    },
+    {
+      "question": "A cell is exposed to ionizing radiation, causing double-strand DNA breaks. The cell cycle is arrested in the G1 phase. This arrest is primarily mediated by which protein?",
+      "options": [
+        "MYC",
+        "p53",
+        "RAS",
+        "Bcl-2"
+      ],
+      "answer": "p53",
+      "explanation": "DNA damage is sensed by sentinel proteins that lead to the accumulation of p53, which arrests the cell cycle to allow for repair [49, 50]."
+    },
+    {
+      "question": "In the mitochondrial pathway of apoptosis, which molecule is released from the intermembrane space into the cytosol to activate caspases?",
+      "options": [
+        "Phosphatidylserine",
+        "Fas ligand",
+        "Cytochrome c",
+        "Hypochlorite"
+      ],
+      "answer": "Cytochrome c",
+      "explanation": "When mitochondrial membranes become permeable, cytochrome c leaks into the cytoplasm, where it triggers caspase activation and apoptotic death [51, 52]."
+    },
+    {
+      "question": "Which adaptation involves a change in the phenotype of differentiated cells, typically replacing one cell type with another better able to withstand a specific stress?",
+      "options": [
+        "Hypertrophy",
+        "Hyperplasia",
+        "Atrophy",
+        "Metaplasia"
+      ],
+      "answer": "Metaplasia",
+      "explanation": "Metaplasia is a reversible change where one adult cell type is replaced by another better able to tolerate an adverse environment [53, 54]."
+    },
+    {
+      "question": "A researcher is studying the CRISPR/Cas9 system. He knows that the specificity of the DNA cleavage is determined by which component?",
+      "options": [
+        "The Cas9 nuclease itself",
+        "The artificial guide RNA (gRNA)",
+        "The nonhomologous end joining (NHEJ) complex",
+        "The donor DNA strand"
+      ],
+      "answer": "The artificial guide RNA (gRNA)",
+      "explanation": "CRISPR/Cas9 uses artificial guide RNAs (gRNAs) that are complementary to a specific DNA sequence of interest to direct the Cas9 nuclease to its target [55, 56]."
+    },
+    {
+      "question": "Which organelle is the specialized site for steroid hormone synthesis and the modification of hydrophobic drugs like barbiturates into water-soluble molecules?",
+      "options": [
+        "Rough Endoplasmic Reticulum",
+        "Smooth Endoplasmic Reticulum",
+        "Golgi Apparatus",
+        "Lysosomes"
+      ],
+      "answer": "Smooth Endoplasmic Reticulum",
+      "explanation": "The smooth ER (SER) is abundant in the liver and gonads, serving as the site for steroid synthesis and drug detoxification [57, 58]."
+    },
+    {
+      "question": "Which cellular junction allows the myocardium to behave as a functional syncytium by permitting the passage of ions and coordinated contraction?",
+      "options": [
+        "Tight junctions",
+        "Desmosomes",
+        "Gap junctions",
+        "Hemidesmosomes"
+      ],
+      "answer": "Gap junctions",
+      "explanation": "Gap junctions (communicating junctions) mediate the passage of chemical or electrical signals, allowing coordinated waves of contraction in the heart [59, 60]."
+    },
+    {
+      "question": "A 10-year-old child with severe anemia and growth retardation is found to have a genetic mutation that causes misfolding of the hemoglobin molecule. This is an example of cell injury caused by:",
+      "options": [
+        "Nutritional imbalance",
+        "Physical agents",
+        "Genetic abnormalities",
+        "Immunologic reactions"
+      ],
+      "answer": "Genetic abnormalities",
+      "explanation": "Genetic aberrations can result in subtle changes like a single amino acid substitution (e.g., sickle cell anemia) that lead to nonfunctional proteins and cell injury [61, 62]."
+    },
+    {
+      "question": "A patient with chronic kidney disease develops hyperphosphatemia, leading to secondary hyperparathyroidism. He is at increased risk for calcium deposition in his gastric mucosa. This is known as:",
+      "options": [
+        "Dystrophic calcification",
+        "Metastatic calcification",
+        "Saponification of the stomach",
+        "Glycogenosis of the mucosa"
+      ],
+      "answer": "Metastatic calcification",
+      "explanation": "Metastatic calcification is caused by hypercalcemia, which in renal failure can be triggered by phosphate retention and secondary hyperparathyroidism [29, 30]."
+    }
+  ]
+}

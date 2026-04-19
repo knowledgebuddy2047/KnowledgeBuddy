@@ -1,0 +1,537 @@
+
+{
+  "quiz":
+
+[
+  {
+    "type": "mcq_single",
+    "question": "Which spot in the posterior retina consists only of photosensitive cones and is devoid of rods and blood vessels?",
+    "options": ["Macula lutea", "Yellow spot", "Central fovea", "Optic disc"],
+    "answer": "Central fovea",
+    "explanation": "The central fovea is a specially differentiated spot in the retina posteriorly which consists only of photosensitive cones but is devoid of photoreceptor rods and blood vessels [1]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the normal range for intraocular pressure?",
+    "options": ["5-10 mmHg", "15-20 mmHg", "25-30 mmHg", "10-15 mmHg"],
+    "answer": "15-20 mmHg",
+    "explanation": "The intraocular pressure is normally 15-20 mmHg and depends upon the rate of aqueous production and on the resistance in the outflow system [2]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which condition is a developmental disorder occurring in premature infants who have been given oxygen-therapy at birth?",
+    "options": ["Retinitis pigmentosa", "Retrolental fibroplasia", "Sympathetic ophthalmia", "Trachoma"],
+    "answer": "Retrolental fibroplasia",
+    "explanation": "Retrolental fibroplasia (retinopathy of prematurity) is a developmental disorder occurring in premature infants who have been given oxygen-therapy at birth [3]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following are components of the uveal tract?",
+    "options": ["Cornea", "Choroid", "Ciliary body", "Iris"],
+    "answer": ["Choroid", "Ciliary body", "Iris"],
+    "explanation": "The uveal tract consists of 3 parts—the choroid and ciliary body posteriorly, and the iris anteriorly [4]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which pathogenetic mechanisms are responsible for retinal detachment?",
+    "options": [
+      "Traction on the retina due to processes in the vitreous",
+      "Collection of serous fluid in the sub-retinal space",
+      "Accumulation of vitreous under the retina through a tear",
+      "Degeneration of the sclera"
+    ],
+    "answer": [
+      "Traction on the retina due to processes in the vitreous",
+      "Collection of serous fluid in the sub-retinal space",
+      "Accumulation of vitreous under the retina through a tear"
+    ],
+    "explanation": "There are 3 pathogenetic mechanisms of retinal detachment: pathologic processes causing traction, collection of serous fluid from inflammation or tumour, and accumulation of vitreous through a hole or tear [5]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Retrolental fibroplasia results in vaso-obliteration followed by neovascularisation.",
+    "reason": "Retinal blood vessels in premature infants are extremely sensitive to high doses of oxygen-therapy.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "Premature retinal vessels are sensitive to oxygen; exposure causes vaso-obliteration, and stoppage causes vaso-proliferation and neovascularisation [3]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Papilloedema results from increased intracranial pressure.",
+    "reason": "The subarachnoid space of the brain is anatomically continued around the optic nerve.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "Papilloedema is oedema of the optic disc resulting from increased intracranial pressure because the pressure is passed onto the disc via the continued subarachnoid space [6]."
+  },
+  {
+    "type": "match_columns",
+    "question": "Match the inflammatory condition of the eye with the tissue it primarily affects:",
+    "left": ["Stye", "Chalazion", "Uveitis", "Panophthalmitis"],
+    "right": [
+      "Sebaceous glands of Zeis",
+      "Meibomian glands",
+      "Uveal tract",
+      "Retina, choroid, and sclera extending to orbit"
+    ],
+    "answer": {
+      "Stye": "Sebaceous glands of Zeis",
+      "Chalazion": "Meibomian glands",
+      "Uveitis": "Uveal tract",
+      "Panophthalmitis": "Retina, choroid, and sclera extending to orbit"
+    },
+    "explanation": "Stye affects Zeis/Moll glands, Chalazion affects Meibomian glands, Uveitis affects the uveal tract, and Panophthalmitis involves multiple layers extending to the orbit [7-9]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which organism is responsible for causing Trachoma, a leading cause of blindness in developing countries?",
+    "options": ["C. trachomatis", "C. oculogenitalis", "T. pallidum", "K. rhinoscleromatis"],
+    "answer": "C. trachomatis",
+    "explanation": "Trachoma is caused by C. trachomatis and is responsible for blindness on a large scale in developing countries [10]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the hallmark histological appearance of a Chalazion?",
+    "options": ["Flexner-Wintersteiner rosettes", "Mikulicz cells", "Lipogranuloma", "Atypical lymphocytes"],
+    "answer": "Lipogranuloma",
+    "explanation": "Histologically, the chalazion gives the appearance of a chronic inflammatory granuloma located in the tarsus and contains fat globules, giving the appearance of a lipogranuloma [8]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following are features of background (non-proliferative) diabetic retinopathy?",
+    "options": [
+      "Neovascularisation at the optic disc",
+      "Capillary microaneurysms",
+      "Soft 'cotton-wool spots'",
+      "Dot and blot haemorrhages"
+    ],
+    "answer": [
+      "Capillary microaneurysms",
+      "Soft 'cotton-wool spots'",
+      "Dot and blot haemorrhages"
+    ],
+    "explanation": "Background retinopathy includes capillary microaneurysms, dot and blot haemorrhages, soft cotton-wool spots, and waxy exudates; neovascularisation is a feature of proliferative retinopathy [11, 12]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Diabetic retinopathy is directly correlated with Kimmelstiel-Wilson nephropathy.",
+    "reason": "Proliferative retinopathy results from severe ischaemia and chronic hypoxia leading to angiogenic factor secretion.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason does not explain Assertion",
+    "explanation": "Both statements are factually correct within the text, but the pathogenetic mechanism of proliferative retinopathy is not the reason for the correlation with nephropathy [12, 13]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which grade of hypertensive retinopathy features 'macular star' and 'flame-shaped' haemorrhages?",
+    "options": ["Grade I", "Grade II", "Hypertensive Retinopathy in general", "Grade IV only"],
+    "answer": "Hypertensive Retinopathy in general",
+    "explanation": "Features of hypertensive retinopathy include flame-shaped haemorrhages, macular star, cotton-wool spots, and microaneurysms [14]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "In the Callender classification of uveal malignant melanoma, which type has the most favourable prognosis (85% 10-year survival)?",
+    "options": ["Spindle A", "Spindle B", "Epithelioid", "Mixed cell type"],
+    "answer": "Spindle A",
+    "explanation": "Spindle A melanoma is composed of uniform, spindle-shaped cells with indistinct nucleoli and carries the most favourable prognosis [15]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following are causes of Cataract?",
+    "options": ["Diabetes mellitus", "Rubella", "Corticosteroid therapy", "Hypertension"],
+    "answer": ["Diabetes mellitus", "Rubella", "Corticosteroid therapy"],
+    "explanation": "Cataract causes include senility, congenital causes (rubella, Down syndrome), metabolic causes (diabetes), and drugs like corticosteroids [16]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which type of Primary Glaucoma is usually a genetically-determined disease and is more common?",
+    "options": [
+      "Primary angle-closure glaucoma",
+      "Secondary glaucoma",
+      "Primary open-angle glaucoma",
+      "Congenital glaucoma"
+    ],
+    "answer": "Primary open-angle glaucoma",
+    "explanation": "Primary open-angle glaucoma (chronic simple glaucoma) is the more common type and is usually a genetically-determined disease [17]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Sjögren’s syndrome is characterised by a triad of which conditions?",
+    "options": ["Keratoconjunctivitis sicca", "Xerostomia", "Rheumatoid arthritis", "Cataract"],
+    "answer": ["Keratoconjunctivitis sicca", "Xerostomia", "Rheumatoid arthritis"],
+    "explanation": "Sjögren’s syndrome is characterised by a triad of keratoconjunctivitis sicca, xerostomia, and rheumatoid arthritis [18]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Where is the most frequent site of Sebaceous Carcinoma in the eye?",
+    "options": ["Lower eyelid", "Upper eyelid", "Conjunctiva", "Lacrimal gland"],
+    "answer": "Upper eyelid",
+    "explanation": "Sebaceous carcinoma is the most frequent tumour of the eyelid next to basal cell carcinoma and is seen mostly in the upper eyelid [19]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which features are characteristic of Familial Retinoblastoma?",
+    "options": [
+      "Transmitted as an autosomal dominant trait",
+      "Associated with RB gene on chromosome 13",
+      "Often multiple and multifocal",
+      "Higher risk of osteogenic sarcoma"
+    ],
+    "answer": [
+      "Transmitted as an autosomal dominant trait",
+      "Associated with RB gene on chromosome 13",
+      "Often multiple and multifocal",
+      "Higher risk of osteogenic sarcoma"
+    ],
+    "explanation": "Familial retinoblastoma (40%) is autosomal dominant (RB gene, chromosome 13), often multifocal/bilateral, and increases the risk of second primary tumours like osteogenic sarcoma [20]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is 'Leukokoria'?",
+    "options": ["Cloudy lens", "White pupillary reflex", "Red eye", "Swollen optic disc"],
+    "answer": "White pupillary reflex",
+    "explanation": "Retinoblastoma clinically presents with leukokoria i.e. white pupillary reflex [20]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Retinoblastoma tumours may contain which types of rosettes?",
+    "options": [
+      "Flexner-Wintersteiner rosettes",
+      "Homer-Wright rosettes",
+      "Call-Exner rosettes",
+      "Psammoma bodies"
+    ],
+    "answer": ["Flexner-Wintersteiner rosettes", "Homer-Wright rosettes"],
+    "explanation": "Microscopically, retinoblastoma tumour cells may be arranged in Flexner-Wintersteiner or Homer-Wright rosettes [21]."
+  },
+  {
+    "type": "match_columns",
+    "question": "Contrast Uveal Melanoma and Retinoblastoma:",
+    "left": [
+      "Uveal Melanoma Age",
+      "Retinoblastoma Age",
+      "Uveal Melanoma Cell Origin",
+      "Retinoblastoma Cell Origin"
+    ],
+    "right": [">50 years", "Birth to 4 years", "Melanocytes", "Retinal neurons"],
+    "answer": {
+      "Uveal Melanoma Age": ">50 years",
+      "Retinoblastoma Age": "Birth to 4 years",
+      "Uveal Melanoma Cell Origin": "Melanocytes",
+      "Retinoblastoma Cell Origin": "Retinal neurons"
+    },
+    "explanation": "Uveal melanoma affects adults (>50) and originates from melanocytes, while retinoblastoma affects children (<4) and originates from retinal neurons [22]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which organisms are common causes of Acute Otitis Media?",
+    "options": [
+      "Streptococcus pneumoniae",
+      "Haemophilus influenzae",
+      "β-Streptococcus haemolyticus",
+      "Chlamydia trachomatis"
+    ],
+    "answer": [
+      "Streptococcus pneumoniae",
+      "Haemophilus influenzae",
+      "β-Streptococcus haemolyticus"
+    ],
+    "explanation": "Common causative organisms for otitis media are Streptococcus pneumoniae, Haemophilus influenzae, and β-Streptococcus haemolyticus [23]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the acquired deformity of the external ear caused by repeated trauma in boxers known as?",
+    "options": ["Otosclerosis", "Cauliflower ear", "Aural polyp", "Relapsing polychondritis"],
+    "answer": "Cauliflower ear",
+    "explanation": "Cauliflower ear is an acquired deformity of the external ear due to degeneration of cartilage from repeated trauma [24]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which condition presents as a 'painful nodule of the ear' where skin is in direct contact with cartilage?",
+    "options": [
+      "Chondrodermatitis nodularis chronica helicis",
+      "Relapsing polychondritis",
+      "Cauliflower ear",
+      "Acoustic neuroma"
+    ],
+    "answer": "Chondrodermatitis nodularis chronica helicis",
+    "explanation": "Chondrodermatitis nodularis chronica helicis involves the external ear superficially and presents as a 'painful nodule of the ear' [25]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which middle ear lesion is a post-inflammatory 'pseudotumour' consisting of a keratin-filled cyst and cholesterol crystals?",
+    "options": [
+      "Jugular paraganglioma",
+      "Acoustic neuroma",
+      "Cholesteatoma",
+      "Aural polyp"
+    ],
+    "answer": "Cholesteatoma",
+    "explanation": "Cholesteatoma (keratoma) is a post-inflammatory 'pseudotumour' containing keratin material, cholesterol clefts, and giant cells [26, 27]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Acoustic Neuroma compression of neighbouring tissues may lead to which of the following?",
+    "options": [
+      "Deafness",
+      "Tinnitus",
+      "Paralysis of 5th and 7th nerves",
+      "Hydrocephalus"
+    ],
+    "answer": [
+      "Deafness",
+      "Tinnitus",
+      "Paralysis of 5th and 7th nerves",
+      "Hydrocephalus"
+    ],
+    "explanation": "Acoustic neuroma (Schwannoma of 8th nerve) can compress surrounding tissues leading to deafness, tinnitus, nerve paralysis, and hydrocephalus [28]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the characteristic histological finding in Rhinoscleroma?",
+    "options": [
+      "Reed-Sternberg cells",
+      "Mikulicz cells",
+      "Downey cells",
+      "Flexner rosettes"
+    ],
+    "answer": "Mikulicz cells",
+    "explanation": "In rhinoscleroma, there is extensive infiltration by foamy histiocytes containing the Klebsiella organisms, known as Mikulicz cells [29]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Rhinosporidiosis is caused by Rhinosporidium seeberi and typically presents in which tissue?",
+    "options": ["Vocal cords", "Nasal polyp", "Middle ear", "Optic disc"],
+    "answer": "Nasal polyp",
+    "explanation": "Rhinosporidiosis is caused by a fungus and typically occurs in a nasal polyp [30]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following are histologic variants of Nasopharyngeal Carcinoma?",
+    "options": [
+      "Keratinising squamous cell carcinoma",
+      "Non-keratinising squamous cell carcinoma",
+      "Undifferentiated (transitional cell) carcinoma",
+      "Adenocarcinoma"
+    ],
+    "answer": [
+      "Keratinising squamous cell carcinoma",
+      "Non-keratinising squamous cell carcinoma",
+      "Undifferentiated (transitional cell) carcinoma"
+    ],
+    "explanation": "Nasopharyngeal carcinoma has 3 variants: keratinising squamous cell, non-keratinising squamous cell, and undifferentiated (transitional cell) carcinoma [31]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Nasopharyngeal angiofibroma occurs exclusively in adolescent males.",
+    "reason": "Testosterone hormone plays a role in the production of this androgen-dependent tumour.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "Nasopharyngeal angiofibroma is peculiar to adolescent males, and its androgen-dependence is confirmed by immunostaining for androgen receptors [32]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "A variant of undifferentiated nasopharyngeal carcinoma infiltrated by abundant non-neoplastic mature lymphocytes is called:",
+    "options": ["Mikulicz syndrome", "Lymphoepithelioma", "Hodgkin's disease", "Inverted papilloma"],
+    "answer": "Lymphoepithelioma",
+    "explanation": "A variant of undifferentiated nasopharyngeal carcinoma is ‘lymphoepithelioma’ in which the tumour is infiltrated by abundant mature lymphocytes [33]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the term for a peritonsillar abscess occurring as a complication of acute tonsillitis?",
+    "options": ["Vincent’s angina", "Quinsy", "Ludwig’s angina", "Mucocele"],
+    "answer": "Quinsy",
+    "explanation": "Acute tonsillitis may pass on to tissues adjacent to tonsils to form periton sillar abscess or quinsy [34]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which life-threatening condition is a severe streptococcal cellulitis involving the neck, tongue, and back of the throat?",
+    "options": ["Vincent’s angina", "Ludwig’s angina", "Diphtheria", "Tonsillitis"],
+    "answer": "Ludwig’s angina",
+    "explanation": "Ludwig’s angina is a severe, acute streptococcal cellulitis involving the neck, tongue and back of the throat [35]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Diphtheria results in the formation of a pseudomembrane in which of the following locations?",
+    "options": ["Nasopharynx", "Tonsils", "Larynx", "Middle ear"],
+    "answer": ["Nasopharynx", "Tonsils", "Larynx"],
+    "explanation": "Diphtheria results in the formation of a yellowish-grey pseudomembrane in the nasopharynx, oropharynx, tonsils, larynx and trachea [36]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the most common anatomic location for laryngeal carcinoma?",
+    "options": ["Supraglottic", "Glottic", "Subglottic", "Hypopharynx"],
+    "answer": "Glottic",
+    "explanation": "Glottic is the most common location for laryngeal carcinoma, found in the region of the true vocal cords [37]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following factors are implicated in the etiology of Laryngeal Carcinoma?",
+    "options": ["Heavy smoking", "Excessive alcohol consumption", "Asbestos exposure", "HPV infection"],
+    "answer": ["Heavy smoking", "Excessive alcohol consumption", "Asbestos exposure"],
+    "explanation": "Important etiologic factors for laryngeal carcinoma include heavy smoking, alcohol, radiation, and asbestos exposure; HPV is linked to papillomas [37, 38]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Laryngeal nodules, often seen in heavy smokers or singers, are located on which part of the larynx?",
+    "options": ["Epiglottis", "True vocal cords", "Arytenoids", "Subglottic walls"],
+    "answer": "True vocal cords",
+    "explanation": "Laryngeal nodules (vocal polyps) are small polypoid swellings found on the true vocal cords [37]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which midline cervical cyst arises from the vestiges of the duct connecting the foramen caecum to the thyroid gland?",
+    "options": ["Branchial cyst", "Midline dermoid cyst", "Thyroglossal cyst", "Cystic hygroma"],
+    "answer": "Thyroglossal cyst",
+    "explanation": "Thyroglossal cyst arises from the vestiges of thyroglossal duct that connects the foramen caecum with the thyroid gland [39]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which lateral cervical cyst is characterised by stratified squamous lining and subepithelial lymphoid tissue follicles?",
+    "options": ["Parathyroid cyst", "Branchial (lymphoepithelial) cyst", "Cervical thymic cyst", "Cystic hygroma"],
+    "answer": "Branchial (lymphoepithelial) cyst",
+    "explanation": "Branchial or lymphoepithelial cyst arises from branchial clefts and has an epithelial lining and subepithelial lymphoid tissue aggregates [40]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Cystic hygroma is a diffuse lymphangioma.",
+    "reason": "It is a lateral swelling at the root of the neck containing large cavernous spaces lined by endothelium.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "Microscopically, cystic hygroma is a diffuse lymphangioma containing large cavernous spaces lined by endothelium [41]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Carotid body tumours are sensitive to changes in which of the following?",
+    "options": ["Blood pH", "Arterial oxygen tension", "Blood glucose", "Intraocular pressure"],
+    "answer": ["Blood pH", "Arterial oxygen tension"],
+    "explanation": "Carotid body tumours arise in chemoreceptor cells sensitive to changes in pH and arterial oxygen tension [42]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which neck deformity involves a contracted, shortened, and fibrous sternocleidomastoid muscle?",
+    "options": ["Torticollis", "Ludwig’s angina", "Aural polyp", "Mikulicz’s syndrome"],
+    "answer": "Torticollis",
+    "explanation": "Torticollis (wry neck) involves a contracted, shortened and fibrous sternocleidomastoid muscle [43]."
+  },
+  {
+    "type": "match_columns",
+    "question": "Match the neck lesion with its primary category:",
+    "left": ["Thyroglossal cyst", "Branchial cyst", "Carotid body tumour", "Torticollis"],
+    "right": ["Medial cyst", "Lateral cyst", "Primary tumour", "Neck deformity"],
+    "answer": {
+      "Thyroglossal cyst": "Medial cyst",
+      "Branchial cyst": "Lateral cyst",
+      "Carotid body tumour": "Primary tumour",
+      "Torticollis": "Neck deformity"
+    },
+    "explanation": "Cysts can be medial (thyroglossal) or lateral (branchial); carotid body is a primary tumour, and torticollis is a muscle deformity [39, 40, 42, 43]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Critical Thinking: Why are premature infants at risk of retinal detachment if they receive high-dose oxygen therapy?",
+    "options": [
+      "Oxygen causes immediate retinal necrosis",
+      "Oxygen causes vaso-obliteration, and subsequent stoppage leads to neovascular neovascularisation and cicatrisation",
+      "Oxygen causes glaucoma",
+      "Oxygen destroys the central fovea"
+    ],
+    "answer": "Oxygen causes vaso-obliteration, and subsequent stoppage leads to neovascular neovascularisation and cicatrisation",
+    "explanation": "Premature retinal vessels react to high oxygen by obliterating; later, vaso-proliferation leads to cicatrisation and detachment [3]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Reflective Question: Why is an 'inverted' sinonasal papilloma clinically significant for pathologists?",
+    "options": [
+      "It is always malignant",
+      "Its downward growth pattern must not be mistaken for carcinoma",
+      "It is caused by bacteria",
+      "It only occurs in children"
+    ],
+    "answer": "Its downward growth pattern must not be mistaken for carcinoma",
+    "explanation": "Inverted papilloma due to downward growth must not be mistaken for carcinoma [44]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Case Study: A 3-year-old child presents with a white pupillary reflex (leukokoria). Histology shows small cells arranged around a lumen with nuclei away from it. What is the diagnosis?",
+    "options": ["Uveal melanoma", "Cataract", "Retinoblastoma", "Endophthalmitis"],
+    "answer": "Retinoblastoma",
+    "explanation": "A white pupillary reflex in a child under 4 and Flexner-Wintersteiner rosettes (cells around a lumen) are diagnostic for retinoblastoma [20, 21]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Case Study: A 15-year-old male presents with severe nasal obstruction and epistaxis. A highly vascular mass is found in the nasopharynx. What is the likely diagnosis?",
+    "options": ["Sinonasal carcinoma", "Nasopharyngeal angiofibroma", "Rhinoscleroma", "Nasal polyp"],
+    "answer": "Nasopharyngeal angiofibroma",
+    "explanation": "A vascular benign tumour in an adolescent male nasopharynx is characteristic of nasopharyngeal angiofibroma [32]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Decision-making under pressure: A child with diphtheria develops sudden airway obstruction. This is caused by what specific pathological finding?",
+    "options": ["Tongue swelling", "Nasopharyngeal carcinoma", "Pseudomembrane in the larynx/trachea", "Glaucoma"],
+    "answer": "Pseudomembrane in the larynx/trachea",
+    "explanation": "Diphtheria results in the formation of a pseudomembrane which causes airway obstruction and dyspnoea [36]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "University-Level: In the Callender classification, Spindle B uveal melanoma is distinguished from Spindle A primarily by which feature?",
+    "options": [
+      "Presence of melanin",
+      "Plump cells with conspicuous nucleoli",
+      "Presence of Flexner rosettes",
+      "Lack of mitotic figures"
+    ],
+    "answer": "Plump cells with conspicuous nucleoli",
+    "explanation": "Spindle B melanoma is composed of larger, plump spindle cells with conspicuous nucleoli, unlike Spindle A [15, 45]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "PLAB/USMLE: A 40-year-old male with a history of Chinese descent presents with large cervical lymph node enlargement but no obvious primary tumour. Which virus should be suspected?",
+    "options": ["HPV", "EBV", "HIV", "CMV"],
+    "answer": "EBV",
+    "explanation": "Nasopharyngeal carcinoma is prevalent in Chinese populations and is virtually always associated with the Epstein-Barr virus [31]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Bias Recognition: A clinician assumes a 60-year-old male's eyelid tumor is a basal cell carcinoma because it is the 'most common'. However, the tumor is on the upper eyelid. What should they consider instead?",
+    "options": ["Sebaceous carcinoma", "Squamous cell carcinoma", "Chalazion", "Stye"],
+    "answer": "Sebaceous carcinoma",
+    "explanation": "While BCC is common overall, it is more frequent on the lower lid; sebaceous carcinoma is more frequent on the upper eyelid [19]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Problem-Solving: A patient presents with a 'saddle-nose' deformity. This suggests the destruction of which part of the nose by chronic infection?",
+    "options": ["Nasal polyps", "The septum", "Inferior turbinate", "Meibomian glands"],
+    "answer": "The septum",
+    "explanation": "Destruction or collapse of the nasal bridge/septum, often from syphilis, leads to saddle-nose deformity [46]."
+  }
+]
+}

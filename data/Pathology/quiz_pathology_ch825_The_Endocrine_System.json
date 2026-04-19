@@ -1,0 +1,723 @@
+{
+  "quiz":
+[
+  {
+    "type": "mcq_single",
+    "question": "Which of the following cells belong to the 'dispersed neuroendocrine system' and secrete polypeptide hormones?",
+    "options": [
+      "Parietal cells of the stomach",
+      "Parafollicular C cells of the thyroid",
+      "Kupffer cells of the liver",
+      "Sertoli cells of the testis"
+    ],
+    "answer": "Parafollicular C cells of the thyroid",
+    "explanation": "Parafollicular C cells of the thyroid secrete calcitonin and are part of the APUD or dispersed neuroendocrine system [1]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which hormones interact with intracellular nuclear receptors (Group II)?",
+    "options": [
+      "Insulin",
+      "Estrogen",
+      "Thyroid hormone",
+      "Cortisol"
+    ],
+    "answer": [
+      "Estrogen",
+      "Cortisol"
+    ],
+    "explanation": "Steroid hormones like estrogen and cortisol, along with vitamin derivatives, interact with intracellular nuclear receptors [2]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Sheehan’s syndrome typically manifests first as a failure of lactation following delivery.",
+    "reason": "The anterior pituitary experiences ischaemic necrosis due to hypotensive shock following pregnancy-related enlargement.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "Ischaemic necrosis of the enlarged pituitary leads to prolactin deficiency, which causes the initial failure of lactation [3]."
+  },
+  {
+    "type": "match_columns",
+    "question": "Match the pituitary cell types with the hormones they produce:",
+    "left": [
+      "Somatotrophs",
+      "Lactotrophs",
+      "Thyrotrophs",
+      "Corticotrophs"
+    ],
+    "right": [
+      "Growth Hormone (GH)",
+      "Prolactin (PRL)",
+      "Thyroid Stimulating Hormone (TSH)",
+      "Adrenocorticotropic Hormone (ACTH)"
+    ],
+    "answer": {
+      "Somatotrophs": "Growth Hormone (GH)",
+      "Lactotrophs": "Prolactin (PRL)",
+      "Thyrotrophs": "Thyroid Stimulating Hormone (TSH)",
+      "Corticotrophs": "Adrenocorticotropic Hormone (ACTH)"
+    },
+    "explanation": "These acidophil and basophil cells in the anterior pituitary have specific secretory functions [4]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which anatomical feature differentiates the posterior pituitary (neurohypophysis) from the anterior pituitary?",
+    "options": [
+      "It is an ectodermal derivative of Rathke’s pouch",
+      "It has no direct neural connection to the hypothalamus",
+      "It is a downgrowth of primitive neural tissue with direct neural connections",
+      "It is supplied primarily by the capillary portal circulation"
+    ],
+    "answer": "It is a downgrowth of primitive neural tissue with direct neural connections",
+    "explanation": "The neurohypophysis is a neural downgrowth and maintains direct neural connections superiorly with the hypothalamus [5]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "A 40-year-old male presents with enlargement of hands, a prominent lower jaw (prognathism), and kyphosis. What is the most likely cause?",
+    "options": [
+      "Gigantism",
+      "Acromegaly",
+      "Cushing's Syndrome",
+      "Thyrotoxicosis"
+    ],
+    "answer": "Acromegaly",
+    "explanation": "Acromegaly occurs due to GH excess in adults after epiphyseal closure, characterized by bony and soft tissue enlargement [6]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Diabetes insipidus is characterized by uncontrolled diuresis and polydipsia.",
+    "reason": "There is a deficiency of oxytocin which causes reabsorption of water from renal tubules.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Assertion is true, Reason is false",
+    "explanation": "Diabetes insipidus is caused by a deficiency of ADH (vasopressin), not oxytocin [7]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following are components of the 'Triple Technique' for diagnosing thyroid lesions?",
+    "options": [
+      "Physical examination/Palpation",
+      "Thyroid Function Tests",
+      "Radioactive Iodine Uptake (RAIU)",
+      "Fine Needle Aspiration Cytology (FNAC)"
+    ],
+    "answer": [
+      "Physical examination/Palpation",
+      "Fine Needle Aspiration Cytology (FNAC)"
+    ],
+    "explanation": "While several tests exist, widespread use of FNAC and palpation are highlighted as key diagnostic tools [8]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which histologic feature is pathognomonic for Craniopharyngioma?",
+    "options": [
+      "Zellballen pattern",
+      "Homer-Wright rosettes",
+      "Resemblance to ameloblastoma of the jaw",
+      "Psammoma bodies"
+    ],
+    "answer": "Resemblance to ameloblastoma of the jaw",
+    "explanation": "Craniopharyngioma histologically closely resembles ameloblastoma, containing stratified squamous epithelium and solid ameloblastic areas [9]."
+  },
+  {
+    "type": "match_columns",
+    "question": "Match the adrenal cortex layers with their primary secretions:",
+    "left": [
+      "Zona glomerulosa",
+      "Zona fasciculata",
+      "Zona reticularis"
+    ],
+    "right": [
+      "Mineralocorticoids (Aldosterone)",
+      "Glucocorticoids (Cortisol)",
+      "Sex steroids (Androgens)"
+    ],
+    "answer": {
+      "Zona glomerulosa": "Mineralocorticoids (Aldosterone)",
+      "Zona fasciculata": "Glucocorticoids (Cortisol)",
+      "Zona reticularis": "Sex steroids (Androgens)"
+    },
+    "explanation": "The three layers of the adrenal cortex have distinct functional zones for hormone synthesis [10, 11]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What differentiates 'Cushing’s Disease' from 'Cushing’s Syndrome'?",
+    "options": [
+      "Syndrome refers only to adrenal tumors",
+      "Disease refers specifically to pituitary-dependent ACTH excess",
+      "Syndrome has low ACTH levels",
+      "Disease is always caused by ectopic tumors"
+    ],
+    "answer": "Disease refers specifically to pituitary-dependent ACTH excess",
+    "explanation": "Cushing's disease is the specific term for cases caused by excessive pituitary ACTH secretion [12]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Pheochromocytoma is often called a 'chromaffin tumor'.",
+    "reason": "The tumor turns brown-black when immersed in dichromate fixative due to oxidation of catecholamines.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "The name is derived from the dark color produced by the chromaffin reaction with catecholamines [13, 14]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which syndrome is associated with a 'buffalo hump' and 'moon-face'?",
+    "options": [
+      "Conn’s Syndrome",
+      "Addison’s Disease",
+      "Cushing’s Syndrome",
+      "Waterhouse-Friderichsen Syndrome"
+    ],
+    "answer": "Cushing’s Syndrome",
+    "explanation": "Cushing's syndrome is characterized by truncal obesity, buffalo hump, and rounded moon-face [15]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which findings are characteristic of Primary Hyperaldosteronism (Conn’s Syndrome)?",
+    "options": [
+      "Hypertension",
+      "Hyperkalaemia",
+      "Hypokalaemia",
+      "Low plasma renin levels"
+    ],
+    "answer": [
+      "Hypertension",
+      "Hypokalaemia",
+      "Low plasma renin levels"
+    ],
+    "explanation": "Conn's syndrome involves sodium retention (leading to hypertension and low renin) and potassium loss (hypokalaemia) [16, 17]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "A patient presents with hyperpigmentation, hypotension, and episodes of hypoglycemia. Which diagnosis is most likely?",
+    "options": [
+      "Primary Hyperaldosteronism",
+      "Addison’s Disease",
+      "Diabetes Mellitus",
+      "Graves' Disease"
+    ],
+    "answer": "Addison’s Disease",
+    "explanation": "Chronic primary adrenocortical insufficiency (Addison's) presents with weakness, hyperpigmentation, and hypotension [18]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Neuroblastoma is characterized by early and wide metastatic spread.",
+    "reason": "Metastases involve the skull, liver, and lungs through hematogenous and lymphatic routes.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "Neuroblastoma is a common malignant tumor in children that metastasizes rapidly [19, 20]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which histologic feature is pathognomonic for Neuroblastoma?",
+    "options": [
+      "Psammoma bodies",
+      "Homer-Wright rosettes",
+      "Zellballen pattern",
+      "Hurthle cells"
+    ],
+    "answer": "Homer-Wright rosettes",
+    "explanation": "Homer-Wright rosettes (pseudorosettes) are a classic microscopic feature of neuroblastoma [21]."
+  },
+  {
+    "type": "match_columns",
+    "question": "Match the thyroid functional state with its histological appearance:",
+    "left": [
+      "Resting phase",
+      "Secretory phase",
+      "Resorptive phase"
+    ],
+    "right": [
+      "Flattened cells, deeply staining homogeneous colloid",
+      "Cuboidal epithelium, moderately dark pink colloid",
+      "Columnar epithelium, scalloped colloid"
+    ],
+    "answer": {
+      "Resting phase": "Flattened cells, deeply staining homogeneous colloid",
+      "Secretory phase": "Cuboidal epithelium, moderately dark pink colloid",
+      "Resorptive phase": "Columnar epithelium, scalloped colloid"
+    },
+    "explanation": "Thyroid follicle cells change shape and colloid appearance based on their functional state [22]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which of the following is the most common cause of 'Thyroid Storm'?",
+    "options": [
+      "Untreated Hypothyroidism",
+      "Subtotal thyroidectomy in an uncontrolled hyperthyroid patient",
+      "Excessive iodine intake",
+      "Chronic Hashimoto's thyroiditis"
+    ],
+    "answer": "Subtotal thyroidectomy in an uncontrolled hyperthyroid patient",
+    "explanation": "Thyroid storm is a sudden spurt in hyperthyroid severity, often triggered by surgery or acute stress in hyperthyroid patients [23]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "What are the cardinal clinical features of Cretinism?",
+    "options": [
+      "Increased BMR",
+      "Mental retardation",
+      "Dwarfism",
+      "Protuberant tongue"
+    ],
+    "answer": [
+      "Mental retardation",
+      "Dwarfism",
+      "Protuberant tongue"
+    ],
+    "explanation": "Congenital hypothyroidism (Cretinism) leads to physical and mental growth retardation [24, 25]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Hashimoto’s thyroiditis is the most common cause of goitrous hypothyroidism in iodine-sufficient regions.",
+    "reason": "It is an autoimmune disease where TSH-receptor antibodies inhibit TSH, leading to thyroid cell depression.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "Autoimmune destruction and inhibitory antibodies lead to the clinical state of hypothyroidism in Hashimoto's [26, 27]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which cells are degenerated follicular epithelial cells with abundant eosinophilic granular cytoplasm found in Hashimoto’s thyroiditis?",
+    "options": [
+      "Chief cells",
+      "Pituicytes",
+      "Hurthle cells",
+      "C-cells"
+    ],
+    "answer": "Hurthle cells",
+    "explanation": "Hurthle (Askanazy) cells are characteristic of Hashimoto's thyroiditis [28]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which thyroid condition presents with a 'stony-hard' gland that adheres to adjacent neck structures?",
+    "options": [
+      "Graves' Disease",
+      "de Quervain’s Thyroiditis",
+      "Riedel’s Thyroiditis",
+      "Follicular Adenoma"
+    ],
+    "answer": "Riedel’s Thyroiditis",
+    "explanation": "Riedel's thyroiditis is a rare fibrous thyroiditis characterized by a hard, invasive gland [29]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following are part of the 'Graves’ triad'?",
+    "options": [
+      "Hyperthyroidism",
+      "Ophthalmopathy",
+      "Hyperpigmentation",
+      "Diffuse thyroid enlargement"
+    ],
+    "answer": [
+      "Hyperthyroidism",
+      "Ophthalmopathy",
+      "Diffuse thyroid enlargement"
+    ],
+    "explanation": "Graves' disease is characterized by hyperthyroidism, goitre, and exophthalmos [30]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Dietary lack of iodine is the most common cause of goitre.",
+    "reason": "Iodine deficiency causes excessive TSH stimulation, leading to follicular hyperplasia.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "TSH rises in response to low thyroid hormones, stimulating gland enlargement as a compensatory mechanism [31]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the most common benign thyroid tumor?",
+    "options": [
+      "Papillary Adenoma",
+      "Follicular Adenoma",
+      "Teratoma",
+      "Insulinoma"
+    ],
+    "answer": "Follicular Adenoma",
+    "explanation": "Follicular adenoma is the most common benign thyroid neoplasm [32]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which thyroid carcinoma is associated with psammoma bodies and 'ground glass' nuclei?",
+    "options": [
+      "Follicular Carcinoma",
+      "Medullary Carcinoma",
+      "Papillary Carcinoma",
+      "Anaplastic Carcinoma"
+    ],
+    "answer": "Papillary Carcinoma",
+    "explanation": "Papillary carcinoma is characterized by ground-glass (optically clear) nuclei and concentric calcified psammoma bodies [33, 34]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which features distinguish Medullary Thyroid Carcinoma?",
+    "options": [
+      "Secretion of calcitonin",
+      "Derived from follicular cells",
+      "Amyloid stroma",
+      "Familial occurrence (MEN II)"
+    ],
+    "answer": [
+      "Secretion of calcitonin",
+      "Amyloid stroma",
+      "Familial occurrence (MEN II)"
+    ],
+    "explanation": "Medullary carcinoma is derived from C-cells, secretes calcitonin, and contains amyloid [35, 36]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Anaplastic carcinoma is one of the most malignant tumors in humans.",
+    "reason": "It occurs primarily in young children and responds well to surgery.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Assertion is true, Reason is false",
+    "explanation": "Anaplastic carcinoma is highly malignant but occurs in old age and has a very poor prognosis [37, 38]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which hormone acts to elevate serum calcium levels and reduce serum phosphate?",
+    "options": [
+      "Calcitonin",
+      "Thyroxine",
+      "Parathormone (PTH)",
+      "Insulin"
+    ],
+    "answer": "Parathormone (PTH)",
+    "explanation": "PTH regulates calcium by stimulating bone resorption and renal reabsorption [39]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the main biochemical abnormality in Secondary Hyperparathyroidism?",
+    "options": [
+      "Hypercalcaemia",
+      "Hypocalcaemia",
+      "Hypophosphataemia",
+      "Hypercalciuria"
+    ],
+    "answer": "Hypocalcaemia",
+    "explanation": "Secondary hyperparathyroidism occurs as a compensatory response to hypocalcaemia from other diseases like renal failure [40, 41]."
+  },
+  {
+    "type": "match_columns",
+    "question": "Match the pancreatic islet cells with their secretions:",
+    "left": [
+      "Beta (β) cells",
+      "Alpha (α) cells",
+      "Delta (δ) cells",
+      "PP cells"
+    ],
+    "right": [
+      "Insulin",
+      "Glucagon",
+      "Somatostatin",
+      "Pancreatic polypeptide"
+    ],
+    "answer": {
+      "Beta (β) cells": "Insulin",
+      "Alpha (α) cells": "Glucagon",
+      "Delta (δ) cells": "Somatostatin",
+      "PP cells": "Pancreatic polypeptide"
+    },
+    "explanation": "The islets of Langerhans contain multiple cell types with specific metabolic functions [42]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which diagnostic criterion is currently used for a definitive diagnosis of Diabetes Mellitus?",
+    "options": [
+      "Fasting plasma glucose > 100 mg/dl",
+      "Random plasma glucose > 150 mg/dl",
+      "Fasting plasma glucose ≥ 126 mg/dl",
+      "HbA1C < 6%"
+    ],
+    "answer": "Fasting plasma glucose ≥ 126 mg/dl",
+    "explanation": "A fasting value of 126 mg/dl or more is indicative of diabetes [43, 44]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Type 1 DM is characterized by absolute insulin deficiency.",
+    "reason": "It involves immune-mediated destruction of pancreatic Beta-cells, often triggered by environmental factors.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "Beta-cell destruction leads to the total loss of insulin production in Type 1 DM [45, 46]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the metabolic hallmark of Type 2 DM?",
+    "options": [
+      "Absolute insulin deficiency",
+      "Autoimmune destruction of islets",
+      "Insulin resistance and impaired insulin secretion",
+      "Persistent ketoacidosis"
+    ],
+    "answer": "Insulin resistance and impaired insulin secretion",
+    "explanation": "Type 2 DM involves a failure of tissues to respond to insulin combined with inadequate beta-cell compensation [47]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following are 'microvascular' complications of Diabetes?",
+    "options": [
+      "Atherosclerosis",
+      "Retinopathy",
+      "Nephropathy",
+      "Neuropathy"
+    ],
+    "answer": [
+      "Retinopathy",
+      "Nephropathy",
+      "Neuropathy"
+    ],
+    "explanation": "Retinopathy, nephropathy, and neuropathy are classic microvascular complications [48]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which biochemical process leads to the thickening of the vascular basement membrane in diabetics?",
+    "options": [
+      "Lipolysis",
+      "Non-enzymatic protein glycosylation",
+      "Iodine trapping",
+      "Amylin deposition"
+    ],
+    "answer": "Non-enzymatic protein glycosylation",
+    "explanation": "Glycosylation leads to Advanced Glycosylation End-products (AGEs) which thicken the basement membrane [49]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "A diabetic patient presents with deep, fast breathing and mental confusion. Lab tests show ketonuria. What is the most likely acute complication?",
+    "options": [
+      "Hypoglycaemia",
+      "Hyperosmolar nonketotic coma",
+      "Diabetic ketoacidosis (DKA)",
+      "Somogyi’s effect"
+    ],
+    "answer": "Diabetic ketoacidosis (DKA)",
+    "explanation": "DKA is characterized by ketonaemia, ketonuria, metabolic acidosis, and respiratory distress [50]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Glycosylated haemoglobin (HbA1C) is used for monitoring long-term glycaemic control.",
+    "reason": "The non-enzymatic glycosylation of haemoglobin reflects glucose levels over the preceding 90-120 days.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "HbA1C provides an estimate of control for the duration of the red cell lifespan [51]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which islet cell tumor is associated with the Zollinger-Ellison syndrome triad?",
+    "options": [
+      "Insulinoma",
+      "Glucagonoma",
+      "Gastrinoma",
+      "Somatostatinoma"
+    ],
+    "answer": "Gastrinoma",
+    "explanation": "Gastrinoma produces hypergastrinaemia, leading to fulminant peptic ulcer disease [52]."
+  },
+  {
+    "type": "match_columns",
+    "question": "Match the MEN syndrome with its characteristic components:",
+    "left": [
+      "MEN Type 1",
+      "MEN Type 2A",
+      "MEN Type 2B"
+    ],
+    "right": [
+      "Pituitary, Parathyroid, and Pancreatic islets",
+      "Medullary Thyroid Ca, Pheochromocytoma, and Hyperparathyroidism",
+      "Medullary Thyroid Ca, Pheochromocytoma, and Mucosal neuromas"
+    ],
+    "answer": {
+      "MEN Type 1": "Pituitary, Parathyroid, and Pancreatic islets",
+      "MEN Type 2A": "Medullary Thyroid Ca, Pheochromocytoma, and Hyperparathyroidism",
+      "MEN Type 2B": "Medullary Thyroid Ca, Pheochromocytoma, and Mucosal neuromas"
+    },
+    "explanation": "Multiple Endocrine Neoplasia syndromes involve specific combinations of endocrine adenomas [53-55]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Critical Thinking: A clinician observes a patient with retarded growth and poor genital development. Mentally, the patient appears normal for their age. Which pitfall should the clinician avoid?",
+    "options": [
+      "Assuming it is cretinism",
+      "Diagnosing dwarfism without checking for achondroplasia",
+      "Ignoring the possibility of pituitary dwarfism",
+      "All of the above"
+    ],
+    "answer": "All of the above",
+    "explanation": "Pituitary dwarfism must be distinguished from hypothyroid dwarfism (cretinism), where mental retardation is present, to ensure correct hormonal therapy [56]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Case Study: A 28-year-old female experiences severe postpartum hemorrhage. Weeks later, she is unable to breastfeed her newborn. What is the most likely pathological finding in the pituitary?",
+    "options": [
+      "Prolactinoma",
+      "Ischaemic necrosis and haemorrhage",
+      "ACTH-secreting adenoma",
+      "Craniopharyngioma"
+    ],
+    "answer": "Ischaemic necrosis and haemorrhage",
+    "explanation": "Postpartum ischaemic necrosis (Sheehan's syndrome) caused by hypotensive shock leads to multiple hormone deficiencies, initially affecting lactation [3, 57]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "University Exam Question: Which microscopic pattern of a pituitary adenoma consists of columnar cells arranged about fibrovascular papillae?",
+    "options": [
+      "Diffuse pattern",
+      "Sinusoidal pattern",
+      "Papillary pattern",
+      "Zellballen pattern"
+    ],
+    "answer": "Papillary pattern",
+    "explanation": "The papillary pattern involves tumor cells arranged around fibrovascular papillae [58]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "PLAB/USMLE Pattern: A 50-year-old female presents with a firm, painless goitre. Histology shows Hurthle cells and lymphoid follicles with germinal centres. What is the diagnosis?",
+    "options": [
+      "Graves' Disease",
+      "Hashimoto's Thyroiditis",
+      "Follicular Carcinoma",
+      "Subacute Granulomatous Thyroiditis"
+    ],
+    "answer": "Hashimoto's Thyroiditis",
+    "explanation": "Lymphocytic infiltration, germinal centres, and Hurthle cells are classic features of Hashimoto’s [28, 59]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Bias Recognition: A clinician assumes an elderly patient's sudden onset of confusion and sweating is always a sign of a stroke. Lab tests show blood glucose at 45 mg/dl. What bias may have occurred?",
+    "options": [
+      "Anchoring bias toward common neurological events",
+      "Ignoring the possibility of insulinoma or reactive hypoglycaemia",
+      "Confirming a diagnosis without metabolic screening",
+      "All of the above"
+    ],
+    "answer": "All of the above",
+    "explanation": "Clinicians must recognize metabolic causes of CNS symptoms, such as hypoglycemia from insulinoma, which can mimic neurological events [60]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which of the following is true regarding 'Amyloid stroma' in thyroid lesions?",
+    "options": [
+      "It is found in Papillary Carcinoma",
+      "It represents stored calcitonin in Medullary Carcinoma",
+      "It is a feature of toxic goitre",
+      "It indicates Graves' disease"
+    ],
+    "answer": "It represents stored calcitonin in Medullary Carcinoma",
+    "explanation": "Amyloid deposits in medullary carcinoma are derived from neoplastic C-cells [61]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the primary function of the C-peptide assay?",
+    "options": [
+      "To measure exogenous insulin levels",
+      "To distinguish endogenous insulin production from injected insulin",
+      "To diagnose thyroid carcinoma",
+      "To monitor ADH levels"
+    ],
+    "answer": "To distinguish endogenous insulin production from injected insulin",
+    "explanation": "C-peptide is released in equimolar quantities with insulin during endogenous synthesis and is not present in injected insulin [62, 63]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which are the metabolic syndrome (Syndrome X) features?",
+    "options": [
+      "Central obesity",
+      "Hypotension",
+      "Hypertriglyceridaemia",
+      "Hyperglycaemia"
+    ],
+    "answer": [
+      "Central obesity",
+      "Hypertriglyceridaemia",
+      "Hyperglycaemia"
+    ],
+    "explanation": "Metabolic syndrome includes obesity, hyperglycaemia, hypertriglyceridaemia, and hypertension [64]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which of the following describes the 'Somogyi effect' in diabetes management?",
+    "options": [
+      "Permanent brain damage from ketoacidosis",
+      "Rebound hyperglycaemia following a hypoglycaemic episode",
+      "The failure of insulin receptors",
+      "Increased hepatic synthesis of glucose"
+    ],
+    "answer": "Rebound hyperglycaemia following a hypoglycaemic episode",
+    "explanation": "Hypoglycaemic episodes in Type 1 DM can lead to worsening control and rebound hyperglycaemia [65]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Case Study: A patient with an 'oat cell' carcinoma of the lung develops hyponatraemia and concentrated urine. What is the most likely endocrine complication?",
+    "options": [
+      "Diabetes Insipidus",
+      "Inappropriate release of ADH (SIADH)",
+      "Cushing's Syndrome",
+      "Primary Hyperparathyroidism"
+    ],
+    "answer": "Inappropriate release of ADH (SIADH)",
+    "explanation": "SIADH often occurs as a paraneoplastic syndrome in small cell (oat cell) carcinoma of the lung [66]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Reflective Question: Why might Type 2 DM be considered more 'complex' than Type 1 DM despite not requiring immediate insulin in all cases?",
+    "options": [
+      "It involves autoimmune destruction",
+      "It has a higher concordance in identical twins and involves multifactorial inheritance",
+      "It is always caused by a single gene mutation",
+      "It is easily cured with diet alone"
+    ],
+    "answer": "It has a higher concordance in identical twins and involves multifactorial inheritance",
+    "explanation": "Type 2 DM has a stronger genetic component (80% concordance) and a more complex pathogenesis involving resistance and secretion failures [47, 67, 68]."
+  }
+]
+}

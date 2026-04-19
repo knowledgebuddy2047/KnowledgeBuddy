@@ -1,0 +1,403 @@
+
+{
+  "quiz":
+
+[
+  {
+    "type": "mcq_single",
+    "question": "What is the average weight of a normal adult right lung?",
+    "options": ["400 gm", "450 gm", "550 gm", "325 gm"],
+    "answer": "450 gm",
+    "explanation": "The normal adult right lung weighs between 375 to 550 gm, with an average of 450 gm [1]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which part of the lung tissue is defined as the area distal to a terminal bronchiole?",
+    "options": ["Pulmonary lobule", "Acinus", "Alveolar sac", "Respiratory bronchiole"],
+    "answer": "Acinus",
+    "explanation": "The lung tissue distal to a terminal bronchiole is called an acinus [2]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which type of alveolar epithelial cell acts as a reserve cell and produces pulmonary surfactant?",
+    "options": ["Type I pneumocyte", "Clara cell", "Type II pneumocyte", "Alveolar macrophage"],
+    "answer": "Type II pneumocyte",
+    "explanation": "Type II or granular pneumocytes are reserve cells that undergo hyperplasia when Type I cells are injured and are the source of surfactant [3, 4]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following are components of an acinus?",
+    "options": ["Respiratory bronchioles", "Terminal bronchioles", "Alveolar ducts", "Alveolar sacs"],
+    "answer": ["Respiratory bronchioles", "Alveolar ducts", "Alveolar sacs"],
+    "explanation": "An acinus consists of respiratory bronchioles, alveolar ducts, and alveolar sacs [2, 5]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the primary function of pulmonary surfactant?",
+    "options": ["Immune defense", "Gas exchange", "Lowering surface tension", "Filtering pollutants"],
+    "answer": "Lowering surface tension",
+    "explanation": "The main functions of surfactant are to lower surface tension and maintain alveolar stability [4]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "A single large congenital cyst occupying almost an entire lung lobe is called a:",
+    "options": ["Sequestration", "Pneumatocele", "Honey-comb lung", "Hamartoma"],
+    "answer": "Pneumatocele",
+    "explanation": "A single large congenital cyst occupying almost a lobe is termed a pneumatocele [6]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What defines 'Extralobar sequestration' in pediatric lung disease?",
+    "options": ["Mass within the pleural covering", "Mass connected to the airway system", "Mass lying outside the pleural investing layer", "Mass supplied by pulmonary arteries"],
+    "answer": "Mass lying outside the pleural investing layer",
+    "explanation": "Extralobar sequestration is a mass of lung tissue outside the pleural layer, often at the base of the left lung or below the diaphragm [7]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Stillborn infants do not develop Hyaline Membrane Disease (HMD).",
+    "reason": "Entry of air into the alveoli is essential for the formation of the hyaline membrane.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "Entry of air is a prerequisite for the pathologic sequence that forms the hyaline membrane [8]."
+  },
+  {
+    "type": "match_columns",
+    "question": "Match the lung collapse type with its characteristic cause:",
+    "left": ["Compressive collapse", "Obstructive collapse", "Contraction collapse"],
+    "right": ["Localised fibrosis", "Massive pleural effusion", "Bronchial asthma mucus plugs"],
+    "answer": {
+      "Compressive collapse": "Massive pleural effusion",
+      "Obstructive collapse": "Bronchial asthma mucus plugs",
+      "Contraction collapse": "Localised fibrosis"
+    },
+    "explanation": "Compressive is due to external pressure; Obstructive is due to airway blockage; Contraction is due to fibrotic scarring [9, 10]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Pulmonary hypertension is defined as a systolic blood pressure in the pulmonary circulation above:",
+    "options": ["15 mmHg", "20 mmHg", "30 mmHg", "120 mmHg"],
+    "answer": "30 mmHg",
+    "explanation": "Pulmonary hypertension is defined as a systolic pressure above 30 mmHg [11]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which histologic vascular lesion is more marked in primary pulmonary hypertension than secondary types?",
+    "options": ["Medial hypertrophy", "Adventitial fibrosis", "Plexiform pulmonary arteriopathy", "Intimal thickening"],
+    "answer": "Plexiform pulmonary arteriopathy",
+    "explanation": "Plexiform lesions are characteristic intraluminal capillary tufts in dilated arteries, notably seen in primary pulmonary hypertension [12, 13]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which stage of Lobar Pneumonia is characterized by a 'liver-like' consistency and airless, red, granular cut surface?",
+    "options": ["Stage of Congestion", "Red Hepatisation", "Grey Hepatisation", "Resolution"],
+    "answer": "Red Hepatisation",
+    "explanation": "Red hepatisation features a red, firm, airless lobe with liver-like consistency on cut section [14, 15]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the term for post-pneumonic fibrosis where the lung becomes tough and leathery?",
+    "options": ["Empyema", "Carnification", "Sequestration", "Atelectasis"],
+    "answer": "Carnification",
+    "explanation": "Organization of the exudate into tough, fibrous lung tissue is called carnification [16]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Bronchopneumonia is primarily an infection of the:",
+    "options": ["Entire lobe", "Terminal bronchioles", "Pleural space", "Tracheal bifurcation"],
+    "answer": "Terminal bronchioles",
+    "explanation": "Bronchopneumonia is infection of terminal bronchioles extending into surrounding alveoli [17]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which organism is the most common cause of Interstitial Pneumonitis?",
+    "options": ["Streptococcus pneumoniae", "Legionella pneumophila", "Respiratory syncytial virus (RSV)", "Aspergillus fumigatus"],
+    "answer": "Respiratory syncytial virus (RSV)",
+    "explanation": "RSV is the most common agent causing interstitial pneumonitis [18]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following are hallmark histological features of viral pneumonia?",
+    "options": ["Alveolar exudate of neutrophils", "Interstitial inflammation", "Necrotising bronchiolitis", "Multinucleate giant cells"],
+    "answer": ["Interstitial inflammation", "Necrotising bronchiolitis", "Multinucleate giant cells"],
+    "explanation": "Viral pneumonia is characterized by interstitial inflammation, necrotizing bronchiolitis, and reactive hyperplasia forming syncytia/giant cells, notably without alveolar exudate [19-21]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which fungal infection is a nearly universal opportunistic complication in HIV/AIDS patients?",
+    "options": ["Aspergillosis", "Candidiasis", "Pneumocystis pneumonia", "Mucormycosis"],
+    "answer": "Pneumocystis pneumonia",
+    "explanation": "Almost 100% of HIV/AIDS cases develop opportunistic infections, most commonly Pneumocystis pneumonia [22]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "The 'Golden yellow' cut surface in a consolidated lung is characteristic of:",
+    "options": ["Lobar pneumonia", "Lipid pneumonia", "Bronchiectasis", "Silicosis"],
+    "answer": "Lipid pneumonia",
+    "explanation": "In exogenous lipid pneumonia, the cut surface is characteristically golden yellow [23]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Primary lung abscesses are most commonly located in the:",
+    "options": ["Left upper lobe", "Right lower lobe (apex)", "Left lower lobe", "Tracheal wall"],
+    "answer": "Right lower lobe (apex)",
+    "explanation": "Abscesses due to aspiration are most common in the right lung (due to vertical bronchus), specifically the lower part of the right upper lobe or apex of the right lower lobe [24, 25]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the clinical definition of Chronic Bronchitis?",
+    "options": ["Cough for 1 month", "Cough for 3 months in 2 consecutive years", "Narrowing of the bronchioles", "Dilatation of air spaces"],
+    "answer": "Cough for 3 months in 2 consecutive years",
+    "explanation": "Chronic bronchitis is defined as persistent cough with expectoration for at least 3 months for 2 or more consecutive years [26]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "The Reid Index is used to histologically diagnose:",
+    "options": ["Emphysema", "Bronchial asthma", "Chronic bronchitis", "Bronchiectasis"],
+    "answer": "Chronic bronchitis",
+    "explanation": "The Reid index measures the ratio of mucous gland thickness to total bronchial wall thickness in chronic bronchitis [27]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Patients with predominant emphysema are often referred to as 'Pink Puffers'.",
+    "reason": "They remain well-oxygenated but exhibit tachypnea and distressed accessory muscle use.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "Pink puffers contrast with 'Blue bloaters' (bronchitis) because they maintain oxygenation through rapid breathing [28]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which form of emphysema is specifically associated with alpha-1-antitrypsin deficiency?",
+    "options": ["Centriacinar", "Panacinar", "Paraseptal", "Irregular"],
+    "answer": "Panacinar",
+    "explanation": "Panacinar emphysema is most often associated with alpha-1-antitrypsin deficiency in smokers [29]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "The combination of Bronchiectasis, Situs Inversus, and Sinusitis is known as:",
+    "options": ["Hamman-Rich syndrome", "Caplan's syndrome", "Kartagener's syndrome", "Löeffler's syndrome"],
+    "answer": "Kartagener's syndrome",
+    "explanation": "Kartagener's syndrome is an immotile cilia syndrome featuring this specific triad [30]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which findings are characteristic of the sputum in a patient with Bronchial Asthma?",
+    "options": ["Curschmann's spirals", "Charcot-Leyden crystals", "Black pigment", "Foul-smelling muco-pus"],
+    "answer": ["Curschmann's spirals", "Charcot-Leyden crystals"],
+    "explanation": "Curschmann's spirals (twisted epithelium) and Charcot-Leyden crystals (eosinophil derived) are diagnostic for asthma [31, 32]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which of the following is an example of an 'obstructive' lung disease?",
+    "options": ["Kyphoscoliosis", "Emphysema", "Poliomyelitis", "Sarcoidosis"],
+    "answer": "Emphysema",
+    "explanation": "Emphysema is a classic COPD (obstructive) disease, while the others listed are restrictive [33]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the size threshold for dust particles that deposit most efficiently in the alveoli?",
+    "options": [">10 μm", "5-10 μm", "<1 μm", "Exactly 5 μm"],
+    "answer": "<1 μm",
+    "explanation": "Particles smaller than 1 μm are deposited in the alveoli most efficiently [34]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Simple Coal-Workers' Pneumoconiosis is characterized by the presence of:",
+    "options": ["Silicotic nodules", "Coal macules", "Asbestos bodies", "Non-caseating granulomas"],
+    "answer": "Coal macules",
+    "explanation": "Simple CWP features small, black focal lesions called coal macules [35]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the characteristic appearance of a silicotic nodule under polarizing microscopy?",
+    "options": ["Dumbbell shaped", "Birefringent silica particles", "Fungal balls", "Oat-like cells"],
+    "answer": "Birefringent silica particles",
+    "explanation": "Polariscopic examination of silicotic nodules demonstrates numerous birefringent particles [36]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which mineral fiber is considered the most carcinogenic type of asbestos?",
+    "options": ["Chrysotile (white)", "Crocidolite (blue)", "Amosite (brown)", "Tremolite"],
+    "answer": "Crocidolite (blue)",
+    "explanation": "Crocidolite is the most carcinogenic form of asbestos [37]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which condition is a combination of necrotising haemorrhagic interstitial pneumonitis and rapidly progressive glomerulonephritis?",
+    "options": ["Goodpasture's syndrome", "Wegener's granulomatosis", "Hamman-Rich syndrome", "Caplan's syndrome"],
+    "answer": "Goodpasture's syndrome",
+    "explanation": "Goodpasture's syndrome is an autoimmune condition affecting both the lungs and the kidneys [38]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which subtype of lung cancer is most strongly associated with paraneoplastic syndromes like Cushing’s (ACTH production)?",
+    "options": ["Squamous cell carcinoma", "Adenocarcinoma", "Small cell carcinoma", "Large cell carcinoma"],
+    "answer": "Small cell carcinoma",
+    "explanation": "Small cell carcinomas are most often associated with ectopic hormone production due to their neuroendocrine nature [39, 40]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Adenocarcinoma is the most common bronchogenic carcinoma in women and non-smokers.",
+    "reason": "It is frequently associated with areas of chronic scarring (scar carcinoma).",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason does not explain Assertion",
+    "explanation": "Both statements are true facts from the text, but the association with scars doesn't explain why it's more common in non-smokers/women [41, 42]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is 'Pancoast’s syndrome'?",
+    "options": ["Metastasis to the liver", "Apical lung cancer involving the brachial plexus", "Situs inversus with bronchiectasis", "Tension pneumothorax"],
+    "answer": "Apical lung cancer involving the brachial plexus",
+    "explanation": "Apical lung cancer involving the brachial plexus and sympathetic chain is called Pancoast’s syndrome [43]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which neuroendocrine marker is used to immunohistochemically identify carcinoid tumours?",
+    "options": ["Calretinin", "WT-1", "Chromogranin", "PAS"],
+    "answer": "Chromogranin",
+    "explanation": "Neuroendocrine markers like chromogranin and synaptophysin are positive in carcinoid tumours [44]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "In the TNM classification of lung cancer, what tumor size defines Stage I?",
+    "options": ["< 1 cm", "< 3 cm", "> 5 cm", "> 3 cm"],
+    "answer": "< 3 cm",
+    "explanation": "Stage I involves a tumour less than 3 cm without distant metastasis [45]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the normal volume of serous fluid in the pleural cavity?",
+    "options": ["< 1 ml", "< 15 ml", "100 ml", "300 ml"],
+    "answer": "< 15 ml",
+    "explanation": "The pleural cavity normally contains less than 15 ml of clear serous fluid [46]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What condition is defined by the accumulation of milky fluid of lymphatic origin in the pleural cavity?",
+    "options": ["Hydrothorax", "Haemothorax", "Chylothorax", "Empyema"],
+    "answer": "Chylothorax",
+    "explanation": "Chylothorax is the accumulation of milky lymphatic fluid, often due to thoracic duct rupture [47]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Malignant mesothelioma has a very poor prognosis.",
+    "reason": "50% of patients die within one year of diagnosis.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "The mortality rate within a year is a direct metric for its poor prognosis [48]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which immunomarker helps distinguish Malignant Mesothelioma from Adenocarcinoma?",
+    "options": ["Chromogranin", "Calretinin", "PAS", "GMS"],
+    "answer": "Calretinin",
+    "explanation": "Malignant mesothelioma is distinguished by calretinin, WT-1, and cytokeratin 5/6 [49]."
+  },
+  {
+    "type": "match_columns",
+    "question": "Match the occupational dust with its associated disease/finding:",
+    "left": ["Beryllium", "Cotton fiber", "Mouldy hay", "Asbestos"],
+    "right": ["Byssinosis", "Farmer's lung", "Non-caseating granulomas", "Dumbbell-shaped bodies"],
+    "answer": {
+      "Beryllium": "Non-caseating granulomas",
+      "Cotton fiber": "Byssinosis",
+      "Mouldy hay": "Farmer's lung",
+      "Asbestos": "Dumbbell-shaped bodies"
+    },
+    "explanation": "Berylliosis mimics sarcoidosis; Byssinosis is from cotton; Farmer's lung is from hay; Asbestos bodies are dumbbell-shaped [50-54]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Critical Thinking Focus: Why does aspirated foreign material tend to go into the right lung?",
+    "options": ["The right lung is larger", "The right main bronchus is more vertical", "The right lung has three lobes", "Gravity always pulls right"],
+    "answer": "The right main bronchus is more vertical",
+    "explanation": "Anatomy dictates that the verticality of the right main bronchus makes it the preferred path for aspirated objects [55]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Critical Thinking Focus: A patient presents with 'tension pneumothorax.' Why is this considered an emergency?",
+    "options": ["It causes cancer", "Air enters during inspiration but cannot escape, causing lung collapse and circulatory failure", "It indicates tuberculosis", "It leads to honey-comb lung"],
+    "answer": "Air enters during inspiration but cannot escape, causing lung collapse and circulatory failure",
+    "explanation": "The flap-valve mechanism creates pressure that shifts the mediastinum and impairs circulation [56]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Reflective Question: Why is alpha-1-antitrypsin deficiency doubly harmful in heavy smokers?",
+    "options": ["It causes liver failure and lung cancer", "It lowers anti-elastase activity while smoking increases elastase release from neutrophils", "It inhibits surfactant and increases Reid index", "It causes both pneumonia and pleurisy"],
+    "answer": "It lowers anti-elastase activity while smoking increases elastase release from neutrophils",
+    "explanation": "Smoking inhibits existing A1AT and also recruits more neutrophils, leading to a massive protease-antiprotease imbalance [57]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Case Study based quiz: A 2-month-old infant is found dead in his crib. The mother was a heavy smoker. Autopsy shows petechial hemorrhages in the lungs. What is the diagnosis?",
+    "options": ["HMD", "Bronchopulmonary dysplasia", "Sudden Infant Death Syndrome (SIDS)", "Neonatal ARDS"],
+    "answer": "Sudden Infant Death Syndrome (SIDS)",
+    "explanation": "Crib death in infants 2-6 months old associated with maternal smoking and showing lung petechiae is characteristic of SIDS [10]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Case study based quiz: A 60-year-old male with a 40 pack-year smoking history presents with persistent cough and 'blue bloater' appearance. Which index would likely be increased on biopsy?",
+    "options": ["Reid Index", "GMS Index", "TNM Index", "Schumann Index"],
+    "answer": "Reid Index",
+    "explanation": "Persistent cough in a smoker with cyanosis (blue bloater) suggests chronic bronchitis, characterized by an increased Reid index [27, 58]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "University-Level Exam question: Describe the pathognomonic feature of 'Grey Hepatisation' in Lobar Pneumonia.",
+    "options": ["Blood-stained frothy fluid", "Massive neutrophilic infiltration", "Fibrin strands replaced by macrophages and enzymatic liquefaction", "Liver-like red consistency"],
+    "answer": "Fibrin strands replaced by macrophages and enzymatic liquefaction",
+    "explanation": "While 'Grey Hepatisation' is firm and grey, it marks the transition toward resolution where enzymatic digestion begins [59-61]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "PLAB & USMLE Pattern Question: A 45-year-old shipyard worker presents with dyspnea. Chest X-ray shows 'egg-shell' calcification of hilar lymph nodes. Which exposure is most likely?",
+    "options": ["Coal dust", "Silica", "Asbestos", "Beryllium"],
+    "answer": "Silica",
+    "explanation": "Egg-shell shadows on X-ray are characteristic of silicosis [62]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "PLAB & USMLE Pattern Question: A patient with long-standing rheumatoid arthritis develops multiple lung nodules. What is this clinical constellation called?",
+    "options": ["Goodpasture's syndrome", "Caplan's syndrome", "Hamman-Rich syndrome", "Kartagener's syndrome"],
+    "answer": "Caplan's syndrome",
+    "explanation": "Caplan's syndrome is the development of rheumatoid nodules in the lungs of workers with pneumoconiosis [63]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Bias Recognition: A clinician immediately assumes a patient with a hilar mass and heavy smoking history has 'Small cell carcinoma' and decides surgery is not an option. What is the pitfall?",
+    "options": ["Missing a benign hamartoma", "Failing to biopsy to rule out Squamous Cell Carcinoma (which is resectable)", "Small cell is actually the most resectable", "The patient might have TB"],
+    "answer": "Failing to biopsy to rule out Squamous Cell Carcinoma (which is resectable)",
+    "explanation": "Assuming SCC (Small Cell) without histology could deny a patient with Squamous Cell (NSCC) a curative resection [64]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Problem-Solving: How can one differentiate between 'true emphysema' and 'overinflation' histologically?",
+    "options": ["By the amount of black pigment", "By checking for the destruction of alveolar walls", "By the patient's age", "By the Reid index"],
+    "answer": "By checking for the destruction of alveolar walls",
+    "explanation": "True emphysema requires permanent dilatation AND destruction of septal walls; overinflation lacks destruction [58, 65, 66]."
+  }
+]
+}

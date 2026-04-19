@@ -1,0 +1,401 @@
+{
+  "quiz":
+
+[
+  {
+    "type": "mcq_single",
+    "question": "What is the normal lifespan of a red blood cell (erythrocyte) in circulating blood?",
+    "options": ["8-12 hours", "8-10 days", "90-120 days", "150 days"],
+    "answer": "90-120 days",
+    "explanation": "According to the sources, erythrocytes have the longest lifespan of 90-120 days [1]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which organ is the main site of haematopoiesis in a human embryo during the first few weeks of gestation?",
+    "options": ["Liver", "Spleen", "Yolk sac", "Bone marrow"],
+    "answer": "Yolk sac",
+    "explanation": "In the human embryo, the yolk sac is the primary site of blood cell formation in the early weeks [2]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the term for haematopoiesis occurring in the spleen and liver during adult life under pathologic conditions?",
+    "options": ["Medullary haematopoiesis", "Extramedullary haematopoiesis", "Aplastic haematopoiesis", "Myelodysplasia"],
+    "answer": "Extramedullary haematopoiesis",
+    "explanation": "The resumption of foetal haematopoietic roles by the spleen and liver in adults is called extramedullary haematopoiesis [2]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which cell surface protein is a characteristic marker expressed by multipotent haematopoietic stem cells (HSC)?",
+    "options": ["CD4", "CD8", "CD34", "CD56"],
+    "answer": "CD34",
+    "explanation": "HSCs express variety of surface proteins, notably CD34, which helps them home to the bone marrow [3]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the primary site of erythropoietin production in the body?",
+    "options": ["Liver", "Bone marrow", "Kidney", "Spleen"],
+    "answer": "Kidney",
+    "explanation": "The principal site of erythropoietin production is the kidney [4]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following are cardinal functions of haematopoietic stem cells (HSC)?",
+    "options": ["Self-renewal", "Oxygen transport", "Differentiation into progenitor cells", "Antibody production"],
+    "answer": ["Self-renewal", "Differentiation into progenitor cells"],
+    "explanation": "The two cardinal functions of HSC are self-renewal and differentiation into leucocytes, erythroid cells, and platelets [3]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which growth factors regulate the production of granulocytes and monocytes?",
+    "options": ["Erythropoietin", "G-CSF", "GM-CSF", "Thrombopoietin"],
+    "answer": ["G-CSF", "GM-CSF"],
+    "explanation": "G-CSF is for granulocytes, while GM-CSF is for both granulocytes and monocyte-macrophages [3]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which proteins are critical components of the red cell membrane cytoskeleton?",
+    "options": ["Band 3 protein", "Glycophorin", "Spectrin", "Albumin"],
+    "answer": ["Band 3 protein", "Glycophorin", "Spectrin"],
+    "explanation": "Important red cell membrane proteins include band 3, glycophorin, and spectrin [5]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "A fall in pH (acidic pH) enhances the release of oxygen from erythrocytes at the tissue level.",
+    "reason": "Acidic pH lowers the affinity of oxyhaemoglobin for oxygen, a phenomenon known as the Bohr effect.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "The Bohr effect describes how acidic pH lowers oxygen affinity to facilitate tissue delivery [6]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Reticulocyte count is an accurate reflection of erythropoietic activity in the bone marrow.",
+    "reason": "Reticulocytes are juvenile red cells that still contain ribosomal RNA and are able to synthesise haemoglobin.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason does not explain Assertion",
+    "explanation": "Both statements are true based on the source, but the reason (RNA content) describes what they are, not necessarily why they reflect marrow activity (which is due to their recent release) [7]."
+  },
+  {
+    "type": "match_columns",
+    "question": "Match the following red cell indices with their normal adult values:",
+    "left": ["Mean Corpuscular Volume (MCV)", "Mean Corpuscular Haemoglobin (MCH)", "Mean Corpuscular Haemoglobin Concentration (MCHC)"],
+    "right": ["29.5 ± 2.5 pg", "32.5 ± 2.5 g/dl", "85 ± 8 fl"],
+    "answer": {
+      "Mean Corpuscular Volume (MCV)": "85 ± 8 fl",
+      "Mean Corpuscular Haemoglobin (MCH)": "29.5 ± 2.5 pg",
+      "Mean Corpuscular Haemoglobin Concentration (MCHC)": "32.5 ± 2.5 g/dl"
+    },
+    "explanation": "These are the standard absolute values derived from red cell counts and haemoglobin content [8]."
+  },
+  {
+    "type": "match_columns",
+    "question": "Match the red cell morphologic abnormality with its associated condition:",
+    "left": ["Spherocytes", "Schistocytes", "Target cells", "Sickle cells"],
+    "right": ["Microangiopathic haemolytic anaemia", "Hereditary spherocytosis", "Sickle cell disease", "Thalassaemia"],
+    "answer": {
+      "Spherocytes": "Hereditary spherocytosis",
+      "Schistocytes": "Microangiopathic haemolytic anaemia",
+      "Target cells": "Thalassaemia",
+      "Sickle cells": "Sickle cell disease"
+    },
+    "explanation": "These morphological features are characteristic diagnostic clues for specific haematologic disorders [9-11]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the mean myeloid-to-erythroid (M/E) ratio in a normal adult bone marrow?",
+    "options": ["1:1", "3:1", "10:1", "1:3"],
+    "answer": "3:1",
+    "explanation": "The normal M/E ratio ranges from 2-4:1, with a mean of 3:1 [12]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which type of haemoglobin constitutes 96-98% of the total haemoglobin in a normal adult?",
+    "options": ["HbF", "HbA2", "HbA", "HbS"],
+    "answer": "HbA",
+    "explanation": "Normal adult haemoglobin (HbA) consists of alpha-2 beta-2 chains and makes up the vast majority of adult haemoglobin [13]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "In the 'methyl-folate trap' hypothesis, deficiency of which vitamin leads to the trapping of folate in its transport form?",
+    "options": ["Vitamin C", "Vitamin B6", "Vitamin B12", "Vitamin E"],
+    "answer": "Vitamin B12",
+    "explanation": "Vitamin B12 deficiency traps folate as methyl-THF, interfering with DNA synthesis [14]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which hormone released from the liver is the main negative regulator of iron absorption and ferroportin function?",
+    "options": ["Erythropoietin", "Hepcidin", "Transferrin", "Ferritin"],
+    "answer": "Hepcidin",
+    "explanation": "The function of ferroportin is inversely regulated by hepcidin, the main iron-regulating hormone [15]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which laboratory finding is the most distinguishing feature between iron-deficiency anaemia and anaemia of chronic disease?",
+    "options": ["Serum iron", "TIBC", "Serum ferritin", "Haemoglobin"],
+    "answer": "Serum ferritin",
+    "explanation": "Serum ferritin is very low in iron deficiency but increased in anaemia of chronic disease [16-18]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the pathognomonic finding in the bone marrow for sideroblastic anaemias?",
+    "options": ["Megaloblasts", "Ringed sideroblasts", "Target cells", "Howell-Jolly bodies"],
+    "answer": "Ringed sideroblasts",
+    "explanation": "Sideroblastic anaemias are characterized by erythroid precursors showing 'ringed sideroblasts' [19]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Pernicious anaemia is specifically caused by a deficiency of which factor?",
+    "options": ["Iron", "Folic acid", "Intrinsic factor", "Erythropoietin"],
+    "answer": "Intrinsic factor",
+    "explanation": "Pernicious anaemia is megaloblastic anaemia due to intrinsic factor deficiency from atrophic gastritis [20, 21]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which test is used to demonstrate the inordinate sensitivity of red cells to complement in Paroxysmal Nocturnal Haemoglobinuria (PNH)?",
+    "options": ["Coombs’ test", "Schilling test", "Ham’s test", "Osmotic fragility test"],
+    "answer": "Ham’s test",
+    "explanation": "Ham’s test (acidified serum lysis) or sucrose haemolysis test demonstrates the complement sensitivity in PNH [22]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the primary genetic defect in Sickle Cell Anaemia (SS)?",
+    "options": ["Deletion of alpha genes", "Substitution of valine for glutamic acid", "Deficiency of G6PD", "Loss of spectrin"],
+    "answer": "Substitution of valine for glutamic acid",
+    "explanation": "Sickle cell anaemia results from a single point mutation substituting valine for glutamic acid at the 6th position of the beta-globin chain [23]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which haemoglobin tetramer is characteristic of Hb Bart's Hydrops Foetalis?",
+    "options": ["Alpha-4", "Beta-4", "Gamma-4", "Delta-4"],
+    "answer": "Gamma-4",
+    "explanation": "Hb Bart’s is a gamma globin chain tetramer (gamma-4) resulting from deletion of all four alpha genes [24]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "How many alpha-globin genes are deleted in a patient with HbH disease?",
+    "options": ["One", "Two", "Three", "Four"],
+    "answer": "Three",
+    "explanation": "Deletion of three alpha-chain genes produces HbH, which is a beta-globin chain tetramer [25, 26]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which of the following is an X-linked recessive disorder causing haemolytic crises upon exposure to oxidant stress?",
+    "options": ["Hereditary spherocytosis", "G6PD deficiency", "Beta-thalassaemia", "Sickle cell trait"],
+    "answer": "G6PD deficiency",
+    "explanation": "G6PD deficiency is a sex (X)-linked trait that causes oxidative damage to red cells [27]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the definitive diagnostic finding in the bone marrow for aplastic anaemia?",
+    "options": ["Erythroid hyperplasia", "Ringed sideroblasts", "Hypocellularity with fat replacement", "Megaloblastic changes"],
+    "answer": "Hypocellularity with fat replacement",
+    "explanation": "Aplastic anaemia is defined by marrow hypocellularity where haematopoietic elements are replaced by fat [28, 29]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which drug is classically associated with 'idiosyncratic' aplastic anaemia?",
+    "options": ["Methotrexate", "Chloramphenicol", "Aspirin", "Penicillin"],
+    "answer": "Chloramphenicol",
+    "explanation": "The most serious and common example of idiosyncratic marrow aplasia is associated with chloramphenicol [30, 31]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the term for the presence of nucleated red cells and immature myeloid cells in the peripheral blood?",
+    "options": ["Pancytopenia", "Leucoerythroblastic reaction", "Reticulocytosis", "Polychromasia"],
+    "answer": "Leucoerythroblastic reaction",
+    "explanation": "A leucoerythroblastic reaction consists of immature myeloid cells and normoblasts in the peripheral blood, often seen in myelophthisic anaemia [32]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which syndrome involves selective failure of erythroid production with normal granulopoiesis and megakaryocytopoiesis?",
+    "options": ["Fanconi’s anaemia", "Pure red cell aplasia", "PNH", "Myelodysplastic syndrome"],
+    "answer": "Pure red cell aplasia",
+    "explanation": "Pure red cell aplasia (PRCA) is a rare syndrome involving a selective failure in erythroid elements only [33]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the characteristic appearance of neutrophils in the peripheral blood film of a patient with megaloblastic anaemia?",
+    "options": ["Toxic granulations", "Hypersegmentation", "Hyposegmentation", "Auer rods"],
+    "answer": "Hypersegmentation",
+    "explanation": "Presence of hypersegmented neutrophils (more than 5 nuclear lobes) is a hallmark of megaloblastic anaemia [34]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which test is used to assess the absorption of Vitamin B12 and identify the cause of its deficiency?",
+    "options": ["Ham’s test", "Schilling test", "Coombs’ test", "Sickling test"],
+    "answer": "Schilling test",
+    "explanation": "The Schilling test detects B12 deficiency and distinguishes between lack of intrinsic factor and malabsorption [35]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Patients with Sickle Cell Trait (AS) are relatively protected against falciparum malaria.",
+    "reason": "Sickle cells undergo polymerisation even at normal oxygen tensions in the heterozygous state.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Assertion is true, Reason is false",
+    "explanation": "The assertion is true (protection against malaria [36]), but the reason is false because AS patients only sickle under severe hypoxia, not normal tension [37]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which conditions are known to cause microcytic hypochromic anaemia?",
+    "options": ["Iron deficiency", "Thalassaemia", "Sideroblastic anaemia", "Vitamin B12 deficiency"],
+    "answer": ["Iron deficiency", "Thalassaemia", "Sideroblastic anaemia"],
+    "explanation": "Iron deficiency, thalassaemia, and sideroblastic anaemia are causes of microcytic hypochromic anaemia [38, 39]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "In hereditary spherocytosis, which protein deficiency is most commonly responsible for the loss of membrane anchoring?",
+    "options": ["Spectrin", "Band 3", "Glycophorin", "Ferritin"],
+    "answer": "Spectrin",
+    "explanation": "Almost all cases of hereditary spherocytosis have a deficiency in the structural protein spectrin [40]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Iron is absorbed exclusively as the ferric (Fe3+) form in the duodenum.",
+    "reason": "Ferric reductase at the intestinal brush border converts ferrous iron to the ferric form.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both are false",
+    "explanation": "Iron is absorbed almost exclusively as the ferrous (Fe2+) form, and ferric reductase reduces ferric to ferrous [15]."
+  },
+  {
+    "type": "match_columns",
+    "question": "Match the following clinical signs with the type of anaemia:",
+    "left": ["Koilonychia", "Beefy red tongue", "Thalassaemic facies", "Jaundice"],
+    "right": ["Iron deficiency anaemia", "Megaloblastic anaemia", "Thalassaemia major", "Haemolytic anaemia"],
+    "answer": {
+      "Koilonychia": "Iron deficiency anaemia",
+      "Beefy red tongue": "Megaloblastic anaemia",
+      "Thalassaemic facies": "Thalassaemia major",
+      "Jaundice": "Haemolytic anaemia"
+    },
+    "explanation": "These are characteristic clinical manifestations described for various anaemic conditions [41-44]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which index assesses the variation in the volume (size) of red cells?",
+    "options": ["MCV", "MCH", "RDW", "MCHC"],
+    "answer": "RDW",
+    "explanation": "RDW is an assessment of varying volume of red cells based on their size [45]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "In which stage of the erythroid series does the cell cease to undergo proliferative activity?",
+    "options": ["Proerythroblast", "Basophilic erythroblast", "Polychromatic erythroblast", "Orthochromatic erythroblast"],
+    "answer": "Polychromatic erythroblast",
+    "explanation": "The polychromatic (intermediate) erythroblast is the stage where the cell ceases to undergo proliferative activity [46]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the molecular weight of haemoglobin?",
+    "options": ["50,000", "68,000", "100,000", "25,000"],
+    "answer": "68,000",
+    "explanation": "Haemoglobin has a molecular weight of 68,000 [13]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which factor is responsible for the sigmoid shape of the oxygen dissociation curve?",
+    "options": ["Bohr effect", "Stepwise rise in affinity for oxygen", "2,3-BPG concentration", "Temperature"],
+    "answer": "Stepwise rise in affinity for oxygen",
+    "explanation": "The sigmoid shape results from the four units of the haemoglobin tetramer taking up oxygen in succession [47]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is 'pica'?",
+    "options": ["Spoon-shaped nails", "Unusual dietary cravings", "Atrophic glossitis", "Difficulty swallowing"],
+    "answer": "Unusual dietary cravings",
+    "explanation": "Pica refers to unusual dietary cravings, often seen in patients with iron deficiency [41]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Critical Thinking: A 65-year-old male presents with microcytic hypochromic anaemia. What is the most critical assumption a clinician must avoid?",
+    "options": ["Assuming it is dietary deficiency", "Assuming it is due to malabsorption", "Assuming it is due to chronic occult GI blood loss", "Assuming it is a normal part of aging"],
+    "answer": "Assuming it is dietary deficiency",
+    "explanation": "In adult males, the vast majority of cases of iron deficiency are due to chronic blood loss, often from the GI tract; assuming simple dietary lack can delay diagnosis of cancer [48, 49]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Critical Thinking: Why is checking a peripheral blood smear essential BEFORE a bone marrow examination?",
+    "options": ["To save costs", "To provide a preliminary diagnosis and context for marrow findings", "Because blood smears are more accurate than marrow", "To check if the patient can tolerate the biopsy"],
+    "answer": "To provide a preliminary diagnosis and context for marrow findings",
+    "explanation": "A peripheral blood smear examination must always precede bone marrow examination to confirm or suspect a diagnosis [50]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Case Study: A 25-year-old female presents with heavy menstrual bleeding, pallor, and spoon-shaped nails. CBC shows MCV 65 fl and MCHC 25 g/dl. What is the most likely diagnosis?",
+    "options": ["Beta-thalassaemia trait", "Iron deficiency anaemia", "Megaloblastic anaemia", "Aplastic anaemia"],
+    "answer": "Iron deficiency anaemia",
+    "explanation": "The clinical features of menstrual blood loss and koilonychia (spoon nails) combined with microcytic hypochromic indices are classic for iron deficiency [41, 51, 52]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Case Study (Decision-making): A 4-year-old child with known G6PD deficiency presents with dark urine and jaundice after being treated for an infection. What is the most urgent intervention?",
+    "options": ["Immediate blood transfusion", "Identification and withdrawal of the offending oxidant drug", "Starting iron supplements", "Splenectomy"],
+    "answer": "Identification and withdrawal of the offending oxidant drug",
+    "explanation": "Management of G6PD deficiency focuses on prevention by stopping exposure to the offending oxidant agent [53]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "University-Level: Describe the characteristic morphological features of a 'megaloblast' in the bone marrow.",
+    "options": ["Small size and shrunken nucleus", "Large size with nuclear-cytoplasmic asynchrony", "Ringed granules of iron", "Absence of cytoplasm"],
+    "answer": "Large size with nuclear-cytoplasmic asynchrony",
+    "explanation": "Megaloblasts are large precursors with open, sieve-like chromatin where nuclear maturation lags behind cytoplasmic development [54]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "PLAB/USMLE: A patient with chronic renal failure has a normocytic normochromic anaemia. What is the primary pathophysiological mechanism?",
+    "options": ["Iron deficiency", "Shortened red cell lifespan", "Reduced erythropoietin production", "Folate deficiency"],
+    "answer": "Reduced erythropoietin production",
+    "explanation": "Levels of erythropoietin, primarily produced in the kidney, are lowered in chronic renal disease [4, 55]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "PLAB/USMLE: A 30-year-old African American male develops back pain and dark urine after starting a course of sulfonamides. A blood smear shows 'bite cells'. What is the diagnosis?",
+    "options": ["Sickle cell crisis", "G6PD deficiency", "Autoimmune haemolytic anaemia", "Thalassaemia"],
+    "answer": "G6PD deficiency",
+    "explanation": "Sulfonamides are oxidant drugs that trigger haemolysis in G6PD deficient individuals; 'bite cells' result from splenic removal of Heinz bodies [27, 56]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "PLAB/USMLE: A 60-year-old woman with rheumatoid arthritis has a haemoglobin of 9 g/dl. Her serum iron is low, but her serum ferritin is high. What is the diagnosis?",
+    "options": ["Iron deficiency anaemia", "Anaemia of chronic disorder", "Sideroblastic anaemia", "Pernicious anaemia"],
+    "answer": "Anaemia of chronic disorder",
+    "explanation": "Rheumatoid arthritis is a cause of anaemia of chronic disorder, characterized by low serum iron but high ferritin (indicating adequate stores but poor mobilization) [16, 55]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Bias Recognition: A clinician sees a 3-year-old child with a protuberant abdomen and stunted growth in a thalassaemia-endemic region. He immediately diagnoses thalassaemia major without blood tests. What bias is this?",
+    "options": ["Anchoring bias", "Availability bias", "Confirmation bias", "Overconfidence bias"],
+    "answer": "Availability bias",
+    "explanation": "Availability bias occurs when a clinician relies on what is most easily recalled or common in their experience (thalassaemia in that region) while bypassing formal testing [Generic medical education concept based on clinical case logic]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Problem-Solving: How can one differentiate thalassaemia minor from iron deficiency using the RDW?",
+    "options": ["RDW is high in both", "RDW is normal in thalassaemia trait but high in early iron deficiency", "RDW is normal in both", "RDW is only useful in macrocytic anaemia"],
+    "answer": "RDW is normal in thalassaemia trait but high in early iron deficiency",
+    "explanation": "Thalassaemia trait can be distinguished from iron deficiency because the RDW is typically normal in thalassaemia trait [57]."
+  }
+]
+}

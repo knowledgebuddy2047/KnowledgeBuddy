@@ -1,0 +1,706 @@
+{
+  "quiz":
+
+[
+  {
+    "type": "mcq_single",
+    "question": "Which of the following tissues is **excluded** from the WHO definition of soft tissues for the purpose of tumour classification?",
+    "options": [
+      "Fibrous tissue",
+      "Skeletal muscle",
+      "Reticuloendothelial system",
+      "Peripheral nervous system"
+    ],
+    "answer": "Reticuloendothelial system",
+    "explanation": "The WHO defines soft tissues as all non-epithelial extra-skeletal tissues except the reticuloendothelial system, glia, and supporting tissues of specific organs [1], [2]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which histological pattern is characteristically seen in **fibrosarcoma**, resembling the vertebral column of a seafish?",
+    "options": [
+      "Storiform pattern",
+      "Herringbone pattern",
+      "Palisaded arrangement",
+      "Biphasic pattern"
+    ],
+    "answer": "Herringbone pattern",
+    "explanation": "The herringbone pattern is a diagnostic hallmark of fibrosarcoma [3], [4]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following are general features suggesting a soft tissue lesion is **malignant** rather than benign?",
+    "options": [
+      "Deep-seated location",
+      "Large size",
+      "Selective avascularity",
+      "Rapid growth"
+    ],
+    "answer": [
+      "Deep-seated location",
+      "Large size",
+      "Rapid growth"
+    ],
+    "explanation": "Deep-seated lesions, large size, rapid growth, and increased vascularity are features typically associated with malignancy [5]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Sarcomas most commonly arise from the malignant transformation of pre-existing benign soft tissue tumours.",
+    "reason": "Sarcomas originate from primitive mesenchymal cells capable of differentiating along different cell pathways.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Assertion is false, Reason is true",
+    "explanation": "Sarcomas rarely arise from benign tumours; instead, they originate directly from primitive mesenchymal cells [5]."
+  },
+  {
+    "type": "match_columns",
+    "question": "Match the immunohistochemical marker with the tissue type it identifies:",
+    "left": [
+      "Smooth muscle actin (SMA)",
+      "Desmin",
+      "S-100",
+      "Factor VIII"
+    ],
+    "right": [
+      "Skeletal muscle cells",
+      "Vascular endothelium",
+      "Smooth muscle tumours",
+      "Nerve fibres"
+    ],
+    "answer": {
+      "Smooth muscle actin (SMA)": "Smooth muscle tumours",
+      "Desmin": "Skeletal muscle cells",
+      "S-100": "Nerve fibres",
+      "Factor VIII": "Vascular endothelium"
+    },
+    "explanation": "IHC markers are essential for distinguishing mesenchymal cell types [6]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which tumour-like lesion is characterized by **osteoid and heterotopic bone formation** following trauma to a skeletal muscle?",
+    "options": [
+      "Nodular fasciitis",
+      "Keloid",
+      "Myositis ossificans",
+      "Fibromatosis colli"
+    ],
+    "answer": "Myositis ossificans",
+    "explanation": "Myositis ossificans involves heterotopic bone formation, often preceded by antecedent trauma [7], [8]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "A **'cambium layer'** of tumour cells located just beneath the mucosal layer is a characteristic histological finding in:",
+    "options": [
+      "Alveolar rhabdomyosarcoma",
+      "Synovial sarcoma",
+      "Botryoid rhabdomyosarcoma",
+      "Clear cell sarcoma"
+    ],
+    "answer": "Botryoid rhabdomyosarcoma",
+    "explanation": "Botryoid rhabdomyosarcoma histologically grows beneath the mucosal layer to form the pathognomonic cambium layer [9]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following are components of the **'small round cell tumour'** group (blue cell tumours)?",
+    "options": [
+      "Ewing's sarcoma",
+      "Neuroblastoma",
+      "Liposarcoma",
+      "Embryonal rhabdomyosarcoma"
+    ],
+    "answer": [
+      "Ewing's sarcoma",
+      "Neuroblastoma",
+      "Embryonal rhabdomyosarcoma"
+    ],
+    "explanation": "Small round cell tumours include rhabdomyosarcoma, PNET, Ewing's, neuroblastoma, and lymphomas [10]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Lipomas are the commonest soft tissue tumours.",
+    "reason": "They rarely transform into liposarcomas.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason does not explain Assertion",
+    "explanation": "Lipomas are indeed the most common soft tissue tumour and they rarely become malignant, but their high frequency is not caused by their lack of transformation [11]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which translocation is associated with **Synovial sarcoma** and helps differentiate the biphasic form from the monophasic form?",
+    "options": [
+      "t(11;22)",
+      "t(12;16)",
+      "t(X;18)",
+      "t(1;13)"
+    ],
+    "answer": "t(X;18)",
+    "explanation": "Synovial sarcoma is characterized by the t(X;18)(p11;q11) translocation [12], [13]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "**Critical Thinking:** A clinician assumes a rapidly growing, painful mass near the knee of a 30-year-old is an abscess due to recent trauma. Histology shows a **biphasic pattern** of spindle cells and gland-like structures. What is the most likely diagnosis?",
+    "options": [
+      "Nodular fasciitis",
+      "Synovial sarcoma",
+      "Fibrosarcoma",
+      "Myositis ossificans"
+    ],
+    "answer": "Synovial sarcoma",
+    "explanation": "The biphasic pattern (epithelial and spindle cells) is classic for synovial sarcoma, which commonly occurs in young adults near large joints [14], [15]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "**Case Study:** A 45-year-old female presents with a painless, 10 cm deep-seated mass in her thigh. Cut surface is grey-white and myxoid. Histology shows **lipoblasts** with multivacuolated cytoplasm and a **'chicken-wire' capillary pattern**. Diagnosis?",
+    "options": [
+      "Lipoma",
+      "Myxoid liposarcoma",
+      "Pleomorphic liposarcoma",
+      "Well-differentiated liposarcoma"
+    ],
+    "answer": "Myxoid liposarcoma",
+    "explanation": "Identification of lipoblasts and a 'chicken-wire' capillary meshwork are hallmarks of myxoid liposarcoma [16]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following tumours are associated with **specific genetic syndromes**?",
+    "options": [
+      "Neurofibromatosis type 1",
+      "Li-Fraumeni syndrome",
+      "Gardner's syndrome",
+      "Down syndrome"
+    ],
+    "answer": [
+      "Neurofibromatosis type 1",
+      "Li-Fraumeni syndrome",
+      "Gardner's syndrome"
+    ],
+    "explanation": "Soft tissue tumours can be components of genetic syndromes like NF1, Li-Fraumeni, and Gardner's [17], [18]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Myositis ossificans is sometimes called a 'pseudomalignant osseous tumour'.",
+    "reason": "Its histological appearance, especially the central region with high mitotic activity, can mimic osteosarcoma.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "The atypia in the central region of myositis ossificans can suggest osteosarcoma, leading to the 'pseudomalignant' moniker [19]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "**University-Level:** According to the **Enneking's staging system**, a Stage II soft tissue tumour is defined as:",
+    "options": [
+      "G1 (low grade), T1-T2, no metastases",
+      "G2 (high grade), T1-T2, no metastases",
+      "G1 or G2, with metastases",
+      "T1 only, regardless of grade"
+    ],
+    "answer": "G2 (high grade), T1-T2, no metastases",
+    "explanation": "Stage II in Enneking's system represents high-grade (G2) tumours without metastases [20]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which fibrohistiocytic tumour occupies an **intermediate** (rarely metastasising) position between benign and malignant forms?",
+    "options": [
+      "Dermatofibroma",
+      "Dermatofibrosarcoma protuberans",
+      "Malignant fibrous histiocytoma",
+      "Fibroxanthoma"
+    ],
+    "answer": "Dermatofibrosarcoma protuberans",
+    "explanation": "Dermatofibrosarcoma protuberans is categorized as intermediate/rarely metastasising [21], [22]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which marker is used to distinguish **mesenchymal cells** from epithelium in a generic panel for soft tissue tumours?",
+    "options": [
+      "Cytokeratin",
+      "Vimentin",
+      "S-100",
+      "LCA"
+    ],
+    "answer": "Vimentin",
+    "explanation": "Vimentin is a common marker used to distinguish mesenchymal origin from epithelium [6]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "**PLAB/USMLE Pattern:** Which features are used to determine the **pathological grade** of a soft tissue sarcoma?",
+    "options": [
+      "Tumour differentiation",
+      "Mitotic count",
+      "Tumour necrosis",
+      "Patient age"
+    ],
+    "answer": [
+      "Tumour differentiation",
+      "Mitotic count",
+      "Tumour necrosis"
+    ],
+    "explanation": "Pathological grading is based on differentiation/atypia, mitotic count, and necrosis [23]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which tumour arising from **notochord remnants** contains highly vacuolated 'physaliphorous' cells? (Note: Related to Chapter 26/27 context in sources)",
+    "options": [
+      "Chordoma",
+      "Synovial sarcoma",
+      "Alveolar soft part sarcoma",
+      "Epithelioid sarcoma"
+    ],
+    "answer": "Chordoma",
+    "explanation": "Though mentioned briefly in relation to other 'uncertain' tumours, chordomas are distinct for having physaliphorous cells (Source refers to 'uncertain histogenesis' section) [24]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "A keloid is different from a hypertrophic scar because it is liable to recur after surgical excision.",
+    "reason": "Keloids are composed of thick, homogeneous, hyalinised bands of collagen.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason does not explain Assertion",
+    "explanation": "Both statements are correct differences between keloids and hypertrophic scars, but the histology does not 'explain' the clinical recurrence tendency in this context [25]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which variety of rhabdomyosarcoma is most frequent in **older adults** above the age of 40?",
+    "options": [
+      "Embryonal",
+      "Botryoid",
+      "Alveolar",
+      "Pleomorphic"
+    ],
+    "answer": "Pleomorphic",
+    "explanation": "The pleomorphic variety occurs predominantly in older adults, while the other types are more common in children [26], [27]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "**Bias Recognition:** A clinician anchor's on a diagnosis of a benign 'skin tag' for a firm, nodular lesion on the trunk of a middle-aged male. Histology reveals a **storiform pattern** of spindle cells. What malignancy might have been missed due to this bias?",
+    "options": [
+      "Fibroma durum",
+      "Dermatofibrosarcoma protuberans",
+      "Lipoma",
+      "Granular cell tumour"
+    ],
+    "answer": "Dermatofibrosarcoma protuberans",
+    "explanation": "The storiform (cart-wheel) pattern in a cutaneous nodule is indicative of DFSP, an intermediate malignancy often misdiagnosed as benign skin lesions [28], [29]."
+  },
+  {
+    "type": "match_columns",
+    "question": "Match the rhabdomyosarcoma type with its characteristic gross appearance:",
+    "left": [
+      "Embryonal",
+      "Botryoid",
+      "Alveolar",
+      "Pleomorphic"
+    ],
+    "right": [
+      "Grape-like gelatinous mass",
+      "Gelatinous mass between muscles",
+      "Soft whitish mass with necrosis",
+      "Soft and gelatinous mass from muscle"
+    ],
+    "answer": {
+      "Embryonal": "Gelatinous mass between muscles",
+      "Botryoid": "Grape-like gelatinous mass",
+      "Alveolar": "Soft and gelatinous mass from muscle",
+      "Pleomorphic": "Soft whitish mass with necrosis"
+    },
+    "explanation": "Gross morphology varies significantly between the subtypes of rhabdomyosarcoma [30], [9], [31], [26]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which soft tissue tumour closely resembles **malignant melanoma** histologically and is sometimes called 'melanoma of soft tissues'?",
+    "options": [
+      "Epithelioid sarcoma",
+      "Clear cell sarcoma",
+      "Alveolar soft part sarcoma",
+      "Granular cell tumour"
+    ],
+    "answer": "Clear cell sarcoma",
+    "explanation": "Clear cell sarcoma is microscopically similar to malignant melanoma [32]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following are examples of **adult-type fibromatoses**?",
+    "options": [
+      "Dupuytren's contracture",
+      "Peyronie's disease",
+      "Desmoid tumour",
+      "Fibrous hamartoma of infancy"
+    ],
+    "answer": [
+      "Dupuytren's contracture",
+      "Peyronie's disease",
+      "Desmoid tumour"
+    ],
+    "explanation": "Palmar/plantar fibromatosis, Peyronie's, and Desmoids are adult types; hamartomas of infancy are juvenile [33], [34]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Malignant fibrous histiocytoma (MFH) is now often referred to as pleomorphic sarcoma.",
+    "reason": "It is believed to arise from primitive mesenchymal cells capable of differentiating into fibroblastic and histiocytic lines.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "The name change reflects its pleomorphic nature and mesenchymal origin [29]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "**Decision-making under Pressure:** A surgeon is excising a large abdominal wall mass in a woman who recently gave birth. The mass is firm, unencapsulated, and infiltrates the rectus muscle. What should be the immediate concern?",
+    "options": [
+      "Incisional hernia",
+      "Abdominal desmoid tumour",
+      "Metastatic carcinoma",
+      "Liposarcoma"
+    ],
+    "answer": "Abdominal desmoid tumour",
+    "explanation": "Abdominal desmoids are locally aggressive and often occur in the rectus muscle during or after pregnancy [18]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which specific histological feature distinguishes **alveolar soft part sarcoma** from paraganglioma?",
+    "options": [
+      "Zellballen pattern",
+      "Diastase-resistant PAS-positive material",
+      "Cross-striations",
+      "Biphasic pattern"
+    ],
+    "answer": "Diastase-resistant PAS-positive material",
+    "explanation": "The presence of granular, eosinophilic cytoplasm containing PAS-positive material distinguishes it from paraganglioma [35]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "What are the common locations for **sarcoma metastases** via the haematogenous route?",
+    "options": [
+      "Lungs",
+      "Liver",
+      "Bone",
+      "Lymph nodes"
+    ],
+    "answer": [
+      "Lungs",
+      "Liver",
+      "Bone"
+    ],
+    "explanation": "Sarcomas commonly spread to the lungs, liver, bone, and brain. Lymph node spread is usually late [5]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Alveolar rhabdomyosarcoma has a better prognosis if it possesses the PAX3-FOXO1A fusion gene.",
+    "reason": "The prognosis of rhabdomyosarcoma depends on cytogenetic and molecular abnormalities.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "Molecular abnormalities, specifically the PAX3-FOXO1A fusion, are prognostic indicators [26]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "**PLAB/USMLE:** A 15-year-old male presents with a painful, enlarging mass in his retroperitoneum. Histology shows **small round cells** with a translocation **t(11;22)**. What is the most likely diagnosis?",
+    "options": [
+      "Neuroblastoma",
+      "Ewing's sarcoma / PNET",
+      "Rhabdomyosarcoma",
+      "Liposarcoma"
+    ],
+    "answer": "Ewing's sarcoma / PNET",
+    "explanation": "The t(11;22) translocation and small round cell morphology are classic for Ewing's sarcoma / PNET [36], [12]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which variety of fibroma is a rare benign tumour typically located in the **subscapular region**?",
+    "options": [
+      "Fibroma durum",
+      "Fibroma molle",
+      "Elastofibroma",
+      "Dermatofibroma"
+    ],
+    "answer": "Elastofibroma",
+    "explanation": "Elastofibroma is a rare fibrous tumour located in the subscapular region [37]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following are recognized variants of **lipoma**?",
+    "options": [
+      "Angiolipoma",
+      "Myelolipoma",
+      "Hibernoma",
+      "Spindle cell lipoma"
+    ],
+    "answer": [
+      "Angiolipoma",
+      "Myelolipoma",
+      "Spindle cell lipoma"
+    ],
+    "explanation": "Angiolipoma, myelolipoma, and spindle cell lipoma are variants. Hibernoma is a separate benign tumour of brown fat [38], [39]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Nodular fasciitis is often called 'pseudosarcomatous fasciitis'.",
+    "reason": "It is a benign growth that can be cured by local excision.",
+    "options": [
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason does not explain Assertion",
+    "explanation": "The term 'pseudosarcomatous' refers to its rapid growth mimicking sarcoma, not just its benign nature or curability [40]."
+  },
+  {
+    "type": "match_columns",
+    "question": "Match the tumour grade with its description (3-grade system):",
+    "left": [
+      "Grade I",
+      "Grade II",
+      "Grade III"
+    ],
+    "right": [
+      "Intermediate grade",
+      "Low grade",
+      "High grade"
+    ],
+    "answer": {
+      "Grade I": "Low grade",
+      "Grade II": "Intermediate grade",
+      "Grade III": "High grade"
+    },
+    "explanation": "Standard 3-grade systems categorize sarcomas into low, intermediate, and high grades [23]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which **fibrohistiocytic** tumour is the most common soft tissue sarcoma and is frequently associated with prior **radiotherapy**?",
+    "options": [
+      "Fibrosarcoma",
+      "Liposarcoma",
+      "Malignant fibrous histiocytoma",
+      "Synovial sarcoma"
+    ],
+    "answer": "Malignant fibrous histiocytoma",
+    "explanation": "MFH (pleomorphic sarcoma) is the most common soft tissue sarcoma and the most frequent one associated with radiotherapy [29]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "**Critical Thinking:** Why is **electron microscopy (EM)** considered to have limited diagnostic value for most soft tissue tumours compared to immunohistochemistry?",
+    "options": [
+      "It is too expensive",
+      "It is primarily a research tool and IHC is more specific for paraffin sections",
+      "It cannot see cell organelles",
+      "Mesenchymal cells lack organelles"
+    ],
+    "answer": "It is primarily a research tool and IHC is more specific for paraffin sections",
+    "explanation": "While EM can look for organelles, IHC is the preferred diagnostic method for distinguishing mesenchymal constituents on paraffin sections [6], [23]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "**Case Study based:** A male patient presents with flexion contractures of the fingers (Dupuytren’s contracture). What are the typical features of this condition?",
+    "options": [
+      "Common in elderly males",
+      "Often bilateral",
+      "High recurrence rate (50-60%)",
+      "Metastasises to lungs"
+    ],
+    "answer": [
+      "Common in elderly males",
+      "Often bilateral",
+      "High recurrence rate (50-60%)"
+    ],
+    "explanation": "Palmar fibromatosis (Dupuytren's) is a non-metastasising but frequently recurring benign lesion [34], [41]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "The 'chicken-wire' capillary pattern is a conspicuous feature of round cell liposarcoma.",
+    "reason": "Round cell liposarcomas are composed of uniform cells with hyperchromatic nuclei.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Assertion is false, Reason is true",
+    "explanation": "The 'chicken-wire' pattern is characteristic of **myxoid** liposarcoma, not round cell [16]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which specific gene is used as a marker for **Dermatofibrosarcoma protuberans**?",
+    "options": [
+      "EWSR1-FLI1",
+      "SS18-SSX1",
+      "COL1A1-PDGFB",
+      "TFE3-ASPL"
+    ],
+    "answer": "COL1A1-PDGFB",
+    "explanation": "The COL1A1-PDGFB fusion gene is diagnostic for DFSP [42]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "**Problem-Solving:** How can you distinguish **round cell liposarcoma** from a signet-ring carcinoma on histology?",
+    "options": [
+      "Based on cell size",
+      "Use of mucin stains",
+      "Presence of necrosis",
+      "Mitotic count"
+    ],
+    "answer": "Use of mucin stains",
+    "explanation": "Mucin stains help distinguish round cell liposarcoma from signet-ring carcinoma [16]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following are **intermediate, locally aggressive** tumours that do not metastasise?",
+    "options": [
+      "Desmoid tumour",
+      "Lipoma",
+      "Dermatofibrosarcoma protuberans",
+      "Synovial sarcoma"
+    ],
+    "answer": [
+      "Desmoid tumour"
+    ],
+    "explanation": "Desmoid tumours are locally aggressive but non-metastasising. DFSP is 'intermediate/rarely metastasising', and lipoma is benign [21]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Malignant tumours generally affect males more commonly than females.",
+    "reason": "Males are more exposed to antecedent trauma than females.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Assertion is true, Reason is false",
+    "explanation": "While males are affected more commonly, there is no evidence in the text that this is due to trauma frequency; most tumours occur sporadically [5], [17]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which **epithelioid sarcoma** feature can lead to it being mistaken for a **granuloma**?",
+    "options": [
+      "Gland-like structures",
+      "Nodular appearance with central necrosis",
+      "Zellballen pattern",
+      "Small round cells"
+    ],
+    "answer": "Nodular appearance with central necrosis",
+    "explanation": "The nodular appearance with central necrosis in epithelioid sarcoma can mimic a granuloma [32]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "**University-Level:** Which histological type of liposarcoma is the **most common**?",
+    "options": [
+      "Well-differentiated",
+      "Myxoid",
+      "Round cell",
+      "Pleomorphic"
+    ],
+    "answer": "Myxoid",
+    "explanation": "Myxoid liposarcoma is the most common histologic type [16]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which tumour arising from striated muscle cells shows **cross-striations** with PTAH stain in adult types?",
+    "options": [
+      "Rhabdomyoma",
+      "Leiomyoma",
+      "Fibroma molle",
+      "Neurofibroma"
+    ],
+    "answer": "Rhabdomyoma",
+    "explanation": "Rhabdomyoma is a rare benign tumour of striated muscle where cross-striations are demonstrable [43]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following are **IHC markers** that might be found in a panel for rhabdomyosarcoma?",
+    "options": [
+      "Desmin",
+      "Myogenin",
+      "Myo-D1",
+      "SMA"
+    ],
+    "answer": [
+      "Desmin",
+      "Myogenin",
+      "Myo-D1"
+    ],
+    "explanation": "Myogenin, Myo-D1, and desmin are important markers for rhabdomyosarcoma [26]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Desmoplastic small round cell tumour (DSRCT) has a particularly poor prognosis.",
+    "reason": "It frequently possesses the EWSR1-WT1 fusion gene.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "DSRCT with the EWSR1-WT1 fusion gene is associated with a particularly poor prognosis [44]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "**Bias Recognition:** In a deep-seated, painful mass near a large joint in a 20-year-old, a clinician might assume it's inflammatory. However, **cytokeratin** positivity in a mesenchymal-looking tumour should steer the diagnosis towards:",
+    "options": [
+      "Alveolar rhabdomyosarcoma",
+      "Synovial sarcoma",
+      "Fibrosarcoma",
+      "Ewing's sarcoma"
+    ],
+    "answer": "Synovial sarcoma",
+    "explanation": "Synovial sarcoma cells are characteristically positive for cytokeratin, despite being a soft tissue sarcoma [15]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which tumour is characterized as a **slow-growing** malignant tumour of uncertain histogenesis that affects musculofascial planes?",
+    "options": [
+      "Nodular fasciitis",
+      "Alveolar soft part sarcoma",
+      "Fibromatosis",
+      "Botryoid rhabdomyosarcoma"
+    ],
+    "answer": "Alveolar soft part sarcoma",
+    "explanation": "Alveolar soft part sarcoma is a slow-growing malignant tumour often found in deep tissues of extremities [13]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which type of **spindle cell** has characteristic **blunt-ended (cigar-shaped) nuclei**?",
+    "options": [
+      "Fibrogenic cells",
+      "Neurogenic cells",
+      "Leiomyomatous cells",
+      "Rhabdomyoblasts"
+    ],
+    "answer": "Leiomyomatous cells",
+    "explanation": "Leiomyomatous tumours have spindle cells with blunt-ended nuclei and intense eosinophilic cytoplasm [45]."
+  }
+]
+}

@@ -1,0 +1,809 @@
+{
+  "quiz":
+
+[
+  {
+    "type": "mcq_single",
+    "question": "Which specific basophilic structures in the neuronal cytoplasm consist of aggregates of RNA and rough endoplasmic reticulum?",
+    "options": [
+      "Rosenthal fibres",
+      "Nissl substance",
+      "Blepharoplasts",
+      "Hirano bodies"
+    ],
+    "answer": "Nissl substance",
+    "explanation": "Nissl substance consists of aggregates of RNA, sheaves of rough endoplasmic reticulum, and free ribosomes [1]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following are considered mesodermal tissues in the nervous system?",
+    "options": [
+      "Microglia",
+      "Astrocytes",
+      "Leptomeninges",
+      "Ependymal cells"
+    ],
+    "answer": [
+      "Microglia",
+      "Leptomeninges"
+    ],
+    "explanation": "Mesodermal tissues include microglia, dura mater, leptomeninges, and blood vessels; neuroglia like astrocytes and ependymal cells are neuroectodermal [2, 3]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Brain damage involving neurons is considered irreversible.",
+    "reason": "Neurons are highly specialised cells that are incapable of dividing after the first few weeks of birth.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "Neurons are permanent cells and cannot regenerate once lost [2]."
+  },
+  {
+    "type": "match_columns",
+    "question": "Match the neuroglial cell with its primary function or characteristic:",
+    "left": [
+      "Astrocytes",
+      "Oligodendrocytes",
+      "Ependymal cells",
+      "Microglia"
+    ],
+    "right": [
+      "Blood-brain barrier and gliosis",
+      "Myelin formation in the CNS",
+      "Lining the ventricular system",
+      "Phagocytic gitter cells"
+    ],
+    "answer": {
+      "Astrocytes": "Blood-brain barrier and gliosis",
+      "Oligodendrocytes": "Myelin formation in the CNS",
+      "Ependymal cells": "Lining the ventricular system",
+      "Microglia": "Phagocytic gitter cells"
+    },
+    "explanation": "Each glia type has distinct roles: astrocytes support neurons and form scars; oligodendrocytes maintain myelin; ependymal cells line cavities; microglia are macrophages [4-7]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "In the grey matter, oligodendrocytes clustered around neurons are specifically known as:",
+    "options": [
+      "Gitter cells",
+      "Satellite cells",
+      "Interfascicular glia",
+      "Rod cells"
+    ],
+    "answer": "Satellite cells",
+    "explanation": "In grey matter, oligodendrocytes are clustered around neurons and are called satellite cells [5]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which structures are eosinophilic, elongated bodies present on astrocytic processes during long-standing progressive gliosis?",
+    "options": [
+      "Negri bodies",
+      "Lewy bodies",
+      "Rosenthal fibres",
+      "Corpora amylacea"
+    ],
+    "answer": "Rosenthal fibres",
+    "explanation": "Rosenthal fibres develop in long-standing gliosis as eosinophilic, elongated or globular bodies on astrocytic processes [5]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "The term used to describe the phagocytosis of damaged or necrosed neurons by microglial cells is:",
+    "options": [
+      "Chromatolysis",
+      "Gliosis",
+      "Neuronophagia",
+      "Wallerian degeneration"
+    ],
+    "answer": "Neuronophagia",
+    "explanation": "Microglial cells surround and phagocytose damaged neurons in a process known as neuronophagia [7]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "The subarachnoid space is the site where the cerebrospinal fluid (CSF) is contained.",
+    "reason": "It is located between the dura mater and the arachnoid mater.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Assertion is true, Reason is false",
+    "explanation": "The subarachnoid space contains CSF, but it is located between the pia mater and the arachnoid mater; the space between dura and arachnoid is the subdural space [8]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following are components of the 'Virchow-Robin space'?",
+    "options": [
+      "Arachnoid mater",
+      "Wall of blood vessels",
+      "Dura mater",
+      "Pial sheaths"
+    ],
+    "answer": [
+      "Wall of blood vessels",
+      "Pial sheaths"
+    ],
+    "explanation": "The Virchow-Robin space is a circumvascular space formed between the wall of blood vessels entering the brain and their pial sheaths [8]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which spinal cord defect involves herniation of the meninges alone through a vertebral bony defect?",
+    "options": [
+      "Spina bifida occulta",
+      "Meningomyelocele",
+      "Meningocele",
+      "Myelocele"
+    ],
+    "answer": "Meningocele",
+    "explanation": "Herniation of the meninges alone (dura and arachnoid) through the bony defect is called meningocele [9]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Syringomyelia is characterized by the development of a tubular cavity (syrinx) typically beginning in which area of the spinal cord?",
+    "options": [
+      "White matter",
+      "Grey matter dorsal to the central canal",
+      "Anterior horn cells",
+      "Dorsal root ganglia"
+    ],
+    "answer": "Grey matter dorsal to the central canal",
+    "explanation": "The syrinx usually begins in the grey matter of the spinal cord dorsal to the central canal [10]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which findings are characteristic of Type II Arnold-Chiari malformation?",
+    "options": [
+      "Elongation of the medulla into the cervical canal",
+      "S-shaped bend at the junction with the spinal cord",
+      "Herniation of cerebellar vermis through foramen magnum",
+      "Flattening of the cerebral gyri"
+    ],
+    "answer": [
+      "Elongation of the medulla into the cervical canal",
+      "S-shaped bend at the junction with the spinal cord",
+      "Herniation of cerebellar vermis through foramen magnum"
+    ],
+    "explanation": "Type II components include elongation and S-shaped distortion of the medulla, and lengthening/herniation of the cerebellar vermis and tonsils [11]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "A localized collection of CSF in the subarachnoid space is termed:",
+    "options": [
+      "Internal hydrocephalus",
+      "External hydrocephalus",
+      "Communicating hydrocephalus",
+      "Non-communicating hydrocephalus"
+    ],
+    "answer": "External hydrocephalus",
+    "explanation": "A localized collection of CSF in the subarachnoid space is called external hydrocephalus [12]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Overproduction of CSF can cause communicating hydrocephalus.",
+    "reason": "Choroid plexus papilloma is a common cause of excessive CSF production.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "Overproduction (e.g., from a papilloma) leads to hydrocephalus where the fluid still flows between ventricles and the subarachnoid space [13]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which causative organism is most commonly responsible for acute pyogenic meningitis in adolescents and young adults?",
+    "options": [
+      "Escherichia coli",
+      "Haemophilus influenzae",
+      "Neisseria meningitidis",
+      "Streptococcus pneumoniae"
+    ],
+    "answer": "Neisseria meningitidis",
+    "explanation": "Neisseria meningitidis causes meningitis in adolescents and young adults and is responsible for epidemic meningitis [14]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which CSF findings are expected in a patient with acute pyogenic (bacterial) meningitis?",
+    "options": [
+      "Markedly reduced glucose",
+      "Elevated protein levels",
+      "Naked eye clear appearance",
+      "Neutrophilic leucocytosis"
+    ],
+    "answer": [
+      "Markedly reduced glucose",
+      "Elevated protein levels",
+      "Neutrophilic leucocytosis"
+    ],
+    "explanation": "Bacterial meningitis shows cloudy pus-like CSF, high protein, very low glucose, and numerous neutrophils [15, 16]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Pathognomonic capsulated organisms with a halo, visible in India ink preparation of CSF, indicate:",
+    "options": [
+      "Tuberculous meningitis",
+      "Cryptococcal meningitis",
+      "Viral meningitis",
+      "Pyogenic meningitis"
+    ],
+    "answer": "Cryptococcal meningitis",
+    "explanation": "Capsulated cryptococci with a halo are seen in India ink preparations of CSF in fungal meningitis [17]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Brain abscesses are most common in the cerebellum.",
+    "reason": "Direct implantation of organisms following skull fractures is a major route of infection.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Assertion is false, Reason is true",
+    "explanation": "The reason is true, but brain abscesses are most common in the cerebral hemispheres, not the cerebellum [18]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which stage of neurosyphilis is characterized by loss of coordination and Argyll-Robertson pupils?",
+    "options": [
+      "Secondary syphilis",
+      "Tabes dorsalis",
+      "General paralysis of the insane",
+      "Syphilitic meningitis"
+    ],
+    "answer": "Tabes dorsalis",
+    "explanation": "Tabes dorsalis (tertiary stage) features locomotor ataxia, loss of pain sensation, and Argyll-Robertson pupils [19, 20]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Intracytoplasmic Negri bodies are specific microscopic findings for which viral infection?",
+    "options": [
+      "HIV",
+      "Herpes simplex",
+      "Rabies",
+      "Cytomegalovirus"
+    ],
+    "answer": "Rabies",
+    "explanation": "Rabies is characterized by specific cytoplasmic inclusions called Negri bodies [21]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following are slow virus diseases of the CNS?",
+    "options": [
+      "Progressive multifocal leucoencephalopathy (PML)",
+      "Subacute sclerosing panencephalitis",
+      "Rabies",
+      "Mumps"
+    ],
+    "answer": [
+      "Progressive multifocal leucoencephalopathy (PML)",
+      "Subacute sclerosing panencephalitis"
+    ],
+    "explanation": "Slow virus diseases have long latent periods and include PML and subacute sclerosing panencephalitis [21]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "The modified structural protein that causes Creutzfeldt-Jakob disease and lacks nucleic acid is known as a:",
+    "options": [
+      "Viroid",
+      "Prion",
+      "Excitotoxin",
+      "Rosenthal fibre"
+    ],
+    "answer": "Prion",
+    "explanation": "Creutzfeldt-Jakob disease (spongiform encephalopathy) is caused by accumulation of prion proteins, which lack DNA or RNA [22]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "A patient survives a severe hypoxic episode for 24 hours. Microscopic examination of the brain is likely to reveal:",
+    "options": [
+      "Cystic infarcts",
+      "Rosenthal fibres",
+      "Red neurons",
+      "Negri bodies"
+    ],
+    "answer": "Red neurons",
+    "explanation": "Survival for 12-24 hours after hypoxia reveals early neuronal damage with eosinophilic cytoplasm and pyknotic nuclei, called red neurons [23]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "The border zone between the territories of major cerebral arteries suffers maximum damage during hypoxia.",
+    "reason": "These zones have the most overlapping circulation and are farthest from the primary blood supply.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "Perfusion of overlapping (watershed) zones suffers first during generalized hypoperfusion [24]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the most common cause of spontaneous subarachnoid haemorrhage?",
+    "options": [
+      "Trauma",
+      "Hypertensive microaneurysm",
+      "Rupture of a berry aneurysm",
+      "Cerebral infarction"
+    ],
+    "answer": "Rupture of a berry aneurysm",
+    "explanation": "Massive and sudden bleeding from a berry aneurysm near the circle of Willis causes more than 85% of spontaneous subarachnoid haemorrhages [25]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which conditions are frequently associated with the presence of berry aneurysms?",
+    "options": [
+      "Congenital polycystic kidney disease",
+      "Diabetes mellitus",
+      "Coarctation of the aorta",
+      "Multiple sclerosis"
+    ],
+    "answer": [
+      "Congenital polycystic kidney disease",
+      "Coarctation of the aorta"
+    ],
+    "explanation": "Berry aneurysms have an increased incidence in association with polycystic kidney disease and coarctation of the aorta [25]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "A fracture of the skull causing rupture of the middle meningeal artery typically leads to which consequence?",
+    "options": [
+      "Subdural haematoma",
+      "Epidural haematoma",
+      "Subarachnoid haemorrhage",
+      "Intracerebral haemorrhage"
+    ],
+    "answer": "Epidural haematoma",
+    "explanation": "Epidural haematoma results from rupture of an artery (most commonly middle meningeal) following skull fracture [26, 27]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Subdural haematomas are usually of venous origin.",
+    "reason": "They develop from the rupture of veins crossing the surface convexities of the cerebral hemispheres.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "Rupture of bridging veins between the dura and arachnoid causes venous blood accumulation [26, 28]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which condition is the most common cause of persistent coma or vegetative state following head injury?",
+    "options": [
+      "Concussion",
+      "Diffuse axonal injury",
+      "Contusion",
+      "Epidural haematoma"
+    ],
+    "answer": "Diffuse axonal injury",
+    "explanation": "Diffuse axonal injury is the most common cause of persistent coma/vegetative state, caused by widespread axonal shearing [29]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "The pathologic hallmark of multiple sclerosis is the presence of many scattered discrete areas of demyelination termed:",
+    "options": [
+      "Nidus",
+      "Plaques",
+      "Granulomas",
+      "Tubercles"
+    ],
+    "answer": "Plaques",
+    "explanation": "The pathologic hallmark of multiple sclerosis is the presence of many scattered discrete areas of demyelination termed plaques [30]."
+  },
+  {
+    "type": "match_columns",
+    "question": "Match the degenerative disease with its characteristic pathology:",
+    "left": [
+      "Alzheimer’s disease",
+      "Pick’s disease",
+      "Parkinson’s disease",
+      "Friedreich’s ataxia"
+    ],
+    "right": [
+      "Neuritic plaques and neurofibrillary tangles",
+      "Ballooning degeneration (Pick’s cells)",
+      "Loss of neuromelanin and Lewy bodies",
+      "Degeneration of spinocerebellar tracts"
+    ],
+    "answer": {
+      "Alzheimer’s disease": "Neuritic plaques and neurofibrillary tangles",
+      "Pick’s disease": "Ballooning degeneration (Pick’s cells)",
+      "Parkinson’s disease": "Loss of neuromelanin and Lewy bodies",
+      "Friedreich’s ataxia": "Degeneration of spinocerebellar tracts"
+    },
+    "explanation": "Each degenerative disease involves specific neuronal populations and inclusion types [31-33]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which nutritional disease of the CNS is caused by vitamin B1 (thiamine) deficiency?",
+    "options": [
+      "Pellagra",
+      "Subacute combined degeneration",
+      "Wernicke’s encephalopathy",
+      "Spinobulbar syndrome"
+    ],
+    "answer": "Wernicke’s encephalopathy",
+    "explanation": "Wernicke’s encephalopathy and Korsakoff’s psychosis are caused by vitamin B1 or thiamine deficiency [34]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following are gliomas (tumours arising from neuroglia)?",
+    "options": [
+      "Astrocytoma",
+      "Meningioma",
+      "Ependymoma",
+      "Medulloblastoma"
+    ],
+    "answer": [
+      "Astrocytoma",
+      "Ependymoma"
+    ],
+    "explanation": "Gliomas include astrocytoma, oligodendroglioma, ependymoma, and choroid plexus papilloma; meningioma arises from meninges, and medulloblastoma is embryonal [35]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Glioblastoma multiforme corresponds to which WHO grade of astrocytoma?",
+    "options": [
+      "Grade I",
+      "Grade II",
+      "Grade III",
+      "Grade IV"
+    ],
+    "answer": "Grade IV",
+    "explanation": "WHO classification divides astrocytomas into four grades, with Grade IV being glioblastoma multiforme [36, 37]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which glioma is characterized microscopically by uniform cells with round nuclei surrounded by a clear 'halo' of cytoplasm?",
+    "options": [
+      "Fibrillary astrocytoma",
+      "Oligodendroglioma",
+      "Medulloblastoma",
+      "Meningioma"
+    ],
+    "answer": "Oligodendroglioma",
+    "explanation": "Oligodendroglioma is characterized by uniform cells with round nuclei, a clear halo of cytoplasm, and well-defined cell membranes [38]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Ependymomas are frequently associated with obstructive hydrocephalus.",
+    "reason": "They are commonly located in the fourth ventricle (posterior fossa).",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "Location in the floor of the fourth ventricle leads to obstruction of CSF flow [38]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which variant of ependymoma characteristically occurs in the region of the cauda equina and originates from the filum terminale?",
+    "options": [
+      "Subependymoma",
+      "Myxopapillary ependymoma",
+      "Choroid plexus papilloma",
+      "Pilocytic astrocytoma"
+    ],
+    "answer": "Myxopapillary ependymoma",
+    "explanation": "Myxopapillary ependymoma is a special adult variant occurring in the cauda equina [39]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "The presence of pseudorosettes known as Homer-Wright rosettes is a classic microscopic feature of:",
+    "options": [
+      "Meningioma",
+      "Schwannoma",
+      "Medulloblastoma",
+      "Ependymoma"
+    ],
+    "answer": "Medulloblastoma",
+    "explanation": "Medulloblastoma is composed of poorly-differentiated cells that occasionally form Homer-Wright rosettes [40]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which intraparenchymal tumour is part of von Hippel-Lindau syndrome and may secrete erythropoietin?",
+    "options": [
+      "Primary CNS lymphoma",
+      "Haemangioblastoma",
+      "Germinoma",
+      "Craniopharyngioma"
+    ],
+    "answer": "Haemangioblastoma",
+    "explanation": "About a quarter of haemangioblastomas secrete erythropoietin and they can be part of von Hippel-Lindau syndrome [41]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which features are characteristic of a meningioma?",
+    "options": [
+      "Firmly attached to the dura",
+      "Arises from the cap cell layer of the arachnoid",
+      "Infiltrates the surface of the brain routinely",
+      "May contain psammoma bodies"
+    ],
+    "answer": [
+      "Firmly attached to the dura",
+      "Arises from the cap cell layer of the arachnoid",
+      "May contain psammoma bodies"
+    ],
+    "explanation": "Meningiomas arise from arachnoid cap cells, are dural-based, and often contain psammoma bodies, but they rarely invade the brain [42-44]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "A transitional (mixed) meningioma is particularly characterized by which histological feature?",
+    "options": [
+      "Antoni A and B patterns",
+      "Conspicuous whorled pattern of tumour cells",
+      "Indian file arrangement",
+      "Rosenthal fibres"
+    ],
+    "answer": "Conspicuous whorled pattern of tumour cells",
+    "explanation": "Transitional meningioma is characterized by syncytial and fibroblastic cells with a conspicuous whorled pattern [44]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Metastatic tumours in the brain are usually single, deep-seated masses.",
+    "reason": "They most commonly spread via the haematogenous route.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Assertion is false, Reason is true",
+    "explanation": "The reason is true, but metastatic deposits in the brain are usually multiple masses located at the grey-white matter junction [45, 46]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which pathologic reaction in the PNS involves the disintegration of the axon and myelin sheath distal to the site of transection?",
+    "options": [
+      "Axonal degeneration",
+      "Segmental demyelination",
+      "Wallerian degeneration",
+      "Gliosis"
+    ],
+    "answer": "Wallerian degeneration",
+    "explanation": "Wallerian degeneration occurs after transection where the axon and myelin distal to the site disintegrate [47, 48]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Guillain-Barré syndrome is a classic example of which type of peripheral neuropathy?",
+    "options": [
+      "Acute demyelinating polyneuropathy",
+      "Mononeuropathy multiplex",
+      "Axonopathy",
+      "Hypertrophic neuropathy"
+    ],
+    "answer": "Acute demyelinating polyneuropathy",
+    "explanation": "Guillain-Barré syndrome is the classical example of acute demyelinating polyneuropathy, probably of autoimmune etiology [49]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Schwannomas express S-100 protein.",
+    "reason": "They are tumours arising from Schwann cells.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "Schwannomas arise from Schwann cells which characteristically express S-100 [50, 51]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "The 'Verocay bodies' found in Schwannomas are composed of:",
+    "options": [
+      "Whorled bundles of collagen",
+      "Palisaded nuclei in Antoni A pattern",
+      "Loose acellular myxoid areas",
+      "Aggregates of lipid-laden macrophages"
+    ],
+    "answer": "Palisaded nuclei in Antoni A pattern",
+    "explanation": "Antoni A patterns in Schwannoma show palisaded nuclei called Verocay bodies [50]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which features are part of the triad in von Recklinghausen’s (Type 1) neurofibromatosis?",
+    "options": [
+      "Multiple cutaneous neurofibromas",
+      "Bilateral acoustic neuromas",
+      "Numerous 'café au lait' spots",
+      "Pigmented iris hamartomas"
+    ],
+    "answer": [
+      "Multiple cutaneous neurofibromas",
+      "Numerous 'café au lait' spots",
+      "Pigmented iris hamartomas"
+    ],
+    "explanation": "Type 1 triad includes multiple neurofibromas, café au lait spots, and iris hamartomas; Type 2 is associated with bilateral acoustic neuromas [52, 53]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "A Malignant Peripheral Nerve Sheath Tumour (MPNST) containing areas of rhabdomyosarcoma is specifically termed:",
+    "options": [
+      "Epithelioid MPNST",
+      "Triton tumour",
+      "Fibrosarcoma",
+      "Neuroma"
+    ],
+    "answer": "Triton tumour",
+    "explanation": "Triton tumour is the name used for MPNST which has areas of poorly-differentiated rhabdomyosarcoma [54]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Critical Thinking: A clinician assumes a patient with sudden onset focal neurologic deficit and a history of hypertension has had a stroke. What is the most common underlying process for an ischemic stroke in such a patient?",
+    "options": [
+      "Berry aneurysm rupture",
+      "Thrombotic occlusion due to atherosclerosis",
+      "Metastatic tumour",
+      "Meningitis"
+    ],
+    "answer": "Thrombotic occlusion due to atherosclerosis",
+    "explanation": "Thrombotic occlusion of cerebral arteries is most frequently the result of atherosclerosis [55]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Decision-making: An infant presents with a cystic swelling in the lumbosacral region. On examination, the spinal cord roots are attached to the posterior wall of the sac. What is the diagnosis?",
+    "options": [
+      "Meningocele",
+      "Meningomyelocele",
+      "Spina bifida occulta",
+      "Syringomyelia"
+    ],
+    "answer": "Meningomyelocele",
+    "explanation": "In meningomyelocele, the spinal cord or its roots herniate through the bony defect and are attached to the wall of the sac [9]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "USMLE Style: A 35-year-old female presents with recurrent episodes of neurologic dysfunction, including blurred vision and weakness that resolves and then returns. An MRI of the brain shows multiple 'plaques' in the periventricular white matter. Which cells are primarily lost in these lesions?",
+    "options": [
+      "Astrocytes",
+      "Neurons",
+      "Oligodendrocytes",
+      "Microglia"
+    ],
+    "answer": "Oligodendrocytes",
+    "explanation": "Multiple sclerosis plaques show a nearly total absence of oligodendrocytes in old inactive lesions [56]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Reflective Question: Why is 'microglia' considered an inappropriate term for the nervous system counterpart of macrophages according to the sources?",
+    "options": [
+      "They are not mobile cells",
+      "They are of mesodermal, not neuroectodermal origin",
+      "They do not perform phagocytosis",
+      "They are only found in the PNS"
+    ],
+    "answer": "They are of mesodermal, not neuroectodermal origin",
+    "explanation": "Microglia is considered inappropriate since these cells, unlike neuroglia, are not of neuroectodermal origin [7]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Case Study Analysis: A 62-year-old smoker with a history of hypertension and diabetes presents with sudden weakness and numbness of the right side. Earlier he had a severe headache. CT shows a dark mass of clotted blood in the basal ganglia. What is the likely cause of this bleed?",
+    "options": [
+      "Rupture of a berry aneurysm",
+      "Rupture of a microaneurysm in a small cerebral artery",
+      "Traumatic epidural haematoma",
+      "Haemorrhagic infarction"
+    ],
+    "answer": "Rupture of a microaneurysm in a small cerebral artery",
+    "explanation": "Spontaneous intracerebral haemorrhage in hypertensives is believed to be caused by the rupture of microaneurysms in very small cerebral arteries [57]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which bias recognition is important when examining a patient with suspected Arnold-Chiari malformation?",
+    "options": [
+      "Assuming they will not have hydrocephalus",
+      "Recognizing that 50% of children with hydrocephalus have this malformation",
+      "Ignoring the possibility of meningocele",
+      "Assuming it is an acquired condition"
+    ],
+    "answer": "Recognizing that 50% of children with hydrocephalus have this malformation",
+    "explanation": "Approximately 50% of children with hydrocephalus have Arnold-Chiari malformation [58]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Problem-Solving: In a CSF analysis, you find 500 lymphocytes/µl and a fibrin web on standing. Protein is markedly raised and glucose is reduced. This pattern most strongly suggests:",
+    "options": [
+      "Acute bacterial meningitis",
+      "Viral meningitis",
+      "Tuberculous meningitis",
+      "Subarachnoid haemorrhage"
+    ],
+    "answer": "Tuberculous meningitis",
+    "explanation": "Chronic (tuberculous) meningitis shows 100-1000 lymphocytes, raised protein, reduced glucose, and a fibrin web (fibrin coagulum) [16, 59]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which cell type in the brain acts as the primary supporter and acts like a 'fibroblast' by creating a 'scar' during injury?",
+    "options": [
+      "Neuron",
+      "Oligodendrocyte",
+      "Astrocyte",
+      "Ependymal cell"
+    ],
+    "answer": "Astrocyte",
+    "explanation": "In damage to the brain, astrocytes act like fibroblasts and undergo gliosis, which is an equivalent of a scar elsewhere in the body [4]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "A 'rod cell' is an enlarged and proliferating form of which cell type?",
+    "options": [
+      "Astrocyte",
+      "Oligodendrocyte",
+      "Microglia",
+      "Schwann cell"
+    ],
+    "answer": "Microglia",
+    "explanation": "In response to injury, microglial cells enlarge, proliferate, and develop elongated nuclei called rod cells [7]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which potential space is located between the wall of blood vessels entering the brain and their pial sheaths?",
+    "options": [
+      "Epidural space",
+      "Subarachnoid space",
+      "Virchow-Robin space",
+      "Subdural space"
+    ],
+    "answer": "Virchow-Robin space",
+    "explanation": "Extension of the subarachnoid space between vessel walls and pial sheaths forms the Virchow-Robin space [8]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "The most aggressive of the astrocytomas, showing variegated appearance and pseudopalisading around necrosis, is:",
+    "options": [
+      "Diffuse astrocytoma",
+      "Anaplastic astrocytoma",
+      "Glioblastoma multiforme",
+      "Pilocytic astrocytoma"
+    ],
+    "answer": "Glioblastoma multiforme",
+    "explanation": "Glioblastoma multiforme (WHO Grade IV) is the most aggressive astrocytoma with characteristic areas of necrosis and pseudopalisading [37, 60]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which genetic mutation is specifically associated with spinal ependymomas?",
+    "options": [
+      "p53",
+      "NF1 and NF2",
+      "RB gene",
+      "GNAS1"
+    ],
+    "answer": "NF1 and NF2",
+    "explanation": "Spinal ependymomas are associated with mutation of NF1 and NF2 genes [38]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which of the following is true regarding Schwannomas compared to Neurofibromas?",
+    "options": [
+      "Schwannomas are usually multiple",
+      "Neurofibromas are invariably encapsulated",
+      "Schwannomas rarely turn malignant",
+      "Neurofibromas never occur in the dermis"
+    ],
+    "answer": "Schwannomas rarely turn malignant",
+    "explanation": "Neurilemmoma (Schwannoma) virtually never turns malignant, whereas neurofibromas have a tendency for sarcomatous transformation [51, 61]."
+  }
+]
+}

@@ -1,0 +1,252 @@
+{
+  "quiz": [
+
+    {
+    "type": "mcq_single",
+    "question": "On which chromosome are the genes for the Human Leucocyte Antigens (HLA) primarily located?",
+    "options": ["Chromosome 1", "Chromosome 6", "Chromosome 12", "Chromosome X"],
+    "answer": "Chromosome 6",
+    "explanation": "According to the source, most transplantation antigens or MHC are located on the short arm (p) of chromosome 6 [1, 2]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following are considered secondary lymphoid organs?",
+    "options": ["Thymus", "Bone marrow", "Spleen", "Lymph nodes", "MALT"],
+    "answer": ["Spleen", "Lymph nodes", "MALT"],
+    "explanation": "The source classifies the Thymus and Bone marrow as primary lymphoid organs, while Lymph nodes, Spleen, and MALT are secondary lymphoid organs [3]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "A patient in the 'window period' of HIV infection may test negative on an ELISA screening but can still transmit the virus.",
+    "reason": "The 'window period' refers to the initial 2 to 4 weeks when antibodies are not yet detectable despite the presence of the virus.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "The source defines the window period as the initial 2-4 week period when the patient is infectious but the antibody-based screening test (ELISA) is negative [4]."
+  },
+  {
+    "type": "match_columns",
+    "question": "Match the hypersensitivity reaction type with its primary mediator:",
+    "left": ["Type I", "Type II", "Type III", "Type IV"],
+    "right": ["IgE antibodies", "IgG or IgM on cell surfaces", "Antigen-antibody complexes", "T cell-mediated"],
+    "answer": {
+      "Type I": "IgE antibodies",
+      "Type II": "IgG or IgM on cell surfaces",
+      "Type III": "Antigen-antibody complexes",
+      "Type IV": "T cell-mediated"
+    },
+    "explanation": "Types I, II, and III are immediate and antibody-mediated, while Type IV is delayed and cell-mediated [5-10]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "A 46-year-old male with a 15-year history of foul-smelling productive cough presents with weight loss and pedal edema. A biopsy shows apple-green birefringence under polarized light. What is the most likely protein type deposited?",
+    "options": ["AL (Amyloid light chain)", "AA (Amyloid associated)", "ATTR (Transthyretin)", "Aβ (Amyloid beta)"],
+    "answer": "AA (Amyloid associated)",
+    "explanation": "The clinical history of chronic infection (bronchiectasis) is a classic trigger for secondary (reactive) amyloidosis, which is composed of AA fibril proteins [11-15]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "PLAB/USMLE Pattern: According to the Revised CDC HIV Classification, what CD4+ T cell count is the threshold for a diagnosis of full-blown AIDS, regardless of clinical symptoms?",
+    "options": ["> 500/μl", "200-499/μl", "< 200/μl", "< 50/μl"],
+    "answer": "< 200/μl",
+    "explanation": "The source states that under the CDC system, any HIV-infected individual having a CD4+ T cell count of <200/μl is labeled as AIDS [16, 17]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Bias Recognition: A clinician observes pink, homogeneous, structureless material on an H&E stain and immediately diagnoses Amyloidosis. Why is this reasoning potentially biased?",
+    "options": [
+      "H&E is the gold standard for amyloid and needs no confirmation.",
+      "Other hyaline deposits can appear identical on H&E and require Congo red for confirmation.",
+      "Amyloid only appears pink on H&E if it is of the AL type.",
+      "H&E stains specifically for the P-component only."
+    ],
+    "answer": "Other hyaline deposits can appear identical on H&E and require Congo red for confirmation.",
+    "explanation": "The source warns that while amyloid appears as eosinophilic hyaline material on H&E, other hyaline deposits take the same color, making Congo red and polarizing microscopy necessary for specific confirmation [18, 19]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Decision Making Under Pressure: You are monitoring a kidney transplant recipient who develops swelling, hemorrhage, and cyanosis in the graft within minutes of vascular anastomosis. What is the most appropriate immunologic classification for this event?",
+    "options": ["Acute cellular rejection", "Chronic rejection", "Graft-versus-host reaction", "Hyperacute rejection"],
+    "answer": "Hyperacute rejection",
+    "explanation": "The source describes hyperacute rejection as appearing within minutes to hours, characterized grossly by the organ becoming swollen, cyanotic, and hemorrhagic [20, 21]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "MHC Class I antigens are recognized by CD4+ helper T cells.",
+    "reason": "MHC Class I genes occupy the HLA-A, HLA-B, and HLA-C loci on chromosome 6.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Assertion is false, Reason is true",
+    "explanation": "MHC Class I antigens (HLA-A, B, C) are recognized by CD8+ suppressor/cytotoxic cells, not CD4+ cells. CD4+ cells recognize MHC Class II antigens [22, 23]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following are clinical features of Systemic Lupus Erythematosus (SLE) as described in the sources?",
+    "options": ["Butterfly rash on the face", "Libman-Sacks endocarditis", "Lupus nephritis", "Hypercalcaemia", "Polyclonal B cell activation"],
+    "answer": ["Butterfly rash on the face", "Libman-Sacks endocarditis", "Lupus nephritis", "Polyclonal B cell activation"],
+    "explanation": "The sources list cutaneous 'butterfly' eruptions [24], Libman-Sacks endocarditis [24], lupus nephritis [25], and polyclonal B cell activation [26] as hallmarks of SLE. Hypercalcaemia is not mentioned as a feature [24, 25, 27-34]."
+  },
+
+  {
+    "type": "mcq_single",
+    "question": "Which specific glycoprotein of the HIV virion is responsible for its selective tropism for the CD4 molecule receptor?",
+    "options": ["gp41", "p24", "gp120", "p18"],
+    "answer": "gp120",
+    "explanation": "The source states that the gp120 envelope glycoprotein of HIV has a selective tropism for cells containing the CD4 molecule receptor [1, 2]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "In the context of splenic amyloidosis, which pattern is characterized by deposits starting in the walls of the arterioles of the white pulp, resembling sago grains?",
+    "options": ["Lardaceous spleen", "Sago spleen", "Diffuse splenic atrophy", "Sago-Lardaceous overlap"],
+    "answer": "Sago spleen",
+    "explanation": "The 'Sago spleen' pattern features amyloid deposits in the white pulp/follicles, which grossly appear as translucent pale waxy nodules resembling sago grains [3]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which antibody is considered the most specific screening test for Systemic Lupus Erythematosus (SLE), appearing in 98% of cases?",
+    "options": ["Anti-Smith (anti-Sm) antibodies", "Anti-double-stranded DNA (anti-dsDNA)", "Antinuclear antibodies (ANA)", "Anti-histone antibodies"],
+    "answer": "Antinuclear antibodies (ANA)",
+    "explanation": "ANAs are demonstrable in about 98% of SLE cases and are used as the primary screening test, though anti-dsDNA and anti-Sm are more specific for diagnosis [4, 5]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following are components of 'Innate' or 'Natural' immunity?",
+    "options": ["Antibodies formed by B cells", "Complement system", "Neutrophils", "T cells", "Natural Killer (NK) cells"],
+    "answer": ["Complement system", "Neutrophils", "Natural Killer (NK) cells"],
+    "explanation": "Innate immunity is non-specific and includes humoral (complement) and cellular (neutrophils, macrophages, NK cells) components [6, 7]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "According to the sources, which factors are implicated in the pathogenesis of AL (Primary) Amyloidosis?",
+    "options": ["Chronic tuberculosis infection", "Monoclonal B cell proliferation", "Multiple myeloma", "Serum amyloid-associated (SAA) protein", "Excessive production of lambda light chains"],
+    "answer": ["Monoclonal B cell proliferation", "Multiple myeloma", "Excessive production of lambda light chains"],
+    "explanation": "AL amyloid is derived from immunoglobulin light chains (more often lambda) and is associated with monoclonal B cell/plasma cell proliferative disorders like multiple myeloma [8-10]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which conditions are classified under 'Category C' (AIDS-defining conditions) in the revised CDC HIV classification?",
+    "options": ["Persistent generalized lymphadenopathy", "Pneumocystis carinii pneumonia", "Bacillary dysentery", "Mucosal candidiasis", "Tuberculosis"],
+    "answer": ["Pneumocystis carinii pneumonia", "Mucosal candidiasis", "Tuberculosis"],
+    "explanation": "Category C includes indicator conditions for AIDS surveillance such as esophageal/mucosal candidiasis, tuberculosis, and Pneumocystis carinii pneumonia [11, 12]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Ischaemia typically results in more rapid and severe cell injury than hypoxia from other causes like anaemia.",
+    "reason": "In ischaemia, both aerobic respiration and the availability of glucose for anaerobic glycolysis are compromised.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "Ischaemia limits both oxygen and glucose delivery, whereas other forms of hypoxia might still allow for anaerobic ATP generation [Excerpts]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "A patient in the 'window period' of HIV infection can test negative for antibodies while being highly infectious.",
+    "reason": "The 'window period' is the initial 2 to 4 weeks before seroconversion, where p24 antigen may be present but antibodies are not yet detectable by ELISA.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "The sources define the window period as the time (2-4 weeks) when a patient is infectious but the antibody screening test is negative [13]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Type IV hypersensitivity is considered an immediate type reaction.",
+    "reason": "It is mediated by T cells and requires 24 to 48 hours to develop.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Assertion is false, Reason is true",
+    "explanation": "Type IV is 'Delayed' hypersensitivity, not immediate. The reason correctly identifies its T-cell mediation and timing [14, 15]."
+  },
+  {
+    "type": "match_columns",
+    "question": "Match the Hypersensitivity Reaction Type with its common clinical example:",
+    "left": ["Type I", "Type II", "Type III", "Type IV"],
+    "right": ["SLE (Immune Complex)", "Hay Fever (Anaphylactic)", "Tuberculin Reaction (Delayed)", "Erythroblastosis Foetalis (Cytotoxic)"],
+    "answer": {
+      "Type I": "Hay Fever (Anaphylactic)",
+      "Type II": "Erythroblastosis Foetalis (Cytotoxic)",
+      "Type III": "SLE (Immune Complex)",
+      "Type IV": "Tuberculin Reaction (Delayed)"
+} ,
+    "explanation": "These pairings are explicitly listed in the comparative features of hypersensitivity reactions in the sources [Table 3.7]."
+  },
+  {
+    "type": "match_columns",
+    "question": "Match the HLA Class with its specific locus and cell recognition type:",
+    "left": ["Class I MHC", "Class II MHC", "Class III MHC"],
+    "right": ["HLA-DR, DQ, DP (CD4+ cells)", "HLA-A, B, C (CD8+ cells)", "Complement components C2, C4"],
+    "answer": {
+      "Class I MHC": "HLA-A, B, C (CD8+ cells)",
+      "Class II MHC": "HLA-DR, DQ, DP (CD4+ cells)",
+      "Class III MHC": "Complement components C2, C4"
+    },
+    "explanation": "The sources detail Class I as A, B, C for CD8+; Class II as DR, DQ, DP for CD4+; and Class III as complement components [16, 17]."
+  },
+  {
+    "type": "match_columns",
+    "question": "Match the Amyloid Protein with its associated clinical condition:",
+    "left": ["AA", "AL", "ATTR", "Aβ"],
+    "right": ["Alzheimer's Disease", "Chronic Tuberculosis", "Multiple Myeloma", "Senile Cardiac Amyloidosis"],
+    "answer": {
+      "AA": "Chronic Tuberculosis",
+      "AL": "Multiple Myeloma",
+      "ATTR": "Senile Cardiac Amyloidosis",
+      "Aβ": "Alzheimer's Disease"
+    },
+    "explanation": "AA is secondary (chronic infection); AL is primary (plasma cell dyscrasias); ATTR is senile cardiac/hereditary; Aβ is cerebral [18-20]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Critical Thinking: A clinician performs a Congo red stain on a tissue sample and observes pink-red color under light microscopy but forgets the polarized light examination. Why is this a clinical pitfall?",
+    "options": [
+      "The pink-red color is only seen in AL amyloid.",
+      "Congo red is only specific for AA amyloid.",
+      "Other hyaline substances can stain pink on H&E and Congo red, requiring birefringence for specificity.",
+      "Birefringence is only needed to distinguish between AL and AA types."
+    ],
+    "answer": "Other hyaline substances can stain pink on H&E and Congo red, requiring birefringence for specificity.",
+    "explanation": "The source notes that other hyaline material can look similar, but apple-green birefringence under polarized light is the specific confirmatory property [21-23]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Decision Under Pressure: You are treating a patient with a history of foul-smelling productive cough for 15 years who now presents with nephrotic syndrome. What is the most likely diagnosis you must act on?",
+    "options": ["Primary AL Amyloidosis", "Secondary AA Amyloidosis", "Acute Glomerulonephritis", "Lupus Nephritis"],
+    "answer": "Secondary AA Amyloidosis",
+    "explanation": "The clinical history of chronic bronchiectasis (foul sputum) is a classic trigger for secondary (reactive) AA amyloidosis of the kidneys [24-26]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which mechanism of graft rejection is characterized by the organ becoming swollen, hemorrhagic, and cyanotic within minutes of vascular anastomosis?",
+    "options": ["Acute cellular rejection", "Chronic rejection", "Hyperacute rejection", "Graft-versus-host reaction"],
+    "answer": "Hyperacute rejection",
+    "explanation": "Hyperacute rejection appears within minutes to hours, causing the organ to become swollen, oedematous, and cyanotic [27, 28]."
+  }
+
+
+  ]
+
+}

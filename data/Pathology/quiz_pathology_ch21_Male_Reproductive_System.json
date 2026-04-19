@@ -1,0 +1,454 @@
+
+{
+  "quiz":
+
+[
+  {
+    "type": "mcq_single",
+    "question": "Which specific cells in the testicular stroma contain Reinke’s crystals and are the primary source of testosterone?",
+    "options": ["Sertoli cells", "Spermatogonia", "Leydig cells", "Germ cells"],
+    "answer": "Leydig cells",
+    "explanation": "Interstitial cells of Leydig contain lipid granules and elongated Reinke’s crystals and are the main source of testosterone [1]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following are histological features of an undescended (cryptorchid) testis by age 2?",
+    "options": [
+      "Thickened tubular basement membrane",
+      "Progressive loss of germ cell elements",
+      "Decrease in interstitial stroma",
+      "Hyalinisation of tubules"
+    ],
+    "answer": ["Thickened tubular basement membrane", "Progressive loss of germ cell elements", "Hyalinisation of tubules"],
+    "explanation": "Histological changes in cryptorchidism include loss of germ cells, thickened basement membrane, and hyalinisation, though there is usually an increase in interstitial stroma [2]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Cryptorchidism is associated with a significantly increased risk of testicular malignancy.",
+    "reason": "The probability of a germ cell tumour is 30-50 times greater in an undescended testis than in a normally-descended one.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "Cryptorchidism is a high-risk factor for malignancy, specifically seminoma and embryonal carcinoma [3, 4]."
+  },
+  {
+    "type": "match_columns",
+    "question": "Match the cause of male infertility with its appropriate category:",
+    "left": ["Hypopituitarism", "Agonadism", "Vas deferens atresia", "Diabetes mellitus"],
+    "right": ["Pre-testicular", "Testicular", "Post-testicular", "Pre-testicular"],
+    "answer": {
+      "Hypopituitarism": "Pre-testicular",
+      "Agonadism": "Testicular",
+      "Vas deferens atresia": "Post-testicular",
+      "Diabetes mellitus": "Pre-testicular"
+    },
+    "explanation": "Infertility causes are grouped into endocrine (pre-testicular), primary organ failure (testicular), and obstructive (post-testicular) categories [5-7]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which organism is the most common cause of non-specific epididymitis in sexually active men under 35?",
+    "options": ["Escherichia coli", "Pseudomonas", "Chlamydia trachomatis", "Staphylococcus aureus"],
+    "answer": "Chlamydia trachomatis",
+    "explanation": "In men under 35, Neisseria gonorrhoeae and Chlamydia trachomatis are the most frequent infecting organisms [8]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Granulomatous orchitis may be clinically mistaken for a testicular tumour.",
+    "reason": "It presents as a unilateral, painless enlargement of the testis in middle-aged men.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "The clinical presentation of painless enlargement in middle-aged men often mimics malignancy [9]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Where does tuberculosis of the male reproductive tract invariably begin?",
+    "options": ["Prostate", "Seminal vesicles", "Epididymis", "Spermatic cord"],
+    "answer": "Epididymis",
+    "explanation": "Tuberculosis invariably begins in the epididymis and then spreads to the testis [10]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the most important variety of filaria causing elephantiasis of the scrotum in tropical countries?",
+    "options": ["Chlamydia trachomatis", "Wuchereria bancrofti", "Haemophilus ducreyi", "Treponema pallidum"],
+    "answer": "Wuchereria bancrofti",
+    "explanation": "Wuchereria bancrofti is the primary cause of elephantiasis via lymphatic obstruction [11]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Torsion of the testis is a surgical emergency caused by the cessation of which of the following?",
+    "options": ["Sperm production", "Nerve conduction", "Venous drainage and arterial supply", "Lymphatic flow"],
+    "answer": "Venous drainage and arterial supply",
+    "explanation": "Torsion results from the sudden cessation of blood flow to the testis, often following trauma or effort [12, 13]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Primary varicocele is nearly always found on the left side.",
+    "reason": "The left spermatic vein enters the renal vein at a right angle and may be compressed by a loaded rectum.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "Anatomical factors favor the development of varicocele on the left side [14]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What percentage of testicular tumours arise from germ cells?",
+    "options": ["5%", "25%", "75%", "95%"],
+    "answer": "95%",
+    "explanation": "The vast majority (95%) of testicular tumours are of germ cell origin [15, 16]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which markers are widely used for the diagnosis and monitoring of testicular germ cell tumours?",
+    "options": ["hCG", "AFP", "PSA", "PAP"],
+    "answer": ["hCG", "AFP"],
+    "explanation": "Human chorionic gonadotropin (hCG) and alpha-foeto protein (AFP) are the primary biochemical markers for germ cell tumours [16, 17]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which specific chromosomal abnormality is found in more than 90% of adult testicular germ cell tumours?",
+    "options": ["Trisomy 21", "Isochromosome 12p", "Deletion of 13q", "Translocation (9;22)"],
+    "answer": "Isochromosome 12p",
+    "explanation": "An isochromosome of the short arm of chromosome 12, i(12p), is a consistent genetic feature of these tumours [18]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which of the following tumours is highly radiosensitive and has a better prognosis than non-seminomatous types?",
+    "options": ["Embryonal carcinoma", "Choriocarcinoma", "Classic Seminoma", "Yolk sac tumour"],
+    "answer": "Classic Seminoma",
+    "explanation": "Seminomas are extremely radiosensitive and generally have a better prognosis (90% cure rate) [19, 20]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "What are the microscopic hallmarks of Classic Seminoma?",
+    "options": [
+      "Uniform cells with clear cytoplasm",
+      "Lymphocytic infiltration in stroma",
+      "Schiller-Duval bodies",
+      "Syncytiotrophoblastic cells"
+    ],
+    "answer": ["Uniform cells with clear cytoplasm", "Lymphocytic infiltration in stroma"],
+    "explanation": "Classic seminoma is characterized by uniform cells with clear cytoplasm and a stroma containing a lymphocytic response [21, 22]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which testicular tumour occurs predominantly in older patients (6th decade) and rarely metastasises?",
+    "options": ["Classic seminoma", "Embryonal carcinoma", "Spermatocytic seminoma", "Teratoma"],
+    "answer": "Spermatocytic seminoma",
+    "explanation": "Spermatocytic seminoma is distinctive, occurring in older men and having an excellent prognosis as it rarely metastasises [23, 24]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "The presence of Schiller-Duval bodies is pathognomonic for which tumour?",
+    "options": ["Seminoma", "Yolk sac tumour", "Choriocarcinoma", "Leydig cell tumour"],
+    "answer": "Yolk sac tumour",
+    "explanation": "Schiller-Duval bodies resemble endodermal sinuses and are characteristic of yolk sac tumours [25, 26]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which tumour is composed of intimately related syncytiotrophoblast and cytotrophoblast and is highly malignant?",
+    "options": ["Embryonal carcinoma", "Polyembryoma", "Choriocarcinoma", "Sertoli cell tumour"],
+    "answer": "Choriocarcinoma",
+    "explanation": "Choriocarcinoma is a highly malignant germ cell tumour composed of these two cell types [27, 28]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "All testicular teratomas in adults are regarded as malignant.",
+    "reason": "Mature-looking teratomas in adults are invariably associated with hidden foci of immature elements.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "While teratomas are often benign in children, in adults they behave unpredictably and are considered malignant [29, 30]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which tumour may elaborate oestrogen or androgen, leading to gynaecomastia or precocious sexual development?",
+    "options": ["Seminoma", "Sertoli cell tumour", "Teratoma", "Yolk sac tumour"],
+    "answer": "Sertoli cell tumour",
+    "explanation": "Sertoli cell tumours can produce hormones that cause these clinical manifestations [31]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Phimosis can lead to which of the following complications?",
+    "options": ["Secondary infection", "Preputial calculi", "Squamous cell carcinoma", "Hydrocele"],
+    "answer": ["Secondary infection", "Preputial calculi", "Squamous cell carcinoma"],
+    "explanation": "Phimosis prevents cleanliness, predisposing the patient to infection, stones, and eventually cancer [32]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What developmental defect results in the urethral meatus opening on the ventral surface of the penis?",
+    "options": ["Epispadias", "Phimosis", "Hypospadias", "Paraphimosis"],
+    "answer": "Hypospadias",
+    "explanation": "Hypospadias is a ventral defect, while epispadias is a dorsal defect [33]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Koilocytosis is a histological hallmark of which infection in the penis?",
+    "options": ["Syphilis", "Gonorrhoea", "Human Papilloma Virus (HPV)", "Chlamydia"],
+    "answer": "Human Papilloma Virus (HPV)",
+    "explanation": "Koilocytosis—clear vacuolisation of the cytoplasm—is indicative of HPV infection, commonly seen in condyloma acuminatum [34]."
+  },
+  {
+    "type": "match_columns",
+    "question": "Match the penile carcinoma in situ (CIS) with its clinical appearance:",
+    "left": ["Bowen’s disease", "Erythroplasia of Queyrat", "Bowenoid papulosis"],
+    "right": ["Ulcerated solitary plaque on shaft", "Velvety pink lesion on mucosa", "Red-brown papular lesions"],
+    "answer": {
+      "Bowen’s disease": "Ulcerated solitary plaque on shaft",
+      "Erythroplasia of Queyrat": "Velvety pink lesion on mucosa",
+      "Bowenoid papulosis": "Red-brown papular lesions"
+    },
+    "explanation": "These are the three distinct forms of premalignant penile lesions [35, 36]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Penile cancer is rare in Jewish and Muslim populations.",
+    "reason": "Early circumcision prevents the accumulation of carcinogenic smegma.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "Circumcision is protective against squamous cell carcinoma of the penis [37, 38]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the normal weight of the adult prostate gland?",
+    "options": ["10 gm", "20 gm", "40 gm", "80 gm"],
+    "answer": "20 gm",
+    "explanation": "The normal adult prostate weighs approximately 20 gm [39]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following are recognized types of prostatitis?",
+    "options": ["Acute suppurative", "Chronic bacterial", "Chronic abacterial", "Granulomatous"],
+    "answer": ["Acute suppurative", "Chronic bacterial", "Chronic abacterial", "Granulomatous"],
+    "explanation": "Prostatitis can present in acute, chronic (bacterial or abacterial), and granulomatous forms [40-42]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which part of the prostate is primarily involved in benign nodular hyperplasia (BNH)?",
+    "options": ["Posterior lobe", "Outer subcapsular part", "Inner periurethral part", "Peripheral zone"],
+    "answer": "Inner periurethral part",
+    "explanation": "BNH occurs in the periurethral part, which is why it often causes urinary obstruction [43, 44]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "The incidence of Benign Nodular Hyperplasia (BNH) is considered part of the normal aging process.",
+    "reason": "With advancing age, rising oestrogen levels sensitise the prostate to the growth-promoting effects of testosterone.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "Hormonal shifts with age are believed to be the primary etiologic factors for BNH [45]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which tissues can undergo hyperplasia in BNH?",
+    "options": ["Glandular", "Fibrous", "Muscular", "Nervous"],
+    "answer": ["Glandular", "Fibrous", "Muscular"],
+    "explanation": "BNH involves hyperplasia of glandular, fibrous, and muscular elements in varying proportions [46, 47]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the second most common form of cancer in males?",
+    "options": ["Lung cancer", "Colorectal cancer", "Cancer of the prostate", "Stomach cancer"],
+    "answer": "Cancer of the prostate",
+    "explanation": "Prostate cancer is second only to lung cancer in frequency among males [48]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Carcinoma of the prostate that is found unexpectedly during an autopsy for other causes is called:",
+    "options": ["Latent carcinoma", "Incidental carcinoma", "Occult carcinoma", "Clinical carcinoma"],
+    "answer": "Latent carcinoma",
+    "explanation": "Latent carcinoma is asymptomatic and found incidentally at autopsy [49]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following support the endocrinologic basis of prostate cancer?",
+    "options": [
+      "Orchiectomy causes arrest of metastatic disease",
+      "Oestrogen administration causes regression",
+      "It is common in eunuchs",
+      "It begins when androgen levels are high"
+    ],
+    "answer": ["Orchiectomy causes arrest of metastatic disease", "Oestrogen administration causes regression", "It begins when androgen levels are high"],
+    "explanation": "Prostate cancer is androgen-dependent; it is extremely rare in eunuchs [50, 51]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which genetic mutation is associated with a 20-times increased risk of prostatic cancer?",
+    "options": ["p53", "BRCA1", "BRCA2", "WT1"],
+    "answer": "BRCA2",
+    "explanation": "Men with the BRCA2 susceptibility gene have a 20-fold increase in risk [52]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Prostatic Intraepithelial Neoplasia (PIN) of which grade is a forerunner of invasive carcinoma?",
+    "options": ["Low grade", "Moderate grade", "High grade", "In situ grade"],
+    "answer": "High grade",
+    "explanation": "High-grade PIN refers to atypical luminal cells and often progresses to invasive adenocarcinoma [53]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Where is 95% of prostatic carcinoma located within the gland?",
+    "options": ["Periurethral part", "Transition zone", "Peripheral zone (posterior lobe)", "Median lobe"],
+    "answer": "Peripheral zone (posterior lobe)",
+    "explanation": "Unlike BNH, most cancers arise in the peripheral zone and may not initially compress the urethra [54]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which histological signs distinguish adenocarcinoma of the prostate from BNH?",
+    "options": [
+      "Loss of the outer basal cell layer",
+      "Loss of intra-acinar papillary convolutions",
+      "Perineural invasion",
+      "Two-layered epithelium"
+    ],
+    "answer": ["Loss of the outer basal cell layer", "Loss of intra-acinar papillary convolutions", "Perineural invasion"],
+    "explanation": "Adenocarcinoma is characterized by a single cell layer (loss of basal layer), lack of convolutions, and frequent perineural invasion [55, 56]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Prostatic carcinoma most frequently causes characteristic metastases to which site?",
+    "options": ["Lungs (haemorrhagic)", "Liver (nodular)", "Bones (osteoblastic)", "Brain (cystic)"],
+    "answer": "Bones (osteoblastic)",
+    "explanation": "Osteoblastic osseous metastases to the pelvis and lumbar spine are a hallmark of advanced prostate cancer [57, 58]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "A PSA (Prostate-specific antigen) value above which level is considered diagnostic of prostatic carcinoma?",
+    "options": ["1 ng/ml", "4 ng/ml", "10 ng/ml", "0.5 ng/ml"],
+    "answer": "10 ng/ml",
+    "explanation": "Values between 4-10 ng/ml are suspicious, but above 10 ng/ml is highly diagnostic [59]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which grading system is based on glandular differentiation and growth patterns in relation to the stroma?",
+    "options": ["TNM Staging", "Gleason grading system", "Mostofi’s system", "Duke’s classification"],
+    "answer": "Gleason grading system",
+    "explanation": "Gleason’s system evaluates scores (1-5) for predominant and secondary patterns to arrive at a total out of 10 [58, 60]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Digital rectal examination (DRE) is a crucial screening tool for prostate cancer.",
+    "reason": "By the time symptoms appear, the carcinoma is usually palpable as a hard, nodular gland fixed to surrounding tissues.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "DRE, alongside PSA and biopsy, forms the 'triple approach' for diagnosis [61, 62]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Critical Thinking: A clinician assumes a patient's testicular mass is a simple hydrocele because it feels 'soft' initially. What diagnostic maneuver is essential to avoid this pitfall?",
+    "options": ["Palpation of the abdomen", "Transillumination", "Blood pressure measurement", "Rectal examination"],
+    "answer": "Transillumination",
+    "explanation": "Hydroceles are positive for transillumination, whereas solid testicular masses (tumours) are negative [58]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Critical Thinking: Why might the diagnosis of an intra-abdominal cryptorchid testis be delayed compared to one in the inguinal canal?",
+    "options": [
+      "It is smaller",
+      "It is asymptomatic and cannot be palpated on routine physical exam",
+      "It produces more hormones",
+      "It never becomes malignant"
+    ],
+    "answer": "It is asymptomatic and cannot be palpated on routine physical exam",
+    "explanation": "Neoplastic processes in intra-abdominal sites are harder to detect than those in scrotal or inguinal locations [3]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Case Study: A 25-year-old man presents with a 5 cm firm, non-tender testicular mass. It does not transilluminate. What is the most probable diagnosis?",
+    "options": ["Acute orchitis", "Spermatocele", "Testicular Germ Cell Tumour (Seminoma)", "Varicocele"],
+    "answer": "Testicular Germ Cell Tumour (Seminoma)",
+    "explanation": "A painless, non-transilluminating mass in a young man is highly suspicious for a germ cell tumour like seminoma [58, 63]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Decision-making: A patient with suspected prostate cancer has a PSA of 6 ng/ml. What should the next steps be?",
+    "options": ["Immediate radical prostatectomy", "Digital Rectal Examination (DRE)", "Transrectal ultrasound (TRUS)-guided biopsy", "Wait for 1 year"],
+    "answer": ["Digital Rectal Examination (DRE)", "Transrectal ultrasound (TRUS)-guided biopsy"],
+    "explanation": "A PSA between 4-10 is suspicious; DRE and biopsy are needed to confirm malignancy [59, 62]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "University Level: Which component of the Gleason score represents the 'primary' score?",
+    "options": ["The least common pattern", "The predominant grade", "The grade found in the lymph nodes", "The grade with the most necrosis"],
+    "answer": "The predominant grade",
+    "explanation": "The primary score is assigned to the predominant histological grade [60]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "USMLE Pattern: A 65-year-old male with urinary frequency and nocturia has a hard nodule felt on DRE. His PSA is 15 ng/ml. What is the most likely pathological finding?",
+    "options": ["Glandular hyperplasia with two layers of epithelium", "Infiltrating microacini with loss of basal cell layer", "Neutrophilic exudate in dilated acini", "Laminated Michaelis-Gutmann bodies"],
+    "answer": "Infiltrating microacini with loss of basal cell layer",
+    "explanation": "The presentation (age, hard nodule, high PSA) is classic for adenocarcinoma, which histologically loses the basal layer [56]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "USMLE Pattern: A 4-year-old boy has a soft, mucoid testicular mass. Labs show significantly elevated AFP. What is the most likely diagnosis?",
+    "options": ["Classic seminoma", "Embryonal carcinoma", "Yolk sac tumour", "Teratoma"],
+    "answer": "Yolk sac tumour",
+    "explanation": "Yolk sac tumour is the most common testicular tumour in children and always has elevated AFP [25, 64]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Bias Recognition: A doctor assumes a middle-aged man's firm, painless testicular mass is a tumour and recommends orchidectomy. However, the biopsy reveals non-caseating granulomas within tubules. What was the correct diagnosis?",
+    "options": ["Classic seminoma", "Tuberculous orchitis", "Granulomatous (Autoimmune) orchitis", "Spermatic granuloma"],
+    "answer": "Granulomatous (Autoimmune) orchitis",
+    "explanation": "Granulomatous orchitis mimics tumours clinically; the biopsy is required to avoid unnecessary surgery based on anchoring bias toward cancer [9]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Problem Solving: A patient post-vasectomy develops a firm nodule in the scrotum. Histology shows a granuloma containing spermatozoa and necrotic debris. This is a:",
+    "options": ["Malignant teratoma", "Spermatic granuloma", "Tuberculous epididymitis", "Sertoli cell tumour"],
+    "answer": "Spermatic granuloma",
+    "explanation": "Spermatic granulomas result from sperm invading the stroma following trauma or vasectomy [65]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Reflective Question: Why is the distinction between seminomatous and non-seminomatous tumours clinically vital?",
+    "options": [
+      "They have different sensitivities to radiation",
+      "They have different serum markers",
+      "They have different prognoses",
+      "They are found in different age groups"
+    ],
+    "answer": ["They have different sensitivities to radiation", "They have different serum markers", "They have different prognoses"],
+    "explanation": "Seminomas are radiosensitive and better-prognosis; non-seminomatous are radioresistant and more aggressive [19, 20]."
+  }
+]
+}

@@ -1,0 +1,465 @@
+{
+  "quiz": [
+    {
+      "question": "Which of the following best defines neoplasia?",
+      "options": ["New growth of normal tissue", "New growth of abnormal tissue", "Inflammatory proliferation", "Hyperplasia of normal cells"],
+      "answer": "New growth of abnormal tissue",
+      "explanation": "Neoplasia means 'new growth' and refers to abnormal, uncontrolled proliferation of cells."
+    },
+    {
+      "question": "Which of the following is a benign tumor of fibrous tissue?",
+      "options": ["Fibrosarcoma", "Fibroma", "Lipoma", "Chondrosarcoma"],
+      "answer": "Fibroma",
+      "explanation": "Benign mesenchymal tumors are named with the suffix '-oma'; fibroma is benign, while fibrosarcoma is malignant."
+    },
+    {
+      "question": "Which of the following is a malignant tumor of epithelial origin?",
+      "options": ["Adenoma", "Papilloma", "Carcinoma", "Cystadenoma"],
+      "answer": "Carcinoma",
+      "explanation": "Carcinomas are malignant epithelial tumors, regardless of germ layer origin."
+    },
+    {
+      "question": "Which of the following is a malignant tumor of adipose tissue?",
+      "options": ["Lipoma", "Liposarcoma", "Fibrosarcoma", "Chondroma"],
+      "answer": "Liposarcoma",
+      "explanation": "The malignant counterpart of lipoma is liposarcoma."
+    },
+    {
+      "question": "Which of the following is a benign epithelial tumor forming gland-like structures?",
+      "options": ["Adenoma", "Carcinoma", "Sarcoma", "Melanoma"],
+      "answer": "Adenoma",
+      "explanation": "Adenomas are benign epithelial tumors forming glandular structures."
+    },
+    {
+      "question": "Which of the following is a malignant tumor of melanocytes?",
+      "options": ["Nevus", "Melanoma", "Basal cell carcinoma", "Squamous cell carcinoma"],
+      "answer": "Melanoma",
+      "explanation": "Malignant melanoma arises from melanocytes; nevus is benign."
+    },
+    {
+      "question": "Which of the following is a hallmark feature of malignancy?",
+      "options": ["Encapsulation", "Metastasis", "Slow growth", "Well-differentiated cells"],
+      "answer": "Metastasis",
+      "explanation": "Metastasis is the most reliable feature distinguishing malignant tumors from benign ones."
+    },
+    {
+      "question": "Which of the following terms refers to loss of differentiation?",
+      "options": ["Hyperplasia", "Anaplasia", "Metaplasia", "Dysplasia"],
+      "answer": "Anaplasia",
+      "explanation": "Anaplasia means lack of differentiation and is a reliable indicator of malignancy."
+    },
+    {
+      "question": "Which of the following is a pre-invasive stage of cancer?",
+      "options": ["Hyperplasia", "Carcinoma in situ", "Metaplasia", "Hamartoma"],
+      "answer": "Carcinoma in situ",
+      "explanation": "Carcinoma in situ involves full-thickness dysplasia with intact basement membrane."
+    },
+    {
+      "question": "Which of the following is a congenital anomaly with heterotopic tissue?",
+      "options": ["Hamartoma", "Choristoma", "Teratoma", "Adenoma"],
+      "answer": "Choristoma",
+      "explanation": "Choristoma is a congenital anomaly with normal tissue in an abnormal location."
+    },
+    {
+      "question": "Which of the following is a mixed tumor of salivary gland?",
+      "options": ["Pleomorphic adenoma", "Fibroadenoma", "Teratoma", "Hamartoma"],
+      "answer": "Pleomorphic adenoma",
+      "explanation": "Pleomorphic adenoma is a mixed tumor of salivary gland with epithelial and stromal components."
+    },
+    {
+      "question": "Which of the following is a benign tumor of smooth muscle?",
+      "options": ["Leiomyoma", "Leiomyosarcoma", "Rhabdomyoma", "Rhabdomyosarcoma"],
+      "answer": "Leiomyoma",
+      "explanation": "Leiomyoma is benign smooth muscle tumor; leiomyosarcoma is malignant."
+    },
+    {
+      "question": "Which of the following is a malignant tumor of striated muscle?",
+      "options": ["Rhabdomyoma", "Rhabdomyosarcoma", "Leiomyosarcoma", "Fibrosarcoma"],
+      "answer": "Rhabdomyosarcoma",
+      "explanation": "Rhabdomyosarcoma is malignant tumor of striated muscle."
+    },
+    {
+      "question": "Which of the following is a benign tumor of cartilage?",
+      "options": ["Chondroma", "Chondrosarcoma", "Osteoma", "Osteosarcoma"],
+      "answer": "Chondroma",
+      "explanation": "Chondroma is benign cartilage tumor; chondrosarcoma is malignant."
+    },
+    {
+      "question": "Which of the following is a malignant tumor of bone?",
+      "options": ["Osteoma", "Osteogenic sarcoma", "Chondroma", "Fibroma"],
+      "answer": "Osteogenic sarcoma",
+      "explanation": "Osteogenic sarcoma is malignant bone tumor; osteoma is benign."
+    },
+    {
+      "question": "Which of the following is a benign vascular tumor?",
+      "options": ["Hemangioma", "Angiosarcoma", "Lymphangiosarcoma", "Mesothelioma"],
+      "answer": "Hemangioma",
+      "explanation": "Hemangioma is a benign tumor of blood vessels."
+    },
+    {
+      "question": "Which of the following is a malignant tumor of blood vessels?",
+      "options": ["Hemangioma", "Angiosarcoma", "Lymphangioma", "Fibrosarcoma"],
+      "answer": "Angiosarcoma",
+      "explanation": "Angiosarcoma is malignant vascular tumor."
+    },
+    {
+      "question": "Which of the following is a benign tumor of lymphatic vessels?",
+      "options": ["Lymphangioma", "Lymphangiosarcoma", "Lymphoma", "Leukemia"],
+      "answer": "Lymphangioma",
+      "explanation": "Lymphangioma is benign lymphatic tumor; lymphangiosarcoma is malignant."
+    },
+    {
+      "question": "Which of the following is a malignant tumor of lymphoid tissue?",
+      "options": ["Lymphangioma", "Lymphoma", "Leukemia", "Hamartoma"],
+      "answer": "Lymphoma",
+      "explanation": "Lymphomas are malignant tumors of lymphoid tissue."
+    },
+    {
+      "question": "Which of the following is a malignant tumor of hematopoietic cells?",
+      "options": ["Leukemia", "Lymphoma", "Hamartoma", "Choristoma"],
+      "answer": "Leukemia",
+      "explanation": "Leukemias are malignant neoplasms of hematopoietic cells."
+    },
+    {
+      "question": "A 52-year-old female presents with a firm, painless lump in the upper outer quadrant of her left breast. Physical examination reveals that the mass is fixed to the underlying chest wall. A biopsy shows nests of pleomorphic epithelial cells infiltrating the stroma without a well-defined capsule. Which of the following features most unequivocally identifies this lesion as malignant?",
+      "options": [
+        "The presence of pleomorphic cells",
+        "A high nuclear-to-cytoplasmic ratio",
+        "The infiltrative mode of growth and lack of a capsule",
+        "The rapid growth of the mass"
+      ],
+      "answer": "The infiltrative mode of growth and lack of a capsule",
+      "explanation": "According to the sources, next to metastasis, invasiveness is the most reliable feature distinguishing cancers from benign tumors. Malignant tumors typically lack well-defined capsules and exhibit an infiltrative growth pattern [1]."
+    },
+    {
+      "question": "A 19-year-old male undergoes a screening colonoscopy because his father died of colon cancer at age 35. The procedure reveals over 500 adenomatous polyps throughout the colon. Genetic testing confirms a germline mutation in the APC gene. What is the molecular mechanism by which this mutation promotes tumorigenesis?",
+      "options": [
+        "Direct activation of the RAS oncogene",
+        "Failure to degrade cytoplasmic beta-catenin, leading to its nuclear translocation",
+        "Inhibition of the p53 'guardian' response",
+        "Increased production of TGF-beta"
+      ],
+      "answer": "Failure to degrade cytoplasmic beta-catenin, leading to its nuclear translocation",
+      "explanation": "The source states that the APC gene normally promotes the degradation of beta-catenin. Loss of APC leads to an accumulation of beta-catenin, which translocates to the nucleus and acts as a growth-promoting transcription factor [2, 3]."
+    },
+    {
+      "question": "A 60-year-old male chronic smoker presents with persistent cough and weight loss. Laboratory studies reveal a serum calcium level of 12.5 mg/dL (Normal: 8.5–10.5 mg/dL). A chest X-ray shows a central hilar mass. A biopsy confirms squamous cell carcinoma. What is the most likely cause of his hypercalcemia?",
+      "options": [
+        "Widespread osteolytic bone metastases",
+        "Ectopic production of Parathyroid Hormone-related Protein (PTHrP)",
+        "Ectopic production of Adrenocorticotropic hormone (ACTH)",
+        "Increased dietary absorption of calcium due to Vitamin D production"
+      ],
+      "answer": "Ectopic production of Parathyroid Hormone-related Protein (PTHrP)",
+      "explanation": "Hypercalcemia is a common paraneoplastic syndrome in cancer patients, most frequently caused by the synthesis of PTHrP by tumor cells, particularly in squamous cell carcinomas of the lung [4, 5]."
+    },
+    {
+      "question": "A 35-year-old female presents with a slow-growing, mobile mass in the parotid gland. Histologic examination reveals a monoclonal population of cells showing both epithelial elements and islands of cartilage and bone within a fibromyxoid stroma. This 'mixed tumor' is best designated as:",
+      "options": [
+        "Teratoma",
+        "Pleomorphic adenoma",
+        "Hamartoma",
+        "Choristoma"
+      ],
+      "answer": "Pleomorphic adenoma",
+      "explanation": "The sources describe the pleomorphic adenoma of the salivary gland as the best example of a mixed tumor, where a single transformed progenitor cell differentiates into more than one lineage, creating epithelial components and myxoid stroma [6]."
+    },
+    {
+      "question": "A 2-year-old child is brought to the clinic after his parents noticed a white reflex (leukocoria) in his left eye. A CT scan reveals a mass on the retina. The physician explains that the child likely inherited one defective allele of a specific gene and acquired a second mutation somatically. Which gene is involved?",
+      "options": [
+        "TP53",
+        "APC",
+        "RB",
+        "BRCA1"
+      ],
+      "answer": "RB",
+      "explanation": "This describes the Knudson 'two-hit' hypothesis for retinoblastoma. Children with the familial form inherit one defective copy of the RB gene (13q14) and need only one additional somatic mutation to lose function and develop the tumor [7, 8]."
+    },
+    {
+      "question": "A 55-year-old male with long-standing gastroesophageal reflux disease (GERD) undergoes an endoscopy. Biopsy of the lower esophagus shows that the normal stratified squamous epithelium has been replaced by intestinal-type columnar epithelium with goblet cells. This finding:",
+      "options": [
+        "Is a benign adaptation and carries no cancer risk",
+        "Is defined as glandular metaplasia and increases the risk for adenocarcinoma",
+        "Represents carcinoma in situ",
+        "Is an example of anaplasia"
+      ],
+      "answer": "Is defined as glandular metaplasia and increases the risk for adenocarcinoma",
+      "explanation": "In chronic gastric reflux, the normal squamous epithelium of the esophagus undergoes metaplastic transformation to columnar epithelium (Barrett esophagus), which marks the tissue as being at increased risk for developing invasive adenocarcinoma [9-11]."
+    },
+    {
+      "question": "A 45-year-old woman presents with fatigue and splenomegaly. A peripheral blood smear shows a massive increase in myeloid cells at all stages of maturation. Cytogenetic analysis reveals a reciprocal translocation between chromosomes 9 and 22, the 'Philadelphia chromosome.' What is the primary functional consequence of this rearrangement?",
+      "options": [
+        "Inactivation of the p16 tumor suppressor",
+        "Overexpression of the BCL2 anti-apoptotic protein",
+        "Generation of a BCR-ABL fusion protein with potent tyrosine kinase activity",
+        "Amplification of the MYC oncogene"
+      ],
+      "answer": "Generation of a BCR-ABL fusion protein with potent tyrosine kinase activity",
+      "explanation": "The Ph chromosome in chronic myeloid leukemia involves a translocation that fuses the BCR and ABL genes, resulting in a novel tyrosine kinase that stimulates cell growth and survival [12, 13]."
+    },
+    {
+      "question": "A 70-year-old farmer presents with a non-healing, scaly ulcer on the sun-exposed skin of his forehead. Histological analysis of his skin cells shows the formation of pyrimidine dimers. He is diagnosed with squamous cell carcinoma. What process failed to prevent this malignancy?",
+      "options": [
+        "Mismatch repair",
+        "Nucleotide excision repair",
+        "Homologous recombination",
+        "Apoptosis mediated by BCL2"
+      ],
+      "answer": "Nucleotide excision repair",
+      "explanation": "UV rays in sunlight cause cross-linking of pyrimidine residues (dimers). These are normally repaired by the nucleotide excision repair system. Failure of this system leads to skin cancer [14, 15]."
+    },
+    {
+      "question": "A 65-year-old male with a history of heavy smoking and alcohol use presents with a painless lump on the side of his neck and migratory thrombophlebitis (Trousseau phenomenon). Imaging reveals a mass in the tail of the pancreas. What is the likely cause of his venous thrombosis?",
+      "options": [
+        "Direct invasion of veins by the tumor",
+        "Paraneoplastic production of mucins that activate the clotting cascade",
+        "Cachexia-induced blood viscosity",
+        "Prolonged immobility due to cancer fatigue"
+      ],
+      "answer": "Paraneoplastic production of mucins that activate the clotting cascade",
+      "explanation": "Trousseau phenomenon (migratory thrombophlebitis) is a paraneoplastic syndrome often associated with pancreatic or bronchogenic carcinoma, caused by tumor products like mucins that activate clotting [16]."
+    },
+    {
+      "question": "A terminal cancer patient exhibits extreme weight loss, profound weakness, and anemia despite adequate nutritional intake. The patient's metabolic rate is found to be increased. This condition is primarily mediated by which cytokine?",
+      "options": [
+        "IL-10",
+        "TGF-beta",
+        "TNF (Tumor Necrosis Factor)",
+        "Interferon-gamma"
+      ],
+      "answer": "TNF (Tumor Necrosis Factor)",
+      "explanation": "Cancer cachexia results from the action of soluble factors like cytokines. TNF is suspected to be a primary mediator as it suppresses appetite and inhibits lipoprotein lipase, preventing the release of fatty acids [17]."
+    },
+    {
+      "question": "A surgeon removes a 3 cm breast tumor along with two regional axillary lymph nodes that were found to contain metastatic cells. Imaging shows no evidence of distant spread. Using the TNM system, how would this be staged?",
+      "options": [
+        "T1 N0 M0",
+        "T2 N1 M0",
+        "T0 N2 M1",
+        "T3 N1 M0"
+      ],
+      "answer": "T2 N1 M0",
+      "explanation": "In the TNM system, T2 indicates an increasing primary tumor size (typically >2cm depending on the organ), N1 indicates regional lymph node involvement, and M0 signifies no distant metastases [18, 19]."
+    },
+    {
+      "question": "A 70-year-old male presents with urinary frequency. His serum Prostate-Specific Antigen (PSA) is found to be 6.0 ng/mL (Normal <4). A subsequent biopsy reveals benign prostatic hyperplasia (BPH) rather than cancer. This case illustrates which clinical limitation of PSA testing?",
+      "options": [
+        "High specificity for malignancy",
+        "Low sensitivity, meaning many cancers are missed",
+        "Low specificity, as levels can be elevated in non-neoplastic conditions",
+        "It is only useful for screening, not monitoring"
+      ],
+      "answer": "Low specificity, as levels can be elevated in non-neoplastic conditions",
+      "explanation": "PSA levels can be elevated in BPH and other non-neoplastic conditions, leading to low specificity for the detection of prostate cancer [20]."
+    },
+    {
+      "question": "A 25-year-old male with a family history of multiple early-onset cancers (including sarcoma, breast cancer, and leukemia) is found to have a germline mutation in the TP53 gene. This syndrome is known as:",
+      "options": [
+        "Lynch syndrome",
+        "Li-Fraumeni syndrome",
+        "Gardner syndrome",
+        "Xeroderma pigmentosum"
+      ],
+      "answer": "Li-Fraumeni syndrome",
+      "explanation": "Li-Fraumeni syndrome is a rare condition where individuals inherit one mutant TP53 allele, predisposing them to a wide variety of tumors at a young age [21-23]."
+    },
+    {
+      "question": "A 10-year-old boy in equatorial Africa presents with a rapidly growing mass involving his mandible. Histology shows a 'starry-sky' pattern, and cytogenetics reveal a translocation between chromosomes 8 and 14. What is the driver of this malignancy?",
+      "options": [
+        "Amplification of the HER2 gene",
+        "Inactivation of the RB protein",
+        "Overexpression of the MYC oncogene",
+        "Activation of the RAS protein"
+      ],
+      "answer": "Overexpression of the MYC oncogene",
+      "explanation": "Burkitt lymphoma is characterized by a t(8;14) translocation that places the MYC gene under the control of immunoglobulin gene regulatory elements, leading to its overexpression [24, 25]."
+    },
+    {
+      "question": "A 60-year-old chronic smoker with a primary lung adenocarcinoma presents with sudden-onset seizures. An MRI of the head shows multiple well-circumscribed 'ring-enhancing' lesions at the grey-white junction. What is the most likely mechanism of spread to this site?",
+      "options": [
+        "Lymphatic spread via the thoracic duct",
+        "Direct extension through the skull",
+        "Hematogenous spread, likely following the arterial supply",
+        "Seeding through the cerebrospinal fluid"
+      ],
+      "answer": "Hematogenous spread, likely following the arterial supply",
+      "explanation": "The source notes that bronchogenic carcinomas have a tropism for the brain and adrenal glands. Most brain metastases from lung cancer occur via hematogenous dissemination through the arterial circulation [26, 27]."
+    },
+    {
+      "question": "An anesthesiologist performs a biopsy of the first regional lymph node that receives lymph flow from a primary melanoma on a patient's leg, after injecting a blue dye near the tumor. This node is called the:",
+      "options": [
+        "Metastatic node",
+        "Skip metastasis",
+        "Sentinel lymph node",
+        "Primary drainage node"
+      ],
+      "answer": "Sentinel lymph node",
+      "explanation": "A 'sentinel lymph node' is the first regional lymph node that receives lymph flow from a primary tumor, and its biopsy helps determine the extent of tumor spread [28]."
+    },
+    {
+      "question": "A Positron Emission Tomography (PET) scan of a patient with a rapidly growing lymphoma shows intense uptake of 18F-fluorodeoxyglucose. This clinical finding is an application of which metabolic phenomenon in cancer cells?",
+      "options": [
+        "Oxidative phosphorylation",
+        "The Warburg effect (Aerobic glycolysis)",
+        "The Krebs cycle",
+        "Gluconeogenesis"
+      ],
+      "answer": "The Warburg effect (Aerobic glycolysis)",
+      "explanation": "The 'glucose-hunger' of tumors visualized by PET scans is due to the Warburg effect, where cancer cells preferentially use glycolysis (aerobic glycolysis) for energy and biosynthetic intermediates [29, 30]."
+    },
+    {
+      "question": "A Pap smear from a 30-year-old woman shows cells with large hyperchromatic nuclei, variation in size and shape (pleomorphism), and disordered orientation, but the basement membrane is noted to be intact. This lesion is defined as:",
+      "options": [
+        "Invasive squamous cell carcinoma",
+        "Adenocarcinoma",
+        "Carcinoma in situ",
+        "Metaplasia"
+      ],
+      "answer": "Carcinoma in situ",
+      "explanation": "When dysplastic changes are severe and involve the entire thickness of the epithelium but do not breach the basement membrane, the lesion is referred to as carcinoma in situ, a preinvasive stage [31]."
+    },
+    {
+      "question": "A 45-year-old male in East Africa is diagnosed with hepatocellular carcinoma. He has a history of consuming poorly stored, moldy corn. Genetic analysis of his tumor shows a highly specific 'signature' mutation in the TP53 gene. Which agent is the likely cause?",
+      "options": [
+        "Hepatitis B Virus",
+        "Vinyl chloride",
+        "Aflatoxin B1",
+        "Benzo(a)pyrene"
+      ],
+      "answer": "Aflatoxin B1",
+      "explanation": "Aflatoxin B1, produced by Aspergillus mold on stored grains, is linked to hepatocellular carcinoma and produces characteristic signatures in the TP53 gene [32, 33]."
+    },
+    {
+      "question": "Molecular analysis of a patient's breast cancer reveals that the HER2 (ERBB2) gene on chromosome 17 is present in several hundred copies per cell. This conversion of a proto-oncogene to an oncogene occurred via:",
+      "options": [
+        "Point mutation",
+        "Gene amplification",
+        "Chromosomal translocation",
+        "Aneuploidy"
+      ],
+      "answer": "Gene amplification",
+      "explanation": "The sources state that HER2 is amplified in approximately 20% of breast cancers, leading to overexpression and hyperactivity of the protein [34, 35]."
+    },
+    {
+      "question": "A 65-year-old former shipyard worker presents with progressive shortness of breath and chest pain. Imaging shows a massive pleural effusion and a tumor 'sheathing' the lung. This malignancy is most strongly associated with exposure to:",
+      "options": [
+        "Arsenic",
+        "Asbestos",
+        "Benzene",
+        "Radon"
+      ],
+      "answer": "Asbestos",
+      "explanation": "Occupational exposure to asbestos is a major risk factor for mesothelioma, a tumor arising from the mesothelial lining of body cavities like the pleura [36, 37]."
+    },
+    {
+      "question": "Microscopic examination of a high-grade malignant tumor shows cells with tripolar mitotic spindles, extreme variation in cell shape, and nuclei that are dark-staining and enlarged. This 'backward formation' is known as:",
+      "options": [
+        "Differentiation",
+        "Anaplasia",
+        "Hyperplasia",
+        "Dysplasia"
+      ],
+      "answer": "Anaplasia",
+      "explanation": "Anaplasia refers to a lack of differentiation and is a reliable indicator of malignancy. Features include pleomorphism, nuclear abnormalities, and atypical (e.g., tripolar) mitoses [38-40]."
+    },
+    {
+      "question": "A 50-year-old male from the Caribbean basin is diagnosed with adult T-cell leukemia/lymphoma (ATLL). The causative agent is an RNA retrovirus. What is the name of the viral protein essential for transformation in this disease?",
+      "options": [
+        "E6",
+        "E7",
+        "Tax",
+        "LMP-1"
+      ],
+      "answer": "Tax",
+      "explanation": "HTLV-1 causes ATLL. Its transforming activity is primarily attributable to the viral protein Tax, which stimulates proliferation and interferes with cell cycle controls [41, 42]."
+    },
+    {
+      "question": "A 40-year-old patient with chronic gastric inflammation caused by Helicobacter pylori develops a B-cell lymphoma of the stomach mucosa. Early in the disease course, this tumor can often be cured by:",
+      "options": [
+        "High-dose chemotherapy",
+        "Antibiotic treatment to eradicate H. pylori",
+        "Surgical resection of the entire stomach",
+        "Radiation therapy"
+      ],
+      "answer": "Antibiotic treatment to eradicate H. pylori",
+      "explanation": "Gastric MALT lymphomas are B-cell tumors that depend on signals elicited by interactions with H. pylori-reactive T cells. Eradication of the bacteria with antibiotics can cause regression of the lymphoma [43, 44]."
+    },
+    {
+      "question": "A 35-year-old woman with a history of endometrial cancer is diagnosed with a carcinoma of the cecum. Her brother also had colon cancer at age 40. Molecular testing shows 'microsatellite instability.' This suggests a defect in:",
+      "options": [
+        "The p53 guardian pathway",
+        "DNA mismatch repair",
+        "Homologous recombination repair",
+        "Nucleotide excision repair"
+      ],
+      "answer": "DNA mismatch repair",
+      "explanation": "Hereditary Nonpolyposis Colon Cancer (HNPCC) syndrome results from defects in DNA mismatch repair. A characteristic finding in these patients is microsatellite instability (MSI) [45, 46]."
+    },
+    {
+      "question": "A 60-year-old male with painless lymphadenopathy undergoes a biopsy. The diagnosis is follicular lymphoma. Cytogenetic studies show a t(14;18) translocation. This rearrangement allows the tumor cells to evade cell death by overexpressing:",
+      "options": [
+        "MYC",
+        "BCL2",
+        "RAS",
+        "BAX"
+      ],
+      "answer": "BCL2",
+      "explanation": "In follicular lymphoma, a (14;18) translocation fuses the BCL2 gene to the immunoglobulin heavy chain gene, leading to overabundance of BCL2, which protects cells from apoptosis [24, 47]."
+    },
+    {
+      "question": "A researcher is studying the mechanisms by which a tumor becomes invasive. She notices that the carcinoma cells have downregulated their epithelial markers (like E-cadherin) and upregulated mesenchymal markers (like vimentin). This process is known as:",
+      "options": [
+        "Anaplasia",
+        "Epithelial-to-mesenchymal transition (EMT)",
+        "The Warburg effect",
+        "Metastatic homing"
+      ],
+      "answer": "Epithelial-to-mesenchymal transition (EMT)",
+      "explanation": "EMT is a process where carcinoma cells acquire a spindly mesenchymal shape and increased production of proteolytic enzymes, favoring a pro-migratory phenotype essential for metastasis [48, 49]."
+    },
+    {
+      "question": "A patient with advanced metastatic melanoma is treated with an antibody that blocks the interaction between PD-1 on T cells and PD-L1 on tumor cells. This therapy works by:",
+      "options": [
+        "Directly killing the melanoma cells",
+        "Blocking growth factor receptors",
+        "Reactivating host anti-tumor immune responses by removing 'checkpoints'",
+        "Inducing global DNA methylation"
+      ],
+      "answer": "Reactivating host anti-tumor immune responses by removing 'checkpoints'",
+      "explanation": "Checkpoint blockade therapies (like anti-PD-1 or anti-PD-L1) work by releasing the 'brakes' on the immune response, allowing CTLs to recognize and destroy cancer cells [50-52]."
+    },
+    {
+      "question": "A pathologist examines a surgically resected tumor of the colon. He describes it as 'well-differentiated, with rare mitoses and no evidence of vascular invasion.' This description is primarily focused on the tumor's:",
+      "options": [
+        "Stage",
+        "Grade",
+        "Clinical prognosis",
+        "Etiology"
+      ],
+      "answer": "Grade",
+      "explanation": "Grading of a cancer is based on the degree of differentiation of tumor cells and the number of mitoses. Staging, by contrast, is based on size and extent of spread [53, 54]."
+    },
+    {
+      "question": "A woman is diagnosed with an ovarian adenocarcinoma. During surgery, the surgeon finds hundreds of small white nodules 'glazing' the entire peritoneal surface. This mode of spread is defined as:",
+      "options": [
+        "Lymphatic dissemination",
+        "Hematogenous dissemination",
+        "Seeding of body cavities",
+        "Organ tropism"
+      ],
+      "answer": "Seeding of body cavities",
+      "explanation": "Spread by seeding occurs when neoplasms invade a natural body cavity. This is particularly characteristic of ovarian cancers, which can widely cover peritoneal surfaces [55, 56]."
+    },
+    {
+      "question": "A 1-cm benign adenoma of the pituitary gland is found in a patient complaining of severe headaches and loss of peripheral vision. Although designated 'benign,' this tumor is clinically significant because:",
+      "options": [
+        "It will eventually metastasize to the liver",
+        "Its location allows it to compress and destroy the surrounding gland",
+        "It produces cachexia",
+        "It carries a high risk of malignant transformation"
+      ],
+      "answer": "Its location allows it to compress and destroy the surrounding gland",
+      "explanation": "The source emphasizes that location is crucial for both benign and malignant tumors. A small pituitary adenoma can produce significant morbidity or even be lethal by destroying the normal gland or compressing adjacent structures [57, 58]."
+    }
+  ]
+}

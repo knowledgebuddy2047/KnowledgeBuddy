@@ -1,0 +1,394 @@
+{
+  "quiz":
+
+[
+  {
+    "type": "mcq_single",
+    "question": "Which layer of the arterial wall is bounded internally by the internal elastic lamina and externally by the external elastic lamina?",
+    "options": ["Tunica intima", "Tunica media", "Tunica adventitia", "Vasa vasorum"],
+    "answer": "Tunica media",
+    "explanation": "The tunica media is the middle coat, bounded by the internal and external elastic laminae [1]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which layer of the arterial wall merges with adjacent tissues and is rich in lymphatics and autonomic nerve fibres?",
+    "options": ["Tunica intima", "Tunica media", "Tunica adventitia", "Endothelium"],
+    "answer": "Tunica adventitia",
+    "explanation": "The tunica adventitia consists of a loose mesh of connective tissue that merges with adjacent tissues and contains lymphatics and nerve fibres [2]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the primary source of nutrition for the tunica intima and the inner third of the media?",
+    "options": ["Vasa vasora", "Direct diffusion from luminal blood", "Lymphatic drainage", "Autonomic nerve fibres"],
+    "answer": "Direct diffusion from luminal blood",
+    "explanation": "The tunica intima and inner third of the media are nourished by direct diffusion from the blood in the lumen [2]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which type of artery is characterized by a very high content of elastic tissue in the media and includes the aorta and common iliac arteries?",
+    "options": ["Medium-sized muscular arteries", "Arterioles", "Large elastic arteries", "Capillaries"],
+    "answer": "Large elastic arteries",
+    "explanation": "Large elastic arteries like the aorta have high elastic tissue content in the media [3]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the approximate internal diameter of the smallest arterial branches known as arterioles?",
+    "options": ["7-8 µm", "20-100 µm", "200-500 µm", "1-2 mm"],
+    "answer": "20-100 µm",
+    "explanation": "Arterioles are the smallest branches with an internal diameter of 20-100 µm [4]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which vessels are approximately the size of a red blood cell (7-8 µm) and lack a tunica media?",
+    "options": ["Arterioles", "Venules", "Capillaries", "Lymphatics"],
+    "answer": "Capillaries",
+    "explanation": "Capillaries are roughly the size of an RBC (7-8 µm) and consist of 1-2 endothelial cells but no media [5]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following layers are typically present in all major body arteries?",
+    "options": ["Tunica intima", "Tunica media", "Tunica adventitia", "Tunica muscularis"],
+    "answer": ["Tunica intima", "Tunica media", "Tunica adventitia"],
+    "explanation": "Histologically, all major arteries have three layers: intima, media, and adventitia [6]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Endothelial integrity is of paramount importance in maintenance of vascular functions.",
+    "reason": "Damage to the endothelium is the most important event in the initiation of thrombus formation.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "The endothelium maintains vascular health; its damage triggers thrombosis [6]."
+  },
+  {
+    "type": "match_columns",
+    "question": "Match the type of Arteriosclerosis with its primary site of involvement:",
+    "left": ["Hypertensive arteriolosclerosis", "Mönckeberg’s arteriosclerosis", "Atherosclerosis"],
+    "right": ["Arterioles", "Medial calcification of arteries", "Intimal fibrofatty plaques"],
+    "answer": {
+      "Hypertensive arteriolosclerosis": "Arterioles",
+      "Mönckeberg’s arteriosclerosis": "Medial calcification of arteries",
+      "Atherosclerosis": "Intimal fibrofatty plaques"
+    },
+    "explanation": "These correspond to the specific pathologic entities under the general term arteriosclerosis [7]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which morphologic form of arteriolosclerosis is characterized by an 'onion-skin' lesion of concentric hyperplastic smooth muscle cells?",
+    "options": ["Hyaline arteriolosclerosis", "Hyperplastic arteriolosclerosis", "Necrotising arteriolitis", "Senile arteriosclerosis"],
+    "answer": "Hyperplastic arteriolosclerosis",
+    "explanation": "Hyperplastic arteriolosclerosis features loosely-placed concentric layers of smooth muscle cells resembling an onion bulb [8]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "In Mönckeberg’s arteriosclerosis, where are the calcium salts primarily deposited?",
+    "options": ["Tunica intima", "Tunica media", "Tunica adventitia", "Internal elastic lamina"],
+    "answer": "Tunica media",
+    "explanation": "Mönckeberg’s is characterized by deposits of calcium salts exclusively in the media [9]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following are considered major risk factors for atherosclerosis that are modifiable by lifestyle or therapy?",
+    "options": ["Dyslipidaemias", "Hypertension", "Smoking", "Age"],
+    "answer": ["Dyslipidaemias", "Hypertension", "Smoking"],
+    "explanation": "Dyslipidaemias, hypertension, smoking, and diabetes are modifiable; age is constitutional [10, 11]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which lipoprotein is known as 'good cholesterol' and is protective against atherosclerosis?",
+    "options": ["LDL", "VLDL", "HDL", "Chylomicrons"],
+    "answer": "HDL",
+    "explanation": "High-density lipoprotein (HDL) is protective against atherosclerosis [12, 13]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "According to the 'reaction-to-injury' hypothesis, what is the initial triggering event in atherosclerosis?",
+    "options": ["Smooth muscle proliferation", "Endothelial injury", "Lipid accumulation", "Thrombus formation"],
+    "answer": "Endothelial injury",
+    "explanation": "Endothelial injury or dysfunction is considered the initial triggering event [14]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Fatty streaks are clinically significant lesions that always cause luminal narrowing.",
+    "reason": "Fatty streaks are composed of closely-packed foam cells under the endothelium.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Assertion is false, Reason is true",
+    "explanation": "Fatty streaks are harmless precursor lesions and do not cause significant narrowing [15, 16]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which clinical syndrome is most likely to result from atherosclerosis in the coronary arteries?",
+    "options": ["Stroke", "Myocardial infarction", "Gangrene", "Intermittent claudication"],
+    "answer": "Myocardial infarction",
+    "explanation": "Coronary artery involvement leads to angina or myocardial infarction [17, 18]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which form of vasculitis is specifically associated with a c-ANCA pattern targeting proteinase-3?",
+    "options": ["Polyarteritis nodosa", "Temporal arteritis", "Wegener’s granulomatosis", "Takayasu’s arteritis"],
+    "answer": "Wegener’s granulomatosis",
+    "explanation": "The c-ANCA pattern is specific for PR-3 and is seen in Wegener’s granulomatosis [19]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "What are the components of the clinicopathologic triad for Wegener’s granulomatosis?",
+    "options": ["Acute necrotising granulomas of respiratory tract", "Focal necrotising vasculitis", "Necrotising glomerulonephritis", "Medial calcific sclerosis"],
+    "answer": ["Acute necrotising granulomas of respiratory tract", "Focal necrotising vasculitis", "Necrotising glomerulonephritis"],
+    "explanation": "The triad consists of respiratory granulomas, necrotising vasculitis, and glomerulonephritis [20, 21]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which vasculitis is also known as 'pulseless disease' and primarily affects young women?",
+    "options": ["Kawasaki’s disease", "Takayasu’s arteritis", "Buerger’s disease", "Polyarteritis nodosa"],
+    "answer": "Takayasu’s arteritis",
+    "explanation": "Takayasu’s arteritis, or pulseless disease, affects the aorta and its major branches in young women [22]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which disease is characterized by 'owl-eye' nuclei in Reed-Sternberg cells (Wait, this is Hodgkin's). Let's use: Which disease features multiple coronary aneurysms in children?",
+    "options": ["Takayasu’s arteritis", "Kawasaki’s disease", "Wegener’s granulomatosis", "Buerger’s disease"],
+    "answer": "Kawasaki’s disease",
+    "explanation": "Kawasaki’s disease is a febrile illness of children often featuring coronary aneurysms [23]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which condition is a non-vasculitic functional vasospastic disorder provoked by cold or emotions?",
+    "options": ["Raynaud’s disease", "Buerger’s disease", "PAN", "Takayasu’s arteritis"],
+    "answer": "Raynaud’s disease",
+    "explanation": "Raynaud’s disease is a functional vasospastic disorder, not a vasculitis [24]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "A 'true aneurysm' is defined by which characteristic?",
+    "options": ["Composed of a fibrous wall only", "Composed of all layers of a normal vessel wall", "Occurs primarily from trauma", "Always has a saccular shape"],
+    "answer": "Composed of all layers of a normal vessel wall",
+    "explanation": "A true aneurysm involves all the normal layers of the vessel [25]."
+  },
+  {
+    "type": "match_columns",
+    "question": "Match the type of aortic aneurysm with its most common site of involvement:",
+    "left": ["Atherosclerotic aneurysm", "Syphilitic aneurysm", "Dissecting aneurysm"],
+    "right": ["Abdominal aorta", "Ascending aorta and arch", "Thoracic aorta arch"],
+    "answer": {
+      "Atherosclerotic aneurysm": "Abdominal aorta",
+      "Syphilitic aneurysm": "Ascending aorta and arch",
+      "Dissecting aneurysm": "Thoracic aorta arch"
+    },
+    "explanation": "Atherosclerotic are common in abdominal; syphilitic and dissecting in the thoracic/ascending aorta [26-28]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "In syphilitic aortitis, what classic intimal appearance is produced by scarring and wrinkling?",
+    "options": ["Onion-skin", "Pearly-white tree-bark", "Fatty streak", "Hutchinson's teeth"],
+    "answer": "Pearly-white tree-bark",
+    "explanation": "Wrinkled normal intima between lesions gives a tree-bark appearance in syphilitic aortitis [29, 30]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the primary genetic defect in Marfan’s syndrome leading to dissecting aneurysms?",
+    "options": ["G6PD deficiency", "Fibrillin defect", "Collagen type IV mutation", "LDL receptor mutation"],
+    "answer": "Fibrillin defect",
+    "explanation": "Marfan's syndrome involves a genetic defect in fibrillin, essential for elastic tissue formation [31]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "According to the Stanford classification, which type of dissection involves the ascending aorta?",
+    "options": ["Type A", "Type B", "Type I", "Type III"],
+    "answer": "Type A",
+    "explanation": "Stanford Type A (Proximal) involves the ascending aorta [32]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What term describes abnormally dilated and tortuous superficial veins of the lower extremities?",
+    "options": ["Phlebothrombosis", "Varicose veins", "Lymphoedema", "Haemangioma"],
+    "answer": "Varicose veins",
+    "explanation": "Varicose veins are permanently dilated and tortuous superficial veins, often Saphenous [33, 34]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Trousseau’s syndrome (thrombophlebitis migrans) is most frequently associated with which underlying condition?",
+    "options": ["Hypertension", "Disseminated visceral cancers", "Diabetes mellitus", "Pregnancy"],
+    "answer": "Disseminated visceral cancers",
+    "explanation": "Migratory thrombophlebitis is often seen as a paraneoplastic syndrome in visceral cancers [35]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which findings characterize superior vena caval syndrome?",
+    "options": ["Oedema of the face and neck", "Dilated neck veins", "Visual disturbances", "Oedema of lower extremities"],
+    "answer": ["Oedema of the face and neck", "Dilated neck veins", "Visual disturbances"],
+    "explanation": "Superior vena caval syndrome affects the upper body; lower extremity oedema is part of the inferior vena caval syndrome [36, 37]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which congenital lymphoedema is familial, hereditary, and inherited as an autosomal dominant trait?",
+    "options": ["Lymphoedema praecox", "Milroy’s disease", "Simple congenital lymphoedema", "Elephantiasis"],
+    "answer": "Milroy’s disease",
+    "explanation": "Milroy’s disease is the familial hereditary form of congenital lymphoedema [38]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the most common site for a glomus tumour (glomangioma)?",
+    "options": ["Liver", "Facial skin", "Under a nail of fingers or toes", "Aortic arch"],
+    "answer": "Under a nail of fingers or toes",
+    "explanation": "Glomus tumours are found most often in the dermis of fingers/toes under a nail [39]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Bacillary angiomatosis is an opportunistic infection associated with HIV-AIDS caused by which genus?",
+    "options": ["Streptococcus", "Staphylococcus", "Bartonella", "Chlamydia"],
+    "answer": "Bartonella",
+    "explanation": "Bacillary angiomatosis is caused by Bartonella bacilli in immunosuppressed patients [40]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Mönckeberg’s medial calcific sclerosis is of great clinical significance due to severe luminal narrowing.",
+    "reason": "Calcium salts are deposited in the tunica media without involving the intima.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Assertion is false, Reason is true",
+    "explanation": "Mönckeberg’s has little to no clinical significance as it does not cause narrowing [9, 41]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which malignant angiomatous tumour is seen in about 30% of AIDS cases, particularly in young male homosexuals?",
+    "options": ["Angiosarcoma", "Kaposi’s sarcoma", "Haemangiopericytoma", "Glomus tumour"],
+    "answer": "Kaposi’s sarcoma",
+    "explanation": "Epidemic Kaposi’s sarcoma is frequently seen in AIDS patients [42]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which virus is consistently associated with Kaposi’s sarcoma?",
+    "options": ["HIV-1", "HHV-8", "CMV", "Hepatitis B"],
+    "answer": "HHV-8",
+    "explanation": "Human herpesvirus 8 (HHV-8) is etiologically linked to Kaposi’s sarcoma [43]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Critical Thinking: Why is atherosclerosis more common in the abdominal aorta than the thoracic aorta?",
+    "options": ["Presence of vasa vasorum", "Haemodynamic forces/shear stress at bifurcations", "Greater amount of smooth muscle", "Higher temperature"],
+    "answer": "Haemodynamic forces/shear stress at bifurcations",
+    "explanation": "Bifurcations and branches are under greatest shear stress, predisposing them to injury [14]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Clinical Case: A 65-year-old male smoker with leg pain during walking (claudication) and a dark, non-healing ulcer on his toe. What is the most likely underlying pathology?",
+    "options": ["Varicose veins", "Atherosclerosis with peripheral vascular disease", "Raynaud's disease", "Milroy's disease"],
+    "answer": "Atherosclerosis with peripheral vascular disease",
+    "explanation": "Intermittent claudication and gangrene are major clinical effects of atherosclerosis in the lower extremities [18, 44]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Decision Under Pressure: A patient with a known abdominal aortic aneurysm presents with sudden, severe back pain and hypotension. What is the most urgent priority?",
+    "options": ["Perform an X-ray", "Begin antibiotic therapy", "Immediate surgical intervention for rupture", "Check lipid profile"],
+    "answer": "Immediate surgical intervention for rupture",
+    "explanation": "Sudden pain and hypotension in an AAA patient signal rupture, a fatal complication requiring emergency surgery [45]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Bias Recognition: A clinician immediately assumes a 40-year-old male smoker with leg pain has atherosclerosis, ignoring the possibility of an inflammatory occlusive vasculitis. Which bias is this?",
+    "options": ["Confirmation bias", "Availability bias", "Search satisfaction", "Premature closure"],
+    "answer": "Availability bias",
+    "explanation": "Because atherosclerosis is so common, the clinician ignores less common but specific possibilities like Buerger's disease [46, 47]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Problem-Solving: How can one distinguish between Buerger's disease and atherosclerosis histologically?",
+    "options": ["Lipid aggregates presence", "Internal elastic lamina status", "Microabscesses in thrombi", "Whorled pericytes"],
+    "answer": "Microabscesses in thrombi",
+    "explanation": "Buerger's differs from atherosclerosis by having microabscesses in thrombi and an intact internal elastic lamina [48]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "University Question: Describe the morphology of 'hyaline' arteriolosclerosis.",
+    "options": ["Concentric smooth muscle", "Fibrinoid necrosis", "Structureless eosinophilic material", "Calcification of media"],
+    "answer": "Structureless eosinophilic material",
+    "explanation": "Hyaline sclerosis shows thickened walls with structureless, eosinophilic, hyaline material [49]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "PLAB/USMLE: A 72-year-old woman presents with a severe headache and tenderness over her temple. A biopsy of the temporal artery is likely to show:",
+    "options": ["Fibrinoid necrosis", "Granulomatous inflammation with giant cells", "Onion-skinning", "Leucocytoclastic vasculitis"],
+    "answer": "Granulomatous inflammation with giant cells",
+    "explanation": "Temporal (giant cell) arteritis is a granulomatous inflammation of medium-sized cranial arteries [50, 51]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which emerging risk factor correlates with atherosclerosis through markers of inflammation like elevated C-reactive protein?",
+    "options": ["High CRP", "Alcohol consumption", "Homocystinuria", "Oral contraceptives"],
+    "answer": "High CRP",
+    "explanation": "Elevated C-reactive protein is a marker of inflammation correlating with atherosclerosis risk [52]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which condition results in a 'cor bovinum' (massively enlarged heart) due to aortic incompetence?",
+    "options": ["Atherosclerotic aneurysm", "Syphilitic aneurysm", "Dissecting aneurysm", "Berry aneurysm"],
+    "answer": "Syphilitic aneurysm",
+    "explanation": "Syphilitic aneurysms involving the aortic valve ring cause volume overload and a massively enlarged heart [53]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "A 'double-barrel aorta' is a possible result of which condition?",
+    "options": ["Varicose veins", "Dissecting aneurysm", "Buerger's disease", "Takayasu's arteritis"],
+    "answer": "Dissecting aneurysm",
+    "explanation": "If a patient survives with a second distal intimal tear, a 'double-barrel' aorta can form [32]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which benign tumor is classically referred to as a 'strawberry birthmark'?",
+    "options": ["Cavernous haemangioma", "Capillary haemangioma", "Glomus tumour", "Angiosarcoma"],
+    "answer": "Capillary haemangioma",
+    "explanation": "Capillary haemangiomas are common in infancy and are often called strawberry birthmarks [54]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the most serious systemic effect of deep vein thrombosis (DVT)?",
+    "options": ["Redness and pain", "Oedema", "Pulmonary thromboembolism", "Stasis dermatitis"],
+    "answer": "Pulmonary thromboembolism",
+    "explanation": "Pulmonary thromboembolism is the most common and important systemic manifestation of venous thrombosis [55]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Reflective Thinking: Why is the preferred term now 'dyslipidaemia' instead of 'hyperlipidaemia'?",
+    "options": ["All lipids are always high", "It accounts for the need to lower bad (LDL) and raise good (HDL) cholesterol", "It is easier to pronounce", "Only triglycerides matter"],
+    "answer": "It accounts for the need to lower bad (LDL) and raise good (HDL) cholesterol",
+    "explanation": "The term dyslipidaemia reflects the risk of elevated LDL alongside the risk of low HDL [12]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which of the following describes 'Raynaud’s phenomenon' as opposed to the 'disease'?",
+    "options": ["Occurs in young healthy females", "Has no underlying cause", "Is secondary to an underlying cause like scleroderma", "Is provoked solely by cold"],
+    "answer": "Is secondary to an underlying cause like scleroderma",
+    "explanation": "Raynaud’s phenomenon has an underlying cause like atherosclerosis or connective tissue disease [56]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What happens in the 'late nodular stage' of Kaposi’s sarcoma?",
+    "options": ["Irregular vascular spaces only", "Slit-like vascular spaces with spindle-shaped tumour cells", "Absence of RBCs", "Focal separation of elastic tissue"],
+    "answer": "Slit-like vascular spaces with spindle-shaped tumour cells",
+    "explanation": "The late nodular stage features slit-like spaces separated by plump, spindle-shaped tumour cells [57]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which condition is a non-atherosclerotic disease typically affecting the renal artery in a 'bead-like' pattern?",
+    "options": ["Polyarteritis nodosa", "Fibromuscular dysplasia", "Cystic medial necrosis", "Atherosclerosis"],
+    "answer": "Fibromuscular dysplasia",
+    "explanation": "Fibromuscular dysplasia characteristically affects vessels in a bead-like pattern [58]."
+  }
+]
+}

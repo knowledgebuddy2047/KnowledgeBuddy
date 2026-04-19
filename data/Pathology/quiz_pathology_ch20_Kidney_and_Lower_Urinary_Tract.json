@@ -1,0 +1,465 @@
+{
+  "quiz":
+[
+  {
+    "type": "mcq_single",
+    "question": "Which structure in the renal cortex is characterized by faint striations destined for the medulla, despite being located in the cortex?",
+    "options": ["Renal column of Bertin", "Medullary rays", "Juxtamedullary nephrons", "Minor calyces"],
+    "answer": "Medullary rays",
+    "explanation": "Medullary rays are located in the cortex but are destined for the medulla, representing the loops and collecting ducts of nephrons [1]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following are components of the glomerular filtration barrier?",
+    "options": ["Fenestrated endothelial cells", "Glomerular basement membrane", "Mesangial matrix", "Podocyte filtration slit pores"],
+    "answer": ["Fenestrated endothelial cells", "Glomerular basement membrane", "Podocyte filtration slit pores"],
+    "explanation": "The filtration barrier consists of the fenestrated endothelium, the three-layered GBM, and the filtration slit pores between podocyte foot processes [2]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "The renal cortex is more prone to the effects of systemic hypertension than the medulla.",
+    "reason": "The renal cortex receives about 90% of the total renal blood supply and glomerular capillary pressure is high.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "High blood flow and high pressure in the cortex make it more susceptible to hypertensive damage compared to the poorly perfused medulla [3]."
+  },
+  {
+    "type": "match_columns",
+    "question": "Match the part of the nephron with its primary function:",
+    "left": ["Proximal Convoluted Tubule", "Loop of Henle", "Distal Convoluted Tubule", "Collecting Ducts"],
+    "right": ["80% passive water reabsorption", "Urinary concentration and acidification", "Active reabsorption of Cl-", "Water reabsorption under ADH control"],
+    "answer": {
+      "Proximal Convoluted Tubule": "80% passive water reabsorption",
+      "Loop of Henle": "Active reabsorption of Cl-",
+      "Distal Convoluted Tubule": "Urinary concentration and acidification",
+      "Collecting Ducts": "Water reabsorption under ADH control"
+    },
+    "explanation": "Each segment of the tubule has specific specialized functions for electrolyte and water balance [4-7]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "A patient's urine specific gravity is fixed at 1.010 regardless of hydration status. What does this suggest?",
+    "options": ["Normal renal function", "Early stage tubular disease", "Acute glomerulonephritis", "Central diabetes insipidus"],
+    "answer": "Early stage tubular disease",
+    "explanation": "In tubular disease, the specific gravity remains constant at approximately 1.010 (isosthenuria) because the tubules lose their concentrating and diluting power [8]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Inulin clearance is considered the ideal method for measuring GFR.",
+    "reason": "Inulin is filtered by the glomerulus and subsequently reabsorbed by the tubules.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Assertion is true, Reason is false",
+    "explanation": "Inulin is ideal because it is filtered but *neither* reabsorbed nor secreted by the tubules [9]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Critical Thinking: A clinician observes 'azotaemia' in a patient. Which additional finding would define this condition as 'uraemia'?",
+    "options": ["Elevated BUN and Creatinine", "Decreased GFR", "Clinical signs and symptoms of renal failure", "Proteinuria > 3.5g/day"],
+    "answer": "Clinical signs and symptoms of renal failure",
+    "explanation": "Azotaemia is purely a biochemical abnormality; Uraemia is the association of these abnormalities with clinical signs and symptoms [10]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following are primary clinical features of the Acute Nephritic Syndrome?",
+    "options": ["Haematuria (smoky urine)", "Massive proteinuria (>3.5g/day)", "Mild hypertension", "Oedema"],
+    "answer": ["Haematuria (smoky urine)", "Mild hypertension", "Oedema"],
+    "explanation": "Nephritic syndrome is characterized by haematuria, mild proteinuria (<3g), hypertension, and oedema [11, 12]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "In the nephrotic syndrome, why does hyperlipidaemia occur?",
+    "options": ["Increased dietary fat absorption", "Liver stress response to protein loss", "Decreased renal clearance of lipids", "Lipiduria causing compensatory synthesis"],
+    "answer": "Liver stress response to protein loss",
+    "explanation": "The liver increases lipoprotein synthesis in response to the massive urinary loss of albumin [13]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Adult Polycystic Kidney Disease (ADPKD) is considered a systemic disease.",
+    "reason": "It is associated with extra-renal manifestations like liver cysts and berry aneurysms.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "ADPKD involves multiple organs; about 1/3 of patients have liver cysts, and 15% have intracranial berry aneurysms [14]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the genetic defect associated with ADPKD-1, accounting for 85% of cases?",
+    "options": ["Chromosome 4", "Chromosome 16", "Chromosome 6", "Chromosome 11"],
+    "answer": "Chromosome 16",
+    "explanation": "ADPKD-1 is caused by a mutation in the PKD-1 gene located on chromosome 16 [15]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "University Level: Which histological feature is pathognomonic for RPGN (Rapidly Progressive Glomerulonephritis)?",
+    "options": ["Tram-track GBM", "Subepithelial humps", "Crescents in Bowman’s space", "Kimmelstiel-Wilson nodules"],
+    "answer": "Crescents in Bowman’s space",
+    "explanation": "The presence of epithelial crescents is the hallmark of RPGN, formed by proliferating parietal cells [16, 17]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following conditions produce a 'flea-bitten kidney' appearance grossly?",
+    "options": ["Acute post-streptococcal GN", "Benign nephrosclerosis", "Malignant nephrosclerosis", "Haemolytic-uraemic syndrome"],
+    "answer": ["Acute post-streptococcal GN", "Malignant nephrosclerosis", "Haemolytic-uraemic syndrome"],
+    "explanation": "A flea-bitten kidney shows tiny petechial haemorrhages, common in these conditions [18, 19]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which primary glomerular disease is the most common cause of nephrotic syndrome in children?",
+    "options": ["Membranous GN", "Minimal Change Disease", "IgA Nephropathy", "FSGS"],
+    "answer": "Minimal Change Disease",
+    "explanation": "MCD accounts for 80% of nephrotic syndrome cases in children [20]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Membranous Glomerulonephritis shows a 'spikes' and 'domes' pattern on silver stains.",
+    "reason": "Basement membrane material protrudes between subepithelial immune deposits.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "The 'spikes' are protrusions of the GBM between the subepithelial electron-dense deposits [21]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the most common form of glomerulopathy worldwide?",
+    "options": ["Post-streptococcal GN", "Diabetic nephropathy", "IgA Nephropathy (Berger's Disease)", "Lupus nephritis"],
+    "answer": "IgA Nephropathy (Berger's Disease)",
+    "explanation": "IgA nephropathy is currently the most common glomerulopathy globally [22]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "PLAB/USMLE Pattern: A 45-year-old male with long-standing diabetes presents with nephrotic syndrome. Biopsy shows Ovoid, PAS-positive, laminated hyaline nodules in the glomerular lobules. What is the diagnosis?",
+    "options": ["Armanni-Ebstein lesion", "Kimmelstiel-Wilson lesions", "Amyloidosis", "FSGS"],
+    "answer": "Kimmelstiel-Wilson lesions",
+    "explanation": "Nodular glomerulosclerosis (KW lesions) is specific for diabetic nephropathy [23]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which features are characteristic of Alport’s Syndrome?",
+    "options": ["Mutation in Type IV collagen", "Sensorineural deafness", "Ophthalmic complications", "Autosomal recessive inheritance"],
+    "answer": ["Mutation in Type IV collagen", "Sensorineural deafness", "Ophthalmic complications"],
+    "explanation": "Alport's is typically X-linked dominant, involving Type IV collagen and affecting hearing and vision [24]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Case Study 20: A 5-year-old boy presents with facial puffiness and smoky urine after a skin infection. What is the most likely diagnosis?",
+    "options": ["Minimal Change Disease", "Acute Post-streptococcal GN", "ARPKD", "Acute Pyelonephritis"],
+    "answer": "Acute Post-streptococcal GN",
+    "explanation": "The triad of smoky urine (haematuria), facial oedema, and preceding skin infection is classic for PSGN in a child [25, 26]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Toxic ATN typically involves the proximal tubule segments diffusely.",
+    "reason": "The basement membrane is usually disrupted in toxic tubular injury.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Assertion is true, Reason is false",
+    "explanation": "In toxic ATN, the basement membrane generally remains intact, unlike in ischaemic ATN (tubulorrhexis) [27]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the most common pathogenic organism in urinary tract infections?",
+    "options": ["Klebsiella", "Proteus", "Escherichia coli", "Pseudomonas"],
+    "answer": "Escherichia coli",
+    "explanation": "E. coli is responsible for about 90% of UTI cases [28]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following are complications of Acute Pyelonephritis?",
+    "options": ["Papillary necrosis", "Pyonephrosis", "Perinephric abscess", "Thyroidisation of tubules"],
+    "answer": ["Papillary necrosis", "Pyonephrosis", "Perinephric abscess"],
+    "explanation": "Thyroidisation is a feature of *chronic* pyelonephritis, while the others are acute complications [29-31]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "A patient presents with persistent sterile pyouria and microscopic haematuria after antibiotic treatment. Which condition must be excluded?",
+    "options": ["Chronic pyelonephritis", "Tuberculous pyelonephritis", "Nephrolithiasis", "Lupus nephritis"],
+    "answer": "Tuberculous pyelonephritis",
+    "explanation": "Renal TB should be suspected in cases of persistent 'sterile' pyouria (pus cells but no bacteria on standard culture) [32]."
+  },
+  {
+    "type": "match_columns",
+    "question": "Match the kidney scar type with the associated condition:",
+    "left": ["U-shaped scars", "V-shaped scars", "Granular surface"],
+    "right": ["Chronic Pyelonephritis", "Benign Nephrosclerosis", "Chronic Glomerulonephritis"],
+    "answer": {
+      "U-shaped scars": "Chronic Pyelonephritis",
+      "V-shaped scars": "Benign Nephrosclerosis",
+      "Granular surface": "Chronic Glomerulonephritis"
+    },
+    "explanation": "These gross morphology patterns help differentiate causes of small contracted kidneys [33]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which type of urinary calculus is associated with urea-splitting organisms like Proteus?",
+    "options": ["Calcium oxalate", "Uric acid", "Mixed (Struvite) stones", "Cystine stones"],
+    "answer": "Mixed (Struvite) stones",
+    "explanation": "Struvite stones (triple phosphate) form in alkaline pH created by urease-producing bacteria [34, 35]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the hallmark vascular histological change in Malignant Nephrosclerosis?",
+    "options": ["Hyaline arteriolosclerosis", "Onion-skin proliferation", "Atheroma", "Monckeberg's sclerosis"],
+    "answer": "Onion-skin proliferation",
+    "explanation": "Hyperplastic intimal sclerosis (onion-skinning) is characteristic of the malignant phase of hypertension [36, 37]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Renal Cell Carcinoma (RCC) is often called 'the internist’s tumor'.",
+    "reason": "It frequently presents with a variety of paraneoplastic syndromes like polycythaemia and hypercalcaemia.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "RCC produces many ectopic hormones, leading to diverse systemic presentations [38]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Case Study 21: A 50-year-old male smoker presents with gross painless haematuria, flank pain, and a palpable mass. What is the most likely diagnosis?",
+    "options": ["Wilms’ Tumour", "Chronic Pyelonephritis", "Renal Cell Carcinoma", "Bladder Cancer"],
+    "answer": "Renal Cell Carcinoma",
+    "explanation": "This is the classic triad of RCC in an adult [38, 39]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which genetic mutation is most commonly associated with sporadic Clear Cell RCC?",
+    "options": ["WT1 gene", "VHL gene", "MET gene", "RB gene"],
+    "answer": "VHL gene",
+    "explanation": "Homozygous loss of the VHL gene on chromosome 3p is found in most sporadic clear cell RCCs [40, 41]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which components comprise the microscopic appearance of Wilms’ Tumour?",
+    "options": ["Blastemal (small round cells)", "Abortive tubules", "Primitive glomerular structures", "Mature hepatocytes"],
+    "answer": ["Blastemal (small round cells)", "Abortive tubules", "Primitive glomerular structures"],
+    "explanation": "Wilms' tumor (nephroblastoma) is composed of primitive epithelial and mesenchymal elements [42]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the pathognomonic microscopic finding in Malakoplakia of the bladder?",
+    "options": ["Brunn’s nests", "Michaelis-Gutmann bodies", "Umbrella cells", "Psammoma bodies"],
+    "answer": "Michaelis-Gutmann bodies",
+    "explanation": "These are laminated calcium phosphate concretions within foamy macrophages [43]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Bladder cancer is often characterized by 'polychronotropism'.",
+    "reason": "The tumor tends to recur with time and develop at new locations within the urinary tract due to a 'field effect'.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "The multicentric nature and high recurrence rate are due to the field effect in the urothelium [44]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which environmental factor is associated with a specific risk for Squamous Cell Carcinoma of the bladder?",
+    "options": ["Tobacco smoking", "Aniline dye exposure", "Schistosoma haematobium infection", "Cyclophosphamide therapy"],
+    "answer": "Schistosoma haematobium infection",
+    "explanation": "Bilharzial infestation is a major risk factor for squamous cell carcinoma, especially in Egypt [45]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What does Stage B2 signify in bladder cancer staging?",
+    "options": ["Invades lamina propria", "Invades superficial muscle layer", "Invades deep muscle layer", "Invades perivesical tissues"],
+    "answer": "Invades deep muscle layer",
+    "explanation": "Stage B2 indicates invasion into the deep muscle layer (detrusor) [46]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Problem Solving: A patient presents with agonizing pain on bladder distension that is relieved by urination. Cystoscopy shows a localized Hunner’s ulcer. What is the diagnosis?",
+    "options": ["Cystitis cystica", "Interstitial cystitis", "Polypoid cystitis", "Malakoplakia"],
+    "answer": "Interstitial cystitis",
+    "explanation": "This condition is seen in middle-aged women and is characterized by Hunner's ulcers and excruciating pain [47]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Critical Thinking: Which of the following are common pitfalls when evaluating a 'small contracted kidney'?",
+    "options": [
+      "Assuming it is always due to chronic GN",
+      "Forgetting that chronic pyelonephritis shows asymmetrical contraction",
+      "Overlooking the specific V-shaped scars of benign nephrosclerosis",
+      "Failing to check for amyloidosis or myeloma"
+    ],
+    "answer": ["Assuming it is always due to chronic GN", "Forgetting that chronic pyelonephritis shows asymmetrical contraction", "Overlooking the specific V-shaped scars of benign nephrosclerosis", "Failing to check for amyloidosis or myeloma"],
+    "explanation": "Multiple etiologies cause small contracted kidneys; careful macroscopic evaluation of symmetry and scar shape is vital [33]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which cell type in the JGA acts as a baroreceptor and produces renin?",
+    "options": ["Macula densa cells", "Lacis cells", "Juxtaglomerular cells", "Mesangial cells"],
+    "answer": "Juxtaglomerular cells",
+    "explanation": "JG cells are modified smooth muscle cells in the afferent arteriole that contain renin [48]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Renal osteodystrophy occurs in chronic renal failure.",
+    "reason": "The diseased kidney fails to activate Vitamin D, leading to hypocalcaemia and secondary hyperparathyroidism.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "Failure to activate Vitamin D causes low calcium, which triggers PTH and subsequent bone resorption [49, 50]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "In the 'oliguric phase' of ATN, which electrolyte abnormality is most dangerous for the heart?",
+    "options": ["Hypernatraemia", "Hyperkalaemia", "Hypocalcaemia", "Hypomagnesaemia"],
+    "answer": "Hyperkalaemia",
+    "explanation": "Accumulation of potassium (hyperkalaemia) due to decreased excretion can lead to fatal cardiac arrhythmias [51, 52]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which components are found in the characteristic 'Tamm-Horsfall protein' casts?",
+    "options": ["Albumin", "Uromodulin (glycoprotein)", "Bence-Jones proteins", "Red blood cells"],
+    "answer": ["Albumin", "Uromodulin (glycoprotein)"],
+    "explanation": "Casts are formed by the precipitation of albumin and Tamm-Horsfall protein secreted by the Loop of Henle and DCT [53]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the incidence of renal stone disease in the general population?",
+    "options": ["1%", "2%", "5%", "10%"],
+    "answer": "2%",
+    "explanation": "Approximately 2% of the population experiences renal stone disease [54]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Bias Recognition: A doctor diagnoses a young man with 'Berger’s Disease' solely because he has gross haematuria. Why might this be an 'availability bias'?",
+    "options": [
+      "Because IgA nephropathy is rare in men",
+      "Because they ignored other causes like calculi or exercise-induced haematuria",
+      "Because Berger’s disease always presents with proteinuria first",
+      "Because the diagnosis requires immunofluorescence of a biopsy"
+    ],
+    "answer": "Because they ignored other causes like calculi or exercise-induced haematuria",
+    "explanation": "Haematuria has diverse causes (calculi, bleeding disorders, exercise). Diagnosing the 'most common' without ruling out others is a clinical reasoning pitfall [55, 56]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What mahogany-brown tumor arises from the collecting ducts and contains numerous mitochondria?",
+    "options": ["Clear cell RCC", "Oncocytoma", "Angiomyolipoma", "Reninoma"],
+    "answer": "Oncocytoma",
+    "explanation": "Oncocytomas are tan/brown tumors characterized by granular, acidophilic cytoplasm packed with mitochondria [57, 58]."
+  },
+  {
+    "type": "match_columns",
+    "question": "Match the glomerular deposit pattern with the mechanism:",
+    "left": ["Linear deposits", "Granular deposits", "Subepithelial 'humps'"],
+    "right": ["Anti-GBM Disease", "Circulating Immune Complexes", "Post-streptococcal GN"],
+    "answer": {
+      "Linear deposits": "Anti-GBM Disease",
+      "Granular deposits": "Circulating Immune Complexes",
+      "Subepithelial 'humps'": "Post-streptococcal GN"
+    },
+    "explanation": "Patterns of immunofluorescence and EM are diagnostic of specific injury mechanisms [59-61]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the 'tram track' appearance in MPGN Type I caused by?",
+    "options": ["Subepithelial spikes", "Duplication/splitting of the GBM", "Podocyte effacement", "Mesangial matrix atrophy"],
+    "answer": "Duplication/splitting of the GBM",
+    "explanation": "In MPGN, the GBM thickens and shows two basement membranes (splitting) due to mesangial cell interposition [62]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which findings characterize Lupus Nephritis Class IV?",
+    "options": ["Diffuse proliferative changes", "Most severe form", "Wire-loop capillaries", "Limited to <50% glomeruli"],
+    "answer": ["Diffuse proliferative changes", "Most severe form", "Wire-loop capillaries"],
+    "explanation": "Class IV is the most severe and common, involving >50% glomeruli with prominent subendothelial 'wire-loop' deposits [63]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Meckel's diverticulum is a 'true' diverticulum.",
+    "reason": "It contains only the mucosal and submucosal layers of the bowel.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Assertion is true, Reason is false",
+    "explanation": "A true diverticulum contains all layers of the wall [Based on logic in sources regarding diverticula distinction]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is 'sarcoma botryoides' in the context of the bladder?",
+    "options": ["A benign polyp", "Embryonal rhabdomyosarcoma", "Transition cell carcinoma", "A fungal infection"],
+    "answer": "Embryonal rhabdomyosarcoma",
+    "explanation": "In children, rhabdomyosarcoma of the bladder often presents as a soft, fleshy, grape-like mass [64]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the primary stimulus for 'crescent' formation in RPGN?",
+    "options": ["Glucose", "Fibrin", "IgA", "Complement C3"],
+    "answer": "Fibrin",
+    "explanation": "Fibrin leaking into the capsular space acts as the stimulus for parietal cell proliferation and crescent formation [65]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which features distinguish the 'diuretic phase' of ATN recovery?",
+    "options": ["Improvement in urinary output", "Low or fixed specific gravity", "Urine with high solute concentration", "Potential for clinical recovery"],
+    "answer": ["Improvement in urinary output", "Low or fixed specific gravity", "Potential for clinical recovery"],
+    "explanation": "During this phase, output increases but tubules still cannot concentrate urine effectively [66]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What anatomical landmark separates the anterior and posterior divisions of the renal artery?",
+    "options": ["Arcuate arteries", "The hilum", "The cortex", "The minor calyces"],
+    "answer": "The hilum",
+    "explanation": "The main renal artery divides into divisions at the level of the hilum [67]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "A ureterocele can be visualized via cystoscopy.",
+    "reason": "It is a cystic dilatation of the terminal ureter lying beneath the bladder mucosa.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "Ureteroceles are within the bladder wall and appear as dilatations [68]."
+  }
+]
+}

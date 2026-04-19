@@ -1,0 +1,376 @@
+{
+  "quiz":
+
+[
+  {
+    "type": "mcq_single",
+    "question": "Which stage of thrombopoiesis is characterized by endo-reduplication of nuclear chromatin resulting in polyploidy up to 32N?",
+    "options": ["Megakaryoblast", "Promegakaryocyte", "Megakaryocyte", "Discoid Platelet"],
+    "answer": "Promegakaryocyte",
+    "explanation": "According to the sources, a promegakaryocyte undergoes endo-reduplication where nuclear chromatin replicates in multiples of two without cell division, leading to polyploidy [1]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the normal lifespan of platelets in the human circulation?",
+    "explanation": "The sources state the normal lifespan of platelets is 7-10 days [2].",
+    "options": ["1-4 days", "7-10 days", "20-30 days", "120 days"],
+    "answer": "7-10 days"
+  },
+  {
+    "type": "mcq_single",
+    "question": "What percentage of platelets are typically sequestered in the spleen under normal physiological conditions?",
+    "options": ["10%", "30%", "50%", "70%"],
+    "answer": "30%",
+    "explanation": "The sources note that while 70% of platelets are in circulation, the remaining 30% lie sequestered in the spleen [2]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which glycoprotein receptor on the platelet surface is essential for platelet adhesion to subendothelial collagen?",
+    "options": ["GpIIb-IIIa", "GpIa-IIa", "GpIb-IX", "P-selectin"],
+    "answer": "GpIa-IIa",
+    "explanation": "Platelets adhere to collagen in the subendothelium via the integrin receptor GpIa-IIa [3]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "The stabilization of platelet adhesion to the vessel wall is primarily mediated by which factor forming a link with GpIb-IX?",
+    "options": ["Fibrinogen", "Thromboxane A2", "von Willebrand factor", "Factor VIII"],
+    "answer": "von Willebrand factor",
+    "explanation": "Adhesion to the vessel wall is stabilized by von Willebrand factor, which forms a link between the wall and the GpIb-IX complex on the platelet [3, 4]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following substances are released from platelet alpha-granules?",
+    "options": ["ADP", "Platelet factor 4", "Fibrinogen", "von Willebrand factor"],
+    "answer": ["Platelet factor 4", "Fibrinogen", "von Willebrand factor"],
+    "explanation": "ADP is found in dense granules, while Platelet factor 4, Fibrinogen, and vWF are found in alpha-granules [4]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which steps are involved in primary haemostasis?",
+    "options": ["Platelet adhesion", "Fibrin plug formation", "Platelet aggregation", "Platelet granule release"],
+    "answer": ["Platelet adhesion", "Platelet aggregation", "Platelet granule release"],
+    "explanation": "Primary haemostasis involves platelet plug formation via adhesion, release, and aggregation. Fibrin plug formation is part of secondary haemostasis [3, 5]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Aspirin therapy leads to a prolonged bleeding time.",
+    "reason": "Aspirin inhibits the enzyme cyclooxygenase, suppressing the synthesis of prostaglandins involved in platelet aggregation.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "Aspirin inhibits cyclooxygenase, which prevents the formation of thromboxane A2 (a prostaglandin), thereby inhibiting platelet aggregation and prolonging bleeding time [6]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Haemophilic patients usually have a normal bleeding time.",
+    "reason": "The bleeding time test is dependent on capillary function and platelet activity rather than plasma coagulation factors.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "Bleeding time measures primary haemostasis (platelets/vessels). Since Haemophilia is a disorder of secondary haemostasis (coagulation factors), the bleeding time is usually normal [7-9]."
+  },
+  {
+    "type": "match_columns",
+    "question": "Match the platelet disorder with the defective molecular mechanism:",
+    "left": ["Bernard-Soulier syndrome", "Glanzmann’s thrombasthenia", "von Willebrand’s disease", "ITP"],
+    "right": ["Deficiency of GpIb-IX", "Deficiency of GpIIb-IIIa", "Quantitative/Qualitative vWF defect", "Anti-platelet autoantibodies"],
+    "answer": {
+      "Bernard-Soulier syndrome": "Deficiency of GpIb-IX",
+      "Glanzmann’s thrombasthenia": "Deficiency of GpIIb-IIIa",
+      "von Willebrand’s disease": "Quantitative/Qualitative vWF defect",
+      "ITP": "Anti-platelet autoantibodies"
+    },
+    "explanation": "These are the characteristic molecular defects for these primary platelet and coagulation disorders [10-13]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "A positive Hess capillary resistance test (Tourniquet test) is defined by the appearance of how many petechiae in a 3 cm² area?",
+    "options": [">5 petechiae", ">10 petechiae", ">20 petechiae", ">50 petechiae"],
+    "answer": ">20 petechiae",
+    "explanation": "Presence of more than 20 petechiae is considered a positive Hess test, indicating increased capillary fragility or thrombocytopenia [14]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which test is used to evaluate the extrinsic and common pathways of coagulation?",
+    "options": ["Bleeding time", "Activated partial thromboplastin time (APTT)", "Prothrombin time (PT)", "Thrombin time (TT)"],
+    "answer": "Prothrombin time (PT)",
+    "explanation": "PT measures the extrinsic system (Factor VII) and common pathway factors [15]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which coagulation factor is specifically measured by the APTT test but not the PT test?",
+    "options": ["Factor VII", "Factor VIII", "Factor X", "Prothrombin"],
+    "answer": "Factor VIII",
+    "explanation": "APTT measures intrinsic factors (VIII, IX, XI, XII). Factor VII is extrinsic and measured by PT [15, 16]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "A prolonged Prothrombin Time (PT) can be caused by which of the following?",
+    "options": ["Vitamin K deficiency", "Heparin therapy", "Liver disease", "Warfarin (Oral anticoagulants)"],
+    "answer": ["Vitamin K deficiency", "Liver disease", "Warfarin (Oral anticoagulants)"],
+    "explanation": "PT is prolonged by oral anticoagulants, liver disease, and Vitamin K deficiency. Heparin primarily affects APTT/TT [9, 15]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Henoch-Schönlein purpura is characterized by the deposition of which immune complex in the vessel walls?",
+    "options": ["IgG", "IgM", "IgA", "IgE"],
+    "answer": "IgA",
+    "explanation": "Henoch-Schönlein purpura involves the deposition of IgA immune complexes in the vessel walls, leading to leucocytoclastic vasculitis [17]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "In which condition are 'hyaline thrombi' seen in the glomerular capillaries, leading to acute renal failure in children?",
+    "options": ["ITP", "Haemolytic-uraemic syndrome (HUS)", "Haemophilia A", "Scurvy"],
+    "answer": "Haemolytic-uraemic syndrome (HUS)",
+    "explanation": "HUS is a disease of childhood featuring bleeding and acute renal failure with hyaline thrombi in renal capillaries [18]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which vitamin deficiency causes skin and muscle bleeding due to defective collagen synthesis?",
+    "options": ["Vitamin A", "Vitamin B12", "Vitamin C", "Vitamin K"],
+    "answer": "Vitamin C",
+    "explanation": "Vitamin C deficiency (Scurvy) results in defective collagen synthesis and vascular purpura [19]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Spontaneous haemorrhagic tendency in thrombocytopenia usually becomes clinically evident when the platelet count falls below:",
+    "options": ["100,000/µl", "50,000/µl", "20,000/µl", "10,000/µl"],
+    "answer": "20,000/µl",
+    "explanation": "The sources state that spontaneous bleeding generally becomes evident only after the count drops below 20,000/µl [20]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which of the following is an example of thrombocytopenia caused by increased consumption?",
+    "options": ["Aplastic anaemia", "DIC", "Splenomegaly", "Megaloblastic anaemia"],
+    "answer": "DIC",
+    "explanation": "DIC (Disseminated Intravascular Coagulation) is a major cause of accelerated platelet destruction via increased consumption [21]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Heparin-induced thrombocytopenia (HIT) is unique because it is associated with:",
+    "options": ["Severe bleeding", "Thrombosis", "Marrow failure", "Splenomegaly"],
+    "answer": "Thrombosis",
+    "explanation": "Unlike most drug-induced thrombocytopenias, HIT is associated with an increased risk of thrombosis rather than bleeding [22]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the primary mechanism of platelet destruction in Chronic ITP?",
+    "options": ["Direct viral attack", "Splenic sequestration", "Anti-platelet IgG autoantibodies", "Complement-mediated lysis"],
+    "answer": "Anti-platelet IgG autoantibodies",
+    "explanation": "Chronic ITP is caused by anti-platelet autoantibodies (IgG) directed against glycoproteins like GpIIb-IIIa [10]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which laboratory findings are characteristic of ITP?",
+    "options": ["Reduced platelet count", "Increased megakaryocytes in marrow", "Reduced megakaryocytes in marrow", "Presence of large platelets in blood film"],
+    "answer": ["Reduced platelet count", "Increased megakaryocytes in marrow", "Presence of large platelets in blood film"],
+    "explanation": "ITP shows thrombocytopenia, large platelets, and normal or increased megakaryocytes (compensatory) in the bone marrow [12, 23, 24]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "The clinical triad of TTP and HUS includes thrombocytopenia, microangiopathic haemolytic anaemia, and:",
+    "options": ["Splenomegaly", "Hyaline fibrin microthrombi", "Vitamin K deficiency", "Factor VIII deficiency"],
+    "answer": "Hyaline fibrin microthrombi",
+    "explanation": "TTP and HUS are characterized by the triad of thrombocytopenia, microangiopathic haemolytic anaemia, and microvascular hyaline fibrin microthrombi [25]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which condition is an X-linked recessive disorder caused by a deficiency of Factor VIII?",
+    "options": ["Haemophilia A", "Haemophilia B", "von Willebrand’s disease", "DIC"],
+    "answer": "Haemophilia A",
+    "explanation": "Classic haemophilia or Haemophilia A is a sex-(X-) linked recessive disorder due to Factor VIII deficiency [26]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "A haemophilic father married to a non-carrier mother will have:",
+    "options": ["All haemophilic sons", "All carrier daughters", "50% haemophilic sons", "50% carrier daughters"],
+    "answer": "All carrier daughters",
+    "explanation": "A haemophilic father transmits his X-chromosome to all his daughters (making them carriers) and his Y-chromosome (which is normal) to his sons [26]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which laboratory test is typically prolonged in patients with Haemophilia A?",
+    "options": ["Bleeding time", "Prothrombin time (PT)", "Activated partial thromboplastin time (APTT)", "Platelet count"],
+    "answer": "Activated partial thromboplastin time (APTT)",
+    "explanation": "In Haemophilia A, APTT is prolonged because it measures the intrinsic pathway (including Factor VIII) [9, 27]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the inheritance pattern of von Willebrand’s disease?",
+    "options": ["X-linked recessive", "X-linked dominant", "Autosomal dominant", "Autosomal recessive"],
+    "answer": "Autosomal dominant",
+    "explanation": "von Willebrand’s disease is inherited as an autosomal dominant trait, meaning it can affect both sexes [13]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following are Vitamin K-dependent coagulation factors?",
+    "options": ["Factor II", "Factor VII", "Factor VIII", "Factor IX"],
+    "answer": ["Factor II", "Factor VII", "Factor IX"],
+    "explanation": "The Vitamin K-dependent factors are II, VII, IX, X, and proteins C and S [28]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Disseminated Intravascular Coagulation (DIC) is characterized by a rise in which lab marker due to secondary fibrinolysis?",
+    "options": ["Fibrinogen", "Platelet count", "Fibrin degradation products (FDPs)", "Factor VIII"],
+    "answer": "Fibrin degradation products (FDPs)",
+    "explanation": "Secondary fibrinolysis in DIC breaks down fibrin, leading to a rise in circulating FDPs [29, 30]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which blood group system is of the highest clinical significance because it contains naturally-occurring IgM antibodies?",
+    "options": ["ABO system", "Rhesus system", "Kell system", "Duffy system"],
+    "answer": "ABO system",
+    "explanation": "The ABO system has naturally-occurring anti-A and anti-B antibodies (IgM), making it the most significant for transfusion [31]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "The Rh grouping in routine practice is primarily performed to detect which antigen?",
+    "options": ["C antigen", "c antigen", "D antigen", "e antigen"],
+    "answer": "D antigen",
+    "explanation": "The D antigen is the most immunogenic Rh antigen and is used to define Rh-positive or Rh-negative status [32]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which infections can be transmitted via blood transfusion?",
+    "options": ["Hepatitis B", "Malaria", "AIDS (HIV)", "Haemophilia"],
+    "answer": ["Hepatitis B", "Malaria", "AIDS (HIV)"],
+    "explanation": "Hepatitis, Malaria, and HIV are infectious agents transmissible by blood. Haemophilia is a genetic disorder [33]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Transfusion-related acute lung injury (TRALI) is caused by donor plasma antibodies reacting with the recipient's:",
+    "options": ["Red blood cells", "Leucocytes", "Platelets", "Albumin"],
+    "answer": "Leucocytes",
+    "explanation": "TRALI results from donor anti-HLA antibodies binding to the recipient's leucocytes, causing them to aggregate in the pulmonary vasculature [34]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which blood component is the primary source for Factor VIII, vWF, and fibrinogen?",
+    "options": ["Packed RBCs", "Platelets", "Fresh frozen plasma (FFP)", "Cryoprecipitate"],
+    "answer": "Cryoprecipitate",
+    "explanation": "Cryoprecipitate is rich in fibrinogen, Factor VIII, and vWF [35]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Haemolytic disease of the newborn (HDN) occurs when:",
+    "options": ["A Rh+ mother has a Rh- foetus", "A Rh- mother has a Rh+ foetus", "A group A mother has a group O foetus", "A group AB mother has a group A foetus"],
+    "answer": "A Rh- mother has a Rh+ foetus",
+    "explanation": "Rh-HDN occurs when a Rh-negative mother is sensitized to the Rh-positive red cells of the foetus [36]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Deposition of bile pigment in the basal ganglia of the brain in severe HDN is known as:",
+    "options": ["Hydrops foetalis", "Kernicterus", "Telangiectasia", "Thrombophlebitis"],
+    "answer": "Kernicterus",
+    "explanation": "Kernicterus occurs when unconjugated bilirubin exceeds 20 mg/dl and deposits in the CNS [37]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which test performed on cord blood is typically positive in Rh-HDN?",
+    "options": ["Indirect Coombs’ test", "Direct Coombs’ test", "Hess test", "Bleeding time"],
+    "answer": "Direct Coombs’ test",
+    "explanation": "A positive direct Coombs’ test on cord blood indicates that maternal antibodies are coated on foetal red cells [38]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Critical Thinking: Why is whole blood coagulation time considered a test of 'limited value'?",
+    "options": ["It is too expensive", "It is insensitive and nonspecific", "It requires specialized equipment", "It only measures platelets"],
+    "answer": "It is insensitive and nonspecific",
+    "explanation": "The sources state whole blood coagulation time is an insensitive and nonspecific test [16]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Critical Thinking: In a patient with a very low platelet count but a normal bleeding time, which assumption should be investigated first?",
+    "options": ["The patient has Haemophilia", "The laboratory count is a 'pseudothrombocytopenia'", "The patient has Scurvy", "The patient has ITP"],
+    "answer": "The laboratory count is a 'pseudothrombocytopenia'",
+    "explanation": "Reflective reasoning: Bleeding time is dependent on platelet count. If the count is reported as very low but bleeding time is normal, the count might be an artifact of platelet clumping in the lab (pseudothrombocytopenia)."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Critical Thinking: Why does splenectomy improve the platelet count in Chronic ITP?",
+    "options": ["The spleen is the only site of platelet production", "The spleen is both a major site of destruction and antibody synthesis", "It prevents platelets from entering the liver", "It stimulates the bone marrow"],
+    "answer": "The spleen is both a major site of destruction and antibody synthesis",
+    "explanation": "Beneficial effects of splenectomy in chronic ITP are due to removing the major site of platelet destruction and the major source of autoantibody synthesis [39]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Reflective Question: How does the pathophysiology of TTP differ primarily from DIC?",
+    "options": ["TTP involves antibodies, DIC does not", "DIC involves primary activation of the clotting system, TTP does not", "TTP has a normal platelet count", "DIC is always inherited"],
+    "answer": "DIC involves primary activation of the clotting system, TTP does not",
+    "explanation": "Unlike DIC, activation of the clotting system is not the primary event in TTP/HUS; TTP is initiated by endothelial injury [40]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Case Study: A 6-year-old boy presents with painful swelling in his knee (haemarthrosis) after a minor fall. His APTT is significantly prolonged, but his PT and bleeding time are normal. What is the most likely diagnosis?",
+    "options": ["Haemophilia A", "ITP", "von Willebrand’s disease", "Vascular purpura"],
+    "answer": "Haemophilia A",
+    "explanation": "Haemarthrosis (joint bleeding) and a prolonged APTT with normal PT/BT are classic for Haemophilia [9, 26, 27]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Case Study: A 28-year-old woman in her third trimester of pregnancy develops widespread bruising and bleeding from her IV site. Lab results show low platelets, low fibrinogen, and high FDPs. What is the most likely diagnosis?",
+    "options": ["ITP", "TTP", "DIC", "Scurvy"],
+    "answer": "DIC",
+    "explanation": "Obstetrical complications can trigger DIC, which is characterized by the consumption of platelets and factors (low platelets/fibrinogen) and secondary fibrinolysis (high FDPs) [30, 41]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Decision Under Pressure: A patient receiving a blood transfusion suddenly develops fever, chills, and severe back pain. What is the immediate first step?",
+    "options": ["Slow the transfusion rate", "Administer paracetamol", "Stop the transfusion immediately", "Check the patient's blood group"],
+    "answer": "Stop the transfusion immediately",
+    "explanation": "These are signs of an immediate haemolytic transfusion reaction. The transfusion must be stopped immediately to prevent further harm [42, 43]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "University-Level Exam Question: Discuss the laboratory investigation of a patient suspected of having von Willebrand's disease.",
+    "options": ["Platelet count and PT", "Bleeding time, vWF concentration, and Ristocetin aggregation", "APTT and Factor IX assay", "Hess test and Thrombin time"],
+    "answer": "Bleeding time, vWF concentration, and Ristocetin aggregation",
+    "explanation": "vWD investigation includes bleeding time (prolonged), vWF concentration (reduced), and defective platelet aggregation with ristocetin [44]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "PLAB/USMLE Pattern: A 35-year-old woman with a history of systemic lupus erythematosus (SLE) presents with a low platelet count (30,000/µl). Bone marrow shows increased megakaryocytes. She has no other symptoms. What is the diagnosis?",
+    "options": ["Acute ITP", "Secondary immune thrombocytopenia", "TTP", "Aplastic anaemia"],
+    "answer": "Secondary immune thrombocytopenia",
+    "explanation": "ITP-like immunologic destruction of platelets occurring in association with SLE is classified as secondary immune thrombocytopenia [10]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "PLAB/USMLE Pattern: A newborn infant develops bleeding from the umbilical cord on the third day of life. The Prothrombin Time (PT) is prolonged. Administration of which substance is the best treatment?",
+    "options": ["Factor VIII", "Platelets", "Vitamin K", "Heparin"],
+    "answer": "Vitamin K",
+    "explanation": "Haemorrhagic disease of the newborn is caused by Vitamin K deficiency due to liver immaturity and lack of gut bacteria [45]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Bias Recognition: A clinician assumes a bleeding patient has ITP solely because they have a low platelet count, failing to check for microangiopathic changes on a blood film. What bias is this?",
+    "options": ["Anchoring bias", "Search satisfaction bias", "Availability bias", "Confirmation bias"],
+    "answer": "Search satisfaction bias",
+    "explanation": "Stopping the diagnostic search once a single finding (low platelets) is found and fits a common diagnosis (ITP) while ignoring other critical data (MAHA on film) is a search satisfaction bias."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Problem-Solving: How can a clinician distinguish between Haemophilia A and von Willebrand's disease in a patient with a prolonged APTT?",
+    "options": ["Check the PT", "Check the bleeding time", "Check the platelet count", "Check the Thrombin time"],
+    "answer": "Check the bleeding time",
+    "explanation": "Bleeding time is typically normal in Haemophilia A but prolonged in von Willebrand's disease due to defective platelet adhesion [9]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "A patient with liver disease has a prolonged PT. Why does Vitamin K administration often fail to correct the PT in these patients?",
+    "options": ["Vitamin K is toxic to the liver", "The liver cannot synthesize the factors even if Vitamin K is present", "The patient has a Vitamin K allergy", "Factor VIII is missing"],
+    "answer": "The liver cannot synthesize the factors even if Vitamin K is present",
+    "explanation": "In severe hepatocellular disease, bleeding is often due to impaired hepatic synthesis of factors, not just Vitamin K deficiency [46, 47]."
+  }
+]
+}

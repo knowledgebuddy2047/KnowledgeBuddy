@@ -1,0 +1,186 @@
+{
+  "quiz": [
+
+    {
+    "type": "mcq_single",
+    "question": "Which of the following air pollutant particle sizes is most dangerous as it can be impacted in the distal airways to produce tissue injury?",
+    "options": ["10-15 µm", "5-10 µm", "1-5 µm", "Less than 0.1 µm"],
+    "answer": "1-5 µm",
+    "explanation": "According to the sources, particle sizes of 1-5 µm are particularly dangerous because they are capable of getting impacted in the distal airways [1, 2]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following enzymes are inhibited by lead, leading to microcytic hypochromic anaemia?",
+    "options": [
+      "Delta-aminolevulinic acid dehydrogenase",
+      "Alcohol dehydrogenase",
+      "Ferroketolase",
+      "Cytochrome oxidase"
+    ],
+    "answer": [
+      "Delta-aminolevulinic acid dehydrogenase",
+      "Ferroketolase"
+    ],
+    "explanation": "Lead inhibits delta-aminolevulinic acid dehydrogenase (required for haem synthesis) and ferroketolase (required for incorporating iron into the porphyrin ring) [3]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "A person who smokes 2 packs of cigarettes daily at age 30 reduces their life expectancy by approximately 8 years compared to a non-smoker.",
+    "reason": "Tobacco smoke contains several harmful constituents, including nicotine, carcinogens like tar, and carbon monoxide which reduces oxygen transport.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "The source explicitly states that smoking 2 packs daily at age 30 reduces life by 8 years [4], and the various toxic constituents like carcinogens and CO contribute to this high mortality [5, 6]."
+  },
+  {
+    "type": "match_columns",
+    "question": "Match the trace element with its characteristic deficiency state:",
+    "left": ["Iodine", "Zinc", "Fluoride", "Selenium"],
+    "right": ["Dental caries", "Goitre and cretinism", "Cardiomyopathy", "Infertility and alopecia"],
+    "answer": {
+      "Iodine": "Goitre and cretinism",
+      "Zinc": "Infertility and alopecia",
+      "Fluoride": "Dental caries",
+      "Selenium": "Cardiomyopathy"
+    },
+    "explanation": "As per the Gist Box and chapter text, Iodine deficiency leads to goitre/cretinism, Zinc to growth retardation/alopecia, Fluoride to dental caries, and Selenium to cardiomyopathy [7, 8]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "CRITICAL THINKING: A clinician assumes a patient's obesity is purely due to 'lifestyle choices' (overeating and inactivity). Which finding in the source would challenge this as an oversimplified assumption?",
+    "options": [
+      "Obesity is defined as 20% excess over ideal weight.",
+      "Identical twin studies and the discovery of the 'ob gene' and leptin protein suggest a genetic basis.",
+      "A BMI of 30 is the standard cut-off for obesity.",
+      "Obesity predisposes patients to type 2 diabetes."
+    ],
+    "answer": "Identical twin studies and the discovery of the 'ob gene' and leptin protein suggest a genetic basis.",
+    "explanation": "The source notes that molecular mechanisms of obesity involve genetic predisposition, specifically mentioning identical twin observations and the 'ob gene' (leptin) [9]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "CASE STUDY: A 75-year-old male living alone presents with bleeding gums, petechiae, and a non-healing leg ulcer. He admits his diet consists almost entirely of tea and bread. What is the most likely diagnosis?",
+    "options": ["Pellagra", "Beriberi", "Scurvy", "Rickets"],
+    "answer": "Scurvy",
+    "explanation": "The clinical presentation of haemorrhagic diathesis (bleeding gums/petechiae) and delayed wound healing in an elderly patient with a poor diet is classic for Vitamin C deficiency (Scurvy) [10-12]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "DECISION UNDER PRESSURE: A chronic alcoholic is brought to the ER with Wernicke’s encephalopathy. Which intervention is the most critical to prevent permanent neurological damage or death from respiratory arrest?",
+    "options": [
+      "Immediate administration of high-dose Vitamin D.",
+      "Administration of Thiamine (Vitamin B1) to correct the deficiency.",
+      "Providing a high-protein diet to treat Kwashiorkor.",
+      "Ordering an immediate biopsy of the liver to check for cirrhosis."
+    ],
+    "answer": "Administration of Thiamine (Vitamin B1) to correct the deficiency.",
+    "explanation": "Wernicke-Korsakoff syndrome is a 'cerebral beriberi' caused by thiamine deficiency; since the brain relies solely on carbohydrate oxidation which requires thiamine, immediate correction is vital [13-15]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "UNIVERSITY LEVEL: Which of the following skeletal changes are characteristic of Rickets in an ambulatory child?",
+    "options": [
+      "Bow legs",
+      "Harrison's sulcus",
+      "Rachitic rosary",
+      "Metastatic calcification",
+      "Craniotabes"
+    ],
+    "answer": [
+      "Bow legs",
+      "Harrison's sulcus",
+      "Rachitic rosary",
+      "Craniotabes"
+    ],
+    "explanation": "The source lists Bow legs, Harrison’s sulcus, Rachitic rosary, and Craniotabes as features of Rickets [16]. Metastatic calcification is a feature of Hypervitaminosis D, not deficiency [17]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "In Kwashiorkor, the liver is typically enlarged and fatty.",
+    "reason": "Kwashiorkor is characterized by a selective deficiency of protein despite sufficient calorie intake.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "Kwashiorkor is protein deficiency with adequate calories; the lack of protein leads to an inability to export fats from the liver, resulting in an enlarged fatty liver [18, 19]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "PLAB/USMLE PATTERN: A 40-year-old patient presents with a symmetrical, sun-exposed rash that has become scaly and pigmented, chronic diarrhea, and increasing memory loss. What nutritional deficiency is responsible?",
+    "options": ["Thiamine (B1)", "Riboflavin (B2)", "Niacin (B3)", "Pyridoxine (B6)"],
+    "answer": "Niacin (B3)",
+    "explanation": "The 3 Ds (Dermatitis, Diarrhea, and Dementia) are the classic hallmarks of Pellagra, caused by Niacin (Vitamin B3) deficiency [20, 21]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "BIAS RECOGNITION: A doctor attributes a patient's chronic cough and lung findings solely to 'Air Pollution' because the patient lives in a highly industrial city, ignoring the patient's heavy smoking history. This is an example of what?",
+    "options": [
+      "Confirmation Bias",
+      "Premature Closure (ignoring personal environmental factors)",
+      "Hindsight Bias",
+      "Availability Bias"
+    ],
+    "answer": "Premature Closure (ignoring personal environmental factors)",
+    "explanation": "The sources emphasize that while atmospheric pollutants are significant, they are often 'minor compared with voluntary intake' of tobacco [22]. Ignoring a personal habit in favor of a general environmental factor leads to diagnostic error."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the primary mechanism of cell death induced by ionizing radiation?",
+    "options": [
+      "Direct mechanical rupture of the cell membrane.",
+      "Radiolysis of water with generation of toxic hydroxyl radicals.",
+      "Inhibition of the sodium-potassium pump.",
+      "Binding of radiation to mitochondrial cytochrome oxidase."
+    ],
+    "answer": "Radiolysis of water with generation of toxic hydroxyl radicals.",
+    "explanation": "Ionizing radiation causes cell death primarily through the radiolysis of water, which generates toxic hydroxyl free radicals that damage DNA and membranes [23]."
+  },
+  {
+    "type": "match_columns",
+    "question": "Match the vitamin with its specific physiologic function:",
+    "left": ["Vitamin K", "Vitamin A", "Vitamin E", "Vitamin D"],
+    "right": ["Maintenance of vision in reduced light", "Activation of coagulation factors II, VII, IX, X", "Antioxidant preventing oxidative degradation of membranes", "Maintenance of normal plasma levels of calcium"],
+    "answer": {
+      "Vitamin K": "Activation of coagulation factors II, VII, IX, X",
+      "Vitamin A": "Maintenance of vision in reduced light",
+      "Vitamin E": "Antioxidant preventing oxidative degradation of membranes",
+      "Vitamin D": "Maintenance of normal plasma levels of calcium"
+    },
+    "explanation": "Vit K is for coagulation factors [24]; Vit A for vision/rhodopsin [25]; Vit E as an antioxidant [26]; Vit D for calcium/phosphorus homeostasis [27]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following are categorized as 'Conditioned (Secondary) Deficiencies' rather than primary dietary deficiencies?",
+    "options": [
+      "Lack of food due to famine",
+      "Malabsorption syndrome in biliary disease",
+      "Increased nutritional demand during pregnancy",
+      "Interference with ingestion due to chronic alcoholism",
+      "Religious fasting"
+    ],
+    "answer": [
+      "Malabsorption syndrome in biliary disease",
+      "Increased nutritional demand during pregnancy",
+      "Interference with ingestion due to chronic alcoholism"
+    ],
+    "explanation": "Famine and religious fasting are primary deficiencies (lack of nutrients in diet). Malabsorption, alcoholism, and pregnancy are conditioned/secondary factors [28, 29]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which naturally-occurring carcinogen found in grain contaminated with Aspergillus flavus is strongly associated with hepatocellular carcinoma?",
+    "options": ["Nitrosamines", "Vinyl chloride", "Aflatoxin", "Saccharine"],
+    "answer": "Aflatoxin",
+    "explanation": "The source identifies Aflatoxin as a naturally-occurring carcinogen associated with high incidence of liver cancer [30]."
+  }
+
+  ]
+}

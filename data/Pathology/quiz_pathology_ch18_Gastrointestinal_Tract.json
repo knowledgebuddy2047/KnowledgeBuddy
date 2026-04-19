@@ -1,0 +1,442 @@
+{
+  "quiz":
+[
+  {
+    "type": "mcq_single",
+    "question": "What is the typical clinical distance from the incisor teeth to the gastro-oesophageal junction in an adult?",
+    "options": ["25 cm", "30 cm", "40 cm", "50 cm"],
+    "answer": "40 cm",
+    "explanation": "While the oesophagus itself is 25 cm, the distance from the incisors to the GE junction is clinicaly measured at about 40 cm [1]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which histological layers compose the wall of the oesophagus?",
+    "options": ["Mucosa", "Submucosa", "Muscularis propria", "Adventitia/Serosa"],
+    "answer": ["Mucosa", "Submucosa", "Muscularis propria", "Adventitia/Serosa"],
+    "explanation": "The oesophageal wall consists of these four distinct layers [2]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Oesophageal agenesis is incompatible with life.",
+    "reason": "It represents the congenital absence of the oesophagus.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "Congenital absence of the oesophagus (agenesis) is a rare anomaly that cannot support life [3]."
+  },
+  {
+    "type": "match_columns",
+    "question": "Match the muscular dysfunction with its characteristic feature:",
+    "left": ["Achalasia", "Hiatus Hernia", "Zenker's Diverticulum"],
+    "right": ["Failure of cardiac sphincter to relax", "Protrusion of stomach through diaphragm", "Pulsion outpouching in hypopharynx"],
+    "answer": {
+      "Achalasia": "Failure of cardiac sphincter to relax",
+      "Hiatus Hernia": "Protrusion of stomach through diaphragm",
+      "Zenker's Diverticulum": "Pulsion outpouching in hypopharynx"
+    },
+    "explanation": "Each represents a specific motor or structural dysfunction of the oesophagus [4-6]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which condition is characterized by the triad of iron deficiency anaemia, glossitis, and upper oesophageal webs?",
+    "options": ["Mallory-Weiss Syndrome", "Plummer-Vinson Syndrome", "Barrett’s Oesophagus", "Budd-Chiari Syndrome"],
+    "answer": "Plummer-Vinson Syndrome",
+    "explanation": "This syndrome is associated with upper oesophageal webs, especially in adult women [7]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the most common cause of oesophageal varices?",
+    "options": ["Portal vein thrombosis", "Cirrhosis of the liver", "Budd-Chiari syndrome", "Pylephlebitis"],
+    "answer": "Cirrhosis of the liver",
+    "explanation": "Elevated portal venous pressure, most commonly due to cirrhosis, leads to these tortuous dilated veins [8]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Barrett’s oesophagus is considered a premalignant condition.",
+    "reason": "It involves the replacement of squamous epithelium with metaplastic columnar cells.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "The columnar metaplasia in Barrett’s can evolve into dysplasia and eventually adenocarcinoma [9]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What percentage of primary oesophageal cancers are Squamous Cell Carcinomas?",
+    "options": ["10%", "25%", "50%", "90%"],
+    "answer": "90%",
+    "explanation": "Squamous cell carcinoma comprises 90% of primary oesophageal cancers [10]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which factors are implicated in the etiology of oesophageal carcinoma?",
+    "options": ["Heavy smoking", "Alcohol consumption", "H. pylori infection", "Nutritional deficiency"],
+    "answer": ["Heavy smoking", "Alcohol consumption", "Nutritional deficiency"],
+    "explanation": "Dietary habits and smoking are major risk factors, whereas H. pylori is specifically linked to gastric cancers [11]."
+  },
+  {
+    "type": "match_columns",
+    "question": "Match the gastric cell with its primary secretion:",
+    "left": ["Parietal Cells", "Chief Cells", "G-Cells"],
+    "right": ["Hydrochloric acid", "Pepsin", "Gastrin"],
+    "answer": {
+      "Parietal Cells": "Hydrochloric acid",
+      "Chief Cells": "Pepsin",
+      "G-Cells": "Gastrin"
+    },
+    "explanation": "Parietal cells produce HCl, Chief cells secrete pepsin, and G-cells produce gastrin [12-14]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "In gastric analysis, what is the significance of achlorhydria in the presence of a gastric ulcer?",
+    "options": ["Suggests benign ulcer", "Suggests gastric malignancy", "Suggests H. pylori infection", "Suggests Zollinger-Ellison syndrome"],
+    "answer": "Suggests gastric malignancy",
+    "explanation": "Achlorhydria in the presence of an ulcer is highly suggestive of malignancy because benign ulcers require some acid [15]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "A rise in serum gastrin by more than 50% after secretin injection is diagnostic for Gastrinoma.",
+    "reason": "Secretin normally stimulates the release of gastrin from G-cells.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Assertion is true, Reason is false",
+    "explanation": "The secretin test is diagnostic for Zollinger-Ellison, but secretin normally inhibits gastrin, only stimulating it in gastrinomas [16, 17]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the primary morphological feature of Infantile Pyloric Stenosis?",
+    "options": ["Mucosal atrophy", "Hypertrophy of the circular muscle layer", "Fibrous webs", "Malignant infiltration"],
+    "answer": "Hypertrophy of the circular muscle layer",
+    "explanation": "There is hypertrophy and hyperplasia of the circular muscularis layer in the pyloric sphincter [18]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which mechanisms are responsible for acute gastric inflammation in acute gastritis?",
+    "options": ["Reduced blood flow", "H. pylori infection damaging epithelial barrier", "Decreased bicarbonate production", "Increased mucus thickness"],
+    "answer": ["Reduced blood flow", "H. pylori infection damaging epithelial barrier", "Decreased bicarbonate production"],
+    "explanation": "These factors contribute to mucosal injury and subsequent inflammation [19]."
+  },
+  {
+    "type": "match_columns",
+    "question": "Match the Gastritis type with its location/etiology:",
+    "left": ["Type A", "Type B", "Ménétrier’s disease"],
+    "right": ["Autoimmune/Body-fundic", "H. pylori/Antral", "Hypertrophic rugal folds"],
+    "answer": {
+      "Type A": "Autoimmune/Body-fundic",
+      "Type B": "H. pylori/Antral",
+      "Ménétrier’s disease": "Hypertrophic rugal folds"
+    },
+    "explanation": "These classifications are based on etiology and location of mucosal involvement [20-22]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "H. pylori is considered a risk factor for which of the following?",
+    "options": ["Gastric Adenocarcinoma", "MALT Lymphoma", "Peptic Ulcer", "All of the above"],
+    "answer": "All of the above",
+    "explanation": "H. pylori is causative for chronic gastritis and significantly increases the risk for ulcers and malignancies [23, 24]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Intestinal metaplasia is significant in the study of gastric cancer.",
+    "reason": "It is not colonized by H. pylori.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason does not explain Assertion",
+    "explanation": "Both are true, but the lack of H. pylori colonization does not explain why it is a precursor to cancer [25]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which of the following describes 'Cushing's ulcers'?",
+    "options": ["Ulcers following extensive burns", "Ulcers following intracranial lesions", "Ulcers caused by NSAIDs", "Ulcers in the distal ileum"],
+    "answer": "Ulcers following intracranial lesions",
+    "explanation": "Cushing’s ulcers develop from hyperacidity following excessive vagal stimulation due to brain trauma or surgery [26]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "What are the common complications of chronic peptic ulcers?",
+    "options": ["Obstruction", "Haemorrhage", "Perforation", "Malignant transformation in Duodenal ulcers"],
+    "answer": ["Obstruction", "Haemorrhage", "Perforation"],
+    "explanation": "Duodenal ulcers never turn malignant, whereas gastric ulcers rarely cancerate [27, 28]."
+  },
+  {
+    "type": "match_columns",
+    "question": "Match the peptic ulcer type with its clinical pain pattern:",
+    "left": ["Gastric Ulcer", "Duodenal Ulcer"],
+    "right": ["Pain immediately after food", "Pain relieved by food/Hunger pain"],
+    "answer": {
+      "Gastric Ulcer": "Pain immediately after food",
+      "Duodenal Ulcer": "Pain relieved by food/Hunger pain"
+    },
+    "explanation": "Gastric ulcers show a food-pain pattern, while duodenal ulcers show a pain-food-relief pattern [29, 30]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "In the 'adenoma-carcinoma sequence', which gene mutation is typically the earliest event?",
+    "options": ["K-RAS mutation", "p53 loss", "APC gene mutation", "DCC deletion"],
+    "answer": "APC gene mutation",
+    "explanation": "Loss or mutation of the APC locus on chromosome 5q is usually the initial step [31]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Where is a Meckel’s diverticulum characteristically located?",
+    "options": ["Lesser curvature of stomach", "Mesenteric border of jejunum", "Antimesenteric border of ileum", "Descending colon"],
+    "answer": "Antimesenteric border of ileum",
+    "explanation": "It is typically found on the antimesenteric border of the ileum, about 1 meter above the ileocaecal valve [32]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Intussusception in adults usually requires a clear cause like a tumour.",
+    "reason": "It involves the telescoping of one segment of the bowel into another.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason does not explain Assertion",
+    "explanation": "Both statements are true, but the definition of intussusception doesn't explain the etiology in adults [33, 34]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which pattern of ischaemic bowel disease is characterized by 'abdominal angina' and full-thickness necrosis?",
+    "options": ["Mural infarction", "Mucosal infarction", "Transmural infarction", "Ischaemic colitis"],
+    "answer": "Transmural infarction",
+    "explanation": "Transmural infarction involves full-thickness ischaemic necrosis and is rapidly fatal [35, 36]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which features distinguish Crohn's disease from Ulcerative Colitis?",
+    "options": ["Skip lesions", "Transmural inflammation", "Non-caseating granulomas", "Continuous rectal involvement"],
+    "answer": ["Skip lesions", "Transmural inflammation", "Non-caseating granulomas"],
+    "explanation": "Continuous involvement is a hallmark of Ulcerative Colitis, not Crohn's [37, 38]."
+  },
+  {
+    "type": "match_columns",
+    "question": "Match the Inflammatory Bowel Disease with the characteristic microscopic finding:",
+    "left": ["Crohn's Disease", "Ulcerative Colitis"],
+    "right": ["Sarcoid-like granulomas", "Crypt abscesses"],
+    "answer": {
+      "Crohn's Disease": "Sarcoid-like granulomas",
+      "Ulcerative Colitis": "Crypt abscesses"
+    },
+    "explanation": "Granulomas are seen in Crohn's, while crypt abscesses are characteristic of active UC [39, 40]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "How do typhoid ulcers in the small intestine typically orient?",
+    "options": ["Transverse to the long axis", "Parallel to the long axis", "Circular around the lumen", "Random orientation"],
+    "answer": "Parallel to the long axis",
+    "explanation": "Typhoid ulcers occur in Peyer's patches and have their long axis along the length of the bowel [41]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which microorganism is the most common cause of antibiotic-associated pseudomembranous colitis?",
+    "options": ["Salmonella typhi", "Entamoeba histolytica", "Clostridium difficile", "Staphylococcus aureus"],
+    "answer": "Clostridium difficile",
+    "explanation": "Overgrowth of C. difficile and its toxins is the primary cause [42]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following are clinical manifestations of Malabsorption Syndrome?",
+    "options": ["Steatorrhoea", "Weight loss", "Constipation", "Abdominal distension"],
+    "answer": ["Steatorrhoea", "Weight loss", "Abdominal distension"],
+    "explanation": "Steatorrhoea (fatty stools) and weight loss are primary indicators of malabsorption [43]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Coeliac sprue symptoms are relieved by a gluten-free diet.",
+    "reason": "The disease is caused by sensitivity to gliadin in wheat and barley.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "The elimination of gluten removes the trigger for the immune-mediated damage [44, 45]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the most common site for a carcinoid tumour?",
+    "options": ["Stomach", "Duodenum", "Appendix", "Rectum"],
+    "answer": "Appendix",
+    "explanation": "Midgut carcinoids in the appendix and terminal ileum are the most common [46]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which substances are produced by functioning carcinoid tumours in carcinoid syndrome?",
+    "options": ["Serotonin (5-HT)", "Histamine", "Bradykinin", "Insulin"],
+    "answer": ["Serotonin (5-HT)", "Histamine", "Bradykinin"],
+    "explanation": "Serotonin and 5-HIAA are the most significant markers of the syndrome [47]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the diagnostic histological criterion for acute appendicitis?",
+    "options": ["Mucosal ulceration", "Neutrophilic infiltration of the muscularis", "Fibrous adhesions", "Lymphoid hyperplasia"],
+    "answer": "Neutrophilic infiltration of the muscularis",
+    "explanation": "Neutrophils must be present in the muscular layer to confirm acute appendicitis [48]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Hirschsprung’s disease results in a dilated proximal colon.",
+    "reason": "The distal segment lacks ganglion cells and remains contracted.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "The aganglionic distal segment creates a functional obstruction, causing proximal dilatation [49]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which colorectal polyp has the highest malignant potential?",
+    "options": ["Hyperplastic polyp", "Tubular adenoma", "Villous adenoma", "Juvenile polyp"],
+    "answer": "Villous adenoma",
+    "explanation": "Invasive carcinoma is reported in 30% of villous adenomas [50]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "What are the components of Gardner’s Syndrome?",
+    "options": ["Familial polyposis coli", "Osteomas of the mandible", "Brain tumours", "Soft tissue tumours"],
+    "answer": ["Familial polyposis coli", "Osteomas of the mandible", "Soft tissue tumours"],
+    "explanation": "Brain tumours are specifically associated with Turcot’s syndrome [51]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "A 60-year-old male presents with 'napkin-ring' constriction of the sigmoid colon. What is the most likely diagnosis?",
+    "options": ["Right-sided colonic cancer", "Left-sided colonic cancer", "Diverticulosis", "Crohn's Disease"],
+    "answer": "Left-sided colonic cancer",
+    "explanation": "Left-sided growths typically encircle the bowel circumferentially in a napkin-ring configuration [52]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Carcinoembryonic antigen (CEA) is not used as a primary diagnostic tool for colon cancer.",
+    "reason": "CEA levels can be elevated in smokers and patients with cirrhosis.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "CEA lacks specificity for cancer and is more useful for monitoring recurrence [53, 54]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "In the Astler-Coller staging, what does 'Stage C1' signify?",
+    "options": ["Cancer confined to mucosa", "Cancer extending to muscularis but no nodes", "Cancer involving muscularis and regional lymph nodes", "Distant metastases"],
+    "answer": "Cancer involving muscularis and regional lymph nodes",
+    "explanation": "Stage C1 involves the muscularis and regional node involvement [55]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the commonest cause of haematemesis of esophageal origin?",
+    "options": ["Esophageal cancer", "Reflux esophagitis", "Esophageal varices", "Mallory-Weiss Syndrome"],
+    "answer": "Esophageal varices",
+    "explanation": "Massive bleeding occurs due to rupture of these engorged veins [8, 56]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "A 5-year-old boy presents with a rectal mass that microscopically shows cystically dilated glands filled with mucus. What is it?",
+    "options": ["Adenomatous polyp", "Juvenile polyp", "Hyperplastic polyp", "Peutz-Jeghers polyp"],
+    "answer": "Juvenile polyp",
+    "explanation": "Juvenile (retention) polyps are common in children and show characteristic mucus-filled cysts [57]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which factors are part of the 'Critical Thinking' pitfalls in diagnosing GI conditions?",
+    "options": ["Assuming achlorhydria excludes benign ulcers", "Mistaking hyperplastic tuberculosis for carcinoma", "Ignoring the 'skip areas' in Ulcerative Colitis", "Believing stress is the sole cause of IBD"],
+    "answer": ["Assuming achlorhydria excludes benign ulcers", "Mistaking hyperplastic tuberculosis for carcinoma", "Believing stress is the sole cause of IBD"],
+    "explanation": "These are common errors; skip areas are not seen in UC, and stress is only a modulatory factor [15, 58, 59]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which condition presents with enormous thickening of gastric rugal folds resembling cerebral convolutions?",
+    "options": ["Zollinger-Ellison Syndrome", "Ménétrier’s disease", "Gastric Carcinoma", "Type A Gastritis"],
+    "answer": "Ménétrier’s disease",
+    "explanation": "Ménétrier’s is characterized by enormous thickening of rugae, sparing the antrum [22]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Amoebic dysentery ulcers are described as flask-shaped.",
+    "reason": "The parasite Entamoeba histolytica invades the submucosa and spreads laterally.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "Lateral spread in the submucosa creates the broad base of the flask [60]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the most common clinical presentation of 'abdominal angina'?",
+    "options": ["Pain immediately after heavy exercise", "Acute abdominal pain, nausea, and vomiting", "Chronic constipation", "Painless rectal bleeding"],
+    "answer": "Acute abdominal pain, nausea, and vomiting",
+    "explanation": "This characterizes transmural infarction due to compromised circulation [36]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which syndrome includes the risk of multiple primary cancers like endometrium and ovary along with colon cancer?",
+    "options": ["Familial Polyposis Coli", "Lynch Syndrome (HNPCC)", "Gardner’s Syndrome", "Turcot’s Syndrome"],
+    "answer": "Lynch Syndrome (HNPCC)",
+    "explanation": "HNPCC is associated with extra-colonic primary cancers [61]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "What are the common causes of lower GI bleeding?",
+    "options": ["Diverticulosis", "Haemorrhoids", "Duodenal ulcer", "Anal fissure"],
+    "answer": ["Diverticulosis", "Haemorrhoids", "Anal fissure"],
+    "explanation": "Duodenal ulcers cause upper GI bleeding (melaena/haematemesis) [62]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is 'Melanosis Coli'?",
+    "options": ["A malignant transformation of the colon", "Pigmentation due to habitual anthracene cathartic use", "A type of metastatic melanoma", "Hemorrhagic necrosis of the colon"],
+    "answer": "Pigmentation due to habitual anthracene cathartic use",
+    "explanation": "The mucosa acquires a brown-black color from pigment-laden macrophages [63, 64]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which anatomical landmark separates the anal canal from the rectum?",
+    "options": ["Anal verge", "Pectinate line", "Sigmoid flexure", "Taenia coli"],
+    "answer": "Pectinate line",
+    "explanation": "The pectinate line is the squamo-columnar junction [65]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the primary function of the 'GIST BOX' summaries in the text?",
+    "options": ["To provide detailed surgical steps", "To summarize clinical features and pathology", "To list references", "To provide patient brochures"],
+    "answer": "To summarize clinical features and pathology",
+    "explanation": "GIST boxes serve as quick summaries of the core concepts for each section [66, 67]."
+  }
+]
+
+}

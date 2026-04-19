@@ -1,0 +1,175 @@
+{
+  "quiz": [
+    
+{
+    "question": "What is the etymology of the word 'pathology'?",
+    "options": ["Physio + logos", "Pathos + logos", "Morphos + pathos", "Etios + genesis"],
+    "answer": "Pathos + logos",
+    "explanation": "Greek: 'pathos' (suffering) + 'logos' (study) = scientific study of disease changes.[file:1]"
+  },
+  {
+    "question": "Who is regarded as the Father of Modern Medicine?",
+    "options": ["Rudolf Virchow", "Hippocrates", "Sir William Osler", "Giovanni Morgagni"],
+    "answer": "Sir William Osler",
+    "explanation": "Canadian physician (1849-1919). Famous quote: 'Your practice of medicine will be as good as your understanding of pathology'.[file:1]"
+  },
+  {
+    "question": "Pathology is best defined as:",
+    "options": ["Study of normal anatomy", "Study of structural and functional changes in disease", "Study of drug effects", "Study of surgical techniques"],
+    "answer": "Study of structural and functional changes in disease",
+    "explanation": "Includes gross, microscopic, and physiological abnormalities due to disease.[file:1]"
+  },
+  {
+    "question": "Pathophysiology differs from pathology by focusing on:",
+    "options": ["Structural changes only", "Disordered physiological and biochemical functions", "Gross morphology", "Surgical pathology"],
+    "answer": "Disordered physiological and biochemical functions",
+    "explanation": "Pathophysiology studies breakdown of homeostasis (functional changes).[file:1]"
+  },
+  {
+    "question": "'Etiology' in pathology refers to:",
+    "options": ["Structural lesions", "Mechanisms of disease (HOW)", "Causal factors (WHY)", "Clinical symptoms"],
+    "answer": "Causal factors (WHY)",
+    "explanation": "Study of causes producing disease (e.g., infectious agents, genetic).[file:1]"
+  },
+  {
+    "question": "'Pathogenesis' refers to:",
+    "options": ["Final diagnosis", "Mechanisms by which lesions develop (HOW)", "Gross examination", "Prognosis"],
+    "answer": "Mechanisms by which lesions develop (HOW)",
+    "explanation": "Step-by-step processes from cause to morphological changes.[file:1]"
+  },
+  {
+    "question": "Health is defined as:",
+    "options": ["Absence of symptoms", "Complete accord with surroundings", "Normal lab values only", "Perfect physical fitness"],
+    "answer": "Complete accord with surroundings",
+    "explanation": "Wide range of normality exists; disease = pronounced deviation.[file:1]"
+  },
+  {
+    "question": "A 'syndrome' refers to:",
+    "options": ["Single symptom", "Combination of clinical features from altered physiology", "Single lesion", "Laboratory finding"],
+    "answer": "Combination of clinical features from altered physiology",
+    "explanation": "Greek: 'running together' - multiple features from same process.[file:1]"
+  },
+  {
+    "question": "Who introduced clinicopathologic correlation (CPC)?",
+    "options": ["Virchow", "Sir Percivall Pott", "Giovanni Morgagni", "John Hunter"],
+    "answer": "Giovanni Morgagni",
+    "explanation": "Italian anatomist (1682-1771); correlated 700 autopsies with clinical findings.[file:1]"
+  },
+  {
+    "question": "First occupational cancer identified?",
+    "options": ["Lung cancer in smokers", "Scrotal cancer in chimney sweeps", "Bladder cancer in dye workers", "Liver cancer in vinyl workers"],
+    "answer": "Scrotal cancer in chimney sweeps",
+    "explanation": "Sir Percivall Pott (1775); chimney soot = first recognized carcinogen.[file:1]"
+  },
+  {
+    "question": "Father of Cellular Pathology?",
+    "options": ["Morgagni", "Rudolf Virchow", "Louis Pasteur", "Karl Landsteiner"],
+    "answer": "Rudolf Virchow",
+    "explanation": "German (1821-1902): 'All cells come from cells' + 'Disease alters normal cell structure/function'.[file:1]"
+  },
+  {
+    "question": "Virchow's theory revolutionized:",
+    "options": ["Gross pathology", "Biopsy/surgical pathology", "Chemical pathology", "Microbiology"],
+    "answer": "Biopsy/surgical pathology",
+    "explanation": "Shifted from autopsy (retrospective) to biopsy (prospective) diagnosis.[file:1]"
+  },
+  {
+    "question": "Who discovered the first blood groups?",
+    "options": ["Virchow", "Karl Landsteiner", "William Boyd", "Paul Ehrlich"],
+    "answer": "Karl Landsteiner",
+    "explanation": "Austrian pathologist (1900); Nobel Prize 1930; Father of blood transfusion.[file:1]"
+  },
+  {
+    "question": "Father of Exfoliative Cytology?",
+    "options": ["Papanicolaou", "Virchow", "Rokitansky", "Cohnheim"],
+    "answer": "Papanicolaou",
+    "explanation": "George Papanicolaou (Pap smear for cervical cancer screening).[file:1]"
+  },
+  {
+    "question": "Major subdivisions of pathology?",
+    "options": ["Chemical and surgical", "General and Systemic", "Morphological and chemical", "Basic and clinical"],
+    "answer": "General and Systemic",
+    "explanation": "General: principles of disease; Systemic: organ-specific diseases.[file:1]"
+  },
+  {
+    "question": "Morphological branches include:",
+    "options": ["Biochemistry, immunology", "Histopathology, cytopathology, haematology", "Microbiology, genetics", "All of the above"],
+    "answer": "Histopathology, cytopathology, haematology",
+    "explanation": "Microscopy-dependent disciplines.[file:1]"
+  },
+  {
+    "question": "Surgical pathology primarily deals with:",
+    "options": ["Autopsies", "Tissues from living patients (biopsy/resection)", "Blood analysis", "Urine microscopy"],
+    "answer": "Tissues from living patients (biopsy/resection)",
+    "explanation": "Bulk of pathologist workload; paraffin/frozen sections.[file:1]"
+  },
+  {
+    "question": "Rapid intraoperative diagnosis uses:",
+    "options": ["Paraffin sections", "Frozen sections", "Electron microscopy", "Immunohistochemistry"],
+    "answer": "Frozen sections",
+    "explanation": "Julius Cohnheim (Virchow's student); minutes vs days for paraffin.[file:1]"
+  },
+  {
+    "question": "Telepathology 'sender bias' occurs in:",
+    "options": ["Dynamic robotic systems", "Static store-and-forward systems", "Virtual slide scanners", "All systems"],
+    "answer": "Static store-and-forward systems",
+    "explanation": "Pathologist selects which images to send (bias).[file:1]"
+  },
+  {
+    "question": "Human Genome Project completed:",
+    "options": ["1993", "2003", "2013", "2023"],
+    "answer": "2003",
+    "explanation": "50th anniversary of Watson-Crick DNA structure; ~3 billion base pairs, ~30,000 genes.[file:1]"
+  },
+  {
+    "question": "Molecular pathology techniques include:",
+    "options": ["ISH and PCR", "Only light microscopy", "Gross examination", "Frozen sections"],
+    "answer": "ISH and PCR",
+    "explanation": "In situ hybridization + polymerase chain reaction for DNA/RNA analysis.[file:1]"
+  },
+  {
+    "question": "Hippocrates is credited with:",
+    "options": ["Cellular theory", "Separating medicine from religion/magic", "Blood groups", "PCR"],
+    "answer": "Separating medicine from religion/magic",
+    "explanation": "Father of Medicine (460-370 BC); Hippocratic oath origin.[file:1]"
+  },
+  {
+    "question": "The saying 'the dead teach the living' refers to:",
+    "options": ["Biopsy pathology", "Experimental pathology", "Forensic/autopsy pathology", "Cytopathology"],
+    "answer": "Forensic/autopsy pathology",
+    "explanation": "Postmortem examination teaches clinicians about disease course.[file:1]"
+  },
+  {
+    "question": "Paul Ehrlich is father of:",
+    "options": ["Cellular pathology", "Clinical pathology", "Gross pathology", "Molecular pathology"],
+    "answer": "Clinical pathology",
+    "explanation": "German physician (1854-1915); Nobel immunology; staining techniques.[file:1]"
+  },
+  {
+    "question": "John Hunter established the first:",
+    "options": ["Biopsy service", "Pathology museum", "Blood bank", "PCR lab"],
+    "answer": "Pathology museum",
+    "explanation": "Hunterian Museum, Royal College of Surgeons (comparative anatomy/pathology).[file:1]"
+  },
+  {
+    "question": "Which describes Virchow's triad (embolism)?",
+    "options": ["Endothelial damage only", "Blood flow changes + vessel wall + blood changes", "Infection + inflammation", "Genetic mutations"],
+    "answer": "Blood flow changes + vessel wall + blood changes",
+    "explanation": "Classic thrombosis risk factors.[file:1]"
+  },
+  {
+    "question": "Modern pathology milestone - DNA structure discovered:",
+    "options": ["1903", "1953", "1973", "1993"],
+    "answer": "1953",
+    "explanation": "Watson and Crick; foundation for molecular pathology.[file:1]"
+  },
+  {
+    "question": "Primary role of pathologist:",
+    "options": ["Surgery", "Final disease diagnosis", "Drug prescription", "Patient examination"],
+    "answer": "Final disease diagnosis",
+    "explanation": "Via morphology reports; guides treatment/prevention.[file:1]"
+  }
+
+
+  ]
+}

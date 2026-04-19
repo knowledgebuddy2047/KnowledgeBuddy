@@ -1,0 +1,218 @@
+{
+  "quiz": [
+
+    {
+    "type": "mcq_single",
+    "question": "Which of the following host-organism relationships is defined as a cooperative association that is beneficial to both dissimilar organisms?",
+    "options": [
+      "Commensalism",
+      "True Parasitism",
+      "Symbiosis",
+      "Saprophytism"
+    ],
+    "answer": "Symbiosis",
+    "explanation": "Symbiosis is a cooperative association between two dissimilar organisms that is beneficial to both [1]. Commensalism benefits one without harming the other, while true parasitism benefits the parasite at the host's expense [1]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following special stains are correctly matched with the organisms they are used to identify?",
+    "options": [
+      "Ziehl-Neelsen (ZN) for Mycobacteria",
+      "Periodic acid-Schiff (PAS) for Amoebae",
+      "Mucicarmine for Cryptococci",
+      "Gomori methenamine silver (GMS) for most fungi"
+    ],
+    "answer": [
+      "Ziehl-Neelsen (ZN) for Mycobacteria",
+      "Periodic acid-Schiff (PAS) for Amoebae",
+      "Mucicarmine for Cryptococci",
+      "Gomori methenamine silver (GMS) for most fungi"
+    ],
+    "explanation": "ZN stain is used for Acid-fast bacilli like Mycobacteria [2]. PAS and Silver stains (GMS) are used for most fungi, while PAS specifically highlights Amoebae [2]. Mucicarmine is used specifically for Cryptococci [2]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Prions are considered unique infectious agents compared to bacteria and viruses.",
+    "reason": "Prions are transmissible agents that lack nucleic acids.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "Prions are modified infectious host proteins present in the mammalian CNS that act as transmissible agents but, unlike other microbes, they lack nucleic acids [1]. They are implicated in diseases like Creutzfeldt-Jakob disease [1, 3]."
+  },
+  {
+    "type": "match_columns",
+    "question": "Match the bacterial products with their respective organisms:",
+    "left": [
+      "Hyaluronidase",
+      "Streptokinase",
+      "Tetanospasmin",
+      "Alpha toxin (Lecithinase)"
+    ],
+    "right": [
+      "Cl. welchii (C. perfringens)",
+      "Streptococci",
+      "C. tetani",
+      "C. perfringens Type A"
+    ],
+    "answer": {
+      "Hyaluronidase": "Cl. welchii (C. perfringens)",
+      "Streptokinase": "Streptococci",
+      "Tetanospasmin": "C. tetani",
+      "Alpha toxin (Lecithinase)": "C. perfringens Type A"
+    },
+    "explanation": "Hyaluronidase is produced by Cl. welchii to help spread infection, while streptokinase is produced by streptococci [4]. Tetanospasmin is the neurotoxic exotoxin of C. tetani, and alpha toxin is the primary myotoxin of C. perfringens [5, 6]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "A clinician assumes a patient with high fever and respiratory distress in an endemic area has common pneumonia, neglecting to ask about their occupation in a textile mill handling animal hides. What diagnosis are they most likely missing?",
+    "options": [
+      "Bubonic Plague",
+      "Wool-sorters' disease",
+      "Whooping Cough",
+      "Oral Thrush"
+    ],
+    "answer": "Wool-sorters' disease",
+    "explanation": "Wool-sorters' disease is the pulmonary form of Anthrax caused by inhaling spores of B. anthracis, often from animal products like hides [7, 8]. This form is invariably fatal if not recognized immediately [8]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Pneumonic plague is considered the most dreaded form of Yersinia pestis infection.",
+    "reason": "It has a 100% death rate and can be transmitted person-to-person via airborne particles.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "Pneumonic plague occurs via inhalation and is characterized by intense hyperemia and hemorrhages [2, 9]. It is always fatal with a 100% death rate and is highly contagious through coughing [9, 10]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "CASE: A 3-year-old child presents with paroxysms of coughing followed by a high-pitched 'whoop'. The peripheral blood film shows a 90% lymphocyte count. Which organism is responsible?",
+    "options": [
+      "Streptococcus pneumoniae",
+      "Bordetella pertussis",
+      "Corynebacterium diphtheriae",
+      "Haemophilus influenzae"
+    ],
+    "answer": "Bordetella pertussis",
+    "explanation": "Bordetella pertussis causes whooping cough, which is characterized by a catarrhal stage followed by paroxysmal coughs with a 'whoop' [11]. A distinctive laboratory feature is marked peripheral blood lymphocytosis up to 90% [12]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "DECISION UNDER PRESSURE: A patient presents with a rapidly progressing 'malignant pustule' on the hand and signs of early septicaemia. What is the most urgent decontamination step for the clinical environment?",
+    "options": [
+      "Standard soap and water cleaning",
+      "70% Ethanol spray",
+      "5% Hypochlorite or 5% Phenol",
+      "Simple ventilation"
+    ],
+    "answer": "5% Hypochlorite or 5% Phenol",
+    "explanation": "Anthrax-contaminated work surfaces and equipment must be decontaminated specifically with 5% hypochlorite or 5% phenol to ensure the resistant spores are destroyed [13]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following are classic features of the syndrome produced by the TORCH complex in a neonate?",
+    "options": [
+      "Ocular defects",
+      "Sensori-neural deafness",
+      "Cardiac defects",
+      "Hepatospenomegaly"
+    ],
+    "answer": [
+      "Ocular defects",
+      "Sensori-neural deafness",
+      "Cardiac defects",
+      "Hepatospenomegaly"
+    ],
+    "explanation": "The TORCH complex (Toxoplasma, Rubella, CMV, HSV, and others) causes irreparable fetal damage [14]. Classic features include ocular and cardiac defects, CNS manifestations, deafness, and hepatosplenomegaly [15]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which species of Plasmodium is considered most virulent due to its ability to infect red cells of any age and make them 'sticky'?",
+    "options": [
+      "P. vivax",
+      "P. ovale",
+      "P. falciparum",
+      "P. malariae"
+    ],
+    "answer": "P. falciparum",
+    "explanation": "P. falciparum is exceptionally virulent because it lacks an exo-erythrocytic stage, parasitizes erythrocytes of any age, and makes parasitized cells sticky, leading to capillary obstruction [16]."
+  },
+  {
+    "type": "match_columns",
+    "question": "Match the diagnostic morphological feature with the disease:",
+    "left": [
+      "Flask-shaped ulcer",
+      "Negri bodies",
+      "Donovan bodies",
+      "Stellate-shaped abscesses"
+    ],
+    "right": [
+      "Amoebic Colitis",
+      "Rabies",
+      "Donovanosis",
+      "Lymphogranuloma Venereum (LGV)"
+    ],
+    "answer": {
+      "Flask-shaped ulcer": "Amoebic Colitis",
+      "Negri bodies": "Rabies",
+      "Donovan bodies": "Donovanosis",
+      "Stellate-shaped abscesses": "Lymphogranuloma Venereum (LGV)"
+    },
+    "explanation": "Amoebic colitis features characteristic flask-shaped ulcers [17]. Negri bodies are pathognomonic for Rabies [18]. Donovan bodies are seen in histiocytes in Donovanosis, and LGV is characterized by stellate-shaped abscesses in lymph nodes [19, 20]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "A patient presents with symmetric paralysis of cranial nerves and limbs 24 hours after consuming improperly canned vegetables. What is the mechanism of the toxin involved?",
+    "options": [
+      "Stimulation of neuronal spasms",
+      "Inhibition of acetylcholine release",
+      "Lysis of bacterial cell walls",
+      "Inhibition of phagosome-lysosome fusion"
+    ],
+    "answer": "Inhibition of acetylcholine release",
+    "explanation": "Botulism toxin binds to membrane receptors at cholinergic nerve endings and inhibits the release of acetylcholine, resulting in symmetric paralysis and respiratory failure [21]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "In endemic regions, a fever should always be treated as malaria until proven otherwise, but this approach can lead to diagnostic errors.",
+    "reason": "Availability bias may lead clinicians to overlook other serious conditions like Typhoid or Dengue Haemorrhagic Fever.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "Clinicians in endemic areas often face availability bias where they over-diagnose common diseases like malaria while potentially missing other acute febrile illnesses like Dengue or Typhoid [22, 23]. Structured differential diagnosis is required to avoid this pitfall [24, 25]. (Note: The specific term 'availability bias' is a clinical reasoning concept used to interpret the trends described in sources 3, 62, and 64)."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "To effectively manage and stop the spread of an infection, which links in the 'Chain of Transmission' can be targeted?",
+    "options": [
+      "Reservoir of pathogen",
+      "Route of infection",
+      "Mode of transmission",
+      "Susceptibility of the host"
+    ],
+    "answer": [
+      "Reservoir of pathogen",
+      "Route of infection",
+      "Mode of transmission",
+      "Susceptibility of the host"
+    ],
+    "explanation": "The key to management lies in breaking or blocking the chain of transmission, which involves addressing the reservoir, route, mode of spread, and the host's susceptibility [24]."
+  }
+
+
+  ]
+}

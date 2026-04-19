@@ -1,0 +1,749 @@
+{
+  "quiz":
+
+[
+  {
+    "type": "mcq_single",
+    "question": "Which specific unit of the breast is responsible for the main secretory function during lactation?",
+    "options": [
+      "Lactiferous sinus",
+      "Terminal duct-lobular unit (TDLU)",
+      "Interlobular stroma",
+      "Large duct system"
+    ],
+    "answer": "Terminal duct-lobular unit (TDLU)",
+    "explanation": "The TDLU performs the main secretory function during lactation, while the large duct system handles collection and drainage [1, 2]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following markers are characteristic of the breast's myoepithelial lining?",
+    "options": [
+      "Epithelial membrane antigen (EMA)",
+      "Smooth muscle actin (SMA)",
+      "S-100",
+      "Lactalbumin"
+    ],
+    "answer": [
+      "Smooth muscle actin (SMA)",
+      "S-100"
+    ],
+    "explanation": "The outer supporting myoepithelial lining stains positive for SMA and S-100, whereas the inner epithelium is EMA and lactalbumin positive [2]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Acute mastitis occurs most frequently during the first few weeks of lactation.",
+    "reason": "Cracks and fissures in the nipple provide an entry point for staphylococci and streptococci.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "Acute pyogenic infection is common in early lactation because bacteria gain entry through nipple fissures [3]."
+  },
+  {
+    "type": "match_columns",
+    "question": "Match the inflammatory condition with its clinical or histological hallmark:",
+    "left": [
+      "Mammary duct ectasia",
+      "Traumatic fat necrosis",
+      "Tuberculous mastitis",
+      "Galactocele"
+    ],
+    "right": [
+      "Plasma cell mastitis",
+      "Foamy histiocytes and lipid spaces",
+      "Caseating tubercles",
+      "Thin-walled cyst with milky fluid"
+    ],
+    "answer": {
+      "Mammary duct ectasia": "Plasma cell mastitis",
+      "Traumatic fat necrosis": "Foamy histiocytes and lipid spaces",
+      "Tuberculous mastitis": "Caseating tubercles",
+      "Galactocele": "Thin-walled cyst with milky fluid"
+    },
+    "explanation": "Each condition has specific diagnostic features: duct ectasia is characterized by plasma cells, fat necrosis by foamy cells/trauma, TB by caseation, and galactocele by milk obstruction [4-7]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "A 'blue-dome cyst' is a characteristic gross finding of which condition?",
+    "options": [
+      "Fibroadenoma",
+      "Simple fibrocystic change",
+      "Medullary carcinoma",
+      "Intraductal papilloma"
+    ],
+    "answer": "Simple fibrocystic change",
+    "explanation": "In nonproliferative fibrocystic change, large rounded cysts often appear translucent with a bluish color, known as blue-dome cysts [8]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Within the spectrum of fibrocystic changes, which histological finding carries the highest risk (4 to 5 times) for developing invasive breast cancer?",
+    "options": [
+      "Apocrine metaplasia",
+      "Sclerosing adenosis",
+      "Atypical hyperplasia",
+      "Simple cyst formation"
+    ],
+    "answer": "Atypical hyperplasia",
+    "explanation": "Atypical hyperplasia (ductal or lobular) carries a 4 to 5 times increased risk for invasive cancer, which is higher than general proliferative changes [9]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "What are the common causes of gynaecomastia (hypertrophy of the male breast)?",
+    "options": [
+      "Hepatic cirrhosis",
+      "Testicular tumours",
+      "Klinefelter’s syndrome",
+      "Androgen therapy"
+    ],
+    "answer": [
+      "Hepatic cirrhosis",
+      "Testicular tumours",
+      "Klinefelter’s syndrome"
+    ],
+    "explanation": "Gynaecomastia is caused by estrogen excess or decreased androgen activity, seen in cirrhosis, testicular tumors, and Klinefelter’s [10]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Fibroadenoma is commonly referred to as a 'breast mouse'.",
+    "reason": "The tumor is well-encapsulated and moves freely within the breast tissue.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "Fibroadenomas are characterized clinically as solitary, discrete, and freely mobile nodules [11]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which histological pattern of fibroadenoma involves stroma compressing the ducts into slit-like clefts?",
+    "options": [
+      "Pericanalicular pattern",
+      "Intracanalicular pattern",
+      "Tubular adenoma",
+      "Lactating adenoma"
+    ],
+    "answer": "Intracanalicular pattern",
+    "explanation": "The intracanalicular pattern is defined by stroma compressing ducts into slit-like clefts or cords [12, 13]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "How is a Phyllodes tumour distinguished histologically from a giant fibroadenoma?",
+    "options": [
+      "Presence of lactation",
+      "Presence of apocrine metaplasia",
+      "More cellular connective tissue stroma",
+      "Presence of lactiferous sinuses"
+    ],
+    "answer": "More cellular connective tissue stroma",
+    "explanation": "Phyllodes tumours are distinguished from fibroadenomas by their extremely hypercellular stroma and leaf-like appearance [14, 15]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which benign tumor is the most common cause of serous or serosanguineous nipple discharge?",
+    "options": [
+      "Fibroadenoma",
+      "Mammary duct ectasia",
+      "Intraductal papilloma",
+      "Galactocele"
+    ],
+    "answer": "Intraductal papilloma",
+    "explanation": "Intraductal papilloma, usually located in a major lactiferous duct near the nipple, characteristically produces serous or serosanguineous discharge [16]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "The 'triple technique' for early diagnosis of breast cancer includes which of the following?",
+    "options": [
+      "Palpation",
+      "Mammography",
+      "Fine needle aspiration cytology (FNAC)",
+      "Frozen section"
+    ],
+    "answer": [
+      "Palpation",
+      "Mammography",
+      "Fine needle aspiration cytology (FNAC)"
+    ],
+    "explanation": "The current standard for early diagnosis is the triple technique of palpation, mammography, and FNAC [17]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Lactation and breastfeeding are associated with a decreased risk of breast cancer.",
+    "reason": "They reduce the total length of the menstrual life and lower cumulative estrogen exposure.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "Obstetric factors like breastfeeding and early childbirth are protective against breast cancer due to hormonal changes [18]."
+  },
+  {
+    "type": "match_columns",
+    "question": "Match the genetic mutation with its clinical association:",
+    "left": [
+      "BRCA1",
+      "BRCA2",
+      "p53",
+      "HER2/neu"
+    ],
+    "right": [
+      "Chromosome 17; Breast/Ovarian cancer",
+      "Chromosome 13; Male breast cancer risk",
+      "40% of sporadic breast cancers",
+      "Tyrosine kinase activity; Herceptin response"
+    ],
+    "answer": {
+      "BRCA1": "Chromosome 17; Breast/Ovarian cancer",
+      "BRCA2": "Chromosome 13; Male breast cancer risk",
+      "p53": "40% of sporadic breast cancers",
+      "HER2/neu": "Tyrosine kinase activity; Herceptin response"
+    },
+    "explanation": "BRCA1 is on ch. 17, BRCA2 on ch. 13 (mutations also seen in males), p53 is often sporadic, and HER2/neu predicts Herceptin response [19-21]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which quadrant of the breast is the most common site for carcinoma?",
+    "options": [
+      "Lower outer quadrant",
+      "Upper inner quadrant",
+      "Upper outer quadrant",
+      "Central portion"
+    ],
+    "answer": "Upper outer quadrant",
+    "explanation": "The upper outer quadrant is the site of half (50%) of all breast cancers [22, 23]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which pattern of Ductal Carcinoma In Situ (DCIS) is characterized by centrally placed necrotic debris?",
+    "options": [
+      "Solid pattern",
+      "Comedo pattern",
+      "Cribriform pattern",
+      "Papillary pattern"
+    ],
+    "answer": "Comedo pattern",
+    "explanation": "The comedo pattern features central necrotic debris (cheesy material) surrounded by neoplastic cells [24]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Lobular Carcinoma In Situ (LCIS) has a higher risk of developing contralateral breast cancer compared to DCIS.",
+    "reason": "LCIS is frequently multicentric and bilateral.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "LCIS carries a 30% risk of contralateral cancer, which is significantly higher than DCIS [25, 26]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which type of invasive breast cancer accounts for approximately 80% of all cases?",
+    "options": [
+      "Invasive lobular carcinoma",
+      "Medullary carcinoma",
+      "Infiltrating duct carcinoma-NOS",
+      "Tubular carcinoma"
+    ],
+    "answer": "Infiltrating duct carcinoma-NOS",
+    "explanation": "Infiltrating duct carcinoma-NOS (not otherwise specified) is the classic and most common histologic pattern, accounting for 80% of cases [27]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "The term 'scirrhous carcinoma' refers to which clinical/gross feature of breast cancer?",
+    "options": [
+      "Soft, fleshy consistency",
+      "Hard consistency due to dense collagenous stroma",
+      "Presence of large lakes of mucin",
+      "Extensive dermal lymphatic invasion"
+    ],
+    "answer": "Hard consistency due to dense collagenous stroma",
+    "explanation": "The scirrhous pattern has a hard, gritty consistency caused by dense collagenous stroma [27, 28]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which histologic pattern is described as having an 'Indian file' arrangement of tumor cells?",
+    "options": [
+      "Infiltrating duct carcinoma-NOS",
+      "Invasive lobular carcinoma",
+      "Medullary carcinoma",
+      "Adenoid cystic carcinoma"
+    ],
+    "answer": "Invasive lobular carcinoma",
+    "explanation": "Invasive lobular carcinoma is characterized by a single file (Indian file) linear arrangement of tumor cells infiltrating the stroma [29, 30]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following histologic types are associated with a more favorable prognosis compared to IDC-NOS?",
+    "options": [
+      "Tubular carcinoma",
+      "Medullary carcinoma",
+      "Colloid (mucinous) carcinoma",
+      "Inflammatory carcinoma"
+    ],
+    "answer": [
+      "Tubular carcinoma",
+      "Medullary carcinoma",
+      "Colloid (mucinous) carcinoma"
+    ],
+    "explanation": "Tubular, medullary, and colloid carcinomas have better prognoses than the usual infiltrating duct carcinoma [31-33]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Medullary carcinoma has a better prognosis despite its highly anaplastic cellular appearance.",
+    "reason": "It is associated with a prominent lymphoid infiltrate in the tumor stroma, suggesting a good host immune response.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "The lymphoid response in medullary carcinoma is a key reason for its relatively favorable clinical course [32]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Inflammatory carcinoma of the breast is characterized by which of the following?",
+    "options": [
+      "PAS-positive clear spaces",
+      "Abundant extracellular mucin",
+      "Extensive invasion of dermal lymphatics",
+      "Cribriform islands of cells"
+    ],
+    "answer": "Extensive invasion of dermal lymphatics",
+    "explanation": "Inflammatory carcinoma is a clinical entity associated with extensive dermal lymphatic invasion and a dismal prognosis [34]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Paget's disease of the nipple is characteristically associated with which of the following?",
+    "options": [
+      "Traumatic fat necrosis",
+      "Underlying invasive or non-invasive ductal carcinoma",
+      "Silicone implant rupture",
+      "Pubertal gynaecomastia"
+    ],
+    "answer": "Underlying invasive or non-invasive ductal carcinoma",
+    "explanation": "Paget's disease presents as an eczematoid lesion of the nipple, almost always associated with underlying carcinoma [35, 36]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "The Nottingham modification of the Bloom-Richardson system for grading breast cancer uses which three parameters?",
+    "options": [
+      "Tubule formation",
+      "Nuclear pleomorphism",
+      "Mitotic count",
+      "Tumour size"
+    ],
+    "answer": [
+      "Tubule formation",
+      "Nuclear pleomorphism",
+      "Mitotic count"
+    ],
+    "explanation": "Grading is based on tubule formation, nuclear pleomorphism, and mitotic count, each scored 1-3 [37, 38]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "The 'sentinel node' stands as a critical prognostic indicator.",
+    "reason": "It is the first lymph node to receive drainage from the primary cancer.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "Identification and dissection of the sentinel node help determine the extent of axillary spread [39]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "A patient with a breast tumor showing high levels of ER and PR receptors likely has:",
+    "options": [
+      "A worse prognosis and poor response to hormone therapy",
+      "A slightly better prognosis and better response to anti-estrogen therapy",
+      "An automatic classification of Stage IV",
+      "Metastatic medullary carcinoma"
+    ],
+    "answer": "A slightly better prognosis and better response to anti-estrogen therapy",
+    "explanation": "Receptor-positive tumors respond better to adjuvant/endocrine therapy and generally have a slightly better prognosis [20, 40]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the TNM stage for a breast tumor that is 1.5 cm in diameter with no nodal spread?",
+    "options": [
+      "Stage TIS",
+      "Stage I",
+      "Stage II",
+      "Stage III A"
+    ],
+    "answer": "Stage I",
+    "explanation": "Stage I is defined as a tumor 2 cm or less in diameter with no nodal spread [41]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Critical Thinking: A clinician assumes a hard, palpable lump in the subareolar area of an older woman is carcinoma. However, there is nipple retraction and cheesy discharge. Which benign condition is the most likely 'mimic' here?",
+    "options": [
+      "Fibroadenoma",
+      "Mammary duct ectasia",
+      "Acute mastitis",
+      "Gynaecomastia"
+    ],
+    "answer": "Mammary duct ectasia",
+    "explanation": "Mammary duct ectasia can present as a subareolar mass with nipple retraction, clinically mimicking carcinoma [5, 42]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Reflective Analysis: Why might Tuberculous mastitis be misdiagnosed as cancer in countries like India?",
+    "options": [
+      "Presence of a palpable mass",
+      "Axillary nodal involvement",
+      "Hard scirrhous consistency",
+      "Skin retraction"
+    ],
+    "answer": [
+      "Presence of a palpable mass",
+      "Axillary nodal involvement"
+    ],
+    "explanation": "TB can present with a lump and axillary nodes, leading to clinical suspicion of cancer [4]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Case Study: A 22-year-old female presents with a 2 cm, spherical, firm, and 'slippery' breast lump. What is the most probable diagnosis?",
+    "options": [
+      "Phyllodes tumour",
+      "Fibroadenoma",
+      "IDC-NOS",
+      "Fat necrosis"
+    ],
+    "answer": "Fibroadenoma",
+    "explanation": "In a young woman, a freely mobile, firm lump is classic for fibroadenoma [11]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Decision Making: A 65-year-old woman presents with eczematoid crusting of the nipple but no palpable lump. What is the next essential step?",
+    "options": [
+      "Provide anti-fungal cream and follow up in 2 months",
+      "Perform a biopsy to rule out underlying DCIS",
+      "Simple mastectomy",
+      "Immediate chemotherapy"
+    ],
+    "answer": "Perform a biopsy to rule out underlying DCIS",
+    "explanation": "In Paget's disease without a lump, underlying intraductal carcinoma is usually found; a biopsy is critical [35]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Bias Recognition: Attributing a breast lump solely to 'trauma' in an obese woman might lead to which clinical pitfall?",
+    "options": [
+      "Missing a diagnosis of galactocele",
+      "Overlooking an underlying malignancy masked as fat necrosis",
+      "Unnecessarily treating for acute mastitis",
+      "Ignoring a BRCA1 mutation"
+    ],
+    "answer": "Overlooking an underlying malignancy masked as fat necrosis",
+    "explanation": "While fat necrosis is initiated by trauma, it can clinically mimic cancer, and the reverse is also true; a malignancy should not be ignored due to recent trauma [6]."
+  },
+  {
+    "type": "match_columns",
+    "question": "Match the variant of fibroadenoma with its clinical setting:",
+    "left": [
+      "Tubular adenoma",
+      "Lactating adenoma",
+      "Juvenile fibroadenoma",
+      "Fibroadenomatosis"
+    ],
+    "right": [
+      "Predominantly ductular proliferation",
+      "Pregnancy or lactation",
+      " Adolescent girls; rapid growth",
+      "Multiple fibroadenomas in fibrocystic disease"
+    ],
+    "answer": {
+      "Tubular adenoma": "Predominantly ductular proliferation",
+      "Lactating adenoma": "Pregnancy or lactation",
+      "Juvenile fibroadenoma": " Adolescent girls; rapid growth",
+      "Fibroadenomatosis": "Multiple fibroadenomas in fibrocystic disease"
+    },
+    "explanation": "These are common morphological variants with specific clinical contexts [12, 13]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "University Level: In AJC staging, Stage IIIB is distinguished from Stage IIIA primarily by:",
+    "options": [
+      "Tumour size being greater than 5 cm",
+      "Involvement of supraclavicular and infraclavicular lymph nodes",
+      "Distant metastasis to liver or lungs",
+      "Bilateral breast involvement"
+    ],
+    "answer": "Involvement of supraclavicular and infraclavicular lymph nodes",
+    "explanation": "Stage IIIB involves supraclavicular and infraclavicular nodes, whereas IIIA involves regional nodes on the same side [41]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which molecular subtype of breast cancer, based on microarray gene profiling, is associated with the worst prognosis?",
+    "options": [
+      "Luminal type A",
+      "HER2/neu type",
+      "Basal-like type",
+      "Normal breast-like type"
+    ],
+    "answer": "Basal-like type",
+    "explanation": "Among the molecular classifications, the basal-like type has the worst prognosis [43]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "The stromal tissue of the breast is located in both intralobular and interlobular areas.",
+    "reason": "Intralobular stroma separates one lobule from the other and is composed mainly of adipose tissue.",
+    "options": [
+      "Assertion is true, Reason is false",
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Assertion is true, Reason is false",
+    "explanation": "Intralobular stroma encloses the lobule; it is the *interlobular* stroma that separates lobules and contains adipose tissue [44]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following are histologic grades of breast cancer based on metastatic potential?",
+    "options": [
+      "Non-metastasising (e.g., In situ)",
+      "Less commonly metastasising (e.g., Medullary, Tubular)",
+      "Commonly metastasising (e.g., IDC, ILC)",
+      "Always metastasising (e.g., Stage IV)"
+    ],
+    "answer": [
+      "Non-metastasising (e.g., In situ)",
+      "Less commonly metastasising (e.g., Medullary, Tubular)",
+      "Commonly metastasising (e.g., IDC, ILC)"
+    ],
+    "explanation": "Histologic grading by type categorizes them into non-metastasising, less commonly, and commonly metastasising groups [37, 45]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "A 'grating sound' during cutting of a breast tumor gross specimen is characteristic of:",
+    "options": [
+      "Colloid carcinoma",
+      "Infiltrating duct carcinoma-NOS",
+      "Medullary carcinoma",
+      "Galactocele"
+    ],
+    "answer": "Infiltrating duct carcinoma-NOS",
+    "explanation": "IDC-NOS typically presents as a hard mass that cuts with a grating sound due to calcification or dense stroma [28]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which hormone is mainly responsible for the development of gynaecomastia?",
+    "options": [
+      "Progesterone",
+      "Oestrogen",
+      "Prolactin",
+      "Testosterone"
+    ],
+    "answer": "Oestrogen",
+    "explanation": "Gynaecomastia occurs in response to hormonal stimulation, primarily oestrogen [9]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What does the presence of 'chalky streaks' on the cut surface of a breast mass usually suggest?",
+    "options": [
+      "Acute mastitis",
+      "Infiltrating duct carcinoma",
+      "Fat necrosis",
+      "Galactocele"
+    ],
+    "answer": "Infiltrating duct carcinoma",
+    "explanation": "Chalky streaks on the grey-white sectioned surface are a common gross feature of IDC-NOS [28]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Sclerosing adenosis can simulate infiltrating carcinoma both clinically and pathologically.",
+    "reason": "It can form an isolated palpable mass with hard cartilage-like consistency.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "Sclerosing adenosis is a 'mimic' due to its grittiness and mass-forming nature [46, 47]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which form of non-invasive carcinoma is generally neither palpable nor grossly visible?",
+    "options": [
+      "Intraductal carcinoma (Comedo type)",
+      "Intraductal carcinoma (Papillary type)",
+      "Lobular carcinoma in situ",
+      "Paget’s disease of the nipple"
+    ],
+    "answer": "Lobular carcinoma in situ",
+    "explanation": "LCIS is characteristically not a palpable or grossly visible tumor [26]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following are considered 'biological indicators' for prognosis in invasive breast cancer?",
+    "options": [
+      "Mitotic index (Ki67)",
+      "DNA ploidy",
+      "Angiogenesis (VEGF)",
+      "Tumour size"
+    ],
+    "answer": [
+      "Mitotic index (Ki67)",
+      "DNA ploidy",
+      "Angiogenesis (VEGF)"
+    ],
+    "explanation": "Biological indicators include mitotic index, DNA content, and angiogenesis markers [40, 48]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "USMLE Pattern: A woman with a history of breast cancer in her mother and sister presents with a new bilateral breast lesion. Which gene mutation is most likely?",
+    "options": [
+      "p53",
+      "BRCA1",
+      "PTEN",
+      "RB1"
+    ],
+    "answer": "BRCA1",
+    "explanation": "BRCA1 is the most important gene in inherited cases, especially with family history and bilateral involvement [19]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Decision-making under pressure: A surgeon performing a breast-conserving surgery receives a frozen section report of 'positive margins' for DCIS. What is the immediate required action?",
+    "options": [
+      "Close the wound and plan for radiotherapy",
+      "Perform wider excision to achieve clear margins",
+      "Immediately proceed to radical mastectomy",
+      "Abort the procedure"
+    ],
+    "answer": "Perform wider excision to achieve clear margins",
+    "explanation": "Conservative therapy for DCIS requires consideration of margins; positive margins require wider re-excision to prevent recurrence [48]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the protein product of HER2/neu?",
+    "options": [
+      "A nuclear transcription factor",
+      "A transmembrane protein with tyrosine kinase activity",
+      "A DNA repair enzyme",
+      "A mucin protein"
+    ],
+    "answer": "A transmembrane protein with tyrosine kinase activity",
+    "explanation": "HER2/neu is a transmembrane protein member of the epidermal growth factor family with tyrosine kinase activity [20, 21]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which parameters are used to subdivide infiltrating duct carcinoma into Nottingham grades?",
+    "options": [
+      "Tubule formation",
+      "Nuclear pleomorphism",
+      "Mitotic count",
+      "Lymph node level"
+    ],
+    "answer": [
+      "Tubule formation",
+      "Nuclear pleomorphism",
+      "Mitotic count"
+    ],
+    "explanation": "The score is a range of 3-9 based on tubule formation (1-3), nuclear regularity (1-3), and mitoses (1-3) [38]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "A patient with 'encephaloid carcinoma' has a tumor that is grossly:",
+    "options": [
+      "Hard and gritty",
+      "Soft and fleshy (brain-like)",
+      "Gelatinous and translucent",
+      "Cystic with milky fluid"
+    ],
+    "answer": "Soft and fleshy (brain-like)",
+    "explanation": "Encephaloid carcinoma is an alternative name for medullary carcinoma because it is typically soft and brain-like [32]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Aneuploid DNA content in tumor cells is a favorable prognostic sign.",
+    "reason": "Diploid tumors have a higher mitotic count than aneuploid tumors.",
+    "options": [
+      "Both Assertion and Reason are false",
+      "Both Assertion and Reason are true",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true"
+    ],
+    "answer": "Both Assertion and Reason are false",
+    "explanation": "Aneuploid DNA content is associated with a *worse* prognosis, and diploid tumors are generally more favorable [21]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Problem-Solving: How can one distinguish an intraductal papillary carcinoma from a benign intraductal papilloma histologically?",
+    "options": [
+      "Size of the lesion",
+      "Absence of myoepithelial cells and presence of severe atypia",
+      "Presence of a fibrovascular stalk",
+      "Nipple discharge"
+    ],
+    "answer": "Absence of myoepithelial cells and presence of severe atypia",
+    "explanation": "The hallmark of malignancy in papillary lesions is severe atypia and the loss of the myoepithelial cell layer [17]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which condition involves 'inspissated secretions' in dilated ducts and can cause nipple retraction?",
+    "options": [
+      "Acute mastitis",
+      "Mammary duct ectasia",
+      "Galactocele",
+      "Paget's disease"
+    ],
+    "answer": "Mammary duct ectasia",
+    "explanation": "Mammary duct ectasia involves larger ducts filled with cheesy, inspissated secretions, often leading to nipple retraction [5, 42]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the primary significance of identifying a 'Sentinel node'?",
+    "options": [
+      "It is the only node that produces BRCA1",
+      "It allows for staging without full axillary dissection if the node is negative",
+      "It indicates Stage IV disease",
+      "It is the site of inflammatory carcinoma"
+    ],
+    "answer": "It allows for staging without full axillary dissection if the node is negative",
+    "explanation": "Dissecting the sentinel node provides immense prognostic value by determining if cancer has reached the axilla [39]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which tumor type is noted for having 'signet-ring cells' distended with mucin?",
+    "options": [
+      "Medullary carcinoma",
+      "Invasive lobular carcinoma",
+      "Fibroadenoma",
+      "Gynaecomastia"
+    ],
+    "answer": "Invasive lobular carcinoma",
+    "explanation": "Some invasive lobular carcinomas may show signet-ring cells distended with cytoplasmic mucin [29]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the clinical hallmark of Paget's disease of the nipple?",
+    "options": [
+      "A freely mobile 'breast mouse'",
+      "A blue-dome cyst",
+      "An eczematoid, scaly lesion of the nipple/areola",
+      "A milky discharge during pregnancy"
+    ],
+    "answer": "An eczematoid, scaly lesion of the nipple/areola",
+    "explanation": "Paget's disease presents as crusted, scaly, and eczematoid lesions on the skin of the nipple and areola [35, 36]."
+  }
+]
+}

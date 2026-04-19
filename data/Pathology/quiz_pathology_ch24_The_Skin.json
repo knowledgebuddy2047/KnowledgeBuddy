@@ -1,0 +1,410 @@
+{
+  "quiz":
+[
+  {
+    "type": "mcq_single",
+    "question": "Which layer of the epidermis is present exclusively in the palms and soles?",
+    "options": ["Stratum corneum", "Stratum lucidum", "Stratum granulosum", "Stratum spinosum"],
+    "answer": "Stratum lucidum",
+    "explanation": "The stratum lucidum is a thin homogeneous, eosinophilic, non-nucleate zone present exclusively in the palms and soles [1], [2]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following are specialized nerve endings found in the dermis and their correct functions?",
+    "options": ["Pacinian corpuscles - Pressure", "Meissner corpuscles - Touch", "Ruffini corpuscles - Cold", "Merkel cells - Heat"],
+    "answer": ["Pacinian corpuscles - Pressure", "Meissner corpuscles - Touch", "Ruffini corpuscles - Cold"],
+    "explanation": "Pacinian corpuscles are concerned with pressure [3]. Meissner corpuscles are touch receptors [3]. Ruffini corpuscles and end-bulbs of Krause are cold receptors [3]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Acanthosis refers to the thickening of the horny layer of the skin.",
+    "reason": "Hyperplasia of the stratum malpighii leads to an increased thickness of the epidermis.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Assertion is false, Reason is true",
+    "explanation": "Acanthosis is the thickening of the epidermis due to hyperplasia of the stratum malpighii [4]. Hyperkeratosis is the term for thickening of the horny layer [5]."
+  },
+  {
+    "type": "match_columns",
+    "question": "Match the histopathologic terms with their correct definitions:",
+    "left": ["Acantholysis", "Spongiosis", "Parakeratosis", "Dyskeratosis"],
+    "right": ["Intercellular oedema", "Loss of cohesion between epidermal cells", "Abnormal development of epidermal cells", "Nucleated keratinocytes in horny layer"],
+    "answer": {
+      "Acantholysis": "Loss of cohesion between epidermal cells",
+      "Spongiosis": "Intercellular oedema",
+      "Parakeratosis": "Nucleated keratinocytes in horny layer",
+      "Dyskeratosis": "Abnormal development of epidermal cells"
+    },
+    "explanation": "Acantholysis involves loss of cohesion [5]. Spongiosis is intercellular oedema [2]. Parakeratosis involves nucleated cells in the horny layer [5]. Dyskeratosis is abnormal cell development [5]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the characteristic histological feature of Ichthyosis vulgaris?",
+    "options": ["Thickened granular layer", "Absent or thin granular layer", "Intraepidermal vesicles", "Suprabasal clefts"],
+    "answer": "Absent or thin granular layer",
+    "explanation": "Ichthyosis vulgaris is histologically characterized by hyperkeratosis associated with a thin or absent granular layer [6]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which genetic dermatosis is characterized by 'corps ronds' and 'grains' in the granular layer?",
+    "options": ["Xeroderma pigmentosum", "Ichthyosis", "Darier's disease", "Urticaria pigmentosa"],
+    "answer": "Darier's disease",
+    "explanation": "Darier's disease features dyskeratosis resulting in 'corps ronds' and 'grains' [7]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which conditions are categorized as pre-malignant lesions of the epidermis?",
+    "options": ["Solar keratosis", "Seborrheic keratosis", "Bowen's disease", "Xeroderma pigmentosum"],
+    "answer": ["Solar keratosis", "Bowen's disease", "Xeroderma pigmentosum"],
+    "explanation": "Solar keratosis, Bowen's disease, and Xeroderma pigmentosum are listed as pre-malignant lesions [8], [9], [10], [11]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "In the context of dermatitis (eczema), what is the most characteristic histological feature of the acute phase?",
+    "options": ["Marked hyperkeratosis", "Considerable spongiosis", "Broadened dermal papillae", "Fibrosis"],
+    "answer": "Considerable spongiosis",
+    "explanation": "Acute dermatitis is characterized by considerable spongiosis (intercellular oedema) that may lead to intraepidermal vesicles [12]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Urticaria pigmentosa is characterized by an increase in dermal mast cells.",
+    "reason": "Urticaria (hives) involves mast cell degranulation but no increase in the number of dermal mast cells.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason does not explain Assertion",
+    "explanation": "Urticaria pigmentosa features numerous mast cells in the dermis [13]. Simple urticaria involves degranulation without an increase in cell count [14]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Obstruction of sweat ducts within the stratum corneum leads to which condition?",
+    "options": ["Miliaria rubra", "Miliaria crystallina", "Acne vulgaris", "Impetigo"],
+    "answer": "Miliaria crystallina",
+    "explanation": "Miliaria crystallina occurs when there is obstruction of the sweat duct within the stratum corneum [15]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following are clinical manifestations of Psoriasis?",
+    "options": ["Auspitz sign", "Wickham's striae", "Pitting of nails", "Psoriatic arthritis"],
+    "answer": ["Auspitz sign", "Pitting of nails", "Psoriatic arthritis"],
+    "explanation": "Psoriasis features the Auspitz sign, pitting of nails (25%), and psoriatic arthritis (5%) [16]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the pathognomonic histological feature of Psoriasis?",
+    "options": ["Saw-toothed rete ridges", "Munro microabscesses", "Koilocytosis", "Molluscum bodies"],
+    "answer": "Munro microabscesses",
+    "explanation": "The presence of Munro microabscesses in the parakeratotic horny layer is diagnostic of psoriasis [17]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which condition is characterized by 'saw-toothed' rete ridges and liquefactive degeneration of the basal layer?",
+    "options": ["Psoriasis", "Lichen planus", "Lupus erythematosus", "Dermatitis"],
+    "answer": "Lichen planus",
+    "explanation": "Lichen planus features irregular acanthosis with elongated saw-toothed rete ridges and liquefactive degeneration of the basal layer [18]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which types of pemphigus involve acantholysis as a common feature?",
+    "options": ["Pemphigus vulgaris", "Pemphigus vegetans", "Pemphigus foliaceous", "Bullous pemphigoid"],
+    "answer": ["Pemphigus vulgaris", "Pemphigus vegetans", "Pemphigus foliaceous"],
+    "explanation": "All variants of pemphigus (vulgaris, vegetans, foliaceous, erythematosus) have acantholysis as a common feature [19]. Pemphigoid is non-acantholytic [20]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Dermatitis herpetiformis is often associated with gluten-sensitive enteropathy.",
+    "reason": "Patients with dermatitis herpetiformis often respond to a gluten-free diet.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "Dermatitis herpetiformis has a known association with coeliac disease and responds to a gluten-free diet [21]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "The 'apple-jelly nodules' found on the nose are characteristic of which condition?",
+    "options": ["Cutaneous sarcoidosis", "Lupus vulgaris", "Granuloma annulare", "Leprosy"],
+    "answer": "Lupus vulgaris",
+    "explanation": "Lupus vulgaris, the prototype of skin tuberculosis, presents as yellowish-brown 'apple-jelly nodules' commonly on the nose [22]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the hallmark histological finding in Molluscum contagiosum?",
+    "options": ["Koilocytes", "Molluscum bodies", "Horn pearls", "Basaloid cells"],
+    "answer": "Molluscum bodies",
+    "explanation": "Molluscum contagiosum features pathognomonic intracytoplasmic eosinophilic inclusion bodies called molluscum bodies [23]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which HPV types are most commonly associated with Condyloma acuminatum (anogenital warts)?",
+    "options": ["HPV-1", "HPV-2", "HPV-6", "HPV-11"],
+    "answer": ["HPV-6", "HPV-11"],
+    "explanation": "Condyloma acuminatum is commonly caused by HPV-6 and HPV-11 [24], [25]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "A 60-year-old male presents with a slow-growing ulcer on his face with pearly, rolled margins. What is the most likely diagnosis?",
+    "options": ["Squamous cell carcinoma", "Basal cell carcinoma", "Malignant melanoma", "Seborrheic keratosis"],
+    "answer": "Basal cell carcinoma",
+    "explanation": "The clinical description of a slow-growing ulcer on the face with pearly, rolled margins is classic for a 'rodent ulcer' or basal cell carcinoma [26], [27]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Basal cell carcinoma is known as a 'rodent ulcer' because it rarely metastasises.",
+    "reason": "It behaves by destroying tissues locally through burrowing, similar to a rodent.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "BCC destroys tissue locally like a rodent and is slow-growing and rarely metastatic [26], [28]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which malignant skin tumor is characterized by 'horn pearls' in better-differentiated forms?",
+    "options": ["Basal cell carcinoma", "Squamous cell carcinoma", "Malignant melanoma", "Mycosis fungoides"],
+    "answer": "Squamous cell carcinoma",
+    "explanation": "Better-differentiated squamous cell carcinomas have whorled arrangement of cells forming horn pearls [29]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following are clinical features of Malignant Melanoma (ABCD acronym)?",
+    "options": ["Asymmetry", "Border irregularity", "Color change", "Diameter > 6mm"],
+    "answer": ["Asymmetry", "Border irregularity", "Color change", "Diameter > 6mm"],
+    "explanation": "The ABCD acronym for melanoma stands for Asymmetry, Border irregularity, Colour change, and Diameter > 6 mm [30], [31]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which type of malignant melanoma carries the worst prognosis?",
+    "options": ["Lentigo maligna melanoma", "Superficial spreading melanoma", "Nodular melanoma", "Acral lentiginous melanoma"],
+    "answer": "Nodular melanoma",
+    "explanation": "Nodular melanoma carries the worst prognosis among the clinical variants [32]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which immunohistochemical markers are helpful in the diagnosis of malignant melanoma?",
+    "options": ["HMB-45", "S-100", "CD4", "Melan-A"],
+    "answer": ["HMB-45", "S-100", "Melan-A"],
+    "explanation": "Melanoma cells are immunohistochemically positive for HMB-45, S-100, and Melan-A [33]. CD4 is a marker for T-cells as in mycosis fungoides [34]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Darier-Pautrier’s microabscesses are a characteristic feature of which condition?",
+    "options": ["Impetigo", "Psoriasis", "Mycosis fungoides", "Molluscum contagiosum"],
+    "answer": "Mycosis fungoides",
+    "explanation": "Mycosis fungoides features the formation of intraepidermal clusters of atypical lymphoid cells known as Darier-Pautrier’s microabscesses [34]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Mycosis fungoides is a common form of B-cell lymphoma in the skin.",
+    "reason": "Individual mycosis cells are malignant T lymphocytes expressing CD4 antigen.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Assertion is false, Reason is true",
+    "explanation": "Mycosis fungoides is a cutaneous T-cell lymphoma, not B-cell [35], [34]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the common term for a fibroepithelial polyp?",
+    "options": ["Skin tag", "Acrochordon", "Soft fibroma", "All of the above"],
+    "answer": "All of the above",
+    "explanation": "Fibroepithelial polyps are also known as skin tags, acrochordons, and soft fibromas [36]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which cyst contains appendages like hair follicles and sebaceous glands in its wall?",
+    "options": ["Epidermal cyst", "Pilar cyst", "Dermoid cyst", "Steatocystoma multiplex"],
+    "answer": "Dermoid cyst",
+    "explanation": "A dermoid cyst wall contains epidermis as well as adnexal structures like hair follicles and glands [37]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "The 'Auspitz sign' is used to clinically diagnose Lichen planus.",
+    "reason": "Gentle scraping of psoriasis scales reveals fine bleeding points.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Assertion is false, Reason is true",
+    "explanation": "The Auspitz sign is associated with psoriasis, not lichen planus [16]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which adnexal tumor is also known as a 'turban tumour'?",
+    "options": ["Trichoepithelioma", "Cylindroma", "Eccrine poroma", "Naevus sebaceus"],
+    "answer": "Cylindroma",
+    "explanation": "Cylindroma is often called a 'turban tumour' due to its common location on the scalp [38]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the characteristic histological arrangement of cells in Dermatofibrosarcoma protuberans?",
+    "options": ["Saw-toothed", "Indian file", "Storiform or cartwheel", "Palisade"],
+    "answer": "Storiform or cartwheel",
+    "explanation": "Dermatofibrosarcoma protuberans is composed of fibroblasts arranged in a storiform or cartwheel pattern [39], [40]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Critical Thinking: A clinician observes 'honey-colored crusts' on a child's face and suspects Impetigo. What would be the expected histological finding to confirm a pustule at this level?",
+    "options": ["Intra-dermal abscess", "Sub-corneal pustule", "Sub-epidermal bulla", "Supra-basal bulla"],
+    "answer": "Sub-corneal pustule",
+    "explanation": "Impetigo is characterized histologically by a subcorneal pustule, which is a collection of neutrophils under the stratum corneum [41]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Reflective Analysis: In distinguishing DLE from SLE on skin biopsy, why is direct immunofluorescence helpful?",
+    "options": ["It shows only in SLE", "It reveals IgG/IgM deposits on the basement membrane in both", "It detects LE cells in the tissue", "It identifies specific virus particles"],
+    "answer": "It reveals IgG/IgM deposits on the basement membrane in both",
+    "explanation": "Direct immunofluorescence reveals granular deposits of immunoglobulins and complement on the basement membrane in both DLE and SLE [42]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Critical Thinking: If a tumor displays a 'jigsaw puzzle' pattern of cells surrounded by a hyaline sheath, which appendage is it likely differentiating toward?",
+    "options": ["Hair follicle", "Sebaceous gland", "Sweat gland", "Nail bed"],
+    "answer": "Sweat gland",
+    "explanation": "Cylindroma (a sweat gland tumor) displays an irregular island pattern resembling a jigsaw puzzle [38]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Case Study: A middle-aged woman presents with 'Wickham's striae' on her buccal mucosa and itchy violaceous papules on her wrists. What histological finding is most likely?",
+    "options": ["Munro microabscesses", "Saw-toothed rete ridges", "Molluscum bodies", "Koilocytosis"],
+    "answer": "Saw-toothed rete ridges",
+    "explanation": "These are clinical features of Lichen planus, which histologically shows saw-toothed rete ridges [18]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Decision-making under Pressure: A patient presents with a rapidly spreading black lesion on the sole of the foot. Biopsy shows deep invasion into the subcutaneous fat. According to Clark's levels, what is the stage?",
+    "options": ["Level II", "Level III", "Level IV", "Level V"],
+    "answer": "Level V",
+    "explanation": "Clark's Level V is defined as invasion of the subcutaneous fat [43]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "University Level Exam: Describe the 'Auspitz sign' and its clinical significance.",
+    "options": ["Bleeding on scale removal in Psoriasis", "White lines in Lichen planus", "Pain on tumor palpation", "Skin peeling in Tinea"],
+    "answer": "Bleeding on scale removal in Psoriasis",
+    "explanation": "Auspitz sign occurs when fine bleeding points appear as psoriasis scales are removed by gentle scraping [16]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "PLAB Style: A patient with long-standing malabsorption due to gluten sensitivity develops an itchy, blistering rash on his elbows. What immunoglobulin is typically found at the papillary tips?",
+    "options": ["IgG", "IgM", "IgA", "IgE"],
+    "answer": "IgA",
+    "explanation": "Dermatitis herpetiformis, associated with gluten-sensitivity, shows granular deposits of IgA at the papillary tips on immunofluorescence [44]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "USMLE Style: A 70-year-old farmer has multiple rough tan-brown lesions on his balding scalp. Biopsy shows dysplasia of epidermal cells and hyperkeratosis but no basement membrane breach. What is the diagnosis?",
+    "options": ["Squamous cell carcinoma", "Basal cell carcinoma", "Solar keratosis", "Seborrheic keratosis"],
+    "answer": "Solar keratosis",
+    "explanation": "Solar (actinic) keratosis is a carcinoma in situ of the epidermis common in sun-exposed areas of elderly people [9], [10]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Bias Recognition: A clinician assumes a white patch on a woman's genitalia is malignant. Which benign condition, common in this site, should be ruled out histologically to avoid this bias?",
+    "options": ["Lichen sclerosus", "Psoriasis", "Dermatitis", "Seborrheic keratosis"],
+    "answer": "Lichen sclerosus",
+    "explanation": "Lichen sclerosus et atrophicus (kraurosis vulvae) clinically simulates malignancy and must be ruled out histologically [45], [46]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Problem-Solving: In a biopsy containing a 'naked granuloma' with Langhans’ giant cells and few lymphocytes, what is the most likely systemic diagnosis?",
+    "options": ["Tuberculosis", "Leprosy", "Sarcoidosis", "Syphilis"],
+    "answer": "Sarcoidosis",
+    "explanation": "Sarcoidosis is characterized by non-caseating 'naked granulomas' with a paucity of lymphocytes [47]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which specialized nerve ending is a touch receptor located in the tips of fingers?",
+    "options": ["Pacinian corpuscle", "Meissner corpuscle", "Ruffini corpuscle", "End-bulb of Krause"],
+    "answer": "Meissner corpuscle",
+    "explanation": "Meissner corpuscles are touch receptors located in the tips of fingers and toes [3]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the common term for 'Goose pimple skin' produced by smooth muscle contraction?",
+    "options": ["Acanthosis", "Arrectores pilori contraction", "Panniculitis", "Miliaria"],
+    "answer": "Arrectores pilori contraction",
+    "explanation": "The arrectores pilori are smooth muscles attached to hair follicles whose contraction produces 'goose pimple skin' [48]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which adnexal tumor consists of islands with outer basophilic cells and inner 'shadow cells'?",
+    "options": ["Trichoepithelioma", "Pilomatricoma", "Sebaceous adenoma", "Eccrine poroma"],
+    "answer": "Pilomatricoma",
+    "explanation": "Pilomatricoma (calcifying epithelioma of Malherbe) characteristically consists of peripheral basophilic cells and inner shadow cells [49]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What pigment loss term is used when damaged basal cells lose melanin into dermal macrophages?",
+    "options": ["Acantholysis", "Spongiosis", "Pigment incontinence", "Parakeratosis"],
+    "answer": "Pigment incontinence",
+    "explanation": "Pigment incontinence is the loss of melanin from a damaged basal layer into dermal melanophages [2]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which infectious dermatosis results in the 'scalded skin' appearance in severe forms?",
+    "options": ["Impetigo", "Erythema multiforme (Toxic epidermal necrolysis)", "Verruca vulgaris", "Superficial mycoses"],
+    "answer": "Erythema multiforme (Toxic epidermal necrolysis)",
+    "explanation": "Toxic epidermal necrolysis is a variant of Erythema Multiforme that gives the skin a scalded appearance due to diffuse necrosis [44]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the most specific immunohistochemical marker for melanoma cells?",
+    "options": ["S-100", "Melan-A", "HMB-45", "CD4"],
+    "answer": "HMB-45",
+    "explanation": "HMB-45 is cited as the most specific immunohistochemical marker for melanoma cells [33]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which genetic dermatosis involves a defect in the DNA repair mechanism following sunlight damage?",
+    "options": ["Ichthyosis", "Xeroderma pigmentosum", "Darier's disease", "Ataxia telangiectasia"],
+    "answer": "Xeroderma pigmentosum",
+    "explanation": "Xeroderma pigmentosum results from a decreased ability to repair sunlight-induced damage to DNA [50]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which sweat gland type uses 'decapitation secretion'?",
+    "options": ["Eccrine glands", "Apocrine glands", "Sebaceous glands", "Holocrine glands"],
+    "answer": "Apocrine glands",
+    "explanation": "Apocrine glands utilize decapitation secretion, where cytoplasm is pinched off [51]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the typical location for Meissner corpuscles?",
+    "options": ["External genitalia", "Deeper dermis", "Palms and soles", "Internal organs"],
+    "answer": "Palms and soles",
+    "explanation": "Meissner corpuscles are located in the papillae of the skin of the palms, soles, and finger tips [3]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "In Pemphigus vulgaris, the basal layer remains attached to the dermis, resembling which clinical visual analogy?",
+    "options": ["Pearly rolled margins", "Saw-toothed", "Row of tombstones", "Cauliflower-like"],
+    "answer": "Row of tombstones",
+    "explanation": "In pemphigus vulgaris, the suprabasal location of bullae leaves the basal layer attached to the dermis like a 'row of tombstones' [52]."
+  }
+]
+}

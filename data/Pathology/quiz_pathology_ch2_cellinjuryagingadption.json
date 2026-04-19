@@ -1,0 +1,201 @@
+{
+  "quiz": [
+    {
+    "type": "mcq_single",
+    "question": "Which of the following is considered the earliest morphologic form of reversible cell injury?",
+    "options": [
+      "Fatty change",
+      "Hydropic swelling",
+      "Hyaline change",
+      "Karyolysis"
+    ],
+    "answer": "Hydropic swelling",
+    "explanation": "The sources state that hydropic change (or cloudy swelling) is the 'commonest and earliest form of cell injury from almost all causes' [1, 2]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which serum enzyme marker is considered specific for identifying acute myocardial infarction?",
+    "options": [
+      "Amylase",
+      "Alanine aminotransferase (ALT)",
+      "Cardiac troponin (cTn)",
+      "Lipase",
+      "None of the above"
+    ],
+    "answer": "Cardiac troponin (cTn)",
+    "explanation": "According to Table 2.1, Cardiac troponin (cTn) is specific for acute myocardial infarction, whereas others like AST or LDH are also elevated in other conditions [3, 4]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "The 'wear and tear' pigment found in atrophied cells of old age is:",
+    "options": [
+      "Haemosiderin",
+      "Bilirubin",
+      "Melanin",
+      "Lipofuscin",
+      "All of the above",
+      "None of the Above"
+    ],
+    "answer": "Lipofuscin",
+    "explanation": "Lipofuscin, or lipochrome, is a yellowish-brown intracellular lipid pigment often found in atrophied cells of old age, hence the name 'wear and tear pigment' [5, 6]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following are characteristic features of Apoptosis compared to Necrosis?",
+    "options": [
+      "Involvement of many adjacent cells",
+      "Cell shrinkage",
+      "Absence of inflammatory reaction",
+      "Membrane disruption"
+    ],
+    "answer": [
+      "Cell shrinkage",
+      "Absence of inflammatory reaction"
+    ],
+    "explanation": "Apoptosis is characterized by the death of single cells, cell shrinkage, and the absence of an inflammatory reaction. In contrast, necrosis involves many adjacent cells and membrane disruption [7, 8]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which factors are known to contribute to the generation of free radicals within the cell?",
+    "options": [
+      "Radiolysis of water by ionizing radiation",
+      "Fenton reaction involving ferrous ions",
+      "Activation of the Na+-K+ ATPase pump",
+      "Metabolic activation of chemicals like CCl4"
+    ],
+    "answer": [
+      "Radiolysis of water by ionizing radiation",
+      "Fenton reaction involving ferrous ions",
+      "Metabolic activation of chemicals like CCl4"
+    ],
+    "explanation": "Free radicals are generated via radiolysis [9], the Fenton reaction [9], and the metabolism of chemicals like CCl4 into CCl3 [10]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following conditions are examples of Dystrophic Calcification?",
+    "options": [
+      "Caseous necrosis in tuberculosis",
+      "Hyperparathyroidism",
+      "Atheromas in the aorta",
+      "Mönckeberg’s sclerosis"
+    ],
+    "answer": [
+      "Caseous necrosis in tuberculosis",
+      "Atheromas in the aorta",
+      "Mönckeberg’s sclerosis"
+    ],
+    "explanation": "Dystrophic calcification occurs in dead or degenerated tissues like caseous necrosis, atheromas, and Mönckeberg’s sclerosis [11, 12]. Hyperparathyroidism causes metastatic calcification [13]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Ischaemia results in more rapid and severe cell injury than hypoxia from other causes like anaemia.",
+    "reason": "In ischaemia, both aerobic respiration and glucose availability for anaerobic glycolysis are compromised.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "The sources explain that while other forms of hypoxia allow anaerobic glycolysis to continue, ischaemia cuts off the glucose supply, making injury more severe [14, 15]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Squamous metaplasia in the bronchi of chronic smokers is a precursor to malignancy.",
+    "reason": "Metaplastic epithelium is more resistant to the mechanical stress of smoke but loses protective mucus secretions.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason does not explain Assertion",
+    "explanation": "Both statements are true: metaplasia is a protective but less specialized adaptation [16]. While it can progress to dysplasia and cancer if the stimulus persists [17], the reason given describes the *functional* consequence of the change, not why it is a *precursor* to malignancy (which involves genetic instability/dysplasia) [18]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Dystrophic calcification is usually a reversible process once the underlying tissue injury is healed.",
+    "reason": "Dystrophic calcification occurs in the presence of normal serum calcium levels and normal calcium metabolism.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Assertion is false, Reason is true",
+    "explanation": "Dystrophic calcification is generally considered irreversible [19], although it does occur with normal serum calcium levels [20]."
+  },
+  {
+    "type": "match_columns",
+    "question": "Match the cellular adaptation or disorder with its defining characteristic:",
+    "left": [
+      "Atrophy",
+      "Hypertrophy",
+      "Metaplasia",
+      "Dysplasia"
+    ],
+    "right": [
+      "Increase in cell size only",
+      "Reduction in cell number and size",
+      "Reversible change of cell type",
+      "Disordered cellular development"
+    ],
+    "answer": {
+      "Atrophy": "Reduction in cell number and size",
+      "Hypertrophy": "Increase in cell size only",
+      "Metaplasia": "Reversible change of cell type",
+      "Dysplasia": "Disordered cellular development"
+    },
+    "explanation": "Atrophy is reduction in size/number [21]; Hypertrophy is size increase without number change [22]; Metaplasia is a change in cell type [23]; Dysplasia is disordered development [24]."
+  },
+  {
+    "type": "match_columns",
+    "question": "Match the type of necrosis with its typical clinical scenario:",
+    "left": [
+      "Coagulative Necrosis",
+      "Liquefaction Necrosis",
+      "Caseous Necrosis",
+      "Fibrinoid Necrosis"
+    ],
+    "right": [
+      "Myocardial Infarction",
+      "Brain Abscess",
+      "Tuberculosis",
+      "Immune-complex vasculitis"
+    ],
+    "answer": {
+      "Coagulative Necrosis": "Myocardial Infarction",
+      "Liquefaction Necrosis": "Brain Abscess",
+      "Caseous Necrosis": "Tuberculosis",
+      "Fibrinoid Necrosis": "Immune-complex vasculitis"
+    },
+    "explanation": "Coagulative is common in MI [25]; Liquefaction is common in brain abscesses [26]; Caseous is hallmark of TB [27]; Fibrinoid occurs in immunologic injury like vasculitis [28]."
+  },
+  {
+    "type": "match_columns",
+    "question": "Match the endogenous pigment with its key descriptive feature:",
+    "left": [
+      "Melanin",
+      "Haemosiderin",
+      "Haemozoin",
+      "Lipofuscin"
+    ],
+    "right": [
+      "Requires tyrosinase for synthesis",
+      "Stains positive with Perl's Prussian blue",
+      "Malarial pigment; Perl's negative",
+      "Expression of residual bodies in lysosomes"
+    ],
+    "answer": {
+      "Melanin": "Requires tyrosinase for synthesis",
+      "Haemosiderin": "Stains positive with Perl's Prussian blue",
+      "Haemozoin": "Malarial pigment; Perl's negative",
+      "Lipofuscin": "Expression of residual bodies in lysosomes"
+    },
+    "explanation": "Melanin requires tyrosinase [29]; Haemosiderin is Perl's positive [30]; Haemozoin (malarial) is Perl's negative [31]; Lipofuscin represents residual bodies [32]."
+  }
+  ]
+}

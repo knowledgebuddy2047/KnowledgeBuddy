@@ -1,0 +1,416 @@
+{
+  "quiz":
+
+[
+  {
+    "type": "mcq_single",
+    "question": "What is the average weight of the heart in an adult male?",
+    "options": ["250-300 gm", "300-350 gm", "350-400 gm", "400-450 gm"],
+    "answer": "300-350 gm",
+    "explanation": "The average weight of the heart in an adult male is 300-350 gm, while in an adult female it is 250-300 gm [1, 2]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following are major components of the cardiac conduction system?",
+    "options": ["Sinoatrial (SA) node", "Interatrial septum", "Atrioventricular (AV) node", "Bundle of His"],
+    "answer": ["Sinoatrial (SA) node", "Atrioventricular (AV) node", "Bundle of His"],
+    "explanation": "The conduction system consists of 4 major components: SA node, AV bundle, AV node, and the bundle of His [3]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "The sinoatrial (SA) node is known as the cardiac pacemaker.",
+    "reason": "It is responsible for determining the rate of contraction for all cardiac muscle.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "The SA node determines the heart's rate and is located in the posterior wall of the right atrium [3]."
+  },
+  {
+    "type": "match_columns",
+    "question": "Match the coronary artery with the segment of the heart it primarily supplies:",
+    "left": ["LAD", "LCX", "RCA"],
+    "right": ["Apex and anterior LV", "Left atrium and lateral LV", "Right atrium and posterior LV"],
+    "answer": {
+      "LAD": "Apex and anterior LV",
+      "LCX": "Left atrium and lateral LV",
+      "RCA": "Right atrium and posterior LV"
+    },
+    "explanation": "The LAD supplies the apex and anterior LV; the LCX supplies the LA and lateral LV; the RCA supplies the RA and posterior LV [4, 5]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which term is used for the chronic form of heart failure characterized by peripheral and pulmonary congestion?",
+    "options": ["Acute heart failure", "Congestive heart failure (CHF)", "Forward heart failure", "High-output failure"],
+    "answer": "Congestive heart failure (CHF)",
+    "explanation": "The term congestive heart failure is used for the chronic form where there is evidence of congestion in the peripheral circulation and lungs [6]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the most common cause of right-sided heart failure?",
+    "options": ["Cor pulmonale", "Tricuspid stenosis", "Left-sided heart failure", "Pulmonary hypertension"],
+    "answer": "Left-sided heart failure",
+    "explanation": "Right-sided heart failure occurs more often as a consequence of left-sided heart failure [7]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "In acute heart failure, oedema does not usually occur.",
+    "reason": "Compensatory mechanisms like tachycardia and cardiac hypertrophy have not had time to develop.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "Acute heart failure develops rapidly, leading to sudden reduction in output and shock rather than oedema, which requires chronic adjustments [8, 9]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "According to Starling’s law, how does a failing dilated heart attempt to maintain stroke volume?",
+    "options": ["By decreasing heart rate", "By increasing the length of sarcomeres", "By reducing myocardial contractility", "By decreasing end-diastolic volume"],
+    "answer": "By increasing the length of sarcomeres",
+    "explanation": "Starling’s law states the dilated heart increases myocardial contractility by increasing sarcomere length to maintain stroke volume [10]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the most common congenital anomaly of the heart?",
+    "options": ["Atrial septal defect (ASD)", "Ventricular septal defect (VSD)", "Patent ductus arteriosus (PDA)", "Tetralogy of Fallot"],
+    "answer": "Ventricular septal defect (VSD)",
+    "explanation": "VSD is the most common congenital anomaly, comprising about 30% of all congenital heart diseases [11, 12]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which features constitute the Tetralogy of Fallot?",
+    "options": ["Ventricular septal defect", "Pulmonary stenosis", "Left ventricular hypertrophy", "Overriding aorta"],
+    "answer": ["Ventricular septal defect", "Pulmonary stenosis", "Overriding aorta"],
+    "explanation": "The four features are VSD, displacement/overriding of the aorta, pulmonary stenosis, and right ventricular hypertrophy [13]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "In which type of coarctation of the aorta is the narrowing proximal to the ductus arteriosus?",
+    "options": ["Postductal", "Adult type", "Preductal", "Acyanotic type"],
+    "answer": "Preductal",
+    "explanation": "Preductal or infantile type coarctation involves narrowing proximal to the ductus arteriosus [14, 15]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Males are at a higher risk of developing acute myocardial infarction than females during their reproductive period.",
+    "reason": "Oestrogen provides a protective influence in women during the reproductive period.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "Women during their reproductive period have a low incidence of MI due to oestrogen protection; after menopause, this difference declines [16]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which coronary artery is most frequently involved in atherosclerotic stenosis leading to myocardial infarction?",
+    "options": ["Right coronary artery (RCA)", "Left circumflex (LCX)", "Left anterior descending (LAD)", "Posterior descending artery"],
+    "answer": "Left anterior descending (LAD)",
+    "explanation": "Stenosis of the LAD is the most common (40-50%) cause of MI [17, 18]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the 'gold standard' biochemical marker for the diagnosis of myocardial injury due to its high specificity?",
+    "options": ["Total CK", "SGOT", "Cardiac troponins (cTn)", "LDH"],
+    "answer": "Cardiac troponins (cTn)",
+    "explanation": "Cardiac troponins are specific for the myocardium and have rendered older markers like LDH and SGOT obsolete [19, 20]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following are major criteria in the revised Jones’ criteria for Rheumatic Fever?",
+    "options": ["Carditis", "Fever", "Polyarthritis", "Chorea"],
+    "answer": ["Carditis", "Polyarthritis", "Chorea"],
+    "explanation": "Major criteria include carditis, polyarthritis, chorea, erythema marginatum, and subcutaneous nodules. Fever is a minor criterion [21]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Mitral stenosis characteristically shows a 'fish-mouth' appearance grossly.",
+    "reason": "This is due to diffuse fibrocollagenous thickening and calcification of the valve cusps with commissural fusion.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "Chronic healed mitral valves in RHD develop rigid, fixed openings referred to as 'fish-mouth' or 'button-hole' stenosis [22, 23]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which primary cardiac tumour is most common and typically occurs in the left atrium?",
+    "options": ["Rhabdomyoma", "Lipoma", "Myxoma", "Angiosarcoma"],
+    "answer": "Myxoma",
+    "explanation": "Myxoma is the most common primary tumour of the heart, with 90% situated in the left atrium [24]."
+  },
+  {
+    "type": "match_columns",
+    "question": "Match the heart disease with its characteristic microscopic finding:",
+    "left": ["Acute MI (12-24 hrs)", "Rheumatic Fever", "Libman-Sacks Endocarditis", "Hypertrophic Cardiomyopathy"],
+    "right": ["Coagulative necrosis", "Aschoff bodies", "Haematoxylin bodies of Gross", "Myocardial cell disorganisation"],
+    "answer": {
+      "Acute MI (12-24 hrs)": "Coagulative necrosis",
+      "Rheumatic Fever": "Aschoff bodies",
+      "Libman-Sacks Endocarditis": "Haematoxylin bodies of Gross",
+      "Hypertrophic Cardiomyopathy": "Myocardial cell disorganisation"
+    },
+    "explanation": "MI shows coagulative necrosis [25]; RF shows Aschoff bodies [26]; Libman-Sacks shows haematoxylin bodies [27]; Hypertrophic CM shows septal cell disorganisation [28]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Sudden accumulation of what volume of pericardial fluid can lead to cardiac tamponade?",
+    "options": ["50 ml", "100 ml", "250 ml", "1000 ml"],
+    "answer": "250 ml",
+    "explanation": "Sudden accumulation of smaller volumes (up to 250 ml) may produce cardiac tamponade, whereas slow accumulation can reach 1000 ml without serious impairment [29]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the characteristic appearance of pericarditis in Rheumatic Fever?",
+    "options": ["Purulent", "Bread and butter", "Milk spots", "Hemorrhagic"],
+    "answer": "Bread and butter",
+    "explanation": "Fibrinous pericarditis in RHD gives a shaggy 'bread and butter' appearance when the layers are pulled apart [30, 31]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Critical Thinking: Why is the left ventricle (LV) more prone to ischaemia during hypertrophy?",
+    "options": ["It has less mitochondria", "Hypertrophy renders the inner myocardium more liable to hypoxia as blood supply is inadequate for increased fibre size", "The RCA supplies it poorly", "Thebesian vessels are absent in LV"],
+    "answer": "Hypertrophy renders the inner myocardium more liable to hypoxia as blood supply is inadequate for increased fibre size",
+    "explanation": "Ventricular hypertrophy renders the inner part of the myocardium more liable to ischaemia because blood supply cannot meet the demands of the increased fibre size [32]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Critical Thinking: A patient presents with typical angina. ECG shows ST segment depression. What is the most likely pathophysiologic assumption?",
+    "options": ["Complete occlusion of LAD", "Transmural infarction", "Transient subendocardial ischaemia", "Aortic rupture"],
+    "answer": "Transient subendocardial ischaemia",
+    "explanation": "ST segment depression in stable angina is due to poor perfusion of the subendocardial region, which is the most vulnerable zone [33]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Case Study: A 55-year-old male with a history of heavy smoking presents with sudden crushing substernal pain unrelieved by rest. ECG shows ST elevation. Cardiac troponin I is elevated. What is the diagnosis?",
+    "options": ["Stable angina", "Unstable angina", "Acute myocardial infarction (STEMI)", "Prinzmetal's angina"],
+    "answer": "Acute myocardial infarction (STEMI)",
+    "explanation": "Sudden severe pain unrelieved by rest, ST elevation, and elevated troponins are diagnostic for STEMI [19, 34]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Case Study: An 8-year-old child presents with a high-pitched 'cat-cry' and joint pain. Examination reveals a pansystolic murmur and subcutaneous nodules. What is the most likely underlying condition?",
+    "options": ["Congenital heart disease", "Rheumatic fever", "Infective endocarditis", "Myocarditis"],
+    "answer": "Rheumatic fever",
+    "explanation": "Fleeting joint pain, subcutaneous nodules, and carditis (indicated by the murmur) meet the Jones' major criteria for RF [21, 35]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "University Exam Focus: Which cell in RHD is described as having a 'caterpillar-like' nucleus in longitudinal section?",
+    "options": ["Aschoff cell", "Reed-Sternberg cell", "Anitschkow cell", "LE cell"],
+    "answer": "Anitschkow cell",
+    "explanation": "Anitschkow cells (cardiac histiocytes) have vesicular nuclei with central chromatin that appears serrated or caterpillar-like in longitudinal section [36, 37]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "University Exam Focus: What is the defining histological feature of a 'Stage II' Aschoff body?",
+    "options": ["Fibrinoid degeneration", "Granulomatous proliferation with Anitschkow and Aschoff cells", "Dense fibrous scarring", "Serous effusion"],
+    "answer": "Granulomatous proliferation with Anitschkow and Aschoff cells",
+    "explanation": "The intermediate/proliferative stage is pathognomonic and characterized by Anitschkow and multinucleate Aschoff cells [36, 38]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "PLAB Style: A 40-year-old female presents with mid-systolic click and a late systolic murmur. She has a history of Marfan's syndrome. What is the likely valvular lesion?",
+    "options": ["Mitral stenosis", "Mitral valve prolapse", "Aortic insufficiency", "Tricuspid atresia"],
+    "answer": "Mitral valve prolapse",
+    "explanation": "Mid-systolic click and association with Marfan's syndrome are classic for mitral valve prolapse (floppy valve syndrome) [39, 40]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "USMLE Style: A patient with acute MI suddenly develops severe hypotension, neck vein distension, and muffled heart sounds 5 days after admission. What is the likely complication?",
+    "options": ["Arrhythmia", "Rupture of the ventricular wall with tamponade", "Dressler's syndrome", "Mitral insufficiency"],
+    "answer": "Rupture of the ventricular wall with tamponade",
+    "explanation": "Rupture of the infarcted wall into the pericardial cavity (causing tamponade) usually occurs in the first week and is fatal [41]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Bias Recognition: A clinician assumes a patient with joint pain and fever has Rheumatic Fever based only on a positive ASO titre. Why is this a clinical pitfall?",
+    "options": ["ASO titre is never positive in RF", "ASO titre only proves preceding infection, not the presence of RF itself", "Joint pain is not a criterion", "RF only occurs in infants"],
+    "answer": "ASO titre only proves preceding infection, not the presence of RF itself",
+    "explanation": "Diagnosis requires meeting major/minor Jones' criteria; laboratory evidence of infection is supportive but not diagnostic on its own [21]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Problem-Solving: How can one distinguish the vegetations of Infective Endocarditis (IE) from Rheumatic Heart Disease (RHD) grossly?",
+    "options": ["IE vegetations are firmly attached and small", "IE vegetations are typically large, greenish, and friable (likely to form emboli)", "RHD vegetations contain bacteria", "There is no difference"],
+    "answer": "IE vegetations are typically large, greenish, and friable (likely to form emboli)",
+    "explanation": "IE vegetations are large and friable, whereas RHD vegetations are small, warty, and firmly attached [42, 43]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the approximate circumference of the mitral valve opening in a normal heart?",
+    "options": ["7.5 cm", "8.5 cm", "10 cm", "12 cm"],
+    "answer": "10 cm",
+    "explanation": "The normal circumference of the mitral valve is about 10 cm [1]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which protein molecule in the myocardium responds to calcium ions in cyclical contraction-relaxation?",
+    "options": ["Myosin", "Actin", "Tropomyosin", "Troponin"],
+    "answer": "Troponin",
+    "explanation": "Troponin molecules (I, T, and C) respond to calcium ions for myocardial contraction-relaxation [44]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Most blood flow to the myocardium occurs during which phase of the cardiac cycle?",
+    "options": ["Systole", "Diastole", "Atrial contraction", "Isovolumetric contraction"],
+    "answer": "Diastole",
+    "explanation": "Most blood flow to the myocardium occurs during diastole [45]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which coronary pattern is the most common anatomic distribution?",
+    "options": ["Left coronary preponderance", "Balanced cardiac circulation", "Right coronary artery preponderance", "Crux dominance"],
+    "answer": "Right coronary artery preponderance",
+    "explanation": "Right coronary artery preponderance is the most common pattern [46]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which of the following is a symptom of left-sided heart failure due to pulmonary congestion?",
+    "options": ["Ascites", "Splenomegaly", "Orthopnoea", "Pedal oedema"],
+    "answer": "Orthopnoea",
+    "explanation": "Pulmonary congestion in left-sided failure causes dyspnoea and orthopnoea [47]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What determines 'eccentric' cardiac hypertrophy?",
+    "options": ["Thickened wall with reduced lumen", "Hypertrophy associated with dilatation", "Only atrial enlargement", "Normal heart weight with valve thickening"],
+    "answer": "Hypertrophy associated with dilatation",
+    "explanation": "Hypertrophy associated with dilatation is called eccentric, while hypertrophy without dilatation is concentric [48]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following conditions can cause secondary cardiomyopathy?",
+    "options": ["Chronic alcoholism", "Thiamine deficiency", "Genetic VSD", "Adriamycin toxicity"],
+    "answer": ["Chronic alcoholism", "Thiamine deficiency", "Adriamycin toxicity"],
+    "explanation": "Secondary cardiomyopathies include nutritional (alcohol/thiamine) and drug-induced (adriamycin) causes [49]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the commonest causative organism for Subacute Bacterial Endocarditis (SABE)?",
+    "options": ["Staphylococcus aureus", "Streptococcus viridans", "Escherichia coli", "Candida albicans"],
+    "answer": "Streptococcus viridans",
+    "explanation": "Streptococcus viridans, low-virulence normal flora of the mouth, is the commonest agent for SABE [50]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which condition is characterized by 'MacCallum’s patch'?",
+    "options": ["Libman-Sacks endocarditis", "Rheumatic mural endocarditis", "Acute MI", "Cor pulmonale"],
+    "answer": "Rheumatic mural endocarditis",
+    "explanation": "MacCallum’s patch is a thickened area in the posterior wall of the left atrium seen in rheumatic mural endocarditis [51]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "A patient with mitral stenosis develops a 'fish-mouth' orifice. This indicates the disease is in which stage?",
+    "options": ["Early acute stage", "Intermediate stage", "Chronic healed stage", "Infective stage"],
+    "answer": "Chronic healed stage",
+    "explanation": "The 'fish-mouth' or 'button-hole' appearance is characteristic of the chronic healed stage of RHD [22]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Ischaemic heart disease is synonymously called coronary artery disease (CAD).",
+    "reason": "Narrowing or obstruction of the coronary arterial system is the most common cause of myocardial anoxia.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "Since coronary artery disease is the leading cause of IHD, the terms are often used interchangeably [52]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is 'Prinzmetal’s variant angina' characterized by?",
+    "options": ["Pain during physical exertion", "Pain at rest", "Pain relieved by activity", "Pain lasting more than 24 hours"],
+    "answer": "Pain at rest",
+    "explanation": "Prinzmetal’s variant angina is characterized by pain at rest and has no relationship with activity [53]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which serum marker is the first to rise after an acute myocardial infarction?",
+    "options": ["CK-MB", "LDH", "Myoglobin", "Troponin I"],
+    "answer": "Myoglobin",
+    "explanation": "Myoglobin is the first marker to become elevated, though it lacks specificity [54, 55]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Sudden cardiac death is defined as death occurring within how many hours of the onset of symptoms?",
+    "options": ["1 hour", "6 hours", "12 hours", "24 hours"],
+    "answer": "24 hours",
+    "explanation": "Sudden cardiac death is defined as sudden death within 24 hours of onset of cardiac symptoms [56]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which syndrome is an autoimmune reaction occurring 1-6 weeks after MI, characterized by pneumonitis?",
+    "options": ["Pickwickian syndrome", "Dressler’s syndrome", "Concato’s disease", "Trousseau’s syndrome"],
+    "answer": "Dressler’s syndrome",
+    "explanation": "Dressler’s syndrome (Postmyocardial infarction syndrome) is characterized by pneumonitis 1-6 weeks after an MI [57]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which type of heart failure leads to 'nutmeg liver' (chronic passive congestion)?",
+    "options": ["Left heart failure", "Right heart failure", "Acute heart failure", "High output failure"],
+    "answer": "Right heart failure",
+    "explanation": "Right-sided heart failure results in systemic venous congestion, including passive congestion of the liver [7]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the pathognomonic feature of pancarditis in Rheumatic Fever?",
+    "options": ["Vegetations", "Aschoff bodies", "Janeway's spots", "Fibrinoid necrosis"],
+    "answer": "Aschoff bodies",
+    "explanation": "The presence of distinctive Aschoff bodies is pathognomonic for RF [26, 58]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the 'Durozier’s sign' associated with?",
+    "options": ["Aortic stenosis", "Aortic insufficiency", "Mitral stenosis", "Mitral insufficiency"],
+    "answer": "Aortic insufficiency",
+    "explanation": "Durozier’s sign (murmurs over the femoral artery) is a characteristic physical finding of aortic insufficiency [59]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which primary site is most common for secondary (metastatic) tumours of the heart?",
+    "options": ["Colon", "Lung", "Kidney", "Prostate"],
+    "answer": "Lung",
+    "explanation": "In descending order of frequency, primary sites of origin for heart metastases are lung, breast, lymphoma, and leukemia [60]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the 'door-to-needle' time goal for thrombolytic therapy in early MI infarcts?",
+    "options": ["<30 minutes", "<60 minutes", "<2 hours", "<6 hours"],
+    "answer": "<30 minutes",
+    "explanation": "Institution of thrombolytic therapy should aim for a door-to-needle time of less than 30 minutes [61]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "In 'Cor Pulmonale', the disease of the right side of the heart results from disorders of which organ?",
+    "options": ["Liver", "Kidney", "Lungs", "Spleen"],
+    "answer": "Lungs",
+    "explanation": "Cor pulmonale is heart disease resulting from disorders of the lungs [62, 63]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which diagnostic intervention is preferably done in the right ventricle for ease and safety?",
+    "options": ["CABG", "PTCA", "Endomyocardial biopsy (EMB)", "Stenting"],
+    "answer": "Endomyocardial biopsy (EMB)",
+    "explanation": "EMB is preferably done in the right ventricle for relative ease and safety [64]."
+  }
+]
+}

@@ -1,0 +1,719 @@
+{
+  "quiz":
+
+[
+  {
+    "type": "mcq_single",
+    "question": "Which of the following describes the 'cambium layer' in embryonal rhabdomyosarcoma (sarcoma botryoides)?",
+    "options": [
+      "A layer of stratified squamous epithelium covering the tumor",
+      "Groups of round to fusiform tumor cells lying underneath the vaginal epithelium",
+      "A central core of loose and myxoid stroma with inflammatory cells",
+      "A layer of mucus-secreting columnar cells"
+    ],
+    "answer": "Groups of round to fusiform tumor cells lying underneath the vaginal epithelium",
+    "explanation": "In Sarcoma Botryoides, the cambium layer consists of tumor cells characteristically situated just beneath the vaginal surface [1]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which factors are considered major risk factors for the development of Cervical Intraepithelial Neoplasia (CIN)?",
+    "options": [
+      "Early age at coitus",
+      "Multiple sexual partners",
+      "Persistent infection with high-risk HPV types 16 and 18",
+      "Late onset of menopause"
+    ],
+    "answer": [
+      "Early age at coitus",
+      "Multiple sexual partners",
+      "Persistent infection with high-risk HPV types 16 and 18"
+    ],
+    "explanation": "Epidemiologic and virologic studies identify early sexual activity, multiple partners, and high-risk HPV as primary risk factors [2, 3]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "The term 'leukoplakia' is not recommended for use by pathologists for white lesions of the vulva.",
+    "reason": "White lesions may represent various conditions including vitiligo, carcinoma in situ, Paget’s disease, or invasive carcinoma.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "Because 'leukoplakia' is a clinical term for white patches that can stem from multiple distinct pathologies, pathologists prefer more descriptive terms like lichen sclerosus or squamous hyperplasia [4]."
+  },
+  {
+    "type": "match_columns",
+    "question": "Match the following HPV types with their associated clinical conditions:",
+    "left": [
+      "HPV types 6 and 11",
+      "HPV types 16 and 18",
+      "HPV types 31 and 33"
+    ],
+    "right": [
+      "High-risk types found in 70% of cervical cancers",
+      "Low-risk types found in Condyloma Acuminata",
+      "Other high-risk types associated with cervical cancer"
+    ],
+    "answer": {
+      "HPV types 6 and 11": "Low-risk types found in Condyloma Acuminata",
+      "HPV types 16 and 18": "High-risk types found in 70% of cervical cancers",
+      "HPV types 31 and 33": "Other high-risk types associated with cervical cancer"
+    },
+    "explanation": "Types 6 and 11 are low-risk (warts), while 16, 18, 31, and 33 are high-risk oncogenic types [3, 5]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "In the menstrual cycle, the 'secretory phase' is under the predominant influence of which hormone?",
+    "options": [
+      "Oestrogen",
+      "Progesterone",
+      "Luteinizing Hormone (LH)",
+      "Follicle Stimulating Hormone (FSH)"
+)
+    ],
+    "answer": "Progesterone",
+    "explanation": "The secretory phase follows ovulation and is driven by progesterone [6, 7]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the characteristic histological finding in a Krukenberg tumor?",
+    "options": [
+      "Call-Exner bodies",
+      "Schiller-Duval bodies",
+      "Mucin-filled signet ring cells",
+      "Psammoma bodies"
+    ],
+    "answer": "Mucin-filled signet ring cells",
+    "explanation": "Krukenberg tumors are metastatic signet-ring carcinomas to the ovaries, typically from the stomach [8, 9]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following are clinical manifestations of Polycystic Ovary Syndrome (Stein-Leventhal syndrome)?",
+    "options": [
+      "Oligomenorrhoea",
+      "Hirsutism",
+      "Obesity",
+      "Excessive production of Oestrogen"
+    ],
+    "answer": [
+      "Oligomenorrhoea",
+      "Hirsutism",
+      "Obesity"
+    ],
+    "explanation": "PCOS is characterized by oligomenorrhoea, hirsutism, obesity, and infertility, with excessive production of androgens rather than oestrogen [10]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Schiller’s test is based on the depletion of glycogen in cancerous cervical cells.",
+    "reason": "Cancerous cells fail to stain with iodine-potassium iodide solution due to lack of glycogen.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "Normal cells contain glycogen and stain brown; cancerous cells lack glycogen and remain unstained, forming the basis of the test [11]."
+  },
+  {
+    "type": "match_columns",
+    "question": "Match the Ovarian Tumor Group with its frequency of primary malignancy:",
+    "left": [
+      "Surface epithelial tumors",
+      "Germ cell tumors",
+      "Sex cord-stromal tumors"
+    ],
+    "right": [
+      "15-20%",
+      "60-70%",
+      "5-10%"
+    ],
+    "answer": {
+      "Surface epithelial tumors": "60-70%",
+      "Germ cell tumors": "15-20%",
+      "Sex cord-stromal tumors": "5-10%"
+    },
+    "explanation": "Surface epithelial tumors are the most common, followed by germ cell and sex cord-stromal tumors [12-14]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which condition is defined by the abnormal distribution of histologically benign endometrial tissue within the myometrium?",
+    "options": [
+      "Endometriosis",
+      "Adenomyosis",
+      "Endometrial Hyperplasia",
+      "Leiomyoma"
+    ],
+    "answer": "Adenomyosis",
+    "explanation": "Adenomyosis is the presence of endometrial glands and stroma inside the myometrium [15]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the genetic hallmark of a Complete Hydatidiform Mole?",
+    "options": [
+      "Triploid (69, XXY)",
+      "Diploid derived entirely from the father (46, XX or 46, XY)",
+      "Diploid with one maternal and one paternal set",
+      "Tetraploid"
+    ],
+    "answer": "Diploid derived entirely from the father (46, XX or 46, XY)",
+    "explanation": "Complete moles are androgenetic, meaning they consist entirely of paternal chromosomes [16, 17]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which histological features distinguish Lichen Sclerosus from Squamous Hyperplasia of the vulva?",
+    "options": [
+      "Thinning of the epidermis in Lichen Sclerosus",
+      "Hyperplasia of squamous epithelium in Squamous Hyperplasia",
+      "Elongation of rete ridges in Squamous Hyperplasia",
+      "Presence of atypia in both conditions"
+    ],
+    "answer": [
+      "Thinning of the epidermis in Lichen Sclerosus",
+      "Hyperplasia of squamous epithelium in Squamous Hyperplasia",
+      "Elongation of rete ridges in Squamous Hyperplasia"
+    ],
+    "explanation": "Lichen Sclerosus involves thinning/atrophy, while Squamous Hyperplasia involves thickening and elongation of rete ridges; neither typically shows atypia [18, 19]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Invasive cervical cancer incidence has declined in developed countries.",
+    "reason": "The use of the Papanicolaou (Pap) cytologic test allows for early detection and diagnosis of pre-cancerous lesions.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "The Pap smear is a highly effective screening tool that has significantly reduced mortality by detecting SIL/CIN before it becomes invasive [20-22]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "A 5-year-old girl presents with a bulky, grape-like mass projecting out of her vagina. What is the most likely diagnosis?",
+    "options": [
+      "Clear cell adenocarcinoma",
+      "Sarcoma botryoides",
+      "Endometrial polyp",
+      "Gartner's duct cyst"
+    ],
+    "answer": "Sarcoma botryoides",
+    "explanation": "This rare tumor, also known as embryonal rhabdomyosarcoma, typically affects children under 5 and presents as a grape-like mass [23]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which ovarian tumor is associated with Meig’s syndrome (pleural effusion and ascites)?",
+    "options": [
+      "Granulosa cell tumor",
+      "Fibroma",
+      "Dermoid cyst",
+      "Serous cystadenoma"
+    ],
+    "answer": "Fibroma",
+    "explanation": "Ovarian fibromas are hormonally inert but can be associated with the clinical triad of Meig's syndrome [24]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "What are the three essential components needed for a histological diagnosis of Endometriosis?",
+    "options": [
+      "Endometrial glands",
+      "Endometrial stroma",
+      "Evidence of old or new haemorrhage (haemosiderin-laden macrophages)",
+      "Malignant anaplasia"
+    ],
+    "answer": [
+      "Endometrial glands",
+      "Endometrial stroma",
+      "Evidence of old or new haemorrhage (haemosiderin-laden macrophages)"
+    ],
+    "explanation": "The diagnosis rests on identifying endometrial glands and stroma at ectopic sites, often accompanied by haemorrhage and inflammatory zones [25]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Complex atypical hyperplasia is considered a precancerous condition.",
+    "reason": "About 20-25% of untreated cases progress to endometrial carcinoma.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "Hyperplasia with atypia has a high risk of malignant transformation due to its cytologic features [26, 27]."
+  },
+  {
+    "type": "match_columns",
+    "question": "Match the placental disease with its serial investigation marker:",
+    "left": [
+      "Hydatidiform Mole",
+      "Choriocarcinoma",
+      "Partial Mole"
+    ],
+    "right": [
+      "Serial β-hCG (persistently high)",
+      "Serial β-hCG (initial high, then fall after removal)",
+      "Serial β-hCG (relatively low)"
+    ],
+    "answer": {
+      "Hydatidiform Mole": "Serial β-hCG (initial high, then fall after removal)",
+      "Choriocarcinoma": "Serial β-hCG (persistently high)",
+      "Partial Mole": "Serial β-hCG (relatively low)"
+    },
+    "explanation": "β-hCG is the primary marker for gestational trophoblastic diseases, used for both diagnosis and monitoring [17, 28, 29]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which of the following describes the 'Swiss-cheese' pattern seen in the endometrium?",
+    "options": [
+      "Crowding of malignant glands with nuclear atypia",
+      "Cystic glandular hyperplasia with large, dilated glands lined by atrophic epithelium",
+      "Decidual reaction of the stroma during pregnancy",
+      "Infiltration of plasma cells in chronic endometritis"
+    ],
+    "answer": "Cystic glandular hyperplasia with large, dilated glands lined by atrophic epithelium",
+    "explanation": "This pattern is characteristic of simple hyperplasia without atypia (CGH) [30]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which conditions are included in the Bethesda System (TBS) reporting for abnormal cervical smears?",
+    "options": [
+      "ASCUS (Atypical squamous cells of undetermined significance)",
+      "L-SIL (Low-grade squamous intraepithelial lesions)",
+      "H-SIL (High-grade squamous intraepithelial lesions)",
+      "Arias-Stella reaction"
+    ],
+    "answer": [
+      "ASCUS (Atypical squamous cells of undetermined significance)",
+      "L-SIL (Low-grade squamous intraepithelial lesions)",
+      "H-SIL (High-grade squamous intraepithelial lesions)"
+    ],
+    "explanation": "TBS categorizes epithelial cell abnormalities into ASCUS, L-SIL, and H-SIL [31]. Arias-Stella is a pregnancy-related change [32]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Critical Thinking: A clinician diagnosticates 'leukoplakia' in a 60-year-old woman with a white vulvar patch. Why might this diagnosis be problematic?",
+    "options": [
+      "Because leukoplakia is a benign condition with no risk of cancer",
+      "Because it is a clinical term that may hide a variety of serious pathologies including invasive carcinoma",
+      "Because it is a term only used for oral lesions",
+      "Because it requires immediate surgical excision"
+    ],
+    "answer": "Because it is a clinical term that may hide a variety of serious pathologies including invasive carcinoma",
+    "explanation": "The source explicitly states that leukoplakia is a clinical 'white patch' that could be anything from vitiligo to invasive cancer, making it non-specific for pathological diagnosis [4]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which histological feature is the 'hallmark' for diagnosing leiomyosarcoma versus leiomyoma?",
+    "options": [
+      "Whorled pattern of smooth muscle cells",
+      "Size of the tumor (> 10 cm)",
+      "Number of mitoses per high power field (HPF)",
+      "Presence of hyaline degeneration"
+    ],
+    "answer": "Number of mitoses per high power field (HPF)",
+    "explanation": "The mitotic count is the essential diagnostic and prognostic criterion for leiomyosarcoma [33]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Endometrial carcinoma is often associated with obesity and diabetes mellitus.",
+    "reason": "These conditions contribute to chronic unopposed oestrogen excess.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "Obesity and metabolic conditions increase peripheral oestrogen synthesis, which is a major etiological factor for endometrioid carcinoma [34, 35]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following theories explain the histogenesis of Endometriosis?",
+    "options": [
+      "Transplantation or regurgitation theory",
+      "Metaplastic theory",
+      "Vascular or lymphatic dissemination theory",
+      "HPV integration theory"
+    ],
+    "answer": [
+      "Transplantation or regurgitation theory",
+      "Metaplastic theory",
+      "Vascular or lymphatic dissemination theory"
+    ],
+    "explanation": "HPV is linked to cervical cancer, not endometriosis; the three described theories for endometriosis are transplantation, metaplasia, and dissemination [36, 37]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which specific ovarian tumor is composed exclusively of thyroid tissue?",
+    "options": [
+      "Carcinoid tumor",
+      "Struma ovarii",
+      "Dysgerminoma",
+      "Granulosa cell tumor"
+    ],
+    "answer": "Struma ovarii",
+    "explanation": "Struma ovarii is a specialized teratoma that can even produce hyperthyroidism [38, 39]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the primary significance of identifying 'Call-Exner bodies'?",
+    "options": [
+      "They are pathognomonic for Yolk Sac tumors",
+      "They are rosette-like structures characteristic of Granulosa cell tumors",
+      "They indicate high-grade cervical dysplasia",
+      "They are markers for placental infection"
+    ],
+    "answer": "They are rosette-like structures characteristic of Granulosa cell tumors",
+    "explanation": "Call-Exner bodies consist of a rosette of granulosa cells around a pink material [40, 41]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Primary ovarian mucinous adenocarcinomas are usually unilateral.",
+    "reason": "Bilateral mucinous adenocarcinomas of the ovary are invariably metastatic deposits.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "The presence of bilateral mucinous tumors should always trigger a search for a primary site elsewhere, such as the appendix or stomach [42, 43]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which high-risk HPV types are integrated into the host cell genome in cervical cancer?",
+    "options": [
+      "Type 6",
+      "Type 16",
+      "Type 18",
+      "Type 11"
+    ],
+    "answer": [
+      "Type 16",
+      "Type 18"
+    ],
+    "explanation": "Types 16 and 18 are high-risk; they integrate into the genome and produce E6/E7 proteins to inactivate p53 and RB-1 [44]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which phase of the menstrual cycle is characterized by straight tubular glands lined by columnar epithelium with basal nuclei?",
+    "options": [
+      "Proliferative phase",
+      "Secretory phase",
+      "Menstrual phase",
+      "Decidual phase"
+    ],
+    "answer": "Proliferative phase",
+    "explanation": "This histologic appearance is typical for the estrogen-driven proliferative phase [45]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "A woman presents with 'chocolate cysts' of the ovary. What is the underlying pathology?",
+    "options": [
+      "Follicular cyst",
+      "Endometriosis",
+      "Serous cystadenoma",
+      "Dermoid cyst"
+    ],
+    "answer": "Endometriosis",
+    "explanation": "Larger cysts of ovarian endometriosis fill with old blood, creating the 'chocolate' appearance [25, 46]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "University Level: According to FIGO staging for Cervical Cancer, Stage II is defined as:",
+    "options": [
+      "Carcinoma strictly confined to the cervix",
+      "Carcinoma extending beyond the cervix but not to the pelvic wall, involving upper two-thirds of the vagina",
+      "Carcinoma extended to the pelvic wall or lower third of the vagina",
+      "Carcinoma extended beyond the true pelvis"
+    ],
+    "answer": "Carcinoma extending beyond the cervix but not to the pelvic wall, involving upper two-thirds of the vagina",
+    "explanation": "Stage II indicates spread outside the cervix but restricted to the upper vagina and paracervical tissue [47]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "In the Bethesda System, what does L-SIL correspond to in the CIN classification?",
+    "options": [
+      "CIN-1",
+      "CIN-2",
+      "CIN-3",
+      "Carcinoma in situ"
+    ],
+    "answer": "CIN-1",
+    "explanation": "L-SIL encompasses mild dysplasia (CIN-1) and HPV-related changes [48, 49]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Arias-Stella reaction may be mistaken for adenocarcinoma.",
+    "reason": "It is characterized by hyperchromatic, atypical tall cells and multilayering.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "The hyperactive secretory state seen in pregnancy can mimic malignancy histologically [32]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which genes are commonly mutated in endometrioid-type endometrial carcinoma?",
+    "options": [
+      "PTEN",
+      "p53",
+      "KRAS",
+      "β-catenin"
+    ],
+    "answer": [
+      "PTEN",
+      "KRAS",
+      "β-catenin"
+    ],
+    "explanation": "PTEN, KRAS, and β-catenin are associated with endometrioid carcinoma, while p53 is associated with serous carcinoma [50]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the most common cause of 'sterile pyuria' in the context of pelvic inflammation in developing countries?",
+    "options": [
+      "Gonorrhoea",
+      "Chlamydia",
+      "Tuberculosis",
+      "Staphylococci"
+    ],
+    "answer": "Tuberculosis",
+    "explanation": "Tuberculous salpingitis is a significant cause of chronic PID and infertility in regions like India [51, 52]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which clinical staging system is used for vulval, vaginal, and cervical carcinomas?",
+    "options": [
+      "TNM Staging",
+      "Dukes’ Staging",
+      "FIGO Staging",
+      "Ann Arbor Staging"
+    ],
+    "answer": "FIGO Staging",
+    "explanation": "FIGO (International Federation of Gynaecology and Obstetrics) is the standard system for female genital tract malignancies [53-55]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Dysgerminoma is the ovarian counterpart of testicular seminoma.",
+    "reason": "Both tumors are malignant, occur in young adults, and are extremely radiosensitive.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "The morphology and clinical behavior of dysgerminoma mirror those of seminoma [39, 56]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which features are characteristic of a 'Partial Mole'?",
+    "options": [
+      "Triploid karyotype",
+      "Presence of an embryo/foetus",
+      "Circumferential trophoblastic proliferation",
+      "Focal trophoblastic proliferation"
+    ],
+    "answer": [
+      "Triploid karyotype",
+      "Presence of an embryo/foetus",
+      "Focal trophoblastic proliferation"
+    ],
+    "explanation": "Partial moles are triploid, often contain foetal parts, and show focal rather than circumferential proliferation [17, 57]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Case Study: A 50-year-old woman presents with foul-smelling vaginal discharge and post-coital spotting. The cervix is ulcerated and bleeds on touch. What is the most likely diagnosis?",
+    "options": [
+      "Chronic cervicitis",
+      "Invasive cervical carcinoma",
+      "Endometrial polyp",
+      "Bartholin’s abscess"
+    ],
+    "answer": "Invasive cervical carcinoma",
+    "explanation": "Post-coital spotting, ulcerated cervix, and foul discharge in a postmenopausal woman are classic signs of invasive cervical cancer [58, 59]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which tumor marker is characteristically elevated in Endodermal Sinus (Yolk Sac) tumors?",
+    "options": [
+      "hCG",
+      "CA-125",
+      "Alpha-foetoprotein (AFP)",
+      "Carcinoembryonic Antigen (CEA)"
+    ],
+    "answer": "Alpha-foetoprotein (AFP)",
+    "explanation": "AFP is synthesized by the yolk sac and is the primary marker for this tumor [60, 61]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "PLAB/USMLE Pattern: A 30-year-old woman with a history of infertility and secondary dysmenorrhoea has bilateral adnexal masses. Laparoscopy reveals 'powder-burn' lesions on the peritoneum. What is the diagnosis?",
+    "options": [
+      "Pelvic Inflammatory Disease",
+      "Endometriosis",
+      "Ovarian Serous Cystadenoma",
+      "Metastatic gastric carcinoma"
+    ],
+    "answer": "Endometriosis",
+    "explanation": " Powder-burn or blue-brown lesions on the peritoneum/ovaries are diagnostic for endometriosis [46]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which of the following is a benign tumor arising from the apocrine sweat glands of the vulva?",
+    "options": [
+      "Condyloma Acuminatum",
+      "Papillary Hidradenoma",
+      "Stromal Polyp",
+      "Paget’s Disease"
+    ],
+    "answer": "Papillary Hidradenoma",
+    "explanation": "Papillary hidradenoma is a benign apocrine tumor typically located on the labia majora [62]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "What are the common causes of Vaginitis?",
+    "options": [
+      "Candida albicans",
+      "Trichomonas vaginalis",
+      "Escherichia coli",
+      "Human Papilloma Virus (HPV)"
+    ],
+    "answer": [
+      "Candida albicans",
+      "Trichomonas vaginalis",
+      "Escherichia coli"
+    ],
+    "explanation": "Vaginitis is commonly caused by fungi (Candida), protozoa (Trichomonas), or bacteria (E. coli); HPV causes lesions but is not a primary cause of 'vaginitis' inflammation [63, 64]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "A 'dermoid cyst' is another name for a benign cystic teratoma.",
+    "reason": "These tumors are predominantly composed of ectodermal elements like skin, hair, and sebaceous glands.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "The term dermoid cyst reflects the prominence of mature skin and appendages in the tumor [65]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which condition presents histological 'coffee-bean' nuclei?",
+    "options": [
+      "Serous cystadenoma",
+      "Brenner tumor",
+      "Granulosa cell tumor",
+      "Clear cell carcinoma"
+    ],
+    "answer": "Brenner tumor",
+    "explanation": "Brenner tumors contain transitional-like epithelium with characteristic nuclear grooves [66]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which factors are associated with an increased risk of Ovarian Cancer?",
+    "options": [
+      "Nulliparity",
+      "Family history (BRCA-1 and BRCA-2 mutations)",
+      "High parity (multiple pregnancies)",
+      "Oral contraceptive use"
+    ],
+    "answer": [
+      "Nulliparity",
+      "Family history (BRCA-1 and BRCA-2 mutations)"
+    ],
+    "explanation": "Low or no parity and genetic mutations are established risk factors; high parity and oral contraceptives are generally protective [67, 68]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Problem-Solving: A 28-year-old woman has an adnexal mass and a positive pregnancy test, but an empty uterus on ultrasound. What is the most critical complication to monitor for?",
+    "options": [
+      "Metastasis to lungs",
+      "Rupture followed by intraperitoneal haemorrhage",
+      "Malignant transformation of the mole",
+      "Infection of the Gartner’s duct"
+    ],
+    "answer": "Rupture followed by intraperitoneal haemorrhage",
+    "explanation": "Ectopic tubal pregnancy is a hazardous problem primarily due to the risk of life-threatening rupture [69]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Bias Recognition: A clinician assumes a woman's pelvic pain is due to PID because she is in her 20s. What 'pitfall' might they be making?",
+    "options": [
+      "Ignoring the possibility of ectopic pregnancy",
+      "Ignoring the possibility of Endometriosis",
+      "Assuming the pain must be infection-related due to her age",
+      "All of the above"
+    ],
+    "answer": "All of the above",
+    "explanation": "Age-related assumptions can lead to clinical bias. Both ectopic pregnancy and endometriosis are prevalent in the reproductive age group and must be ruled out [37, 69]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following are components of the normal vulva?",
+    "options": [
+      "Labia majora and minora",
+      "Bartholin’s glands",
+      "Gartner’s duct",
+      "Clitoris"
+    ],
+    "answer": [
+      "Labia majora and minora",
+      "Bartholin’s glands",
+      "Clitoris"
+    ],
+    "explanation": "The vulva includes the labia, clitoris, and Bartholin's glands [70]. Gartner's duct is a vaginal structure [71]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the peak age incidence for Gestational Choriocarcinoma?",
+    "options": [
+      "Pre-puberty",
+      "Adolescence",
+      "4th to 5th decade",
+      "Post-menopause"
+    ],
+    "answer": "4th to 5th decade",
+    "explanation": "Choriocarcinoma and molar pregnancies follow a geographic and age-related pattern, often appearing in the peak reproductive and perimenopausal years [29, 72]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which tumor contains 'psammoma bodies'?",
+    "options": [
+      "Mucinous cystadenocarcinoma",
+      "Serous cystadenocarcinoma",
+      "Brenner tumor",
+      "Fibroma"
+    ],
+    "answer": "Serous cystadenocarcinoma",
+    "explanation": "Psammoma bodies are laminated calcifications frequently found in serous ovarian tumors [73]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What defines 'Stage IV' in FIGO staging of vaginal carcinoma?",
+    "options": [
+      "Carcinoma limited to the vaginal wall",
+      "Carcinoma extended to the pelvic wall",
+      "Carcinoma extended beyond the true pelvis or involved mucosa of bladder/rectum",
+      "Involvement of subvaginal tissue"
+    ],
+    "answer": "Carcinoma extended beyond the true pelvis or involved mucosa of bladder/rectum",
+    "explanation": "Stage IV indicates distant spread or invasion of adjacent organ mucosa [74]."
+  }
+]
+}

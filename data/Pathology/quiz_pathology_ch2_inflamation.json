@@ -1,0 +1,564 @@
+{
+  "quiz": [
+    {
+      "question": "Which of the following is NOT a cardinal sign of inflammation?",
+      "options": ["Heat", "Redness", "Swelling", "Fever"],
+      "answer": "Fever",
+      "explanation": "The cardinal signs are heat, redness, swelling, pain, and loss of function. Fever is a systemic manifestation."
+    },
+    {
+      "question": "Which cells predominate in acute inflammation?",
+      "options": ["Neutrophils", "Macrophages", "Lymphocytes", "Plasma cells"],
+      "answer": "Neutrophils",
+      "explanation": "Acute inflammation is characterized by neutrophil infiltration, edema, and rapid onset."
+    },
+    {
+      "question": "Which cells predominate in chronic inflammation?",
+      "options": ["Neutrophils", "Macrophages and lymphocytes", "Basophils", "Eosinophils"],
+      "answer": "Macrophages and lymphocytes",
+      "explanation": "Chronic inflammation involves macrophages, lymphocytes, angiogenesis, and fibrosis."
+    },
+    {
+      "question": "Which receptor family recognizes pathogen-associated molecular patterns (PAMPs)?",
+      "options": ["Integrins", "Toll-like receptors", "Cytokine receptors", "Cadherins"],
+      "answer": "Toll-like receptors",
+      "explanation": "TLRs detect microbial motifs and trigger cytokine release and immune activation."
+    },
+    {
+      "question": "Which cytokine is produced by inflammasome activation?",
+      "options": ["IL-2", "IL-1", "TNF-alpha", "IFN-gamma"],
+      "answer": "IL-1",
+      "explanation": "Inflammasomes activate caspase-1, leading to IL-1 production and leukocyte recruitment."
+    },
+    {
+      "question": "Which of the following is a damage-associated molecular pattern (DAMP)?",
+      "options": ["Uric acid", "Histamine", "Complement C3a", "IL-6"],
+      "answer": "Uric acid",
+      "explanation": "Uric acid from DNA breakdown acts as a DAMP, triggering inflammasome activation."
+    },
+    {
+      "question": "Which of the following is true about exudate?",
+      "options": ["Low protein content", "High protein content and cellular debris", "Produced by hydrostatic imbalance", "No leukocytes"],
+      "answer": "High protein content and cellular debris",
+      "explanation": "Exudates form due to increased vascular permeability in inflammation."
+    },
+    {
+      "question": "Which of the following is true about transudate?",
+      "options": ["High protein content", "Low protein content and few cells", "Contains many neutrophils", "Always associated with infection"],
+      "answer": "Low protein content and few cells",
+      "explanation": "Transudates are ultrafiltrates of plasma due to hydrostatic or oncotic imbalance."
+    },
+    {
+      "question": "Which mediator is primarily responsible for vasodilation in acute inflammation?",
+      "options": ["Histamine", "IL-1", "TNF-alpha", "Complement C5a"],
+      "answer": "Histamine",
+      "explanation": "Histamine released from mast cells causes vasodilation and increased vascular permeability."
+    },
+    {
+      "question": "Which mediator increases vascular permeability by endothelial cell contraction?",
+      "options": ["Histamine", "Bradykinin", "Leukotrienes", "All of the above"],
+      "answer": "All of the above",
+      "explanation": "Histamine, bradykinin, and leukotrienes cause endothelial retraction and vascular leakage."
+    },
+    {
+      "question": "Which of the following is a systemic disease where inflammation plays a major role?",
+      "options": ["Atherosclerosis", "Cataract", "Migraine", "Glaucoma"],
+      "answer": "Atherosclerosis",
+      "explanation": "Atherosclerosis involves chronic inflammation with macrophages and lymphocytes."
+    },
+    {
+      "question": "Which of the following is a cause of defective inflammation?",
+      "options": ["Autoimmune disease", "Bone marrow suppression", "Allergy", "Sepsis"],
+      "answer": "Bone marrow suppression",
+      "explanation": "Suppression of bone marrow reduces leukocyte production, leading to defective inflammation."
+    },
+    {
+      "question": "Which of the following is an example of inflammation due to foreign bodies?",
+      "options": ["Asthma", "Gout", "Suture reaction", "Rheumatoid arthritis"],
+      "answer": "Suture reaction",
+      "explanation": "Foreign bodies like sutures can elicit inflammation directly or by carrying microbes."
+    },
+    {
+      "question": "Which of the following is a hypersensitivity reaction leading to inflammation?",
+      "options": ["Asthma", "Gout", "Atherosclerosis", "Septic shock"],
+      "answer": "Asthma",
+      "explanation": "Asthma is an immune-mediated hypersensitivity reaction involving eosinophils and IgE."
+    },
+    {
+      "question": "Which of the following is a clinical sign of lymphangitis?",
+      "options": ["Red streaks near wound", "Edema", "Fever", "Purulent exudate"],
+      "answer": "Red streaks near wound",
+      "explanation": "Red streaks following lymphatic channels indicate lymphangitis."
+    },
+    {
+      "question": "Which of the following is a feature of chronic inflammation compared to acute?",
+      "options": ["Rapid onset", "Neutrophil predominance", "Fibrosis and angiogenesis", "Prominent local signs"],
+      "answer": "Fibrosis and angiogenesis",
+      "explanation": "Chronic inflammation involves tissue destruction, fibrosis, and new vessel formation."
+    },
+    {
+      "question": "Which of the following is a mediator derived from plasma proteins?",
+      "options": ["Histamine", "Complement proteins", "Prostaglandins", "Leukotrienes"],
+      "answer": "Complement proteins",
+      "explanation": "Complement proteins are plasma-derived mediators that promote opsonization and inflammation."
+    },
+    {
+      "question": "Which of the following is a mediator derived from cells?",
+      "options": ["Histamine", "Complement proteins", "Mannose-binding lectin", "Collectins"],
+      "answer": "Histamine",
+      "explanation": "Histamine is released from mast cells, basophils, and platelets."
+    },
+    {
+      "question": "Which of the following is a systemic effect of IL-1 and TNF-alpha?",
+      "options": ["Fever", "Hypotension", "Leukocyte recruitment", "All of the above"],
+      "answer": "All of the above",
+      "explanation": "IL-1 and TNF-alpha cause fever, hypotension (septic shock), and leukocyte recruitment."
+    },
+    {
+      "question": "Which of the following is a harmful consequence of inflammation?",
+      "options": ["Elimination of microbes", "Tissue necrosis", "Repair", "Resolution"],
+      "answer": "Tissue necrosis",
+      "explanation": "Excessive inflammation can cause tissue necrosis and organ dysfunction."
+    },
+    {
+      "question": "A 24-year-old male is stung by a bee while gardening. Within minutes, the area on his forearm becomes red, warm, and significantly swollen. Which of the following is the primary mechanism responsible for the rapid increase in vascular permeability in this patient's immediate transient response?",
+      "options": [
+        "Endothelial cell necrosis",
+        "Retraction of endothelial cells in postcapillary venules",
+        "Increased transcytosis through intracellular channels",
+        "Direct injury to arterioles by the venom"
+      ],
+      "answer": "Retraction of endothelial cells in postcapillary venules",
+      "explanation": "The most common mechanism of vascular leakage in acute inflammation is the retraction of endothelial cells, resulting in opened interendothelial spaces. This is typically elicited by histamine and occurs rapidly in postcapillary venules, lasting 15 to 30 minutes (the immediate transient response)."
+    },
+    {
+      "question": "A 60-year-old patient with congestive heart failure presents with a pleural effusion. Laboratory analysis of the fluid reveals a low protein concentration, low specific gravity, and very few nucleated cells. This fluid is best classified as a(n):",
+      "options": [
+        "Exudate",
+        "Purulent effusion",
+        "Transudate",
+        "Chylous effusion"
+      ],
+      "answer": "Transudate",
+      "explanation": "A transudate is an ultrafiltrate of blood plasma with low protein content and little cellular material. it is produced due to osmotic or hydrostatic imbalance (like in heart failure) across vessels with normal vascular permeability. In contrast, an exudate has high protein and cellular debris due to increased vascular permeability."
+    },
+    {
+      "question": "A 2-year-old boy presents with recurrent, severe bacterial infections and delayed separation of the umbilical cord at birth. Laboratory studies reveal a significantly elevated peripheral neutrophil count, but a skin biopsy of an infected area shows a complete absence of neutrophils in the extravascular tissue. A defect in which of the following processes is most likely?",
+      "options": [
+        "Phagocytosis and oxidative burst",
+        "Leukocyte adhesion to the endothelium",
+        "Chemotaxis along a C5a gradient",
+        "Generation of reactive nitrogen species"
+      ],
+      "answer": "Leukocyte adhesion to the endothelium",
+      "explanation": "This clinical presentation is characteristic of Leukocyte Adhesion Deficiency (LAD). Genetic deficiencies in adhesion molecules (like integrins or selectin ligands) result in recurrent infections because leukocytes cannot adhere to or migrate through the vessel wall to reach the site of injury, despite being numerous in the blood."
+    },
+    {
+      "question": "During the rolling phase of leukocyte recruitment to a site of acute bacterial infection, a neutrophil loosely attaches and detaches from the vascular wall. This initial interaction is primarily mediated by which of the following families of molecules?",
+      "options": [
+        "Integrins",
+        "Selectins",
+        "Immunoglobulins (ICAM-1)",
+        "Chemokines"
+      ],
+      "answer": "Selectins",
+      "explanation": "The initial weak interactions (rolling) between leukocytes and endothelium are mediated by selectins (E, P, and L-selectin). These have a fast 'off rate' that allows the flowing blood to easily disrupt the bond, causing the leukocyte to tumble or roll along the endothelial surface before firm adhesion occurs via integrins."
+    },
+    {
+      "question": "A 35-year-old male with gouty arthritis presents with a hot, swollen, and extremely painful first metatarsophalangeal joint. The inflammatory response to the deposited urate crystals in his joint is primarily initiated by the activation of which multiprotein cytosolic complex?",
+      "options": [
+        "Phagocyte oxidase",
+        "Inflammasome",
+        "RISC complex",
+        "Complement membrane attack complex"
+      ],
+      "answer": "Inflammasome",
+      "explanation": "The inflammasome is a cytosolic receptor complex that recognizes damage-associated molecular patterns (DAMPs) like urate crystals. Its activation induces the production of the cytokine interleukin-1 (IL-1), which recruits leukocytes and triggers the acute inflammatory response."
+    },
+    {
+      "question": "A 68-year-old male presents with sharp chest pain that is relieved by leaning forward. Physical examination reveals a loud pericardial friction rub. If a biopsy of the pericardium were performed, it would most likely show an eosinophilic meshwork of threads on the surface. This morphologic pattern of inflammation is called:",
+      "options": [
+        "Serous inflammation",
+        "Purulent inflammation",
+        "Fibrinous inflammation",
+        "Ulcerative inflammation"
+      ],
+      "answer": "Fibrinous inflammation",
+      "explanation": "Fibrinous inflammation occurs when vascular leaks are large enough to allow high-molecular-weight proteins like fibrinogen to exit the blood. Fibrin is formed and deposited in the extracellular space, appearing as an eosinophilic meshwork. It is characteristic of inflammation in the lining of body cavities like the pericardium."
+    },
+    {
+      "question": "A 19-year-old college student presents with a 2-day history of right lower quadrant pain, fever, and nausea. At surgery, a ruptured appendix is found, surrounded by a localized collection of viscous creamy fluid containing numerous dead neutrophils and cellular debris. This fluid is known as:",
+      "options": [
+        "Serous effusion",
+        "Pus",
+        "Transudate",
+        "Fibrinous coagulum"
+      ],
+      "answer": "Pus",
+      "explanation": "Pus is a purulent exudate rich in leukocytes (mostly neutrophils), dead cell debris, and often microbes. It is the hallmark of purulent or suppurative inflammation, which is typically caused by pyogenic (pus-producing) bacteria like staphylococci."
+    },
+    {
+      "question": "A researcher is studying the transition from acute to chronic inflammation. In a tissue sample taken 48 hours after a persistent injury, which of the following cell types is expected to be the dominant population?",
+      "options": [
+        "Neutrophils",
+        "Eosinophils",
+        "Macrophages",
+        "Basophils"
+      ],
+      "answer": "Macrophages",
+      "explanation": "In most forms of acute inflammation, neutrophils predominate during the first 6 to 24 hours. However, because they are short-lived, they disappear within 24–48 hours and are replaced by monocyte-derived macrophages, which survive much longer and may even proliferate in the tissues."
+    },
+    {
+      "question": "A 45-year-old female presents with a 3-month history of cough, night sweats, and weight loss. A chest X-ray shows a mass in the right upper lobe. A biopsy of the mass reveals central amorphous, granular, cheeselike debris surrounded by a rim of epithelioid cells and multinucleated giant cells. Which of the following is the most likely diagnosis?",
+      "options": [
+        "Acute bronchopneumonia",
+        "Sarcoidosis",
+        "Tuberculosis",
+        "Foreign body reaction to silica"
+      ],
+      "answer": "Tuberculosis",
+      "explanation": "The presence of granulomatous inflammation with 'caseous' (cheeselike) necrosis is the classic hallmark of Tuberculosis. Tuberculous granulomas (tubercles) typically contain a central zone of structureless necrotic debris, whereas granulomas in sarcoidosis or Crohn disease are usually noncaseating."
+    },
+    {
+      "question": "A patient is undergoing wound healing for a deep laceration. At the 2-week mark, the site is filled with soft, pink, granular tissue that bleeds easily. Histologic examination shows numerous small, newly formed capillaries and proliferating fibroblasts. This tissue is called:",
+      "options": [
+        "Scar tissue",
+        "Granulomatous tissue",
+        "Granulation tissue",
+        "Keloid tissue"
+      ],
+      "answer": "Granulation tissue",
+      "explanation": "Granulation tissue is unique to healing wounds. It is characterized by the proliferation of fibroblasts, new delicate capillaries (angiogenesis), and loose extracellular matrix. Its name comes from its soft, granular gross appearance."
+    },
+    {
+      "question": "A 30-year-old woman with a history of severe asthma presents with an acute exacerbation. Which of the following arachidonic acid metabolites are the most potent mediators of the bronchospasm seen in her condition?",
+      "options": [
+        "Prostaglandins PGI2 and PGE2",
+        "Thromboxane A2",
+        "Leukotrienes LTC4, LTD4, and LTE4",
+        "Lipoxins LXA4 and LXB4"
+      ],
+      "answer": "Leukotrienes LTC4, LTD4, and LTE4",
+      "explanation": "The cysteinyl-containing leukotrienes (LTC4, LTD4, LTE4) are produced mainly in mast cells and cause intense bronchospasm and increased vascular permeability. They are much more potent than histamine in causing bronchial muscle spasms in asthma."
+    },
+    {
+      "question": "A 50-year-old donor undergoes a partial hepatectomy, where 60% of his liver is removed for transplantation. Within weeks, the remaining liver mass increases significantly to almost its original size. This regeneration is primarily driven by which of the following?",
+      "options": [
+        "Differentiation of bone marrow stem cells",
+        "Proliferation of residual hepatocytes driven by IL-6 and HGF",
+        "Fibrosis and scar formation to fill the defect",
+        "Hypertrophy of existing hepatocytes without division"
+      ],
+      "answer": "Proliferation of residual hepatocytes driven by IL-6 and HGF",
+      "explanation": "The human liver has an extraordinary capacity to regenerate. After partial surgical resection, regeneration occurs primarily through the proliferation of the remaining mature hepatocytes, a process triggered by cytokines (IL-6) and growth factors like Hepatocyte Growth Factor (HGF)."
+    },
+    {
+      "question": "A 22-year-old woman of African descent presents with a large, raised, disfiguring scar on her earlobe that developed several months after a piercing. The scar has grown beyond the boundaries of the original wound. This is an example of a:",
+      "options": [
+        "Hypertrophic scar",
+        "Desmoid tumor",
+        "Keloid",
+        "Contracture"
+      ],
+      "answer": "Keloid",
+      "explanation": "If scar tissue grows beyond the boundaries of the original wound and does not regress, it is called a keloid. These are common in individuals of African descent. Hypertrophic scars, by contrast, stay within the wound boundaries and often regress."
+    },
+    {
+      "question": "A patient with a severe bacterial infection has a temperature of 103°F (39.4°C). The production of prostaglandins in the hypothalamus, which resets the temperature set point, is primarily stimulated by which endogenous pyrogens?",
+      "options": [
+        "LPS and bacterial toxins",
+        "Leukotrienes B4",
+        "Cytokines TNF and IL-1",
+        "Histamine and Serotonin"
+      ],
+      "answer": "Cytokines TNF and IL-1",
+      "explanation": "Fever is caused by prostaglandins produced in the hypothalamus. Bacterial products (exogenous pyrogens) stimulate leukocytes to release cytokines like IL-1 and TNF (endogenous pyrogens), which then increase the enzymes that produce PGE2 in the brain."
+    },
+    {
+      "question": "A 70-year-old male with chronic bacterial pneumonia shows a white blood cell count of 22,000 cells/µL with a high percentage of immature 'band' neutrophils. This finding, often called a 'shift to the left,' is due to:",
+      "options": [
+        "Leukemoid reaction due to bone marrow cancer",
+        "Accelerated release of cells from the bone marrow postmitotic reserve",
+        "Activation of the alternative complement pathway",
+        "Failure of neutrophils to undergo apoptosis"
+      ],
+      "answer": "Accelerated release of cells from the bone marrow postmitotic reserve",
+      "explanation": "Leukocytosis occurs initially because cytokines (TNF, IL-1) cause the accelerated release of cells from the bone marrow's reserve pool. This results in an increase in immature neutrophils (bands) in the blood, a phenomenon known clinically as a 'shift to the left.'"
+    },
+    {
+      "question": "A 25-year-old patient with a history of recurrent Neisseria meningitidis infections is found to have a genetic deficiency in the late components of the complement system (C5-C9). This deficiency prevents the formation of which effector mechanism?",
+      "options": [
+        "Opsonization by C3b",
+        "Mast cell degranulation by anaphylatoxins",
+        "Membrane attack complex (MAC)",
+        "Chemotaxis of neutrophils by C5a"
+      ],
+      "answer": "Membrane attack complex (MAC)",
+      "explanation": "The late components (C6–C9) culminate in the formation of the membrane attack complex (MAC), which drills holes in microbial membranes leading to lysis. This is particularly important for thin-walled bacteria like Neisseria; hence, deficiency in these components predisposes to disseminated Neisseria infections."
+    },
+    {
+      "question": "A patient with a chronic helminthic parasite infection shows a significant increase in the number of circulating eosinophils. The recruitment of these cells is primarily influenced by cytokines produced by which subset of T lymphocytes?",
+      "options": [
+        "TH1 cells",
+        "TH2 cells",
+        "TH17 cells",
+        "Regulatory T cells"
+      ],
+      "answer": "TH2 cells",
+      "explanation": "TH2 cells secrete cytokines like IL-4, IL-5, and IL-13. These are responsible for recruiting and activating eosinophils, which are essential for defense against helminthic parasites but also contribute to allergic inflammation."
+    },
+    {
+      "question": "A 40-year-old male takes an aspirin daily for joint pain. Aspirin's ability to reduce inflammation and pain is due to its irreversible inhibition of which of the following?",
+      "options": [
+        "Phospholipase A2",
+        "5-lipoxygenase",
+        "Cyclooxygenases (COX-1 and COX-2)",
+        "H1 receptors"
+      ],
+      "answer": "Cyclooxygenases (COX-1 and COX-2)",
+      "explanation": "Aspirin and other NSAIDs inhibit cyclooxygenases (COX-1 and COX-2), thereby blocking the synthesis of all prostaglandins. Aspirin is unique because it does this by irreversibly inactivating the enzymes."
+    },
+    {
+      "question": "In the early stages of an inflammatory response, which adhesion molecule, normally sequestered in Weibel-Palade bodies of endothelial cells, is rapidly redistributed to the cell surface in response to histamine?",
+      "options": [
+        "E-selectin",
+        "P-selectin",
+        "L-selectin",
+        "ICAM-1"
+      ],
+      "answer": "P-selectin",
+      "explanation": "P-selectin is stored in Weibel-Palade bodies of unactivated endothelial cells. Within minutes of exposure to mediators like histamine or thrombin, it is redistributed to the cell surface to facilitate the initial 'rolling' of leukocytes."
+    },
+    {
+      "question": "A 55-year-old diabetic patient has a non-healing ulcer on his great toe. The base of the ulcer is pale and lacks healthy granulation tissue. The failure to heal is most likely due to which underlying factor?",
+      "options": [
+        "Excessive production of TGF-beta",
+        "Poor perfusion due to small vessel disease",
+        "Hypertrophy of the surrounding epithelium",
+        "Inhibition of the inflammasome"
+      ],
+      "answer": "Poor perfusion due to small vessel disease",
+      "explanation": "In diabetic ulcers, tissue necrosis and the failure to heal result from a combination of small vessel disease causing ischemia (poor perfusion), neuropathy, and systemic metabolic abnormalities."
+    },
+    {
+      "question": "A patient with massive Gram-negative bacterial sepsis develops hypotensive shock, disseminated intravascular coagulation (DIC), and severe metabolic disturbances. These life-threatening systemic pathological effects are primarily mediated by very high blood levels of which cytokine?",
+      "options": [
+        "IL-10",
+        "TGF-beta",
+        "TNF (Tumor Necrosis Factor)",
+        "Interferon-gamma"
+      ],
+      "answer": "TNF (Tumor Necrosis Factor)",
+      "explanation": "In severe infections (sepsis), high blood levels of cytokines, particularly TNF, cause the triad of septic shock: hypotension, DIC, and metabolic abnormalities like insulin resistance."
+    },
+    {
+      "question": "Neutrophils at a site of infection can kill extracellular microbes by extruding their nuclear chromatin to form viscous fibrillar networks. This process, which results in the death of the neutrophil, is known as:",
+      "options": [
+        "Apoptosis",
+        "NETosis",
+        "Phagocytosis",
+        "Degranulation"
+      ],
+      "answer": "NETosis",
+      "explanation": "Neutrophil Extracellular Traps (NETs) are fibrillar networks of nuclear chromatin and granule proteins that trap and destroy microbes. The formation of these traps leads to a distinctive form of neutrophil cell death called NETosis."
+    },
+    {
+      "question": "Following a large myocardial infarction, the dead cardiac muscle cells cannot regenerate. Instead, the area of injury is eventually replaced by a stable fibrous mass. This 'patching' response is primarily characterized by the deposition of which protein?",
+      "options": [
+        "Fibrinogen",
+        "Elastin",
+        "Collagen",
+        "Actin"
+      ],
+      "answer": "Collagen",
+      "explanation": "Cardiac muscle consists of permanent (nondividing) cells. When they die, the tissue cannot regenerate and is instead repaired by scar formation, which involves the replacement of parenchymal cells by collagen deposited by fibroblasts."
+    },
+    {
+      "question": "During the remodeling phase of wound healing, which family of zinc-dependent enzymes is responsible for the degradation of type III collagen and its replacement with more resilient type I collagen?",
+      "options": [
+        "Caspanes",
+        "Matrix metalloproteinases (MMPs)",
+        "Cyclooxygenases",
+        "Hydrolases"
+      ],
+      "answer": "Matrix metalloproteinases (MMPs)",
+      "explanation": "Remodeling of the scar involves the degradation of collagens and other ECM components by matrix metalloproteinases (MMPs). This allows for a shift from type III collagen (found early in repair) to the stronger type I collagen."
+    },
+    {
+      "question": "A patient receives a second-degree thermal burn that results in a large skin blister. The blister contains cell-poor fluid that has accumulated beneath the damaged epidermis. This is an example of which morphologic pattern of inflammation?",
+      "options": [
+        "Fibrinous inflammation",
+        "Serous inflammation",
+        "Purulent inflammation",
+        "Ulceration"
+      ],
+      "answer": "Serous inflammation",
+      "explanation": "Serous inflammation is marked by the exudation of cell-poor fluid into spaces created by injury to surface epithelia (like a skin blister from a burn) or into body cavities."
+    },
+    {
+      "question": "A 30-year-old female presents with sudden onset of hives (urticaria) after eating peanuts. The immediate redness and itching are caused by the release of preformed mediators stored in the granules of which resident tissue cell?",
+      "options": [
+        "Macrophages",
+        "Dendritic cells",
+        "Mast cells",
+        "Neutrophils"
+      ],
+      "answer": "Mast cells",
+      "explanation": "Mast cells are the richest sources of histamine, a preformed vasoactive amine stored in granules. They are tissue-resident cells that degranulate in response to allergens (via IgE binding), causing immediate vasodilation and increased permeability (hives)."
+    },
+    {
+      "question": "A child with a genetic deficiency in the C3b component of complement suffers from recurrent infections. This is because C3b normally plays a critical role in 'coating' microbes to enhance their ingestion by phagocytes, a process known as:",
+      "options": [
+        "Chemotaxis",
+        "Opsonization",
+        "Transcytosis",
+        "Margination"
+      ],
+      "answer": "Opsonization",
+      "explanation": "Opsonization is the process of coating a microbe with specific proteins (opsonins) like IgG or C3b. This greatly enhances the efficiency of phagocytosis because leukocytes have high-affinity receptors for these proteins."
+    },
+    {
+      "question": "What is the primary function of Nitric Oxide (NO) produced by endothelial cells during the vascular reactions of acute inflammation?",
+      "options": [
+        "Increasing blood viscosity",
+        "Relaxation of vascular smooth muscle (vasodilation)",
+        "Activation of the coagulation cascade",
+        "Stimulating the respiratory burst in neutrophils"
+      ],
+      "answer": "Relaxation of vascular smooth muscle (vasodilation)",
+      "explanation": "Nitric oxide (NO) produced by endothelial cells acts to relax vascular smooth muscle, thereby promoting vasodilation. It also participates in microbial killing within macrophages."
+    },
+    {
+      "question": "A construction worker who has inhaled particulate silica for many years develops progressive shortness of breath. Lung biopsy shows extensive nodules of dense fibrous tissue. This is an example of chronic inflammation induced by:",
+      "options": [
+        "Persistent viral infection",
+        "Autoimmune reaction against self-antigens",
+        "Prolonged exposure to a nondegradable exogenous agent",
+        "A hyper-reaction to harmless environmental pollen"
+      ],
+      "answer": "Prolonged exposure to a nondegradable exogenous agent",
+      "explanation": "Silicosis is a chronic inflammatory lung disease caused by the prolonged inhalation of silica, a nondegradable inanimate material. This is a classic example of chronic inflammation resulting from toxic exogenous agents."
+    },
+    {
+      "question": "A patient with a high fever and systemic infection has a significantly elevated Erythrocyte Sedimentation Rate (ESR). This simple clinical test measures the effect of which liver-derived acute-phase protein on red blood cells?",
+      "options": [
+        "C-reactive protein (CRP)",
+        "Serum amyloid A (SAA)",
+        "Fibrinogen",
+        "Hepcidin"
+      ],
+      "answer": "Fibrinogen",
+      "explanation": "During the acute-phase response, the liver increases production of fibrinogen. Fibrinogen binds to red cells and causes them to form stacks (rouleaux) that sediment more rapidly, which is the basis for the ESR test."
+    },
+    {
+      "question": "Which pathway of macrophage activation is primarily involved in tissue repair and the resolution of inflammation by secreting growth factors and collagen-stimulating cytokines?",
+      "options": [
+        "Classical activation (M1)",
+        "Alternative activation (M2)",
+        "Innate activation (TLR)",
+        "Complement-mediated activation"
+      ],
+      "answer": "Alternative activation (M2)",
+      "explanation": "Alternatively activated (M2) macrophages are induced by cytokines like IL-4 and IL-13. Their principal function is in tissue repair; they secrete growth factors that promote angiogenesis and stimulate collagen synthesis by fibroblasts."
+    },
+    {
+      "question": "The sprouting of new blood vessels from existing ones (angiogenesis) is a critical step in wound healing. Which growth factor is the most important for stimulating both the migration and proliferation of endothelial cells in this process?",
+      "options": [
+        "PDGF",
+        "TGF-beta",
+        "VEGF (Vascular Endothelial Growth Factor)",
+        "Interferon-gamma"
+      ],
+      "answer": "VEGF (Vascular Endothelial Growth Factor)",
+      "explanation": "VEGF-A is the primary growth factor stimulating the migration and proliferation of endothelial cells, thus initiating the capillary sprouting process in angiogenesis. It also promotes vasodilation and contributes to vascular lumen formation."
+    },
+    {
+      "question": "In a patient with long-standing rheumatoid arthritis, clusters of lymphocytes, antigen-presenting cells, and plasma cells are found in the synovium, resembling lymphoid follicles. These structures are known as:",
+      "options": [
+        "Granulomas",
+        "Abscesses",
+        "Tertiary lymphoid organs",
+        "Langhans giant cells"
+      ],
+      "answer": "Tertiary lymphoid organs",
+      "explanation": "In some chronic inflammatory reactions, lymphocytes and other immune cells cluster to form structures resembling lymph node follicles. These are called tertiary lymphoid organs and are seen in conditions like rheumatoid arthritis and Hashimoto thyroiditis."
+    },
+    {
+      "question": "Which cytokine, produced mainly by T lymphocytes, is critical for the recruitment of neutrophils and monocytes and is a target for highly effective therapies in psoriasis?",
+      "options": [
+        "IL-1",
+        "IL-17",
+        "IL-6",
+        "IL-10"
+      ],
+      "answer": "IL-17",
+      "explanation": "IL-17 is produced mainly by T lymphocytes (TH17 cells) and promotes the recruitment of neutrophils. IL-17 antagonists are very effective treatments for psoriasis and other inflammatory diseases."
+    },
+    {
+      "question": "An elderly, bedridden patient with limited mobility develops a deep, non-healing ulcer over his sacrum. This 'pressure sore' is primarily caused by which of the following?",
+      "options": [
+        "Autoimmune destruction of the skin",
+        "Mechanical pressure and local ischemia",
+        "An inherited deficiency in leukocyte adhesion",
+        "Excessive production of Matrix Metalloproteinases"
+      ],
+      "answer": "Mechanical pressure and local ischemia",
+      "explanation": "Pressure sores (decubitus ulcers) result from prolonged compression of tissues against bone, leading to mechanical pressure and local ischemia. They are common in bedridden, immobile individuals."
+    },
+    {
+      "question": "A patient with terminal cancer presents with extreme weight loss, muscle atrophy, and loss of appetite. This pathologic state, known as cachexia, is largely driven by the sustained production of which cytokine?",
+      "options": [
+        "IL-1",
+        "IL-10",
+        "TNF (Tumor Necrosis Factor)",
+        "TGF-beta"
+      ],
+      "answer": "TNF (Tumor Necrosis Factor)",
+      "explanation": "TNF regulates energy balance by promoting lipid and protein catabolism and suppressing appetite. Sustained production of TNF contributes to cachexia, the state of wasting associated with chronic infections and cancers."
+    },
+    {
+      "question": "A pathologist examines a skin biopsy taken 12 hours after an acute injury. Which of the following cell types would most likely predominate in the inflammatory infiltrate at this time?",
+      "options": [
+        "Lymphocytes",
+        "Monocytes",
+        "Neutrophils",
+        "Plasma cells"
+      ],
+      "answer": "Neutrophils",
+      "explanation": "In most forms of acute inflammation, neutrophils predominate in the infiltrate during the first 6 to 24 hours. They are replaced by macrophages later, usually between 24 and 48 hours."
+    },
+    {
+      "question": "A patient with chronic hemolytic anemia is found to have a deficiency in the DAF (Decay Accelerating Factor) and CD59 proteins, which are normally anchored to the red cell membrane. This results in excessive complement-mediated lysis of red cells, a condition called:",
+      "options": [
+        "Hereditary angioedema",
+        "Paroxysmal nocturnal hemoglobinuria (PNH)",
+        "Hemolytic uremic syndrome",
+        "Secondary amyloidosis"
+      ],
+      "answer": "Paroxysmal nocturnal hemoglobinuria (PNH)",
+      "explanation": "DAF and CD59 are regulatory proteins that prevent complement activation and MAC formation on host cells. Deficiency in the GPI anchor that attaches these proteins to membranes leads to PNH, characterized by excessive red cell lysis."
+    },
+    {
+      "question": "Which vasoactive peptide, derived from plasma kininogens, causes increased vascular permeability, smooth muscle contraction, and pain when injected into the skin, similar to the actions of histamine?",
+      "options": [
+        "Substance P",
+        "Bradykinin",
+        "Neurokinin A",
+        "Serotonin"
+      ],
+      "answer": "Bradykinin",
+      "explanation": "Bradykinin is a vasoactive peptide that increases vascular permeability, causes smooth muscle contraction, dilates blood vessels, and causes pain. Its actions are similar to histamine and it is often implicated in allergic reactions like anaphylaxis."
+    },
+    {
+      "question": "In the process of liver regeneration following chronic injury, if the proliferative capacity of mature hepatocytes is impaired, which specialized niche provides progenitor cells to repopulate the tissue?",
+      "options": [
+        "Kupffer cells",
+        "Canals of Hering",
+        "Central vein endothelium",
+        "Islets of Langerhans"
+      ],
+      "answer": "Canals of Hering",
+      "explanation": "When hepatocytes cannot proliferate (e.g., in chronic injury), liver progenitor cells contribute to repopulation. These cells reside in specialized niches called canals of Hering, where bile canaliculi connect with bile ducts."
+    }
+  ]
+}

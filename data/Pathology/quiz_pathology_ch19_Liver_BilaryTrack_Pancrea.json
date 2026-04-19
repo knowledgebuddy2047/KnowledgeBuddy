@@ -1,0 +1,736 @@
+{
+  "quiz":
+
+
+[
+  {
+    "type": "mcq_single",
+    "question": "What is the primary reason the liver is relatively protected against infarction?",
+    "options": [
+      "High regenerative capacity",
+      "Presence of Glisson's capsule",
+      "Dual blood supply from the portal vein and hepatic artery",
+      "Large functional reserve"
+    ],
+    "answer": "Dual blood supply from the portal vein and hepatic artery",
+    "explanation": "The liver receives venous blood from the intestines via the portal vein and arterial blood via the hepatic artery, providing protection against infarction [1]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following are characteristics of Zone 3 (centrilobular area) of the hepatic lobule?",
+    "options": [
+      "Surrounds the central vein",
+      "Closest to the arterial blood supply",
+      "Most remote from the blood supply",
+      "Most susceptible to hypoxic injury"
+    ],
+    "answer": [
+      "Surrounds the central vein",
+      "Most remote from the blood supply",
+      "Most susceptible to hypoxic injury"
+    ],
+    "explanation": "Zone 3 surrounds the central vein and is farthest from the blood supply, making it more vulnerable to hypoxia [2]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Achlorhydria in the presence of a gastric ulcer is highly suggestive of malignancy.",
+    "reason": "Benign gastric ulcers usually require the presence of acid to form.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "This is a key clinical reasoning point for distinguishing between benign and malignant ulcers [3]."
+  },
+  {
+    "type": "match_columns",
+    "question": "Match the following Liver Function Tests (LFTs) with their primary significance:",
+    "left": [
+      "Serum Bilirubin",
+      "ALT (SGPT)",
+      "Serum Albumin",
+      "Alkaline Phosphatase"
+    ],
+    "right": [
+      "Specific for liver cell injury",
+      "Highest in biliary obstruction",
+      "Marker of excretory function",
+      "Marker of synthetic function"
+    ],
+    "answer": {
+      "Serum Bilirubin": "Marker of excretory function",
+      "ALT (SGPT)": "Specific for liver cell injury",
+      "Serum Albumin": "Marker of synthetic function",
+      "Alkaline Phosphatase": "Highest in biliary obstruction"
+    },
+    "explanation": "Each test monitors a different aspect of liver physiology: excretion, synthetic capacity, and structural integrity [4-6]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which enzyme is considered the most sensitive index for diagnosing acute viral hepatitis in its early stage?",
+    "options": [
+      "Alkaline phosphatase",
+      "Serum transaminases (ALT/AST)",
+      "Lactate dehydrogenase",
+      "Cholinesterase"
+    ],
+    "answer": "Serum transaminases (ALT/AST)",
+    "explanation": "Transaminase estimations are vital for the early diagnosis of viral hepatitis [3]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following conditions lead to predominantly unconjugated hyperbilirubinaemia?",
+    "options": [
+      "Gilbert’s syndrome",
+      "Dubin-Johnson syndrome",
+      "Haemolytic jaundice",
+      "Crigler-Najjar syndrome"
+    ],
+    "answer": [
+      "Gilbert’s syndrome",
+      "Haemolytic jaundice",
+      "Crigler-Najjar syndrome"
+    ],
+    "explanation": "Unconjugated hyperbilirubinaemia results from increased production or decreased hepatic uptake/conjugation, which characterizes Gilbert’s, Crigler-Najjar, and haemolysis [7-9]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "The van den Bergh reaction is used to differentiate between conjugated and unconjugated bilirubin.",
+    "reason": "Conjugated bilirubin is water-soluble and reacts directly with the diazo reagent.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "Conjugated bilirubin gives a direct reaction because it is water-soluble, while unconjugated requires alcohol (indirect) [10]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which morphological feature is pathognomonic for Dubin-Johnson syndrome?",
+    "options": [
+      "Councilman bodies",
+      "Ground-glass hepatocytes",
+      "Greenish-black pigmented liver",
+      "Mallory bodies"
+    ],
+    "answer": "Greenish-black pigmented liver",
+    "explanation": "Dubin-Johnson syndrome is unique among hereditary hyperbilirubinaemias for producing a dark-pigmented liver [11, 12]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which clinical findings are part of the 'Hepatorenal Syndrome'?",
+    "options": [
+      "Renal failure in the absence of primary kidney disease",
+      "Associated with oliguria and uraemia",
+      "Permanent structural damage to the kidney glomeruli",
+      "Functional defect triggered by systemic vasodilation"
+    ],
+    "answer": [
+      "Renal failure in the absence of primary kidney disease",
+      "Associated with oliguria and uraemia",
+      "Functional defect triggered by systemic vasodilation"
+    ],
+    "explanation": "Hepatorenal syndrome is a functional renal failure occurring in patients with severe liver disease where kidney histology is typically normal [13]."
+  },
+  {
+    "type": "match_columns",
+    "question": "Match the Hepatitis virus with its primary mode of transmission:",
+    "left": [
+      "Hepatitis A",
+      "Hepatitis B",
+      "Hepatitis E"
+    ],
+    "right": [
+      "Parenteral/Sexual",
+      "Faeco-oral (Self-limiting)",
+      "Water-borne (High risk in pregnancy)"
+    ],
+    "answer": {
+      "Hepatitis A": "Faeco-oral (Self-limiting)",
+      "Hepatitis B": "Parenteral/Sexual",
+      "Hepatitis E": "Water-borne (High risk in pregnancy)"
+    },
+    "explanation": "The routes of transmission are critical for epidemiology and prevention strategies [14-17]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Critical Thinking: A clinician observes an elevated Alkaline Phosphatase in a 25-year-old pregnant woman with no symptoms. What is the most likely 'pitfall' in diagnosis here?",
+    "options": [
+      "Assuming she has obstructive jaundice",
+      "Missing a metastatic bone tumor",
+      "Forgetting that the placenta produces Alkaline Phosphatase",
+      "Misinterpreting it as early hepatitis"
+    ],
+    "answer": "Forgetting that the placenta produces Alkaline Phosphatase",
+    "explanation": "Normal pregnancy causes a physiological rise in serum alkaline phosphatase because the enzyme is also produced by the placenta [6]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Case Study: A 42-year-old 'fat, fertile, female' presents with sharp RUQ pain after a heavy meal. What is the most likely initial diagnosis?",
+    "options": [
+      "Acute Viral Hepatitis",
+      "Acute Calculous Cholecystitis",
+      "Hepatocellular Carcinoma",
+      "Budd-Chiari Syndrome"
+    ],
+    "answer": "Acute Calculous Cholecystitis",
+    "explanation": "This classic demographic (4Fs) and presentation are highly suggestive of gallstone-induced cholecystitis [18, 19]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Chronic Hepatitis C is currently considered a more common cause of chronic liver disease worldwide than Hepatitis B.",
+    "reason": "HCV has a higher rate of progression to chronicity than HBV.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "HCV is noted for its high rate of persistence and progression to chronic hepatitis [20]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "PLAB/USMLE Pattern: A patient tests positive for HBsAg and HBeAg. What does this profile indicate?",
+    "options": [
+      "Passive immunity",
+      "Remote past infection",
+      "Active infection with high infectivity",
+      "Recovery phase"
+    ],
+    "answer": "Active infection with high infectivity",
+    "explanation": "HBsAg indicates active infection, and HBeAg specifically indicates high viral replication and infectivity [21, 22]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which histological features define 'Cirrhosis'?",
+    "options": [
+      "Involvement of the entire liver",
+      "Disorganisation of lobular architecture",
+      "Presence of focal necrosis only",
+      "Formation of regenerative nodules separated by fibrous septa"
+    ],
+    "answer": [
+      "Involvement of the entire liver",
+      "Disorganisation of lobular architecture",
+      "Formation of regenerative nodules separated by fibrous septa"
+    ],
+    "explanation": "Cirrhosis is defined by diffuse involvement, architectural disorganisation, and nodular regeneration [23]."
+  },
+  {
+    "type": "match_columns",
+    "question": "Match the specific type of cirrhosis with its pathognomonic feature:",
+    "left": [
+      "Alcoholic Cirrhosis",
+      "Wilson's Disease",
+      "Haemochromatosis"
+    ],
+    "right": [
+      "Kayser-Fleischer rings",
+      "Mallory bodies",
+      "Bronze Diabetes"
+    ],
+    "answer": {
+      "Alcoholic Cirrhosis": "Mallory bodies",
+      "Wilson's Disease": "Kayser-Fleischer rings",
+      "Haemochromatosis": "Bronze Diabetes"
+    },
+    "explanation": "These are classic diagnostic markers for each specific etiology [24-26]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Critical Thinking: Why might a 'Once an alcoholic, always an alcoholic' bias prevent a correct diagnosis of HCC?",
+    "options": [
+      "The doctor assumes all liver damage is from alcohol",
+      "The doctor misses that alcohol is a co-carcinogen with HCV",
+      "The doctor ignores the possibility of superinfection with HBV",
+      "All of the above"
+    ],
+    "answer": "All of the above",
+    "explanation": "Cognitive biases can lead a clinician to attribute all symptoms to the known 'alcoholism' rather than investigating for secondary cancer or viral infections [27, 28]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Amoebic liver abscesses are often referred to as 'anchovy sauce' abscesses.",
+    "reason": "The pus is reddish-brown and thick due to necrotic liver tissue.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "The characteristic appearance of amoebic pus is a key diagnostic feature [29]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the most common primary malignant tumor of the liver?",
+    "options": [
+      "Cholangiocarcinoma",
+      "Hepatoblastoma",
+      "Hepatocellular Carcinoma (HCC)",
+      "Angiosarcoma"
+    ],
+    "answer": "Hepatocellular Carcinoma (HCC)",
+    "explanation": "HCC accounts for approximately 85% of all primary malignant liver tumors [30]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which factors increase the risk of Hepatocellular Carcinoma?",
+    "options": [
+      "Chronic HBV/HCV infection",
+      "Aflatoxin B1 exposure",
+      "Pure cholesterol gallstones",
+      "Cirrhosis"
+    ],
+    "answer": [
+      "Chronic HBV/HCV infection",
+      "Aflatoxin B1 exposure",
+      "Cirrhosis"
+    ],
+    "explanation": "Viral infection, mycotoxins, and cirrhosis are the leading etiologic factors for HCC [27, 31, 32]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "University Level: In the pathogenesis of alcoholic liver disease, which metabolite is primarily responsible for membrane damage and necrosis?",
+    "options": [
+      "Acetate",
+      "Acetaldehyde",
+      "NADH",
+      "NAD"
+    ],
+    "answer": "Acetaldehyde",
+    "explanation": "Acetaldehyde is toxic and forms adducts that cause cytoskeletal and membrane damage [33, 34]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Primary Biliary Cirrhosis (PBC) is predominantly a disease of middle-aged women.",
+    "reason": "The presence of anti-mitochondrial antibodies (AMA) is diagnostic for PBC.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason does not explain Assertion",
+    "explanation": "Both are true, but the presence of an antibody doesn't 'explain' the gender distribution [35]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is 'Caput Medusae' indicative of?",
+    "options": [
+      "Acute Cholecystitis",
+      "Portal Hypertension",
+      "Hepatocellular Carcinoma",
+      "Secondary Biliary Cirrhosis"
+    ],
+    "answer": "Portal Hypertension",
+    "explanation": "Caput medusae refers to dilated subcutaneous veins radiating from the umbilicus, a sign of collateral circulation in portal hypertension [36]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following are complications of gallstones?",
+    "options": [
+      "Gallstone ileus",
+      "Acute pancreatitis",
+      "Biliary fistula",
+      "Budd-Chiari syndrome"
+    ],
+    "answer": [
+      "Gallstone ileus",
+      "Acute pancreatitis",
+      "Biliary fistula"
+    ],
+    "explanation": "Gallstones can cause obstruction in the gut, trigger pancreatitis, or create fistulae [37]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Case Study: A 50-year-old heavy smoker presents with painless, progressive jaundice and weight loss. Examination shows a palpable, non-tender gallbladder (Courvoisier's law). Where is the most likely tumor located?",
+    "options": [
+      "Gallbladder fundus",
+      "Head of the pancreas",
+      "Tail of the pancreas",
+      "Liver Zone 1"
+    ],
+    "answer": "Head of the pancreas",
+    "explanation": "Carcinoma of the head of the pancreas often causes early obstructive jaundice and a palpable gallbladder [38, 39]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Cystic fibrosis is also known as 'mucoviscidosis'.",
+    "reason": "The disease is characterized by thick, viscid mucous secretions in exocrine glands.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "The name reflects the core pathology of the disease [40]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "PLAB/USMLE: A 30-year-old male with ulcerative colitis presents with fatigue and elevated alkaline phosphatase. ERCP shows 'beading' of the bile ducts. What is the diagnosis?",
+    "options": [
+      "Primary Biliary Cirrhosis",
+      "Primary Sclerosing Cholangitis",
+      "Secondary Biliary Cirrhosis",
+      "Amoebic Liver Abscess"
+    ],
+    "answer": "Primary Sclerosing Cholangitis",
+    "explanation": "PSC is strongly associated with inflammatory bowel disease and shows characteristic 'beading' on imaging [41, 42]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which markers are elevated in Acute Pancreatitis?",
+    "options": [
+      "Serum amylase",
+      "Serum lipase",
+      "Alpha-foetoprotein",
+      "Conjugated bilirubin"
+    ],
+    "answer": [
+      "Serum amylase",
+      "Serum lipase"
+    ],
+    "explanation": "Amylase rises within 24 hours, and lipase rises after 3-4 days [43]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Hepatitis D can only infect a patient who already has or simultaneously acquires Hepatitis B.",
+    "reason": "HDV is a defective virus that requires HBsAg for its outer shell.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "The helper function of HBV is essential for HDV infection [44, 45]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Problem Solving: A patient presents with acute liver failure after an intentional overdose of a common painkiller. Which drug is the most likely culprit?",
+    "options": [
+      "Ibuprofen",
+      "Acetaminophen (Paracetamol)",
+      "Aspirin",
+      "Naproxen"
+    ],
+    "answer": "Acetaminophen (Paracetamol)",
+    "explanation": "Acetaminophen is a major cause of massive liver necrosis in overdose situations [46]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following are features of 'Hepatic Encephalopathy'?",
+    "options": [
+      "Flapping tremors (asterixis)",
+      "Disturbed consciousness",
+      "Hyper-reflexia and spasticity",
+      "Reversibility with hepatic transplantation"
+    ],
+    "answer": [
+      "Flapping tremors (asterixis)",
+      "Disturbed consciousness",
+      "Reversibility with hepatic transplantation"
+    ],
+    "explanation": "Encephalopathy is characterized by altered mental status and tremors; advanced cases may respond to transplant [47]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "University Level: What is the primary histological finding in 'Reye’s Syndrome'?",
+    "options": [
+      "Macrovesicular steatosis",
+      "Microvesicular fat droplets",
+      "Massive necrosis",
+      "Pieced-meal necrosis"
+    ],
+    "answer": "Microvesicular fat droplets",
+    "explanation": "Hepatocytes in Reye’s syndrome show small droplets of neutral fat [48]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Alpha-1-antitrypsin deficiency can lead to both liver cirrhosis and pulmonary emphysema.",
+    "reason": "The deficiency results in the lack of a protease inhibitor, leading to tissue destruction.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "The protein normally inhibits destructive proteases in the lungs and liver [49, 50]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "PLAB/USMLE: A 6-month-old infant in rural India presents with rapid liver failure and pericellular fibrosis. No viral cause is found. What is the likely diagnosis?",
+    "options": [
+      "Neonatal Hepatitis",
+      "Indian Childhood Cirrhosis (ICC)",
+      "Wilson's Disease",
+      "Biliary Atresia"
+    ],
+    "answer": "Indian Childhood Cirrhosis (ICC)",
+    "explanation": "ICC is a specific entity seen in children in India, possibly linked to copper from cooking vessels [51, 52]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "What are the common causes of 'Budd-Chiari Syndrome'?",
+    "options": [
+      "Polycythaemia vera",
+      "Oral contraceptives",
+      "Chronic alcoholism",
+      "Intra-abdominal cancers"
+    ],
+    "answer": [
+      "Polycythaemia vera",
+      "Oral contraceptives",
+      "Intra-abdominal cancers"
+    ],
+    "explanation": "Conditions associated with increased thrombotic tendencies lead to hepatic vein thrombosis [53]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Critical Thinking: A doctor assumes a patient's jaundice is 'medical' (intrahepatic) because the patient is a known alcoholic. What bias is this?",
+    "options": [
+      "Availability Bias",
+      "Confirmation Bias",
+      "Anchoring Bias",
+      "Framing Effect"
+    ],
+    "answer": "Anchoring Bias",
+    "explanation": "The doctor 'anchors' on the known history of alcoholism and may miss 'surgical' jaundice caused by an unrelated gallstone [27, 54]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following describes 'Fibrolamellar Carcinoma'?",
+    "options": [
+      "Occurs in young people",
+      "Strongly associated with cirrhosis",
+      "Characterized by polygonal cells separated by fibrous bands",
+      "Better prognosis than typical HCC"
+    ],
+    "answer": [
+      "Occurs in young people",
+      "Characterized by polygonal cells separated by fibrous bands",
+      "Better prognosis than typical HCC"
+    ],
+    "explanation": "This variant occurs in younger patients without cirrhosis and has a more favorable outcome [55, 56]."
+  },
+  {
+    "type": "match_columns",
+    "question": "Match the tumor marker with the associated malignancy:",
+    "left": [
+      "Alpha-foetoprotein (AFP)",
+      "Serum Amylase",
+      "CA 19-9"
+    ],
+    "right": [
+      "Pancreatic Cancer",
+      "Hepatocellular Carcinoma",
+      "Acute Pancreatitis"
+    ],
+    "answer": {
+      "Alpha-foetoprotein (AFP)": "Hepatocellular Carcinoma",
+      "Serum Amylase": "Acute Pancreatitis",
+      "CA 19-9": "Pancreatic Cancer"
+    },
+    "explanation": "These markers are used clinically to aid diagnosis and monitor treatment [43, 57, 58]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Case Study: An 8-year-old child presents with neurologically deterioration and vomiting a week after having the flu and being given aspirin. What is the diagnosis?",
+    "options": [
+      "Hepatitis A",
+      "Wilson's Disease",
+      "Reye's Syndrome",
+      "Crigler-Najjar Syndrome"
+    ],
+    "answer": "Reye's Syndrome",
+    "explanation": "Reye's syndrome typically follows a viral illness modified by salicylate (aspirin) administration [59]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Metastatic tumors in the liver are more common than primary liver tumors.",
+    "reason": "The liver is a frequent site for blood-borne metastases from the GI tract.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "The dual blood supply and drainage from the portal system make the liver a primary 'filter' for cancer cells [60]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is 'Foetor Hepaticus'?",
+    "options": [
+      "A type of liver abscess",
+      "A sweetish pungent smell of the breath",
+      "A genetic hyperbilirubinaemia",
+      "A specific skin change in cirrhosis"
+    ],
+    "answer": "A sweetish pungent smell of the breath",
+    "explanation": "This odor occurs in severe liver disease due to failure to detoxify intestinal sulfur substances [61]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following are features of 'Primary Sclerosing Cholangitis'?",
+    "options": [
+      "Segmental involvement of bile ducts",
+      "Strong association with ulcerative colitis",
+      "Presence of 'anchovy sauce' pus",
+      "Predominance in middle-aged males"
+    ],
+    "answer": [
+      "Segmental involvement of bile ducts",
+      "Strong association with ulcerative colitis",
+      "Predominance in middle-aged males"
+    ],
+    "explanation": "PSC is common in males, linked to IBD, and shows segmental scarring [41, 62, 63]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Problem Solving: A patient has jaundice and clay-coloured stools, but urobilinogen is absent from the urine. What does this indicate?",
+    "options": [
+      "Hepatitis A",
+      "Complete biliary obstruction",
+      "Gilbert's syndrome",
+      "Haemolytic anaemia"
+    ],
+    "answer": "Complete biliary obstruction",
+    "explanation": "Clay-coloured stools and lack of urinary urobilinogen are classic for complete cholestasis [64, 65]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which genes are frequently mutated in Pancreatic Cancer?",
+    "options": [
+      "K-RAS",
+      "CDKN2A",
+      "HFE",
+      "ATP7B"
+    ],
+    "answer": [
+      "K-RAS",
+      "CDKN2A"
+    ],
+    "explanation": "Mutations in K-RAS and CDKN2A are found in almost all cases of pancreatic cancer [66]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the clinical hallmark of 'Gallstone Ileus'?",
+    "options": [
+      "Massive haematemesis",
+      "Intestinal obstruction caused by a large gallstone",
+      "Chronic flatulence",
+      "High serum amylase"
+    ],
+    "answer": "Intestinal obstruction caused by a large gallstone",
+    "explanation": "A large stone can pass into the bowel and cause mechanical obstruction [37]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "University Level: The 'Ground-glass' appearance of hepatocytes is associated with which condition?",
+    "options": [
+      "Alcoholic hepatitis",
+      "HBsAg carrier state",
+      "Wilson's disease",
+      "Reye's syndrome"
+    ],
+    "answer": "HBsAg carrier state",
+    "explanation": "The eosinophilic, granular cytoplasm is indicative of HBsAg abundance [67, 68]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which complication is unique to Chronic Pancreatitis?",
+    "options": [
+      "Courvoisier's law",
+      "Pancreatic pseudocyst",
+      "Hepatopulmonary syndrome",
+      "Bile lakes"
+    ],
+    "answer": "Pancreatic pseudocyst",
+    "explanation": "Pseudocysts are localized collections of juice and debris common after chronic pancreatic inflammation [69, 70]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Biliary atresia is the most common cause of neonatal jaundice requiring surgery.",
+    "reason": "It involves the inflammatory destruction of the bile ducts during the intrauterine or perinatal period.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "The disease is a serious congenital/perinatal anomaly that can often be treated by procedures like Kasai [71, 72]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "PLAB/USMLE: A 45-year-old male presents with skin pigmentation, a large liver, and a blood glucose of 250 mg/dl. What is the most likely diagnosis?",
+    "options": [
+      "Alcoholic Cirrhosis",
+      "Primary Biliary Cirrhosis",
+      "Hereditary Haemochromatosis",
+      "Wilson's Disease"
+    ],
+    "answer": "Hereditary Haemochromatosis",
+    "explanation": "The triad of pigment cirrhosis, diabetes ('bronze diabetes'), and skin pigmentation is classic for iron overload [25]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following are systemic effects of Portal Hypertension?",
+    "options": [
+      "Ascites",
+      "Oesophageal varices",
+      "Kayser-Fleischer rings",
+      "Splenomegaly"
+    ],
+    "answer": [
+      "Ascites",
+      "Oesophageal varices",
+      "Splenomegaly"
+    ],
+    "explanation": "Portal hypertension redirects blood through collaterals and causes fluid accumulation [73]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Critical Thinking: If a patient has a positive 'Troisier's sign', what does this suggest about their GI pathology?",
+    "options": [
+      "They have acute cholecystitis",
+      "They have metastatic spread from a gastric or hepatic cancer",
+      "They are a chronic carrier of HBV",
+      "They have non-cirrhotic portal fibrosis"
+    ],
+    "answer": "They have metastatic spread from a gastric or hepatic cancer",
+    "explanation": "Troisier's sign (enlarged Virchow's node) indicates lymphatic spread of abdominal malignancy [outside chapter but consistent with 'metastatic' logic in sources]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Final Concept: Which specific cell type is primarily responsible for hepatic fibrogenesis by transforming into myofibroblasts?",
+    "options": [
+      "Kupffer cells",
+      "Hepatocytes",
+      "Ito cells (Stellate cells)",
+      "Endothelial cells"
+    ],
+    "answer": "Ito cells (Stellate cells)",
+    "explanation": "The activation of fat-storing Ito cells is the key mechanism for collagen synthesis in the liver [74, 75]."
+  }
+]
+}
