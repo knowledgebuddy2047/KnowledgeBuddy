@@ -1,0 +1,285 @@
+{
+  "quiz":
+
+[
+  {
+    "type": "mcq_single",
+    "question": "Which of the following mosquitoes is the principal vector of Japanese Encephalitis (JE) in rural areas, particularly those with rice fields?",
+    "options": [
+      "Aedes aegypti",
+      "Culex tritaeniorhynchus",
+      "Anopheles stephensi",
+      "Mansonia annulifera"
+    ],
+    "answer": "Culex tritaeniorhynchus",
+    "explanation": "Culex tritaeniorhynchus, a rural mosquito that breeds in rice fields, is the principal vector for Japanese Encephalitis [1, 2]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following viruses are classified as 'Oncogenic DNA viruses' associated with human cancers?",
+    "options": [
+      "Human Papillomavirus (HPV)",
+      "Epstein–Barr Virus (EBV)",
+      "Hepatitis B Virus (HBV)",
+      "Human T-cell Leukemia Virus (HTLV-1)"
+    ],
+    "answer": [
+      "Human Papillomavirus (HPV)",
+      "Epstein–Barr Virus (EBV)",
+      "Hepatitis B Virus (HBV)"
+    ],
+    "explanation": "HPV, EBV, and HBV are all DNA viruses associated with human cancers such as cervical cancer, Burkitt's lymphoma, and hepatocellular carcinoma, respectively [3-5]. HTLV-1 is an oncogenic RNA virus [3, 6]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "A diagnosis of Rabies cannot be excluded solely based on the absence of Negri bodies in the brain.",
+    "reason": "Negri bodies may be absent in about 20% of cases of rabies postmortem.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "While Negri bodies are pathognomonic, they are only demonstrable in about 80% of cases; therefore, their absence does not rule out the disease [7, 8]."
+  },
+  {
+    "type": "match_columns",
+    "question": "Match the Hepatitis virus with its primary mode of transmission:",
+    "left": [
+      "Hepatitis A (HAV)",
+      "Hepatitis B (HBV)",
+      "Hepatitis C (HCV)",
+      "Hepatitis E (HEV)"
+    ],
+    "right": [
+      "Fecal-oral route",
+      "Percutaneous/Sexual/Vertical",
+      "Percutaneous (Primary)",
+      "Fecal-oral (Water-borne epidemics)"
+    ],
+    "answer": {
+      "Hepatitis A (HAV)": "Fecal-oral route",
+      "Hepatitis B (HBV)": "Percutaneous/Sexual/Vertical",
+      "Hepatitis C (HCV)": "Percutaneous (Primary)",
+      "Hepatitis E (HEV)": "Fecal-oral (Water-borne epidemics)"
+    },
+    "explanation": "HAV and HEV are primarily transmitted via the fecal-oral route, while HBV and HCV are blood-borne pathogens [9, 10]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "A 40-year-old male presents with high fever, severe headache, and retro-orbital pain for five days. On examination, a positive tourniquet test is noted. His platelet count is 30,000/mm³. What is the most likely diagnosis?",
+    "options": [
+      "Typhoid fever",
+      "Dengue Hemorrhagic Fever (DHF)",
+      "Chikungunya",
+      "Japanese Encephalitis"
+    ],
+    "answer": "Dengue Hemorrhagic Fever (DHF)",
+    "explanation": "The combination of retro-orbital pain ('break-bone fever' symptoms), thrombocytopenia (30,000/mm³), and a positive tourniquet test are clinical criteria for DHF [11, 12]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "In the 'window period' of HIV infection, which marker is most likely to be detectable in the patient's blood when the antibody test is still negative?",
+    "options": [
+      "anti-gp120",
+      "p24 antigen",
+      "anti-p24",
+      "anti-gp41"
+    ],
+    "answer": "p24 antigen",
+    "explanation": "The p24 antigen is the earliest virus marker to appear in the blood and can be used to detect infection during the window period before antibodies develop [13, 14]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Patients with established Rabies symptoms should be treated with intensive supportive care rather than just sedation.",
+    "reason": "Complete recovery has been demonstrated in rare instances with intensive management of complications.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "Previously considered invariably fatal, recent cases have shown that intensive supportive care can occasionally lead to recovery from established rabies [15]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which serological pattern in Hepatitis B indicates that a patient has successfully developed immunity through vaccination?",
+    "options": [
+      "HBsAg positive, anti-HBc positive",
+      "HBsAg negative, anti-HBs positive, anti-HBc negative",
+      "HBsAg negative, anti-HBs positive, anti-HBc positive",
+      "HBeAg positive, anti-HBe negative"
+    ],
+    "answer": "HBsAg negative, anti-HBs positive, anti-HBc negative",
+    "explanation": "The presence of anti-HBs without any other marker (like anti-HBc) indicates immunity specifically following vaccination [16, 17]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following are clinical features characteristic of Congenital Rubella Syndrome (CRS)?",
+    "options": [
+      "Cataract",
+      "Deafness",
+      "Cardiac defects",
+      "Hydrocephalus"
+    ],
+    "answer": [
+      "Cataract",
+      "Deafness",
+      "Cardiac defects"
+    ],
+    "explanation": "The classic triad of CRS consists of cataract, deafness, and cardiac defects [18, 19]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the primary reason the 'fixed virus' of Rabies is used for vaccine production instead of the 'street virus'?",
+    "options": [
+      "It is more infectious to humans.",
+      "It has a short and fixed incubation period with predictable behavior.",
+      "It produces larger Negri bodies for easier identification.",
+      "It can be transmitted via the respiratory route."
+    ],
+    "answer": "It has a short and fixed incubation period with predictable behavior.",
+    "explanation": "Fixed virus, obtained by serial passages, has a short, fixed incubation period (6-7 days) and is used for vaccine production because of its predictable nature [20]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Post-exposure prophylaxis (PEP) for HIV should be initiated within 72 hours of exposure.",
+    "reason": "The efficacy of PEP is highest if administered within two hours and becomes ineffective after 72 hours.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "NACO guidelines recommend initiating PEP as soon as possible, ideally within 2 hours, and not later than 72 hours post-exposure [21, 22]."
+  },
+  {
+    "type": "match_columns",
+    "question": "Match the Rabies post-exposure risk category with the recommended management:",
+    "left": [
+      "Category I (Touching animals)",
+      "Category II (Minor scratches, no bleeding)",
+      "Category III (Transdermal bites/licks on broken skin)"
+    ],
+    "right": [
+      "None (if history reliable)",
+      "Immediate vaccination",
+      "Immediate rabies immunoglobulin AND vaccine"
+    ],
+    "answer": {
+      "Category I (Touching animals)": "None (if history reliable)",
+      "Category II (Minor scratches, no bleeding)": "Immediate vaccination",
+      "Category III (Transdermal bites/licks on broken skin)": "Immediate rabies immunoglobulin AND vaccine"
+    },
+    "explanation": "Treatment depends on the severity of exposure: Category II requires vaccine, while Category III requires both vaccine and immunoglobulin [23]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "A patient with chronic Hepatitis B is found to be HBeAg positive. What does this marker specifically indicate about the patient's condition?",
+    "options": [
+      "The patient is in the 'window period'.",
+      "The patient has low infectivity.",
+      "The patient has high viral replication and high infectivity.",
+      "The patient has developed immunity."
+    ],
+    "answer": "The patient has high viral replication and high infectivity.",
+    "explanation": "HBeAg is a marker of active intrahepatic viral replication and indicates high infectivity [24, 25]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which of the following describes the 'Von Magnus phenomenon' in virology?",
+    "options": [
+      "The ability of a virus to undergo antigenic shift.",
+      "The formation of incomplete viruses with low infectivity at high doses.",
+      "The transmission of a virus from animal to human.",
+      "The latent period of a slow virus disease."
+    ],
+    "answer": "The formation of incomplete viruses with low infectivity at high doses.",
+    "explanation": "The Von Magnus phenomenon occurs when cells are infected with a high dose of virus, leading to 'incomplete viruses' that have high hemagglutinin titers but low infectivity [15 (Viro source 1)]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "A medical student is accidentally stuck with a needle used on an HIV-positive patient. According to NACO guidelines, what is the 'Exposure Code' if the injury was a deep stick with a hollow-bore needle?",
+    "options": [
+      "EC 1",
+      "EC 2",
+      "EC 3",
+      "EC 4"
+    ],
+    "answer": "EC 3",
+    "explanation": "A deep injury with a hollow-bore needle is classified as the most severe percutaneous exposure, Exposure Code 3 [26]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following statements regarding Hepatitis E (HEV) are correct?",
+    "options": [
+      "It is primarily transmitted via the fecal-oral route.",
+      "It causes high mortality in pregnant women (20-40%).",
+      "Chronic carrier states are commonly seen.",
+      "It is responsible for large water-borne epidemics in India."
+    ],
+    "answer": [
+      "It is primarily transmitted via the fecal-oral route.",
+      "It causes high mortality in pregnant women (20-40%).",
+      "It is responsible for large water-borne epidemics in India."
+    ],
+    "explanation": "HEV is fecal-orally transmitted and known for high fatality in pregnancy and large epidemics; however, no carrier state has been observed [27-29]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "The 17D vaccine for Yellow Fever is mandatory for travelers to endemic areas.",
+    "reason": "India is a Yellow Fever 'receptive' area where the vector Aedes aegypti is prevalent, despite the disease not being currently present.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "India maintains strict vigilance and mandatory vaccination for travelers to prevent the introduction of Yellow Fever into its receptive population [30]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which 'Slow Virus Disease' is a rare delayed sequel to a measles infection, occurring years after the initial illness?",
+    "options": [
+      "Kuru",
+      "Creutzfeldt–Jakob disease (CJD)",
+      "Subacute sclerosing panencephalitis (SSPE)",
+      "Progressive multifocal leucoencephalopathy (PML)"
+    ],
+    "answer": "Subacute sclerosing panencephalitis (SSPE)",
+    "explanation": "SSPE is a rare Group C slow virus disease that occurs as a delayed sequel to measles infection [31, 32]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the primary reservoir for the Kyasanur Forest Disease (KFD) virus in India?",
+    "options": [
+      "Monkeys",
+      "Forest birds and small mammals",
+      "Humans",
+      "Mosquitoes"
+    ],
+    "answer": "Forest birds and small mammals",
+    "explanation": "While monkeys are amplifier hosts that suffer fatal disease, the primary reservoirs are forest birds and small mammals [33, 34]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "A researcher is studying a virus that possesses a double-stranded RNA genome in 10–12 pieces and is non-enveloped. To which family does this virus belong?",
+    "options": [
+      "Togaviridae",
+      "Flaviviridae",
+      "Reoviridae",
+      "Rhabdoviridae"
+    ],
+    "answer": "Reoviridae",
+    "explanation": "The Reoviridae family is unique among animal viruses for having a segmented double-stranded RNA genome [35, 36]."
+  }
+]
+}

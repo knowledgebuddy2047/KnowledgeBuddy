@@ -1,0 +1,264 @@
+{
+  "quiz":
+[
+
+{
+    "type": "mcq_single",
+    "question": "What is the primary mechanism by which the A1 fragment of the cholera toxin (CT) induces profuse watery diarrhea?",
+    "options": [
+      "Inhibition of protein synthesis via EF-2 inactivation",
+      "Prolonged activation of cellular adenylate cyclase and accumulation of cAMP",
+      "Direct damage to the intestinal epithelial cell wall",
+      "Blockage of synaptic inhibition in the spinal cord"
+    ],
+    "answer": "Prolonged activation of cellular adenylate cyclase and accumulation of cAMP",
+    "explanation": "The A1 fragment of cholera toxin causes prolonged activation of adenylate cyclase, leading to cAMP accumulation [1]. This results in the outpouring of large quantities of water and electrolytes into the small intestinal lumen [1]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following are characteristics of the genus Pseudomonas?",
+    "options": [
+      "Gram-negative bacilli",
+      "Obligate anaerobes",
+      "Motile by polar flagella",
+      "Oxidase and catalase positive"
+    ],
+    "answer": [
+      "Gram-negative bacilli",
+      "Motile by polar flagella",
+      "Oxidase and catalase positive"
+    ],
+    "explanation": "Pseudomonas are rod-shaped, Gram-negative bacteria that exhibit motility via polar flagella [2]. They are obligate aerobes (not anaerobes) and test positive for both catalase and oxidase [2]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "The diagnosis of cholera by direct microscopic examination of stool is generally not recommended.",
+    "reason": "Direct microscopy results are often unreliable for a definitive diagnosis.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "The sources state that diagnosis by direct microscopic examination of cholera stool is not recommended because the results are not reliable [3]."
+  },
+  {
+    "type": "match_columns",
+    "question": "Match the following pigments produced by Pseudomonas aeruginosa with their descriptions:",
+    "left": ["Pyocyanin", "Fluorescein (Pyoverdin)", "Pyorubin", "Pyomelanin"],
+    "right": ["Bluish-green, soluble in chloroform", "Greenish-yellow, fluorescent", "Red pigment", "Brown pigment"],
+    "answer": {
+      "Pyocyanin": "Bluish-green, soluble in chloroform",
+      "Fluorescein (Pyoverdin)": "Greenish-yellow, fluorescent",
+      "Pyorubin": "Red pigment",
+      "Pyomelanin": "Brown pigment"
+    },
+    "explanation": "P. aeruginosa produces several pigments: Pyocyanin (bluish-green), Fluorescein (greenish-yellow), Pyorubin (red), and Pyomelanin (brown) [4]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "A 45-year-old farmer presents with sudden onset of fever, difficulty breathing, and hemoptysis. Sputum staining reveals Gram-negative bacilli with a 'safety-pin' appearance. What is the most likely diagnosis?",
+    "options": [
+      "Bubonic Plague",
+      "Pneumonic Plague",
+      "Septicemic Plague",
+      "Melioidosis"
+    ],
+    "answer": "Pneumonic Plague",
+    "explanation": "The clinical case describes a farmer with sudden fever, respiratory distress, and hemoptysis, which are classic symptoms of pneumonic plague [5]. The 'safety-pin' or bipolar staining is characteristic of Yersinia pestis [5, 6]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which growth factor(s) are required by Haemophilus influenzae for cultivation on laboratory media?",
+    "options": [
+      "X factor only",
+      "V factor only",
+      "Both X and V factors",
+      "Neither X nor V factor"
+    ],
+    "answer": "Both X and V factors",
+    "explanation": "H. influenzae is characterized by its requirement for both X (hemin) and V (NAD/NADP) accessory growth factors present in blood [7, 8]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Acellular pertussis vaccines are now preferred over whole-cell vaccines in most countries.",
+    "reason": "Acellular vaccines cause far fewer adverse reactions, especially in older children.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "Acellular vaccines containing protective components like PT and FHA are used in most countries because they cause far fewer reactions compared to whole-cell vaccines [9]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "In the context of Brucellosis diagnosis, what does the 'Castaneda method' specifically refer to?",
+    "options": [
+      "A type of skin hypersensitivity test",
+      "A biphasic culture system using both liquid and solid media in one bottle",
+      "A rapid dipstick assay for IgM antibodies",
+      "A method for staining milk samples for bacilli"
+    ],
+    "answer": "A biphasic culture system using both liquid and solid media in one bottle",
+    "explanation": "The Castaneda method uses a biphasic blood culture bottle containing both liquid (broth) and solid (agar) media to minimize manipulation and contamination risks [10, 11]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which stage of Whooping Cough is characterized by the highest level of infectivity but is the most difficult to diagnose clinically?",
+    "options": [
+      "Paroxysmal stage",
+      "Convalescent stage",
+      "Catarrhal stage",
+      "Incubation period"
+    ],
+    "answer": "Catarrhal stage",
+    "explanation": "Clinical diagnosis in the catarrhal stage is difficult, yet this is the stage of maximum infectivity and when antibiotic treatment is most effective [12]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following statements regarding Vibrio parahaemolyticus are true?",
+    "options": [
+      "It is a halophilic organism requiring high NaCl concentrations",
+      "It produces yellow colonies on TCBS agar",
+      "The Kanagawa phenomenon is used to identify pathogenic strains",
+      "It is a major cause of food poisoning associated with marine food"
+    ],
+    "answer": [
+      "It is a halophilic organism requiring high NaCl concentrations",
+      "The Kanagawa phenomenon is used to identify pathogenic strains",
+      "It is a major cause of food poisoning associated with marine food"
+    ],
+    "explanation": "V. parahaemolyticus is halophilic [13] and causes food poisoning associated with marine food [14]. Pathogenic strains are identified by the Kanagawa phenomenon (hemolysis on high salt blood agar) [15]. It produces green colonies on TCBS, whereas V. cholerae produces yellow colonies [16]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "A 6-month-old infant presents with fever, seizures, and neck rigidity. CSF microscopy shows Gram-negative coccobacilli, and a latex agglutination test is positive for Hib. What is the most appropriate next step in clinical decision-making?",
+    "options": [
+      "Wait for culture results before starting antibiotics",
+      "Start immediate treatment with ceftriaxone",
+      "Administer the Hib vaccine immediately",
+      "Isolate the patient and provide supportive care only"
+    ],
+    "answer": "Start immediate treatment with ceftriaxone",
+    "explanation": "In a case of suspected pyogenic meningitis in an infant (suggested by fever, seizures, and Gram-negative coccobacilli), immediate antibiotic therapy is required; ceftriaxone or cefotaxime are the drugs of choice [17, 18]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "A person with blood group O is considered more susceptible to cholera than those with blood group AB.",
+    "reason": "Cholera toxin binds more effectively to the intestinal receptors of group O individuals.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Assertion is true, Reason is false",
+    "explanation": "It is true that group O persons are the most susceptible and group AB the least, but the reason for this difference in susceptibility is currently unknown [19]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "A patient with cystic fibrosis develops a fatal necrotizing pneumonia. Culture of sputum shows an oxidase-positive, nutritionally versatile Gram-negative rod that can use penicillin G as its sole carbon source. What is the organism?",
+    "options": [
+      "Pseudomonas aeruginosa",
+      "Stenotrophomonas maltophilia",
+      "Burkholderia cepacia",
+      "Haemophilus influenzae"
+    ],
+    "answer": "Burkholderia cepacia",
+    "explanation": "Burkholderia cepacia is recognized as an opportunist pathogen in cystic fibrosis patients, causing fatal necrotizing pneumonia [20]. It is nutritionally versatile and can even use penicillin G as a carbon source [20]."
+  },
+  {
+    "type": "match_columns",
+    "question": "Match the following Yersinia species with their primary disease manifestations:",
+    "left": ["Yersinia pestis", "Yersinia enterocolitica", "Yersinia pseudotuberculosis"],
+    "right": ["Bubonic, Pneumonic, and Septicemic Plague", "Gastroenteritis, mesenteric adenitis mimicking appendicitis", "Nodules mimicking tuberculosis in animals; rare human infection"],
+    "answer": {
+      "Yersinia pestis": "Bubonic, Pneumonic, and Septicemic Plague",
+      "Yersinia enterocolitica": "Gastroenteritis, mesenteric adenitis mimicking appendicitis",
+      "Yersinia pseudotuberculosis": "Nodules mimicking tuberculosis in animals; rare human infection"
+    },
+    "explanation": "Y. pestis causes plague [6]. Y. enterocolitica causes gastroenteritis and mesenteric adenitis [21]. Y. pseudotuberculosis produces nodules in animals and rare human infections [22, 23]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "A laboratory worker accidentally inhales aerosols during a procedure and later develops undulant fever, drenching sweats, and extreme fatigue. Which diagnostic test would be most helpful if blood cultures remain negative?",
+    "options": [
+      "Widal test",
+      "Standard Agglutination Test (SAT)",
+      "Voges-Proskauer test",
+      "String test"
+    ],
+    "answer": "Standard Agglutination Test (SAT)",
+    "explanation": "Brucellosis, often presenting as undulant fever, is commonly diagnosed via the Standard Agglutination Test (SAT) when cultures are unsuccessful [24, 25]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which of the following clinical features is a common pitfall in diagnosing acute Brucellosis, leading to its frequent misidentification as 'Pyrexia of Unknown Origin' (PUO)?",
+    "options": [
+      "The presence of a characteristic 'safety-pin' rash",
+      "The non-specific nature of signs like loss of appetite and anemia",
+      "The rapid onset of visible buboes",
+      "The presence of rice-water diarrhea"
+    ],
+    "answer": "The non-specific nature of signs like loss of appetite and anemia",
+    "explanation": "Diagnosis of Brucellosis often depends on a high degree of suspicion because it presents with non-specific signs like fever, loss of appetite, and anemia, leading to its classification as PUO [24]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "In the 'Piracy of Adhesins' phenomenon, which organism's hemagglutinins facilitate the secondary infection of respiratory epithelium by other bacteria?",
+    "options": [
+      "Vibrio cholerae",
+      "Bordetella pertussis",
+      "Yersinia pestis",
+      "Brucella melitensis"
+    ],
+    "answer": "Bordetella pertussis",
+    "explanation": "B. pertussis produces FHA and PT hemagglutinins that promote secondary infection by coating other bacteria like H. influenzae and assisting their binding to respiratory epithelium—a phenomenon known as piracy of adhesins [26]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "A positive SAT titre of 1:160 or more is considered significant for brucellosis.",
+    "reason": "The SAT mainly identifies IgG antibodies which are the first to appear in acute infection.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Assertion is true, Reason is false",
+    "explanation": "A titre of 160 or more is significant [25]. However, the reason is false because the SAT mainly identifies IgM antibodies, not IgG [27]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the clinical significance of the 'String Test' in microbiology?",
+    "options": [
+      "To detect the capsule of Haemophilus influenzae",
+      "To separate Vibrio species from Aeromonas and Plesiomonas",
+      "To identify the toxin of Bordetella pertussis",
+      "To diagnose pneumonic plague from sputum"
+    ],
+    "answer": "To separate Vibrio species from Aeromonas and Plesiomonas",
+    "explanation": "The string test is used to separate Vibrio spp. from Aeromonas spp. and P. shigelloides [28]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "A patient with a burn injury develops 'blue pus' at the site of the wound. Which antibiotic sensitivity is a known clinical application for treating such cases topically?",
+    "options": [
+      "Susceptibility to penicillin G",
+      "Sensitivity to silver salts (silver sulphonamide)",
+      "Resistance to tetracycline",
+      "Susceptibility to chlorine"
+    ],
+    "answer": "Sensitivity to silver salts (silver sulphonamide)",
+    "explanation": "P. aeruginosa is sensitive to silver salts, and this susceptibility has been applied clinically through the use of silver sulphonamide compounds as topical cream for burns [29]."
+  }
+
+    ]
+}

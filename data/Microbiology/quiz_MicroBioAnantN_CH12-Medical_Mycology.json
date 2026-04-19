@@ -1,0 +1,254 @@
+{
+  "quiz":
+
+[
+  {
+    "type": "mcq_single",
+    "question": "Which component of the fungal cell wall distinguishes it from the cell walls of bacteria and other prokaryotes?",
+    "options": ["Peptidoglycan", "Chitin", "Cholesterol", "Cellulose"],
+    "answer": "Chitin",
+    "explanation": "Fungi possess a rigid cell wall containing chitin, mannan, and other polysaccharides, unlike bacteria which contain peptidoglycan [1, 2]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following fungi are classified as 'Thermally Dimorphic'?",
+    "options": [
+      "Histoplasma capsulatum",
+      "Cryptococcus neoformans",
+      "Sporothrix schenckii",
+      "Candida albicans"
+    ],
+    "answer": ["Histoplasma capsulatum", "Sporothrix schenckii"],
+    "explanation": "Dimorphic fungi like Histoplasma and Sporothrix grow as filamentous forms at 22-25°C and as yeast forms at 37°C in tissues [3-6]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "The incidence of opportunistic fungal infections has increased significantly in developed countries.",
+    "reason": "Widespread use of modern medical advances such as broad-spectrum antibiotics, steroids, and immunosuppressive agents has compromised host defenses.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "Modern advances in treatment like antibiotics and steroids have reportedly led to an increase in opportunistic fungal infections [7, 8]."
+  },
+  {
+    "type": "match_columns",
+    "question": "Match the specific fungal structures/bodies with their associated disease or organism:",
+    "left": [
+      "Sclerotic bodies",
+      "Asteroid body",
+      "Negri bodies",
+      "Tuberculate spores"
+    ],
+    "right": [
+      "Chromomycosis",
+      "Sporotrichosis",
+      "Viral Rabies (Distractor)",
+      "Histoplasma capsulatum"
+    ],
+    "answer": {
+      "Sclerotic bodies": "Chromomycosis",
+      "Asteroid body": "Sporotrichosis",
+      "Negri bodies": "Viral Rabies (Distractor)",
+      "Tuberculate spores": "Histoplasma capsulatum"
+    },
+    "explanation": "Sclerotic bodies are diagnostic for Chromomycosis [9, 10]; Asteroid bodies are found in Sporotrichosis [11, 12]; and Tuberculate macroconidia are characteristic of H. capsulatum [6, 13, 14]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Critical Thinking Focus: A clinician uses the term 'dermatomycosis' interchangeably with 'dermatophytosis'. Why is this considered a clinical reasoning pitfall?",
+    "options": [
+      "Dermatophytosis only refers to infections by yeasts like Candida.",
+      "Dermatomycosis is a broader term including skin lesions by non-dermatophyte fungi like Candida.",
+      "They are exactly the same; there is no pitfall.",
+      "Dermatophytosis refers only to systemic fungal infections with skin manifestations."
+    ],
+    "answer": "Dermatomycosis is a broader term including skin lesions by non-dermatophyte fungi like Candida.",
+    "explanation": "The term dermatophytosis should not be confused with dermatomycosis, which refers to skin lesions produced by other fungi such as Candida albicans or cutaneous manifestations of systemic mycoses [15, 16]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Case Study: A 9-year-old boy presents with discolored toenails of four months' duration. Microscopy in 20% KOH shows thin septate hyphae. Culture on SDA with cycloheximide yields a colony with a red pigment on the reverse. What is the most likely pathogen?",
+    "options": [
+      "Microsporum canis",
+      "Epidermophyton floccosum",
+      "Trichophyton rubrum",
+      "Candida albicans"
+    ],
+    "answer": "Trichophyton rubrum",
+    "explanation": "T. rubrum is the most common pathogen in onychomycosis and is characterized by a velvety colony with a red pigment on the reverse [17-19]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "In a suspected case of Tinea capitis, which diagnostic tool would provide a bright greenish-yellow fluorescence if the infection is caused by Microsporum species?",
+    "options": ["Gram Stain", "India Ink", "Wood's Lamp", "Calcofluor White"],
+    "answer": "Wood's Lamp",
+    "explanation": "Under Wood's lamp (ultraviolet light), skin or hair infected by Microsporum species will fluoresce a bright greenish-yellow [20, 21]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "USMLE Pattern: A 45-year-old farmer in India presents with multiple painless, discharging sinuses on his foot. The discharge contains 'granules'. Microscopy of the granules shows very thin (<1 µm) filaments. What is the most appropriate management approach?",
+    "options": [
+      "Amphotericin B only",
+      "Surgical debridement and Dapsone/Sulfonamides",
+      "Ketoconazole and Griseofulvin",
+      "Excision of the polyp"
+    ],
+    "answer": "Surgical debridement and Dapsone/Sulfonamides",
+    "explanation": "The thin filaments suggest Actinomycetoma (bacterial origin). Management involves surgery and medical therapy with dapsone, sulfonamides, or cotrimoxazole [12, 22, 23]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following are characteristics of the opportunistic fungus Cryptococcus neoformans?",
+    "options": [
+      "It is heavily encapsulated.",
+      "It produces germ tubes in human serum.",
+      "It is frequently found in pigeon droppings.",
+      "It causes meningitis, especially in AIDS patients."
+    ],
+    "answer": [
+      "It is heavily encapsulated.",
+      "It is frequently found in pigeon droppings.",
+      "It causes meningitis, especially in AIDS patients."
+    ],
+    "explanation": "C. neoformans is encapsulated, found in pigeon droppings, and is a common cause of meningitis in AIDS patients [24-27]. Germ tubes are characteristic of Candida albicans [27, 28]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Problem-Solving: A patient with poorly controlled diabetes mellitus presents with a rapid-onset, invasive infection of the nose, orbit, and brain. Microscopy of a biopsy shows broad, non-septate hyphae with right-angle branching. What is the diagnosis?",
+    "options": [
+      "Invasive Aspergillosis",
+      "Rhino-orbito-cerebral Zygomycosis",
+      "Systemic Candidiasis",
+      "Histoplasmosis"
+    ],
+    "answer": "Rhino-orbito-cerebral Zygomycosis",
+    "explanation": "Zygomycosis (Mucormycosis) is characterized by broad, non-septate hyphae and is a fatal complication often seen in poorly controlled diabetics [8, 29, 30]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which fungal infection is specifically characterized by the 'mariner's wheel' or 'pilot's wheel' appearance of the yeast phase in tissue?",
+    "options": [
+      "Blastomycosis",
+      "Paracoccidioidomycosis",
+      "Coccidioidomycosis",
+      "Sporotrichosis"
+    ],
+    "answer": "Paracoccidioidomycosis",
+    "explanation": "The yeast phase of Paracoccidioides brasiliensis shows multiple buds encircling the mother cell, resembling a mariner's wheel [6, 31, 32]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "The diagnosis of Rhinosporidiosis is primarily based on histopathology rather than culture.",
+    "reason": "Rhinosporidium seeberi has not yet been successfully cultivated in artificial culture media.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "Rhinosporidiosis diagnosis is histological (showing large spherules with endospores) because the organism cannot be grown in culture [33, 34]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Critical Thinking (Assumption): Why might a single negative India ink preparation of CSF be insufficient to rule out Cryptococcal meningitis in an AIDS patient?",
+    "options": [
+      "The capsule is only present in the mould phase.",
+      "India ink is only 50-80% sensitive; antigen detection (Latex Agglutination) is more reliable.",
+      "India ink only works for non-pathogenic cryptococci.",
+      "The fungus is too small to see without an electron microscope."
+    ],
+    "answer": "India ink is only 50-80% sensitive; antigen detection (Latex Agglutination) is more reliable.",
+    "explanation": "While India ink is a classic test, antigen detection by latex agglutination is highly valuable and often more sensitive for diagnosing cryptococcal meningitis [24, 35]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "PLAB Style Case: A 30-year-old woman with AIDS develops a dry cough, exertional dyspnea, and fever. Chest X-ray shows bilateral interstitial infiltrates. The organism cannot be cultured. Silver stain of induced sputum reveals crushed-cup shaped cysts. What is the drug of choice?",
+    "options": [
+      "Fluconazole",
+      "Amphotericin B",
+      "Trimethoprim-sulfamethoxazole (TMP-SMX)",
+      "Griseofulvin"
+    ],
+    "answer": "Trimethoprim-sulfamethoxazole (TMP-SMX)",
+    "explanation": "The description fits Pneumocystis jirovecii pneumonia (PCP). The treatment of choice is TMP-SMX [36, 37]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following statements regarding the mechanism of action of antifungal agents are true?",
+    "options": [
+      "Polyenes (e.g., Amphotericin B) bind to sterols in the cell membrane.",
+      "Azoles inhibit the biosynthesis of ergosterol.",
+      "Echinocandins inhibit the synthesis of beta-glucan in the cell wall.",
+      "Grisans (e.g., Griseofulvin) inhibit DNA and RNA synthesis."
+    ],
+    "answer": [
+      "Polyenes (e.g., Amphotericin B) bind to sterols in the cell membrane.",
+      "Azoles inhibit the biosynthesis of ergosterol.",
+      "Echinocandins inhibit the synthesis of beta-glucan in the cell wall."
+    ],
+    "explanation": "Polyenes bind to sterols; Azoles inhibit ergosterol biosynthesis; Echinocandins inhibit beta-glucan synthesis [38, 39]. Griseofulvin inhibits microtubule assembly, not DNA/RNA synthesis [39]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Problem-Solving: In differentiating Trichophyton rubrum from Trichophyton mentagrophytes, which test relies on the production of wedge-shaped erosion of the hair shaft?",
+    "options": [
+      "Urease Test",
+      "Hair Perforation Test",
+      "Wood's Lamp Examination",
+      "Germ Tube Test"
+    ],
+    "answer": "Hair Perforation Test",
+    "explanation": "T. mentagrophytes causes surface erosion of the hair shaft in an in vitro hair perforation test, whereas T. rubrum does not [21, 40]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "University Level: Which type of hypersensitivity reaction is primarily responsible for 'Allergic Bronchopulmonary Aspergillosis' (ABPA)?",
+    "options": [
+      "Type I only",
+      "Type III only",
+      "Combined Type I and Type III",
+      "Type IV (Delayed-type)"
+    ],
+    "answer": "Combined Type I and Type III",
+    "explanation": "ABPA is provoked by a hypersensitivity reaction which can be Type I, Type III, or a combination of both [41-43]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Bias Recognition: A clinician assumes that a patient with 'sulphur granules' in a jaw lesion must have a fungal infection. Why is this a bias?",
+    "options": [
+      "Sulphur granules only occur in viral infections.",
+      "Sulphur granules are characteristic of Actinomycosis, which is caused by filamentous bacteria, not fungi.",
+      "Sulphur granules are only found in the soil, never in human tissue.",
+      "The clinician is correct; it is always a fungus."
+    ],
+    "answer": "Sulphur granules are characteristic of Actinomycosis, which is caused by filamentous bacteria, not fungi.",
+    "explanation": "Actinomyces israelii (a bacterium) causes 'lumpy jaw' and produces characteristic sulphur granules, which can be mistaken for a fungal mycetoma if clinical reasoning is biased [44, 45]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which of the following is the most common culture medium used in medical mycology, typically adjusted to an acidic pH to inhibit bacterial growth?",
+    "options": [
+      "Blood Agar",
+      "MacConkey Agar",
+      "Sabouraud Dextrose Agar (SDA)",
+      "Lowenstein-Jensen Medium"
+    ],
+    "answer": "Sabouraud Dextrose Agar (SDA)",
+    "explanation": "SDA is the most common culture medium used in mycology, often with an acidic pH of 5.4 [46-48]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Case Study: An agricultural worker presents with a warty, cauliflower-like nodule on his leg that has developed over years. Histology shows round, dark brown, thick-walled cells with septae. What are these structures called?",
+    "options": ["Asteroid bodies", "Sclerotic bodies", "Negri bodies", "Donovan bodies"],
+    "answer": "Sclerotic bodies",
+    "explanation": "These are sclerotic bodies (also called copper-penny bodies), which are diagnostic for Chromoblastomycosis [9, 10]."
+  }
+]
+}

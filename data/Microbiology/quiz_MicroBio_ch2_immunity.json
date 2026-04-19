@@ -1,0 +1,856 @@
+{
+  "quiz": [
+    {
+      "question": "Which of the following is a characteristic feature of innate immunity?",
+      "options": ["It is highly specific", "It is enhanced by repeated contact", "It is present from birth", "It involves immunological memory"],
+      "answer": "It is present from birth",
+      "explanation": "Innate immunity is the resistance an individual possesses by virtue of his or her genetic and constitutional make-up and is not affected by prior contact [1, 2]."
+    },
+    {
+      "question": "Which immunoglobulin is the only one capable of crossing the placental barrier?",
+      "options": ["IgM", "IgA", "IgG", "IgE"],
+      "answer": "IgG",
+      "explanation": "IgG is the only maternal immunoglobulin that is normally transported across the placenta, providing natural passive immunity to the newborn [3, 4]."
+    },
+    {
+      "question": "A substance that is not immunogenic by itself but becomes so when coupled with a carrier protein is called a/an:",
+      "options": ["Adjuvant", "Hapten", "Epitope", "Superantigen"],
+      "answer": "Hapten",
+      "explanation": "Haptens are substances incapable of inducing antibody formation by themselves but can react specifically with antibodies; they become immunogenic on combining with a larger molecular carrier [5, 6]."
+    },
+    {
+      "question": "Which of the following is known as the 'Millionaire Molecule' due to its high molecular weight?",
+      "options": ["IgG", "IgA", "IgM", "IgD"],
+      "answer": "IgM",
+      "explanation": "IgM is a heavy molecule (19 S) with a molecular weight of 900,000 to 1,000,000, hence it is often called the 'millionaire molecule' [7]."
+    },
+    {
+      "question": "The classical complement pathway is typically activated by:",
+      "options": ["Endotoxins", "Zymosan", "Antigen-antibody complexes", "Mannose-binding lectin"],
+      "answer": "Antigen-antibody complexes",
+      "explanation": "The classical pathway is activated by antigen-antibody interaction, specifically involving IgM or certain subclasses of IgG [8, 9]."
+    },
+    {
+      "question": "Which condition is characterized by congenital aplasia of the thymus leading to deficient cell-mediated immunity?",
+      "options": ["Bruton's disease", "DiGeorge syndrome", "Wiskott-Aldrich syndrome", "Nezelof syndrome"],
+      "answer": "DiGeorge syndrome",
+      "explanation": "DiGeorge syndrome (thymic hypoplasia) involves a developmental defect of the third and fourth pharyngeal pouches, resulting in aplasia of the thymus and deficient CMI [10, 11]."
+    },
+    {
+      "question": "The 'Prozone Phenomenon' in serological tests is caused by:",
+      "options": ["Excess antigen", "Excess antibody", "Optimal antigen-antibody ratio", "Lack of electrolytes"],
+      "answer": "Excess antibody",
+      "explanation": "The prozone phenomenon occurs when there is an excess of antibody in the test system, leading to a failure of visible reaction due to inhibition of lattice formation [12]."
+    },
+    {
+      "question": "Which cell is the primary antibody-secreting cell in the immune system?",
+      "options": ["T lymphocyte", "Natural Killer cell", "Plasma cell", "Macrophage"],
+      "answer": "Plasma cell",
+      "explanation": "The majority of activated B cells are transformed into plasma cells, which are structurally designed to be antibody-secreting factories [13, 14]."
+    },
+    {
+      "question": "Type I hypersensitivity reactions are primarily mediated by which class of antibody?",
+      "options": ["IgG", "IgM", "IgA", "IgE"],
+      "answer": "IgE",
+      "explanation": "Type I (anaphylactic) reactions are IgE-dependent; these antibodies are fixed on the surface of mast cells and basophils [15, 16]."
+    },
+    {
+      "question": "Which molecule acts as the C3 convertase in the classical complement pathway?",
+      "options": ["C1q", "C4b2a", "C3bBb", "C5b67"],
+      "answer": "C4b2a",
+      "explanation": "In the classical pathway, C4b2a has enzymatic activity and is referred to as the classical pathway C3 convertase [17]."
+    },
+    {
+      "question": "Regarding the ABO blood group system, which group is known as the 'Universal Donor'?",
+      "options": ["Group A", "Group B", "Group AB", "Group O"],
+      "answer": "Group O",
+      "explanation": "Group O red cells carry no A or B antigens and can theoretically be transfused into recipients of any group, making them universal donors [18, 19]."
+    },
+    {
+      "question": "The 'White Graft Response' in transplantation is an example of:",
+      "options": ["First set rejection", "Second set rejection", "Hyperacute rejection", "Chronic rejection"],
+      "answer": "Hyperacute rejection",
+      "explanation": "When a graft is applied to an animal possessing specific antibodies in high titres, hyperacute rejection occurs where the graft remains pale and is rejected within hours; this is the white graft response [20]."
+    },
+    {
+      "question": "Which cytokine is known as the 'T cell growth factor' and is essential for T cell proliferation?",
+      "options": ["IL-1", "IL-2", "IL-6", "TNF-alpha"],
+      "answer": "IL-2",
+      "explanation": "Interleukin-2 (IL-2) was discovered as a T cell growth factor (TCGF) that induces T cell proliferation and enables their maintenance in culture [21]."
+    },
+    {
+      "question": "Superantigens differ from conventional antigens because they:",
+      "options": ["Require processing by APCs", "Bind to the MHC-binding groove", "Activate T cells irrespective of their specificity", "Only activate B cells"],
+      "answer": "Activate T cells irrespective of their specificity",
+      "explanation": "Superantigens activate very large numbers of T cells irrespective of their antigenic specificity by binding outside the antibody-binding groove directly to the TCR beta chain [22, 23]."
+    },
+    {
+      "question": "Which immunoglobulin is the main component of local or mucosal immunity?",
+      "options": ["IgG", "Secretory IgA", "IgM", "IgE"],
+      "answer": "Secretory IgA",
+      "explanation": "A special class of immunoglobulins (IgA), specifically secretory IgA, forms the main component of local immunity on mucosal surfaces [24, 25]."
+    },
+    {
+      "question": "Hemolytic disease of the newborn (Erythroblastosis fetalis) most commonly occurs when:",
+      "options": ["Mother is Rh+, Fetus is Rh-", "Mother is Rh-, Fetus is Rh+", "Mother is Group A, Fetus is Group O", "Mother is Rh-, Fetus is Rh-"],
+      "answer": "Mother is Rh-, Fetus is Rh+",
+      "explanation": "The disease occurs when an Rh-negative mother carries an Rh-positive fetus; maternal Rh antibodies pass to the fetus and damage its erythrocytes [26, 27]."
+    },
+    {
+      "question": "Which of the following is a primary lymphoid organ?",
+      "options": ["Spleen", "Lymph node", "Bone marrow", "MALT"],
+      "answer": "Bone marrow",
+      "explanation": "The primary (central) lymphoid organs are the thymus and bone marrow, where lymphocytes undergo maturation [28, 29]."
+    },
+    {
+      "question": "The secondary immune response is characterized by:",
+      "options": ["Longer latent period", "Predominance of IgM", "Higher antibody affinity", "Lower antibody levels than primary"],
+      "answer": "Higher antibody affinity",
+      "explanation": "Compared to the primary response, the secondary response has a shorter latent period, higher antibody levels (mainly IgG), and higher antibody affinity [30, 31]."
+    },
+    {
+      "question": "The 'LE cell' phenomenon is a diagnostic feature often found in:",
+      "options": ["Rheumatoid Arthritis", "Systemic Lupus Erythematosus", "Myasthenia Gravis", "Hashimoto’s disease"],
+      "answer": "Systemic Lupus Erythematosus",
+      "explanation": "The first immunological feature identified in SLE was the LE cell phenomenon, where a neutrophil contains a large, pale, homogeneous body [32]."
+    },
+    {
+      "question": "Which of the following is an 'immunologically privileged site'?",
+      "options": ["Liver", "Spleen", "Cornea", "Kidney"],
+      "answer": "Cornea",
+      "explanation": "Any site impenetrable to immunocompetent cells, such as the cornea or cartilage, is considered an immunologically privileged site [33, 34]."
+    },
+    {
+      "question": "The MHC Class II molecules are found only on the surface of:",
+      "options": ["All nucleated cells", "Red blood cells", "Antigen-presenting cells", "Platelets"],
+      "answer": "Antigen-presenting cells",
+      "explanation": "HLA Class II antigens are more restricted in distribution, being found only on cells of the immune system like macrophages, dendritic cells, and B cells [35, 36]."
+    },
+    {
+      "question": "Which test is considered the 'gold standard' or definitive test for the serodiagnosis of HIV?",
+      "options": ["ELISA", "Agglutination", "Western Blot", "Radial immunodiffusion"],
+      "answer": "Western Blot",
+      "explanation": "The western blot test (immunoelectroblot) is considered the definitive/confirmatory test for the serodiagnosis of HIV infection [37, 38]."
+    },
+    {
+      "question": "In the context of autoimmunity, 'Molecular Mimicry' refers to:",
+      "options": ["B cells mimicking T cells", "Sharing of epitopes between microbes and self-antigens", "Production of monoclonal antibodies", "Activation of forbidden clones"],
+      "answer": "Sharing of epitopes between microbes and self-antigens",
+      "explanation": "Molecular mimicry occurs when epitopes of infecting microorganisms have identical peptide sequences to self-antigens, leading to an autoimmune response [39, 40]."
+    },
+    {
+      "question": "Bruton's agammaglobulinemia is a primary immunodeficiency that primarily affects:",
+      "options": ["T cells only", "B cells only", "Both B and T cells", "Phagocytic function"],
+      "answer": "B cells only",
+      "explanation": "Bruton's disease (X-linked agammaglobulinemia) is a humoral immunodeficiency where B cells and plasma cells are absent, but CMI (T cells) is not affected [41, 42]."
+    },
+    {
+      "question": "Which component of the complement system is the most powerful anaphylatoxin and chemotactic agent?",
+      "options": ["C3b", "C4a", "C5a", "C1q"],
+      "answer": "C5a",
+      "explanation": "C3a and C5a are anaphylatoxins, with C5a being a very potent mediator of inflammation and chemotaxis [43, 44]."
+    },
+    {
+      "question": "A graft taken from an individual and placed on another individual of the same genetic constitution (e.g., identical twins) is a/an:",
+      "options": ["Autograft", "Isograft", "Allograft", "Xenograft"],
+      "answer": "Isograft",
+      "explanation": "An isograft is a graft made between identical twins or syngeneic members of highly inbred strains [45, 46]."
+    },
+    {
+      "question": "Which of the following describes 'Adjuvants'?",
+      "options": ["Specific antigens", "Substances that enhance immunogenicity", "Antibody fragments", "Self-antigens"],
+      "answer": "Substances that enhance immunogenicity",
+      "explanation": "Adjuvants are substances that enhance the immunogenicity of an antigen and increase the concentration and persistence of antibodies [47, 48]."
+    },
+    {
+      "question": "The 'Bombay Blood Group' is unique because it lacks which antigen?",
+      "options": ["Antigen A", "Antigen B", "Antigen H", "Antigen D"],
+      "answer": "Antigen H",
+      "explanation": "In the Bombay or OH blood group, A, B, and H antigens are all absent from the red cells [49, 50]."
+    },
+    {
+      "question": "Delayed hypersensitivity (Type IV) is mediated by:",
+      "options": ["IgE antibodies", "IgG antibodies", "Sensitised T cells", "Complement system"],
+      "answer": "Sensitised T cells",
+      "explanation": "Type IV is a cell-mediated response involving specifically sensitised CD4 and CD8 T cells that release lymphokines [51, 52]."
+    },
+    {
+      "question": "Which of the following cells are part of the 'Null cell' population?",
+      "options": ["Plasma cells", "Helper T cells", "Natural Killer (NK) cells", "Macrophages"],
+      "answer": "Natural Killer (NK) cells",
+      "explanation": "Null cells are lymphocytes that lack T or B cell markers; the most important member is the Natural Killer (NK) cell [53, 54]."
+    },
+    {
+      "question": "The main mediator of muscle fatigue in Myasthenia Gravis is an antibody against:",
+      "options": ["Thyroglobulin", "Intrinsic factor", "Acetylcholine receptor", "DNA"],
+      "answer": "Acetylcholine receptor",
+      "explanation": "In Myasthenia gravis, an antibody against the acetylcholine receptor on myoneural junctions prevents muscular contraction [55, 56]."
+    },
+    {
+      "question": "Which laboratory technique uses radioisotopes to measure minute quantities of antigens or antibodies?",
+      "options": ["ELISA", "Western Blot", "Radioimmunoassay (RIA)", "Flow cytometry"],
+      "answer": "Radioimmunoassay (RIA)",
+      "explanation": "RIA is a highly sensitive competitive binding assay using radioisotopes to detect analytes up to picogram quantities [57, 58]."
+    },
+    {
+      "question": "The major histocompatibility complex (MHC) genes in humans are located on which chromosome?",
+      "options": ["Chromosome 1", "Chromosome 6", "Chromosome 15", "Chromosome 21"],
+      "answer": "Chromosome 6",
+      "explanation": "The HLA (Human Leukocyte Antigen) complex of genes is located on the short arm of chromosome 6 [59, 60]."
+    },
+    {
+      "question": "Which enzyme deficiency is associated with a form of Severe Combined Immunodeficiency (SCID)?",
+      "options": ["G6PD", "Myeloperoxidase", "Adenosine deaminase (ADA)", "NADPH oxidase"],
+      "answer": "Adenosine deaminase (ADA)",
+      "explanation": "ADA deficiency is the first immunodeficiency disease associated with an enzyme deficiency and results in SCID [61, 62]."
+    },
+    {
+      "question": "Toll-like receptors (TLRs) are important in innate immunity because they:",
+      "options": ["Secrete antibodies", "Recognize unique molecular patterns in microbes", "Mature in the thymus", "Fix complement"],
+      "answer": "Recognize unique molecular patterns in microbes",
+      "explanation": "TLRs are pattern recognition receptors that recognize unique molecular patterns (PAMPs) shared by pathogens but not the host [63, 64]."
+    },
+    {
+      "question": "The 'Rh factor' was originally named after which animal?",
+      "options": ["Rabbit", "Horse", "Rhesus monkey", "Guinea pig"],
+      "answer": "Rhesus monkey",
+      "explanation": "The antigen was called the 'Rhesus' or Rh factor because it reacted with rabbit antiserum to Rhesus monkey erythrocytes [65]."
+    },
+    {
+      "question": "Arthus reaction is a clinical example of which type of hypersensitivity?",
+      "options": ["Type I", "Type II", "Type III", "Type IV"],
+      "answer": "Type III",
+      "explanation": "The Arthus reaction is a local manifestation of Type III (immune complex) hypersensitivity caused by antigen-antibody precipitates [16, 66]."
+    },
+    {
+      "question": "Which cells provide 'immunological surveillance' against virus-infected and malignant cells?",
+      "options": ["B cells", "NK cells", "Neutrophils", "Eosinophils"],
+      "answer": "NK cells",
+      "explanation": "Natural killer (NK) cells are important in non-specific defense and immune surveillance against viral infections and tumors [67, 68]."
+    },
+    {
+      "question": "Which immunoglobulin exists as a pentamer in its secreted form?",
+      "options": ["IgG", "IgA", "IgM", "IgE"],
+      "answer": "IgM",
+      "explanation": "IgM molecules are polymers of five four-peptide subunits (pentamers) held together by a J chain [7]."
+    },
+    {
+      "question": "Graft-versus-host (GVH) reaction occurs when:",
+      "options": ["Host rejects the graft", "Graft contains immunocompetent T cells that attack the host", "Graft lacks blood supply", "Host has no antibodies"],
+      "answer": "Graft contains immunocompetent T cells that attack the host",
+      "explanation": "GVH occurs when the graft contains immunocompetent T cells that mount an immune response against the antigens of a recipient who cannot reject the graft [69, 70]."
+    },
+    {
+      "question": "Which antibody is primarily involved in 'Serum Sickness'?",
+      "options": ["IgE", "IgA", "IgG", "IgD"],
+      "answer": "IgG",
+      "explanation": "Serum sickness is a systemic Type III hypersensitivity where IgG/IgM antibodies form complexes that deposit in blood vessels [16, 71]."
+    },
+    {
+      "question": "The process of 'Class Switching' in B cells refers to:",
+      "options": ["Switching from T cells to B cells", "Changing the specificity of the paratope", "Changing the constant region to express different Ig classes", "Moving from the marrow to the spleen"],
+      "answer": "Changing the constant region to express different Ig classes",
+      "explanation": "Class switching allows the H-chain VDJ unit to join any constant heavy gene segment to express different antibody classes like IgG or IgA [72, 73]."
+    },
+    {
+      "question": "Nitroblue tetrazolium (NBT) test is used to diagnose:",
+      "options": ["SCID", "Chronic Granulomatous Disease", "DiGeorge Syndrome", "Bruton's disease"],
+      "answer": "Chronic Granulomatous Disease",
+      "explanation": "The NBT test is a screening method for Chronic Granulomatous Disease, as leukocytes from these patients fail to reduce the dye during phagocytosis [74]."
+    },
+    {
+      "question": "Which blood group is considered the 'Universal Recipient'?",
+      "options": ["Group O", "Group A", "Group B", "Group AB"],
+      "answer": "Group AB",
+      "explanation": "Group AB individuals have neither anti-A nor anti-B antibodies in their serum and can accept blood of any group [27, 75]."
+    },
+    {
+      "question": "Wiskott-Aldrich syndrome is characterized by which triad?",
+      "options": ["Eczema, Thrombocytopenia, Recurrent infections", "Fever, Rash, Joint pain", "Anemia, Jaundice, Splenomegaly", "Diarrhea, Candidiasis, Pneumonia"],
+      "answer": "Eczema, Thrombocytopenia, Recurrent infections",
+      "explanation": "Wiskott-Aldrich syndrome is an X-linked disease with the triad of eczema, thrombocytopenic purpura, and recurrent infections [76, 77]."
+    },
+    {
+      "question": "The 'Eichwald-Silmser effect' refers to graft rejection based on:",
+      "options": ["ABO incompatibility", "Rh incompatibility", "Y-chromosome linked antigens", "Bacterial contamination"],
+      "answer": "Y-chromosome linked antigens",
+      "explanation": "This refers to the rejection of male tissue (XY) by a female recipient (XX) of the same inbred strain due to Y-chromosome antigens [78]."
+    },
+    {
+      "question": "Which of the following is a 'Secondary' lymphoid organ?",
+      "options": ["Thymus", "Bone marrow", "Spleen", "Bursa of Fabricius"],
+      "answer": "Spleen",
+      "explanation": "Secondary (peripheral) lymphoid organs include the spleen, lymph nodes, and MALT [28, 29]."
+    },
+    {
+      "question": "A positive 'Schick Test' indicates:",
+      "options": ["Immunity to Diphtheria", "Susceptibility to Diphtheria", "Active Tuberculosis", "Type I Hypersensitivity"],
+      "answer": "Susceptibility to Diphtheria",
+      "explanation": "The Schick test indicates susceptibility or immunity to diphtheria based on the ability to neutralize the toxin [79, 80]."
+    },
+    {
+      "question": "Which cytokine is a major proinflammatory marker produced by TH17 cells?",
+      "options": ["IL-4", "IL-10", "IL-17", "IFN-gamma"],
+      "answer": "IL-17",
+      "explanation": "TH17 cells produce cytokine IL-17 and promote inflammation in autoimmune diseases and cancer [81, 82]."
+    },
+    {
+      "question": "The term 'Opsonization' refers to:",
+      "options": ["Antibody production", "Enhancing phagocytosis", "Lysis by complement", "T-cell maturation"],
+      "answer": "Enhancing phagocytosis",
+      "explanation": "Opsonization is a process that facilitates the uptake and destruction of pathogens by phagocytic cells [83, 84]."
+    },
+    {
+      "question": "A 9-month-old male infant presents with his third episode of pyogenic bacterial pneumonia in four months. Lab tests show serum IgG levels at less than 10% of normal, while IgA and IgM are less than 1% of normal. A lymph node biopsy reveals a lack of germinal centres and a depletion of B cells. What is the most likely diagnosis?",
+      "options": [
+        "DiGeorge Syndrome",
+        "Bruton's X-linked agammaglobulinemia",
+        "Common Variable Immunodeficiency",
+        "Severe Combined Immunodeficiency (SCID)"
+      ],
+      "answer": "Bruton's X-linked agammaglobulinemia",
+      "explanation": "This clinical picture is characteristic of Bruton's disease, which is seen only in male infants and manifests after maternal antibodies wane (around 6 months) as recurrent infections with pyogenic bacteria due to a failure of B cell maturation [1-4]."
+    },
+    {
+      "question": "A neonate born with Tetralogy of Fallot and low-set ears develops tetany shortly after birth. Chest X-ray fails to show a thymic shadow. Lab results confirm profound lymphopenia. Which of the following immune functions is likely to be preserved in this patient?",
+      "options": [
+        "Graft rejection",
+        "Delayed hypersensitivity response",
+        "Primary humoral response to most antigens",
+        "Resistance to viral and fungal infections"
+      ],
+      "answer": "Primary humoral response to most antigens",
+      "explanation": "In DiGeorge syndrome (thymic hypoplasia), the immunodeficiency primarily involves cell-mediated immunity (T cells), while the humoral immune mechanism (B cells/antibodies) remains largely unaffected [5, 6]."
+    },
+    {
+      "question": "A 45-year-old farmer is rushed to the ER with sudden shortness of breath, a pounding headache, and hives after being stung by a bee. He has a history of two previous stings. This acute reaction is primarily mediated by which of the following?",
+      "options": [
+        "IgG and complement activation",
+        "Antigen-antibody complex deposition in vessels",
+        "Sensitised T cells releasing lymphokines",
+        "Allergen cross-linking IgE on mast cells"
+      ],
+      "answer": "Allergen cross-linking IgE on mast cells",
+      "explanation": "This is a classic case of systemic anaphylaxis (Type I Hypersensitivity). It occurs when an allergen cross-links IgE molecules already fixed to the surface of mast cells, leading to the release of vasoactive amines like histamine [7-10]."
+    },
+    {
+      "question": "An Rh-negative woman gives birth to her second child, who is Rh-positive. The newborn develops severe jaundice and is diagnosed with erythroblastosis fetalis. Why was the first child likely unaffected?",
+      "options": [
+        "The first child was also Rh-negative",
+        "Maternal IgM antibodies cannot cross the placenta",
+        "Sensitisation typically occurs during delivery of the first child",
+        "The mother's immune system was in a 'negative phase' during the first pregnancy"
+      ],
+      "answer": "Sensitisation typically occurs during delivery of the first child",
+      "explanation": "In Rh incompatibility, the mother is usually sensitised only during the delivery of the first Rh-positive child when fetal cells enter maternal circulation in large numbers. Subsequent pregnancies then face the risk of IgG antibodies crossing the placenta [11, 12]."
+    },
+    {
+      "question": "A 27-year-old woman presents with joint pain in her hands and a 'malar rash' across her cheeks. Lab tests show a positive anti-dsDNA antibody. This condition is an example of which hypersensitivity mechanism?",
+      "options": [
+        "Type I (IgE-mediated)",
+        "Type II (Cytotoxic)",
+        "Type III (Immune complex-mediated)",
+        "Type IV (Delayed-type)"
+      ],
+      "answer": "Type III (Immune complex-mediated)",
+      "explanation": "Systemic Lupus Erythematosus (SLE) is a multisystem autoimmune disease where tissue damage is largely caused by the deposition of antigen-antibody (immune) complexes, characteristic of Type III hypersensitivity [13-15]."
+    },
+    {
+      "question": "A 5-year-old boy has a history of recurrent skin abscesses and granulomatous infections with Staphylococcus aureus. Lab tests show that his neutrophils can phagocytose bacteria but fail to reduce nitroblue tetrazolium (NBT) dye. What is the fundamental defect?",
+      "options": [
+        "Deficiency of C3 component of complement",
+        "Lack of L-selectin on leucocytes",
+        "Failure of the respiratory burst and H2O2 production",
+        "Defective fusion of phagosomes with lysosomes"
+    ],
+      "answer": "Failure of the respiratory burst and H2O2 production",
+      "explanation": "Chronic Granulomatous Disease is a defect in phagocytic killing where diminished oxygen consumption and H2O2 production prevent the destruction of catalase-positive bacteria like Staphylococci. The NBT test is used for screening [16-18]."
+    },
+    {
+      "question": "A patient complaining of drooping eyelids (ptosis) and muscle fatigue that worsens with use and improves with rest is found to have antibodies against the acetylcholine receptor. This disease is associated with which of the following?",
+      "options": [
+        "Atrophy of the adrenal glands",
+        "Thymic hyperplasia and germinal centres",
+        "Degeneration of the myelin sheath",
+        "Achlorhydria and atrophic gastritis"
+      ],
+      "answer": "Thymic hyperplasia and germinal centres",
+      "explanation": "In Myasthenia Gravis, autoantibodies block acetylcholine receptors. The thymus in these patients characteristically shows lymphoid hyperplasia and numerous germinal centres [19, 20]."
+    },
+    {
+      "question": "A 35-year-old male with a persistent cough and night sweats has an indurated, red nodule 15 mm in diameter 48 hours after an intradermal injection of tuberculin. This skin reaction is mediated by:",
+      "options": [
+        "Preformed histamine in mast cells",
+        "Circulating IgM antibodies",
+        "Sensitised CD4 and CD8 T cells",
+        "Activation of the alternative complement pathway"
+      ],
+      "answer": "Sensitised CD4 and CD8 T cells",
+      "explanation": "The tuberculin test is the paradigm for Type IV (Delayed) Hypersensitivity. It is a cell-mediated response involving the activation of sensitised T cells and subsequent macrophage accumulation at the site 48–72 hours later [21-23]."
+    },
+    {
+      "question": "Ten days after receiving a dose of horse-derived diphtheria antitoxin, a patient develops fever, joint pain, and urticaria. Which of the following is true regarding this condition?",
+      "options": [
+        "It is caused by IgE fixed to mast cells",
+        "The plasma concentration of complement will be low",
+        "It is a localized manifestation of hypersensitivity",
+        "A second injection will result in a faster 'white graft' response"
+      ],
+      "answer": "The plasma concentration of complement will be low",
+      "explanation": "This is Serum Sickness (Type III). During the reaction, the plasma concentration of complement falls because it is being massivly fixed and activated by the circulating antigen-antibody complexes [24-26]."
+    },
+    {
+      "question": "A 40-year-old male receives a kidney transplant. On the seventh postoperative day, he develops fever and tenderness over the graft site, and his creatinine levels rise. A biopsy shows lymphocytic infiltration. This reaction is primarily:",
+      "options": [
+        "Mediated by pre-existing antibodies",
+        "A Type I hypersensitivity reaction",
+        "A first-set response mediated by T lymphocytes",
+        "Due to the presence of 'dangerous O group' plasma"
+      ],
+      "answer": "A first-set response mediated by T lymphocytes",
+      "explanation": "Acute allograft rejection (the 'first-set response') typically becomes evident around day 4–10 and is brought about almost exclusively by T lymphocytes [27, 28]."
+    },
+    {
+      "question": "A patient with symptoms of hyperthyroidism (weight loss, tachycardia, bulging eyes) is found to have an IgG antibody that stimulates the thyroid membrane antigen. What is this antibody called?",
+      "options": [
+        "Rheumatoid factor",
+        "Anti-Sm antibody",
+        "Long-acting thyroid stimulator (LATS)",
+        "Bence Jones protein"
+      ],
+      "answer": "Long-acting thyroid stimulator (LATS)",
+      "explanation": "In Graves' disease (Thyrotoxicosis), the LATS (an IgG antibody) binds to the thyroid cell surface receptors and stimulates excessive hormone secretion, representing Type V hypersensitivity [29, 30]."
+    },
+    {
+      "question": "A gardener develops an itchy, vesicular rash on his hands two days after weeding. This reaction is a characteristic example of:",
+      "options": [
+        "Atopy",
+        "Arthus reaction",
+        "Contact dermatitis",
+        "Cutaneous anaphylaxis"
+      ],
+      "answer": "Contact dermatitis",
+      "explanation": "Contact dermatitis is a Type IV delayed hypersensitivity reaction provoked by skin contact with chemicals or plant allergens. It typically evolves slowly and consists of a mixed cellular reaction [30-32]."
+    },
+    {
+      "question": "A infant with recurrent infections is diagnosed with Adenosine Deaminase (ADA) deficiency. This enzyme deficiency is most commonly associated with which syndrome?",
+      "options": [
+        "DiGeorge Syndrome",
+        "Severe Combined Immunodeficiency (SCID)",
+        "Wiskott-Aldrich Syndrome",
+        "Hereditary Angioneurotic Edema"
+      ],
+      "answer": "Severe Combined Immunodeficiency (SCID)",
+      "explanation": "ADA deficiency is the first immunodeficiency disease associated with an enzyme deficiency and is a major cause of autosomal recessive SCID, affecting both B and T cell function [33, 34]."
+    },
+    {
+      "question": "A 4-year-old boy presents with eczema, a low platelet count (thrombocytopenia), and recurrent infections. His serum IgM is low, but IgG and IgA are normal. This triad is diagnostic of:",
+      "options": [
+        "Nezelof Syndrome",
+        "Ataxia Telangiectasia",
+        "Wiskott-Aldrich Syndrome",
+        "Chediak-Higashi Syndrome"
+      ],
+      "answer": "Wiskott-Aldrich Syndrome",
+      "explanation": "Wiskott-Aldrich is an X-linked disease characterized by the triad of eczema, thrombocytopenic purpura, and recurrent infections. IgM is typically low [35, 36]."
+    },
+    {
+      "question": "A 20-year-old male suffers from recurrent episodes of swelling of the face, larynx, and abdominal wall. He is found to have a genetic deficiency of the C1 inhibitor. This condition is known as:",
+      "options": [
+        "Paroxysmal nocturnal hemoglobinuria",
+        "Hereditary angioedema",
+        "Serum sickness",
+        "Arthus phenomenon"
+      ],
+      "answer": "Hereditary angioedema",
+      "explanation": "Deficiency of the C1 inhibitor (C1INH) leads to hereditary angioedema, characterized by episodic edema due to the unrestrained activation of C1 and release of C2 kinin [37, 38]."
+    },
+    {
+      "question": "Following a sore throat caused by Streptococcus pyogenes, a 10-year-old child develops hematuria and hypertension. This is due to 'nephritogenic' strains of the bacteria sharing antigens with the renal glomeruli. This mechanism of autoimmunity is:",
+      "options": [
+        "Sequestration of antigens",
+        "Molecular mimicry",
+        "Polyclonal B cell activation",
+        "Cessation of tolerance in 'forbidden clones'"
+      ],
+      "answer": "Molecular mimicry",
+      "explanation": "Molecular mimicry occurs when epitopes on infecting microorganisms are identical to self-antigens. Streptococcal M proteins share characteristics with heart muscle and renal glomeruli, leading to cross-reactive damage [39]."
+    },
+    {
+      "question": "An Rh-negative woman is given anti-Rh (D) IgG immediately after the delivery of her first Rh-positive child. What is the immunological purpose of this administration?",
+      "options": [
+        "To provide 'instant' passive immunity to the baby",
+        "To suppress the mother's own antibody synthesis via feedback inhibition",
+        "To prevent 'immunological enhancement' of the tumor",
+        "To induce 'specific immunological tolerance' in the newborn"
+      ],
+      "answer": "To suppress the mother's own antibody synthesis via feedback inhibition",
+      "explanation": "Passively administered IgG suppresses homologous antibody synthesis by a feedback process. In Rh-negative women, this prevents the immune response to the Rhesus factor from being initiated by fetal cells during delivery [40, 41]."
+    },
+    {
+      "question": "A patient with a history of recurrent Neisseria meningitidis infections is found to have a genetic deficiency in the C5, C6, C7, and C8 components of complement. Which process is primarily impaired?",
+      "options": [
+        "Opsonization of bacteria",
+        "Chemotaxis of neutrophils",
+        "Formation of the Membrane Attack Complex (MAC)",
+        "Degranulation of mast cells via anaphylatoxins"
+      ],
+      "answer": "Formation of the Membrane Attack Complex (MAC)",
+      "explanation": "The MAC (C5b-C9) is essential for lysing thin-walled bacteria like Neisseria. Deficiencies in these late components specifically predispose patients to such bacteremic infections [37, 42, 43]."
+    },
+    {
+      "question": "A 10-year-old boy in Africa presents with a large jaw tumor. The tumor cells are found to be 'super-sensitised' to cytokines. The researcher knows that some microbial proteins can activate large numbers of T cells irrespective of their antigenic specificity. These are called:",
+      "options": [
+        "Haptens",
+        "Isoantigens",
+        "Superantigens",
+        "Heterophile antigens"
+      ],
+      "answer": "Superantigens",
+      "explanation": "Superantigens (like Staphylococcal enterotoxins) bind directly to the lateral aspect of the TCR β chain and activate massive numbers of T lymphocytes, leading to a profound release of cytokines [44, 45]."
+    },
+    {
+      "question": "In the human immune system, which molecule is responsible for presenting processed intracellular viral peptides to CD8+ cytotoxic T cells?",
+      "options": [
+        "MHC Class I",
+        "MHC Class II",
+        "Toll-like Receptor 4",
+        "CD3 complex"
+      ],
+      "answer": "MHC Class I",
+      "explanation": "HLA Class I antigens (A, B, and C) are found on virtually all nucleated cells and present peptides to CD8 T cells. The T cell will only recognize the antigen when it is complexed with MHC Class I (MHC restriction) [46-48]."
+    },
+    {
+      "question": "Which cell type is considered 'natural' or 'non-immune' because its cytotoxicity does not require sensitisation by prior antigenic contact and is not MHC-restricted?",
+      "options": [
+        "Helper T cell (TH)",
+        "Cytotoxic T cell (TC)",
+        "B lymphocyte",
+        "Natural Killer (NK) cell"
+      ],
+      "answer": "Natural Killer (NK) cell",
+      "explanation": "NK cells provide non-specific defense against viral infections and tumors. Their activity is 'natural' and they do not require prior contact or MHC restriction for their cytotoxicity [49, 50]."
+    },
+    {
+      "question": "A small molecule, like picryl chloride, cannot induce an immune response on its own but becomes immunogenic when combined with a larger protein carrier. This molecule is a:",
+      "options": [
+        "Complete antigen",
+        "Hapten",
+        "Superantigen",
+        "Paratope"
+      ],
+      "answer": "Hapten",
+      "explanation": "Haptens are substances incapable of inducing antibody formation by themselves but can react with antibodies once produced. They become immunogenic only after combining with a carrier molecule [51, 52]."
+    },
+    {
+      "question": "A researcher is studying the 'millionaire molecule,' which is the earliest immunoglobulin synthesized by the fetus and the oldest phylogenetically. Which class is this?",
+      "options": [
+        "IgG",
+        "IgA",
+        "IgM",
+        "IgE"
+      ],
+      "answer": "IgM",
+      "explanation": "IgM is called the 'millionaire molecule' because of its high molecular weight (19 S). It is the earliest antibody to be synthesized by the fetus (around 20 weeks) [53, 54]."
+    },
+    {
+      "question": "A mother is encouraged to breastfeed her newborn because colostrum is rich in which immunoglobulin that provides protection against respiratory and intestinal pathogens?",
+      "options": [
+        "Monomeric IgG",
+        "Secretory IgA",
+        "Pentameric IgM",
+        "IgE"
+      ],
+      "answer": "Secretory IgA",
+      "explanation": "Secretory IgA (SIgA) is the major immunoglobulin in colostrum, saliva, and tears. It plays a critical role in local immunity against pathogens on mucosal surfaces [55-57]."
+    },
+    {
+      "question": "A patient with suspected HIV is given a screening test that detects antibodies by adsorbing inactivated HIV antigen onto microassay plate wells. This test is an:",
+      "options": [
+        "Indirect ELISA",
+        "Sandwich ELISA",
+        "Western Blot",
+        "Radioimmunoassay"
+      ],
+      "answer": "Indirect ELISA",
+      "explanation": "The detection of antibody (like anti-HIV) by ELISA where the antigen is adsorbed onto the plate and the test serum is added is an 'Indirect ELISA' [58, 59]."
+    },
+    {
+      "question": "Which diagnostic technique separates bacterial or viral proteins by electrophoresis before identifying them with specific radiolabelled antibodies, and is used as the confirmatory test for HIV?",
+      "options": [
+        "Northern Blot",
+        "Southern Blot",
+        "Western Blot",
+        "Flow Cytometry"
+      ],
+      "answer": "Western Blot",
+      "explanation": "The Western Blot (immunoelectroblot) technique combines electrophoresis with the specificity of enzyme immunoassay and is the definitive confirmatory test for HIV [60-62]."
+    },
+    {
+      "question": "A patient is monitored for their CD4+ T cell count to track the progression of AIDS. Which technique allows for the identification and enumeration of these cells by suspending them in a stream and passing them through a laser beam?",
+      "options": [
+        "Radial immunodiffusion",
+        "Immunochromatographic test",
+        "Flow cytometry",
+        "Chemiluminescence immunoassay"
+      ],
+      "answer": "Flow cytometry",
+      "explanation": "Flow cytometry is used to identify and count cells bearing particular markers (like CD4 and CD8) by hydrodynamic focussing and laser light reflection [62-64]."
+    },
+    {
+      "question": "A laboratory technician wants to assess the 'opsonic index' of a patient's blood. What is the technician measuring?",
+      "options": [
+        "The concentration of IgE in the serum",
+        "The ratio of phagocytic activity for a given bacterium compared to normal blood",
+        "The time taken for a skin lesion to appear after tuberculin injection",
+        "The highest dilution of serum that shows a visible reaction"
+      ],
+      "answer": "The ratio of phagocytic activity for a given bacterium compared to normal blood",
+      "explanation": "The opsonic index is defined as the ratio of the phagocytic activity of the patient’s blood for a given bacterium to the phagocytic activity of blood from a normal individual [65]."
+    },
+    {
+      "question": "Which component of the complement system acts as a potent anaphylatoxin (histamine releasing) and is also a strong chemotactic factor for neutrophils?",
+      "options": [
+        "C3b",
+        "C5a",
+        "C1q",
+        "C4b2a"
+      ],
+      "answer": "C5a",
+      "explanation": "C3a and C5a are anaphylatoxins. C5a is additionally a powerful chemotactic factor that attracts leukocytes to the site of inflammation [66, 67]."
+    },
+    {
+      "question": "In the alternative pathway of complement, which serum protein is responsible for stabilizing the extremely labile C3 convertase (C3b,Bb)?",
+      "options": [
+        "Properdin (Factor P)",
+        "Factor D",
+        "Factor H",
+        "C1 esterase inhibitor"
+      ],
+      "answer": "Properdin (Factor P)",
+      "explanation": "The function of properdin (Factor P) in the alternative pathway is to stabilize the C3 convertase (C3b,Bb), which otherwise decays very rapidly [68, 69]."
+    },
+    {
+      "question": "After an emergency splenectomy following a car accident, an adult patient is at an increased risk for which clinical complication?",
+      "options": [
+        "Chronic graft rejection",
+        "Immediate anaphylactic shock to all vaccines",
+        "Bacteremia, particularly with encapsulated organisms",
+        "Total failure of all T cell-mediated responses"
+      ],
+      "answer": "Bacteremia, particularly with encapsulated organisms",
+      "explanation": "While less severe in adults than in children, splenectomy leads to a loss of the systemic filter for bloodborne antigens, increasing the risk of bacterial infections (bacteremia) [70, 71]."
+    },
+    {
+      "question": "Which of the following describes the process of 'thymic selection' during T cell maturation?",
+      "options": [
+        "Production of plasma cells in Hassall's corpuscles",
+        "Elimination of T cells capable of reacting with self-antigens",
+        "Maturation of B cells in the outer cortex",
+        "Migration of CD7+ cells to the bone marrow"
+      ],
+      "answer": "Elimination of T cells capable of reacting with self-antigens",
+      "explanation": "Thymic selection involves the education of T cells. Cells capable of recognizing self-antigen-MHC complexes are induced to undergo apoptosis to ensure self-tolerance [72, 73]."
+    },
+    {
+      "question": "In the primary immune response to an antigen, which feature is typically observed when compared to the secondary response?",
+      "options": [
+        "A very short lag period of 1–3 days",
+        "Predominance of IgG antibodies",
+        "Antibodies have a higher affinity for the antigen",
+        "The latent period is longer, usually 4–10 days"
+      ],
+      "answer": "The latent period is longer, usually 4–10 days",
+      "explanation": "The primary response has a longer lag period (4–10 days) and lower antibody levels (mostly IgM) compared to the secondary response, which is faster and produces high levels of IgG [74-76]."
+    },
+    {
+      "question": "A scientist uses Kohler and Milstein's technology to fuse an antibody-forming spleen cell with a myeloma cell. What is the resulting cell called?",
+      "options": [
+        "Null cell",
+        "Hybridoma",
+        "LAK cell",
+        "Armed macrophage"
+      ],
+      "answer": "Hybridoma",
+      "explanation": "Hybridomas are somatic cell hybrids produced by fusing antibody-forming spleen cells with myeloma cells. They are used for the large-scale production of monoclonal antibodies [77]."
+    },
+    {
+      "question": "When a killed bacterial vaccine is given to a patient, an agent is often added to enhance its immunogenicity and prolong the antigenic stimulus. This agent is known as an:",
+      "options": [
+        "Isotype",
+        "Allotype",
+        "Adjuvant",
+        "Idiotype"
+      ],
+      "answer": "Adjuvant",
+      "explanation": "An adjuvant is any substance that enhances the immunogenicity of an antigen, often by delaying its release and prolonging the stimulus (e.g., aluminum hydroxide) [78-80]."
+    },
+    {
+      "question": "Which cytokine is produced by macrophages, acts as an important endogenous pyrogen, and is responsible for many of the hematological changes in septic shock?",
+      "options": [
+        "Interleukin-2 (IL-2)",
+        "Interferon-gamma",
+        "Interleukin-1 (IL-1)",
+        "TGF-beta"
+      ],
+      "answer": "Interleukin-1 (IL-1)",
+      "explanation": "IL-1 is an important endogenous pyrogen. Together with TNF, it is responsible for the systemic manifestations of septic shock [81, 82]."
+    },
+    {
+      "question": "If a person suffers a penetrating injury to one eye, the lens protein—normally hidden from the immune system—may leak out and trigger an immune response that damages the other eye. This is an example of autoimmunity due to:",
+      "options": [
+        "Molecular mimicry",
+        "Sequestered antigens",
+        "Genetic predisposition linked to HLA-B27",
+        "Polyclonal B cell activation"
+      ],
+      "answer": "Sequestered antigens",
+      "explanation": "Sequestered antigens are self-antigens present in closed systems (like the lens of the eye or sperm) that are not accessible to the immune apparatus. Leakage leads to an immune response because tolerance was never established [83, 84]."
+    },
+    {
+      "question": "A patient with a history of recurrent respiratory infections and steatorrhea is found to have a selective deficiency in the most common immunoglobulin class found in normal populations. Which class is it?",
+      "options": [
+        "IgG",
+        "IgM",
+        "IgA",
+        "IgE"
+      ],
+      "answer": "IgA",
+      "explanation": "Isolated IgA deficiency is the most common selective immunoglobulin deficiency. Affected patients exhibit increased susceptibility to respiratory and gastrointestinal infections [85, 86]."
+    },
+    {
+      "question": "A bone marrow transplant recipient develops a fatal syndrome characterized by emaciation, diarrhea, and liver enlargement. This occurs because the graft contains immunocompetent T cells that attack the host. This is called:",
+      "options": [
+        "Hyperacute rejection",
+        "First-set rejection",
+        "Graft-versus-host (GVH) reaction",
+        "The Eichwald-Silmser effect"
+      ],
+      "answer": "Graft-versus-host (GVH) reaction",
+      "explanation": "The GVH reaction occurs when a graft containing immunocompetent T cells is injected into a recipient who cannot reject it, leading to a condition also known as 'runt disease' [87, 88]."
+    },
+    {
+      "question": "A serum sample from a patient with hepatic carcinoma is tested for an antigen that is normally produced by embryonic hepatocytes but is hardly detectable in healthy adults. This 'oncofetal' antigen is:",
+      "options": [
+        "Carcinoembryonic antigen (CEA)",
+        "Prostate-specific antigen (PSA)",
+        "Alpha fetoprotein (AFP)",
+        "CA125"
+      ],
+      "answer": "Alpha fetoprotein (AFP)",
+      "explanation": "Alpha fetoprotein is an oncofetal antigen found in embryonic cells and malignant hepatomas. It is a useful diagnostic marker for hepatic carcinoma [89-91]."
+    },
+    {
+      "question": "The Wassermann reaction, formerly the routine method for the serodiagnosis of syphilis, is an example of which type of serological test?",
+      "options": [
+        "Precipitation test",
+        "Agglutination test",
+        "Complement Fixation Test (CFT)",
+        "Neutralisation test"
+      ],
+      "answer": "Complement Fixation Test (CFT)",
+      "explanation": "The Wassermann reaction is the classical example of a CFT, used to detect syphilitic antibodies by measuring the fixation of guinea pig complement [92, 93]."
+    },
+    {
+      "question": "During the process of phagocytosis, which component of the complement system 'coats' the microbe to facilitate its uptake by macrophages?",
+      "options": [
+        "C1q",
+        "C3b",
+        "C5a",
+        "C2 kinin"
+      ],
+      "answer": "C3b",
+      "explanation": "C3b acts as an opsonin. Phagocytic cells have receptors (CR1) for C3b, which facilitate the uptake and destruction of pathogens [94, 95]."
+    },
+    {
+      "question": "A 30-year-old male with chronic back pain and stiffness is found to be positive for the HLA-B27 antigen. He is at a significantly higher risk for which condition?",
+      "options": [
+        "Rheumatoid arthritis",
+        "Systemic lupus erythematosus",
+        "Ankylosing spondylitis",
+        "Graves' disease"
+      ],
+      "answer": "Ankylosing spondylitis",
+      "explanation": "There is a strong genetic association between certain HLA types and diseases. HLA-B27 is highly associated with ankylosing spondylitis [48, 96]."
+    },
+    {
+      "question": "In a clinical lab, a technician observes that a serum sample from a patient with a severe infection causes red blood cells to form stacks (rouleaux) that sediment rapidly. This is due to an increase in which acute-phase protein?",
+      "options": [
+        "Albumin",
+        "Lactoferrin",
+        "Fibrinogen",
+        "Transferrin"
+      ],
+      "answer": "Fibrinogen",
+      "explanation": "During an inflammatory response, the liver produces acute-phase proteins. Fibrinogen binds to red cells, causing them to sediment more rapidly, which is the basis for the ESR test [97, 98]."
+    },
+    {
+      "question": "An infant is protected against many infections during the first few months of life primarily by which mechanism?",
+      "options": [
+        "Active synthesis of IgM by the fetal spleen",
+        "Natural passive immunity via maternal IgG crossing the placenta",
+        "Presence of high levels of IgE in the colostrum",
+        "Early maturation of the thymus-dependent paracortical areas"
+      ],
+      "answer": "Natural passive immunity via maternal IgG crossing the placenta",
+      "explanation": "Maternal IgG is the only immunoglobulin that normally crosses the placenta, providing natural passive immunity to the newborn until its own immune system matures [99, 100]."
+    },
+    {
+      "question": "A titration of a patient's serum fails to show a visible precipitation reaction in the first few tubes where the antibody is in excess, but shows a clear reaction in later dilutions. This failure in the initial tubes is called the:",
+      "options": [
+        "Post-zone phenomenon",
+        "Zone of equivalence",
+        "Prozone phenomenon",
+        "Lattice inhibition"
+      ],
+      "answer": "Prozone phenomenon",
+      "explanation": "The prozone phenomenon occurs when excess antibody inhibits the formation of the large antigen-antibody lattice required for visible precipitation or agglutination [101, 102]."
+    },
+    {
+      "question": "A woman with Rh-incompatible pregnancy is screened for Rh antibodies at 32 weeks. Which test, performed in vitro to detect red cells sensitised with antibody globulin, is the most sensitive method?",
+      "options": [
+        "Direct Coombs test",
+        "Indirect Coombs test",
+        "Rose-Waaler test",
+        "Weil-Felix reaction"
+      ],
+      "answer": "Indirect Coombs test",
+      "explanation": "The indirect Coombs test is used for the antenatal screening of Rh-negative women to detect anti-Rh antibodies in their serum [103-105]."
+    },
+    {
+      "question": "A newborn with hemolytic disease has its red blood cells tested for the presence of maternal antibodies already coated on their surface. Which test is used?",
+      "options": [
+        "Direct Coombs test",
+        "Indirect Coombs test",
+        "Widal test",
+        "Elek test"
+      ],
+      "answer": "Direct Coombs test",
+      "explanation": "The direct Coombs test detects the sensitisation of erythrocytes with incomplete antibodies in vivo, as occurs in hemolytic disease of the newborn [103]."
+    },
+    {
+      "question": "A patient is diagnosed with 'Job's syndrome.' Which of the following findings would be most expected?",
+      "options": [
+        "Absence of B cells in the blood",
+        "Low levels of all immunoglobulins",
+        "Recurrent 'cold' staphylococcal abscesses and high IgE",
+        "Deficiency of the C1 complement inhibitor"
+      ],
+      "answer": "Recurrent 'cold' staphylococcal abscesses and high IgE",
+      "explanation": "Job’s syndrome (Hyper-IgE syndrome) is characterized by multiple large 'cold' staphylococcal abscesses and serum IgE levels that are often more than ten times the normal level [106, 107]."
+    },
+    {
+      "question": "A child with light skin, silver-tinted hair, and giant peroxidase-positive inclusions in his leucocytes suffers from severe, frequent pyogenic infections. This is diagnostic of:",
+      "options": [
+        "Chronic Granulomatous Disease",
+        "Chediak-Higashi Syndrome",
+        "Lazy Leucocyte Syndrome",
+        "DiGeorge Syndrome"
+      ],
+      "answer": "Chediak-Higashi Syndrome",
+      "explanation": "Chediak-Higashi syndrome is a genetic disorder characterized by decreased pigmentation (skin/eyes/hair) and giant inclusions in the cytoplasm of leucocytes, leading to impaired phagocytic activity [108]."
+    }
+
+
+  ]
+}

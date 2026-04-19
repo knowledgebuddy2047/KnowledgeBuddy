@@ -1,0 +1,126 @@
+{
+  "flashcards":
+
+[
+  {
+    "front": "Explanation Note: Define a 'Virion' and its fundamental components.",
+    "back": "A virion is the extracellular infectious virus particle. It consists of a nucleic acid core (DNA or RNA) surrounded by a protein coat called a capsid. Together, they form the nucleocapsid [1, 2]."
+  },
+  {
+    "front": "Explanation Note: What are 'Peplomers'?",
+    "back": "Peplomers are protein subunits that project as spikes from the surface of the viral envelope. Examples include the hemagglutinin and neuraminidase spikes of the influenza virus [3]."
+  },
+  {
+    "front": "Core Concept: List the six sequential phases of the viral multiplication cycle.",
+    "back": "1. Adsorption (attachment), 2. Penetration, 3. Uncoating, 4. Biosynthesis, 5. Maturation (assembly), 6. Release [4, 5]."
+  },
+  {
+    "front": "Core Concept: Define the 'Eclipse Phase' in viral replication.",
+    "back": "The period from the stage of penetration until the appearance of mature daughter virions, during which the virus cannot be demonstrated inside the host cell [5, 6]."
+  },
+  {
+    "front": "Core Concept: What is the Baltimore Classification based on?",
+    "back": "It categorizes viruses into six classes based on their replication mechanisms and how they synthesize mRNA from their genomes [7]."
+  },
+  {
+    "front": "Core Concept: Differentiate between the three types of Interferons (IFN).",
+    "back": "Alpha (IFN-α): Produced by leucocytes. Beta (IFN-β): Produced by fibroblasts. Gamma (IFN-γ): Produced by T lymphocytes (immune interferon) [8]."
+  },
+  {
+    "front": "Critical Thinking Focus: Why are viruses unaffected by antibacterial antibiotics?",
+    "back": "Viruses lack their own metabolic machinery, such as ribosomes or cell wall synthesis enzymes, which are the targets of antibacterial antibiotics [9, 10]."
+  },
+  {
+    "front": "Critical Thinking Focus: What is the 'von Magnus Phenomenon' and why does it occur?",
+    "back": "It refers to the production of 'incomplete viruses' with high hemagglutinin titers but low infectivity, occurring when cells are infected with a very high dose of influenza virus [11, 12]."
+  },
+  {
+    "front": "Critical Thinking Focus: Why does the influenza pandemic typically arise from 'Antigenic Shift' rather than 'Antigenic Drift'?",
+    "back": "Antigenic drift involves gradual mutations leading to epidemics, while antigenic shift is an abrupt, major change resulting in a novel virus to which the population has no immunity [13, 14]."
+  },
+  {
+    "front": "Clinical Case Study: A 10-year-old boy presents with fever, headache, and sore throat, followed by weakness and inability to walk in his right lower limb. He has no history of vaccination. What is the likely diagnosis and the gold standard for identification?",
+    "back": "Diagnosis: Paralytic Poliomyelitis. Identification: Isolation of poliovirus from feces or throat swabs in tissue culture, confirmed by neutralisation tests or RT-PCR [15-17]."
+  },
+  {
+    "front": "Clinical Case Study: A 25-year-old woman presents with painful genital blisters, fever, and neck rigidity. CSF shows lymphocytic pleocytosis. PCR is positive for HSV-2. What is the priority treatment and what advice should be given for future pregnancy?",
+    "back": "Treatment: Intravenous acyclovir. Advice: Recount this history to her doctor during pregnancy, as a cesarean section may be required to prevent neonatal infection if lesions are present at birth [18-20]."
+  },
+  {
+    "front": "Clinical Case Study: A 4-month-old infant presents during winter with fever, cough, and severe wheezing. He is diagnosed with bronchiolitis. What is the most likely viral pathogen?",
+    "back": "Respiratory Syncytial Virus (RSV), the most important cause of lower respiratory tract infection in infants [21, 22]."
+  },
+  {
+    "front": "University-Level Exam Question: Describe the 'One-Step Growth Curve' of bacteriophages.",
+    "back": "It plots the yield of infectious viruses over time. Key features include the Latent Period (before release), the Rise Period (number of released phages increases), and the Burst Size (average yield per cell) [23, 24]."
+  },
+  {
+    "front": "University-Level Exam Question: Contrast the Salk and Sabin polio vaccines.",
+    "back": "Salk (IPV): Killed virus, injectable, induces systemic IgG but little intestinal immunity. Sabin (OPV): Live attenuated, oral, induces both systemic and local secretory IgA (herd immunity), but carries a rare risk of VDPV [25, 26]."
+  },
+  {
+    "front": "University-Level Exam Question: Define 'Lysogenic Conversion' and provide a medical example.",
+    "back": "When a prophage integrated into a bacterial genome confers new properties. Example: Toxin production by C. diphtheriae is determined by the presence of prophage beta [27, 28]."
+  },
+  {
+    "front": "University-Level Exam Question: What are 'Inclusion Bodies' and name three specific types.",
+    "back": "Distinct structures in virus-infected cells used for diagnosis. Examples: Negri bodies (Rabies), Guarnieri bodies (Vaccinia), and Lipschutz bodies (Herpes) [29, 30]."
+  },
+  {
+    "front": "PLAB & USMLE Pattern: A 6-year-old child presents with high fever, conjunctivitis, and small bluish-white ulcerations on the buccal mucosa opposite the lower molars. What are these spots called and what disease do they precede?",
+    "back": "Koplik's spots. They are pathognomonic for Measles (Rubeola) and appear 1-2 days before the characteristic rash [31, 32]."
+  },
+  {
+    "front": "PLAB & USMLE Pattern: A teenager presents with fever, sore throat, and splenomegaly. Blood film shows atypical lymphocytes. The Paul-Bunnell test is positive. What is the causative agent and which cells does it infect?",
+    "back": "Epstein-Barr Virus (EBV). It infects B lymphocytes via the CD21 (CR2) receptor [33-35]."
+  },
+  {
+    "front": "PLAB & USMLE Pattern: A patient with HIV presents with fluffy retinal infiltrates and hemorrhages. PCR is positive for CMV. What is the most likely diagnosis and first-line treatment?",
+    "back": "CMV Retinitis. Treatment: Ganciclovir or Foscarnet [36, 37]."
+  },
+  {
+    "front": "PLAB & USMLE Pattern: A 50-year-old man presents with a painful, unilateral vesicular eruption along a single dermatome. He recalls having chickenpox as a child. What is the mechanism of this disease?",
+    "back": "Reactivation of latent Varicella Zoster Virus (VZV) from the sensory ganglia when immunity falls [38, 39]."
+  },
+  {
+    "front": "Bias Recognition & Problem-Solving: A clinician assumes a 'negative' VDRL rules out syphilis in a patient with a clear chancre. What is the potential pitfall?",
+    "back": "The clinician is ignoring the 'Window Period' (VDRL takes time to become positive) or the 'Prozone Phenomenon' (excess antibodies). Diagnosis should include Dark Ground Microscopy of the lesion [40, 41]."
+  },
+  {
+    "front": "Bias Recognition & Problem-Solving: A physician assumes that identifying an adenovirus in a child's stool sample proves it is the cause of their diarrhea. Is this reasoning sound?",
+    "back": "No. Many viruses are found in normal individuals. One must interpret isolation results in light of clinical data and, ideally, demonstrate a four-fold rise in antibody titer [42, 43]."
+  },
+  {
+    "front": "Mechanism: How does the influenza neuraminidase enzyme facilitate infection?",
+    "back": "It reduces the viscosity of the mucus film in the respiratory tract, exposing cell surface receptors for virus adsorption [12]."
+  },
+  {
+    "front": "Core Concept: What is 'Original Antigenic Sin'?",
+    "back": "The tendency of the immune system to respond to a new strain of influenza by primarily producing antibodies against the first strain of the virus the individual ever encountered [44]."
+  },
+  {
+    "front": "Core Concept: Describe the morphology of the Rabies virus.",
+    "back": "It is bullet-shaped [45, 46]."
+  },
+  {
+    "front": "Core Concept: Which virus is known as the 'Millionaire Molecule' due to its size/weight?",
+    "back": "IgM is often discussed in this context during serology, but regarding viral size, Poxviruses are the largest (brick-shaped) and can be seen under a light microscope [47, 48]."
+  },
+  {
+    "front": "Mechanism: Describe the unique replicative strategy of Retroviridae (Class 6).",
+    "back": "The single-stranded RNA genome is converted into an RNA:DNA hybrid by reverse transcriptase, then into double-stranded DNA (provirus), which integrates into the host chromosome [49]."
+  },
+  {
+    "front": "Explanation Note: Define 'Prions'.",
+    "back": "Proteinaceous infectious particles that lack detectable nucleic acid and are resistant to heat, UV, and nucleases. They cause diseases like Kuru and Creutzfeldt-Jakob disease [50, 51]."
+  },
+  {
+    "front": "Clinical Relevance: What is the significance of the 'Tzanck Smear'?",
+    "back": "A rapid diagnostic method for Herpes (HSV/VZV) where scrapings from the base of a vesicle show multinucleated giant cells with 'ground glass' chromatin [41, 52]."
+  },
+  {
+    "front": "Core Concept: What is the 'Receptor Gradient' in hemagglutination?",
+    "back": "The series in which myxoviruses (Mumps -> NDV -> Influenza) destroy red cell receptors; treatment with one virus removes receptors for itself and those preceding it, but not those following it [53]."
+  }
+]
+}

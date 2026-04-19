@@ -1,0 +1,164 @@
+{
+  "flashcards": [
+    {
+      "front": "Define Innate (Native) Immunity.",
+      "back": "The resistance an individual possesses by virtue of genetic and constitutional make-up; present from birth, non-specific, and lacks immunological memory [1, 2]."
+    },
+    {
+      "front": "What are the four characteristic features of Acquired (Adaptive) Immunity?",
+      "back": "1. Antigenic specificity, 2. Diversity, 3. Immunologic memory, 4. Self/non-self recognition [3-6]."
+    },
+    {
+      "front": "What is the 'Prozone Phenomenon' in serology?",
+      "back": "A failure of visible reaction in a test due to an excess of antibody, which inhibits the formation of a lattice [7]."
+    },
+    {
+      "front": "Define 'Hapten'.",
+      "back": "A low-molecular-weight substance that is not immunogenic by itself but becomes so when coupled with a large carrier protein [8, 9]."
+    },
+    {
+      "front": "What is an 'Epitope'?",
+      "back": "The smallest unit of antigenicity (antigenic determinant) that reacts with a specific antibody or T-cell receptor [9, 10]."
+    },
+    {
+      "front": "How do Superantigens activate T-cells?",
+      "back": "They bind directly to the lateral aspect of the TCR beta chain and MHC Class II outside the peptide-binding groove, activating large numbers of T-cells irrespective of specificity [11, 12]."
+    },
+    {
+      "front": "Which Immunoglobulin class is the only one that crosses the placenta?",
+      "back": "IgG [13, 14]."
+    },
+    {
+      "front": "Which Immunoglobulin is known as the 'Millionaire Molecule' and why?",
+      "back": "IgM, because it has a high molecular weight (900,000 to 1,000,000 Daltons) and exists as a pentamer [15]."
+    },
+    {
+      "front": "Which antibody class is the main component of local/mucosal immunity?",
+      "back": "Secretory IgA [16, 17]."
+    },
+    {
+      "front": "Which Immunoglobulin mediates Type I Hypersensitivity (anaphylaxis)?",
+      "back": "IgE [18, 19]."
+    },
+    {
+      "front": "Identify the 'C3 convertase' of the Classical Complement Pathway.",
+      "back": "C4b2a [20]."
+    },
+    {
+      "front": "Identify the 'C3 convertase' of the Alternative Complement Pathway.",
+      "back": "C3bBb [21]."
+    },
+    {
+      "front": "What components make up the Membrane Attack Complex (MAC)?",
+      "back": "C5b, C6, C7, C8, and C9 [22, 23]."
+    },
+    {
+      "front": "Define Type I Hypersensitivity.",
+      "back": "Immediate, IgE-mediated reaction involving mast cell degranulation and release of vasoactive amines like histamine [24-26]."
+    },
+    {
+      "front": "Define Type II Hypersensitivity.",
+      "back": "Cytotoxic reaction where IgG or IgM binds to cell-surface antigens, leading to cell lysis (e.g., Hemolytic disease of the newborn) [27-29]."
+    },
+    {
+      "front": "Define Type III Hypersensitivity.",
+      "back": "Immune complex-mediated reaction where Ag-Ab complexes deposit in tissues and activate complement (e.g., Serum sickness, Arthus reaction) [29-31]."
+    },
+    {
+      "front": "Define Type IV Hypersensitivity.",
+      "back": "Delayed-type hypersensitivity (DTH) mediated by sensitized T-cells (not antibodies), appearing after 24–48 hours (e.g., Tuberculin test) [32-34]."
+    },
+    {
+      "front": "What is 'DiGeorge Syndrome'?",
+      "back": "A congenital aplasia/hypoplasia of the thymus resulting in deficient cell-mediated immunity (CMI) [35, 36]."
+    },
+    {
+      "front": "What is 'Bruton's Disease'?",
+      "back": "X-linked agammaglobulinemia, a primary B-cell immunodeficiency seen only in males, characterized by a lack of B-cells and plasma cells [37, 38]."
+    },
+    {
+      "front": "Where are MHC Class I molecules found?",
+      "back": "On the surface of virtually all nucleated cells in the body [39, 40]."
+    },
+    {
+      "front": "Where are MHC Class II molecules primarily found?",
+      "back": "Only on professional antigen-presenting cells (APCs) like macrophages, dendritic cells, and B-cells [41, 42]."
+    },
+    {
+      "front": "What is the clinical significance of HLA-B27?",
+      "back": "It is strongly associated with the autoimmune condition Ankylosing Spondylitis [43]."
+    },
+    {
+      "front": "Which blood group is the 'Universal Donor' and why?",
+      "back": "Group O, because its red cells carry no A or B antigens and are not attacked by anti-A or anti-B antibodies [44, 45]."
+    },
+    {
+      "front": "Which blood group is the 'Universal Recipient'?",
+      "back": "Group AB, as these individuals possess neither anti-A nor anti-B antibodies in their serum [46]."
+    },
+    {
+      "front": "What is the 'Bombay (OH) Blood Group'?",
+      "back": "A rare phenotype where antigens A, B, and H are all absent from the red cells [47]."
+    },
+    {
+      "front": "What defines an 'Allograft'?",
+      "back": "A graft between two genetically non-identical members of the same species [48]."
+    },
+    {
+      "front": "Define 'Graft-versus-Host (GVH) Reaction'.",
+      "back": "A condition where immunocompetent T-cells in the graft attack the antigens of an immunologically compromised recipient [49, 50]."
+    },
+    {
+      "front": "What is the primary function of the Spleen in immunology?",
+      "back": "It serves as a filter for blood and a 'graveyard' for effete red blood cells; its immune function is primarily against bloodborne antigens [51]."
+    },
+    {
+      "front": "What is 'Opsonization'?",
+      "back": "A process where pathogens are coated with antibodies or complement (C3b) to facilitate their phagocytosis [52, 53]."
+    },
+    {
+      "front": "What are 'Toll-like Receptors (TLRs)'?",
+      "back": "Pattern recognition receptors (PRRs) that recognize unique molecular patterns (PAMPs) shared by pathogens [54, 55]."
+    },
+    {
+      "front": "What is the role of 'Plasma Cells'?",
+      "back": "They are the final stage of B-cell differentiation and serve as antibody-secreting factories [56, 57]."
+    },
+    {
+      "front": "Define 'Immunological Tolerance'.",
+      "back": "A state of specific non-reactivity to an antigen that would normally elicit an immune response [58]."
+    },
+    {
+      "front": "What is 'Molecular Mimicry'?",
+      "back": "An autoimmune mechanism where microbial epitopes are identical to self-antigens, leading to an attack on the host's own tissues [59, 60]."
+    },
+    {
+      "front": "What are 'Primary Lymphoid Organs'?",
+      "back": "The Thymus and Bone Marrow, where lymphocytes undergo maturation and education [61, 62]."
+    },
+    {
+      "front": "What is 'Herd Immunity'?",
+      "back": "The overall level of immunity in a community; if a large proportion (approx. 80%) is immune, the likelihood of an epidemic is reduced [63, 64]."
+    },
+    {
+      "front": "What is the 'Negative Phase' in active immunity?",
+      "back": "A temporary fall in measurable antibody levels immediately following a booster dose, as the new antigen combines with existing antibodies [65, 66]."
+    },
+    {
+      "front": "Which cell provides non-specific defense against virus-infected and tumor cells?",
+      "back": "Natural Killer (NK) cells [3, 67]."
+    },
+    {
+      "front": "What is the diagnostic marker for Systemic Lupus Erythematosus (SLE)?",
+      "back": "The LE cell phenomenon and high titres of anti-dsDNA antibodies [68, 69]."
+    },
+    {
+      "front": "What is 'Myasthenia Gravis' mechanism?",
+      "back": "Autoantibodies against acetylcholine receptors at the myoneural junction prevent muscle contraction [70]."
+    },
+    {
+      "front": "Which test is used to detect toxigenicity in Diphtheria bacilli?",
+      "back": "The Elek test (a double diffusion in two dimensions) [71]."
+    }
+  ]
+}

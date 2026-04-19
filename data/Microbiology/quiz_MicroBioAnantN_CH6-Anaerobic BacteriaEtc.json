@@ -1,0 +1,289 @@
+{
+  "quiz":
+[
+
+{
+    "type": "mcq_single",
+    "question": "A 50-year-old man presents with a crushing leg injury contaminated with soil. Two days later, he exhibits edema, crepitations, and a serous discharge. Microscopic examination shows thick, brick-shaped, Gram-positive bacilli without spores. What is the most likely organism?",
+    "options": [
+      "Clostridium tetani",
+      "Clostridium perfringens",
+      "Clostridium botulinum",
+      "Bacteroides fragilis"
+    ],
+    "answer": "Clostridium perfringens",
+    "explanation": "The clinical presentation of crepitations (gas) and brick-shaped Gram-positive bacilli is characteristic of C. perfringens causing gas gangrene [1, 2]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following are characteristics of the genus Clostridium?",
+    "options": [
+      "Gram-positive",
+      "Aerobic",
+      "Spore-forming",
+      "Catalase-negative"
+    ],
+    "answer": [
+      "Gram-positive",
+      "Spore-forming",
+      "Catalase-negative"
+    ],
+    "explanation": "Clostridia are Gram-positive, anaerobic (not aerobic), spore-forming, and catalase-negative bacilli [3, 4]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "The diagnosis of gas gangrene must be made primarily on clinical grounds.",
+    "reason": "The mere presence of clostridia in a wound does not constitute gas gangrene.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "Clostridia can be present as simple wound contaminants; therefore, clinical signs like myonecrosis and toxemia are essential for diagnosis [5, 6]."
+  },
+  {
+    "type": "match_columns",
+    "question": "Match the Clostridium species with their characteristic spore morphology:",
+    "left": [
+      "C. tetani",
+      "C. perfringens",
+      "C. tertium",
+      "C. bifermentans"
+    ],
+    "right": [
+      "Spherical and terminal (drumstick)",
+      "Subterminal and club-shaped",
+      "Oval and terminal (tennis racket)",
+      "Central or equatorial"
+    ],
+    "answer": {
+      "C. tetani": "Spherical and terminal (drumstick)",
+      "C. perfringens": "Subterminal and club-shaped",
+      "C. tertium": "Oval and terminal (tennis racket)",
+      "C. bifermentans": "Central or equatorial"
+    },
+    "explanation": "Spore position and shape are key morphological features for identifying different clostridia [7]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the mechanism of action of Tetanospasmin?",
+    "options": [
+      "Blocks release of acetylcholine at neuromuscular junctions",
+      "Inhibits protein synthesis by inactivating 60S ribosomes",
+      "Blocks synaptic inhibition in the spinal cord at inhibitory terminals",
+      "Activates adenyl cyclase leading to cAMP increase"
+    ],
+    "answer": "Blocks synaptic inhibition in the spinal cord at inhibitory terminals",
+    "explanation": "Tetanospasmin blocks the release of inhibitory neurotransmitters like glycine and GABA, leading to uncontrolled muscle spasms [8]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "A patient develops bloody diarrhea and pseudomembranous colitis following a course of clindamycin. Which diagnostic test is the mainstay for the suspected pathogen?",
+    "options": [
+      "Widal test",
+      "Nagler's reaction",
+      "Detection of Toxins A and B in stool by ELISA",
+      "Weil-Felix reaction"
+    ],
+    "answer": "Detection of Toxins A and B in stool by ELISA",
+    "explanation": "C. difficile causes antibiotic-associated pseudomembranous colitis, diagnosed by detecting its toxins in stool [9, 10]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following are true regarding the alpha toxin of C. perfringens?",
+    "options": [
+      "It is a phospholipidase (lecithinase C)",
+      "It is responsible for target hemolysis on blood agar",
+      "It is neutralized by specific antitoxin in Nagler's reaction",
+      "It is oxygen-labile"
+    ],
+    "answer": [
+      "It is a phospholipidase (lecithinase C)",
+      "It is neutralized by specific antitoxin in Nagler's reaction"
+    ],
+    "explanation": "Alpha toxin is a lecithinase that produces opalescence in egg yolk media, which is neutralized in Nagler's reaction. Double zone hemolysis involves alpha toxin (incomplete) and theta toxin (complete) [11-13]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "A 6-month-old infant presents with 'floppiness,' constipation, and loss of head control. Honey ingestion is suspected. What is the most likely pathogenesis?",
+    "options": [
+      "Ingestion of preformed toxin in food",
+      "Toxin production by spores germinating in the gut",
+      "Invasion of the intestinal wall by the bacteria",
+      "Septicemic spread to the central nervous system"
+    ],
+    "answer": "Toxin production by spores germinating in the gut",
+    "explanation": "Infant botulism is a 'toxico-infection' where spores germinate in the gut and produce toxin, unlike adult food-borne botulism which involves preformed toxin [4, 14]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "In the context of Urinary Tract Infections (UTI), what is the definition of 'significant bacteriuria' according to Kass?",
+    "options": [
+      ">1,000 bacteria per ml",
+      ">10,000 bacteria per ml",
+      ">100,000 bacteria per ml",
+      "Any bacterial growth in a midstream sample"
+    ],
+    "answer": ">100,000 bacteria per ml",
+    "explanation": "A count of 100,000 (10^5) or more bacteria per ml in a midstream urine sample is considered significant bacteriuria [15, 16]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "E. coli is used as an indicator of fecal contamination of water supplies.",
+    "reason": "E. coli is a parasite living only in the human or animal intestine and remains viable in the environment for only a few days.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "Because E. coli does not survive long outside the intestine, its presence in water indicates recent fecal contamination [17]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "A patient presents with a 'step-ladder' pattern fever, bradycardia, and a soft palpable spleen. Blood culture is positive for a Gram-negative bacillus that is indole-negative and does not produce gas from glucose. What is the organism?",
+    "options": [
+      "Escherichia coli",
+      "Salmonella Typhi",
+      "Shigella flexneri",
+      "Proteus mirabilis"
+    ],
+    "answer": "Salmonella Typhi",
+    "explanation": "Step-ladder fever and splenomegaly are classic for typhoid fever (S. Typhi), which is biochemically unique as it is anaerogenic (no gas) [18-20]."
+  },
+  {
+    "type": "match_columns",
+    "question": "Match the diarrheagenic E. coli type with its primary feature:",
+    "left": [
+      "ETEC",
+      "EHEC",
+      "EIEC",
+      "EPEC"
+    ],
+    "right": [
+      "Traveler's diarrhea (LT/ST toxins)",
+      "Hemolytic Uremic Syndrome (Verotoxin)",
+      "Dysentery-like (Invasive)",
+      "Infantile diarrhea (Adherence/LEE)"
+    ],
+    "answer": {
+      "ETEC": "Traveler's diarrhea (LT/ST toxins)",
+      "EHEC": "Hemolytic Uremic Syndrome (Verotoxin)",
+      "EIEC": "Dysentery-like (Invasive)",
+      "EPEC": "Infantile diarrhea (Adherence/LEE)"
+    },
+    "explanation": "Different strains of E. coli cause distinct clinical syndromes based on their virulence factors [21, 22]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which biochemical test is characteristic of the tribe Proteeae, distinguishing them from other Enterobacteriaceae?",
+    "options": [
+      "Lactose fermentation",
+      "Phenylalanine deaminase (PPA) reaction",
+      "Citrate utilization",
+      "Indole production"
+    ],
+    "answer": "Phenylalanine deaminase (PPA) reaction",
+    "explanation": "The PPA reaction (converting phenylalanine to phenyl pyruvic acid) is a characteristic feature of all members of the tribe Proteeae [23]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "A laboratory report shows a non-motile Gram-negative bacillus that is non-lactose fermenting, urease-negative, and catalase-negative. Which Shigella species is this most likely to be?",
+    "options": [
+      "S. dysenteriae type 1",
+      "S. flexneri",
+      "S. boydii",
+      "S. sonnei"
+    ],
+    "answer": "S. dysenteriae type 1",
+    "explanation": "S. dysenteriae type 1 is the only member of the Shigella genus (and family Enterobacteriaceae) that is always catalase-negative [24, 25]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following are used to inhibit the 'swarming' of Proteus in the laboratory?",
+    "options": [
+      "Increasing agar concentration to 6%",
+      "Incorporating chloral hydrate (1:500)",
+      "Adding 10% CO2",
+      "Incorporating sodium azide (1:500)"
+    ],
+    "answer": [
+      "Increasing agar concentration to 6%",
+      "Incorporating chloral hydrate (1:500)",
+      "Incorporating sodium azide (1:500)"
+    ],
+    "explanation": "Methods to inhibit swarming include high agar concentration, chloral hydrate, sodium azide, alcohol, or boric acid. CO2 is used for growth of other anaerobes [26]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "A 10-year-old boy has a history of remittent fever for 10 days. Blood culture is positive for S. Typhi. The Widal test is negative, but the IgM antibody test for S. Typhi is positive. Why might the Widal test be negative?",
+    "options": [
+      "The test is not sensitive for S. Typhi",
+      "It is too early in the infection for agglutinins to appear",
+      "Prior antibiotic use may suppress the antibody response",
+      "The patient is a chronic carrier"
+    ],
+    "answer": "Prior antibiotic use may suppress the antibody response",
+    "explanation": "Cases treated early with antibiotics may show a poor agglutinin response in the Widal test [18, 27]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Bacteroides fragilis is the most frequent non-sporing anaerobe isolated from clinical specimens.",
+    "reason": "B. fragilis is a normal inhabitant of the intestinal, respiratory, and female genital tracts and is resistant to penicillin.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason does not explain Assertion",
+    "explanation": "Both statements are true. B. fragilis is the most common clinical anaerobic isolate and is resistant to penicillin, but its resistance is not the *reason* for its high frequency of isolation; its status as normal flora is the primary factor [28, 29]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "In the laboratory diagnosis of Typhoid, which specimen has the highest culture positivity rate during the FIRST week of fever?",
+    "options": [
+      "Stool",
+      "Urine",
+      "Blood",
+      "Serum"
+    ],
+    "answer": "Blood",
+    "explanation": "Blood cultures are positive in approximately 90% of typhoid cases during the first week of fever [30, 31]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following are components of the 'IMViC' tests used for Enterobacteriaceae classification?",
+    "options": [
+      "Indole",
+      "Methyl Red",
+      "Voges-Proskauer",
+      "Coagulase"
+    ],
+    "answer": [
+      "Indole",
+      "Methyl Red",
+      "Voges-Proskauer"
+    ],
+    "explanation": "IMViC stands for Indole, Methyl Red, Voges-Proskauer, and Citrate utilization [32]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "A patient recovering from Tetanus should still receive a full course of active immunization. Why?",
+    "options": [
+      "To prevent secondary bacterial infections",
+      "Because the toxin is so potent that a lethal dose is not immunogenic",
+      "To neutralize remaining unbound toxin",
+      "Because Tetanus is a chronic recurring disease"
+    ],
+    "answer": "Because the toxin is so potent that a lethal dose is not immunogenic",
+    "explanation": "An attack of tetanus does not confer immunity because the amount of toxin required to cause the disease is much less than the amount required to stimulate an immune response [33, 34]."
+  }
+  ]
+}

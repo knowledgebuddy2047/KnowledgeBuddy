@@ -1,0 +1,126 @@
+{
+  "flashcards":
+
+[
+  {
+    "front": "Explanation Note: Define **Mycology** and the general characteristics of **Fungi**.",
+    "back": "Mycology is the study of **fungi (yeasts and moulds)** [1]. Fungi are **eukaryotic protists** that differ from bacteria by having a **rigid cell wall** (containing chitin and mannan), a **cytoplasmic membrane with sterols**, a true nucleus with a **nuclear membrane**, and **paired chromosomes** [2]. They can be unicellular or multicellular and divide asexually, sexually, or both [2]."
+  },
+  {
+    "front": "Core Concept: Describe the **morphological classification** of fungi with examples.",
+    "back": "Fungi are classified into four groups: 1) **Yeast** (e.g., *Cryptococcus*), 2) **Yeast-like fungi** (e.g., *Candida*), 3) **Moulds/Filamentous fungi** (e.g., *Aspergillus*, *Dermatophytes*), and 4) **Dimorphic fungi** (e.g., *Histoplasma*, *Sporothrix*) [3, 4]."
+  },
+  {
+    "front": "Mechanism: What is the defining feature of **thermally dimorphic fungi**?",
+    "back": "These fungi exist in two forms depending on temperature: they grow as **filamentous moulds** in the environment or culture at **22–25°C**, but convert to **yeast forms** at **37°C** and within host tissues [5, 6]."
+  },
+  {
+    "front": "Core Concept: Differentiate between **Primary Pathogens** and **Opportunistic Pathogens**.",
+    "back": "**Primary pathogens** (like dimorphic fungi) can cause infection in **healthy individuals** [7]. **Opportunistic pathogens** (like *Candida*, *Aspergillus*, *Mucor*) cause disease in patients with **pre-existing immune defects**, such as those with **diabetes mellitus, HIV/AIDS**, or those on **immunosuppressive drugs** [6-8]."
+  },
+  {
+    "front": "Mechanism: Distinguish between **Mycoses**, **Mycotoxicoses**, and **Hypersensitivity**.",
+    "back": "1) **Mycoses**: Actual **tissue invasion** by the fungus [9]. 2) **Mycotoxicoses**: Disease due to **ingested toxic metabolites** (e.g., **aflatoxins** from *Aspergillus flavus*) without tissue invasion [9, 10]. 3) **Hypersensitivity**: Allergic reactions (Type I or III) to **inhaled fungal spores** (e.g., **ABPA**), where the fungus need not invade the tissue [11, 12]."
+  },
+  {
+    "front": "Core Concept: List the essential steps and tools for **laboratory diagnosis** of fungal infections.",
+    "back": "Diagnosis involves **direct microscopy** (using **10% KOH** to clear tissue, **India ink** for capsules, or **Gram stain**), **culture** (typically on **Sabouraud Dextrose Agar/SDA**), **serology** (antigen/antibody detection), and **skin tests** for delayed-type hypersensitivity [11, 13, 14]."
+  },
+  {
+    "front": "Clinical Relevance: What is the purpose of **Potassium Hydroxide (KOH)** in fungal microscopy?",
+    "back": "KOH acts as an alkali that **digests host cells** and debris in tissue specimens (like skin scrapings), allowing the **fungal elements** to be seen clearly under a microscope [15, 16]."
+  },
+  {
+    "front": "Critical Thinking: Why is it a common pitfall to rely solely on **direct microscopy** for identifying the specific species of a mould?",
+    "back": "While microscopy (like KOH) can suggest a fungal infection by showing **hyphae or spores**, specific **species identification** is usually only possible through **examination of the culture** to observe macroscopic colony features and microscopic conidia arrangements [17-19]."
+  },
+  {
+    "front": "Core Concept: Describe **Dermatophytosis** and the three genera of **Dermatophytes**.",
+    "back": "Dermatophytosis (**tinea/ringworm**) is an infection of **keratinized structures** (skin, hair, nails) [20]. The three genera are **Microsporum** (infects hair/skin), **Trichophyton** (skin, hair, nails), and **Epidermophyton** (skin, nails) [21-23]."
+  },
+  {
+    "front": "Mechanism: How does the **Wood’s lamp** aid in the diagnosis of certain superficial mycoses?",
+    "back": "In a dark room, UV light from the lamp causes infected areas to **fluoresce**. For example, **Microsporum** species show a **bright greenish-yellow** fluorescence, and **Malassezia** (*Pityriasis versicolor*) shows **golden-yellow** [24]."
+  },
+  {
+    "front": "Clinical Case Study: A 45-year-old farmer presents with **multiple painless swellings** and **sinus tracts** on his foot discharging **pigmented granules**. Direct microscopy shows **dark hyphae**. What is the likely diagnosis?",
+    "back": "The diagnosis is **Eumycetoma (Madura foot)**, specifically caused by a fungus like *Madurella mycetomatis* [25, 26]. The presence of **granules (grains)** is a hallmark of this chronic, post-traumatic subcutaneous infection [27]."
+  },
+  {
+    "front": "Critical Thinking: In **Mycetoma**, why is it vital to distinguish between **Actinomycetoma** and **Eumycetoma** before starting treatment?",
+    "back": "**Actinomycetoma** is caused by **filamentous bacteria** and is treated with **antibiotics** (like dapsone or streptomycin), while **Eumycetoma** is caused by **fungi** and requires **antifungal therapy** and often **surgical debridement** [28, 29]. Using the wrong therapy will lead to treatment failure."
+  },
+  {
+    "front": "Core Concept: What are **Sclerotic Bodies**, and for which disease are they diagnostic?",
+    "back": "Sclerotic bodies are **round, dark brown, yeast-like bodies with septae** found in tissue sections [30]. they are diagnostic for **Chromoblastomycosis** (a chronic subcutaneous infection) [31, 32]."
+  },
+  {
+    "front": "Mechanism: Describe the characteristic clinical presentation of **Sporotrichosis**.",
+    "back": "It often follows a **thorn prick** (Rose gardener's disease) [32, 33]. A nodule forms at the site, which **ulcerates**, followed by the development of secondary nodules along the **draining lymphatic channels** (**lymphocutaneous sporotrichosis**) [33]."
+  },
+  {
+    "front": "Core Concept: What are **Asteroid Bodies**, and where are they found?",
+    "back": "In **Sporotrichosis**, an **asteroid body** is a rounded, yeast-like cell surrounded by radiating **eosinophilic rays** (Splendore-Hoeppli phenomenon), visible in histopathological sections [32, 34]."
+  },
+  {
+    "front": "Clinical Case Study: A 27-year-old HIV-positive woman presents with **altered sensorium** and **neck rigidity**. An **India ink preparation** of her CSF reveals **capsulated budding yeast cells**. Diagnosis?",
+    "back": "The diagnosis is **Cryptococcal meningitis** caused by *Cryptococcus neoformans* [35, 36]. The **large capsule** appearing as a clear halo in India ink is pathognomonic [37]."
+  },
+  {
+    "front": "Mechanism: Identify the key diagnostic structures for **Histoplasma capsulatum** in culture.",
+    "back": "In the mould phase (25°C), *H. capsulatum* produces characteristic **tuberculate macroconidia**, which are large, thick-walled, spherical spores with **finger-like projections** [38, 39]."
+  },
+  {
+    "front": "Critical Thinking: What is the risk of **Coccidioidomycosis** for laboratory personnel?",
+    "back": "The **mycelial form** in soil or culture fragments into **arthrospores** that are **highly infectious** when inhaled; therefore, cultures are extremely **dangerous to handle** and must be managed in a biological safety cabinet [40, 41]."
+  },
+  {
+    "front": "Core Concept: Describe the diagnostic **'Mariner’s Wheel'** appearance.",
+    "back": "This is seen in **Paracoccidioidomycosis**, where the yeast form shows **multiple buds encircling a mother cell**, resembling a pilot's wheel [42, 43]."
+  },
+  {
+    "front": "Mechanism: How does **Zygomycosis (Mucormycosis)** typically present in **uncontrolled diabetics**?",
+    "back": "It often presents as a **rhino-orbito-cerebral** infection. The fungi are highly **angio-invasive**, invading arteries to cause **thrombosis, infarction**, and rapidly progressing tissue necrosis of the **orbit, sinuses, and brain** [44, 45]."
+  },
+  {
+    "front": "Clinical Relevance: What is a **Germ Tube Test**, and what does a positive result indicate?",
+    "back": "It is a rapid identification test where yeast is incubated in human serum at 37°C for two hours. The formation of **germ tubes** (hyphal outgrowths) specifically identifies **Candida albicans** [46, 47]."
+  },
+  {
+    "front": "University-Level Exam: List three opportunistic mycoses and the predisposing factors for each.",
+    "back": "1) **Candidosis**: Diabetes, prolonged antibiotics, or immunosuppression [48, 49]. 2) **Aspergillosis**: Immunocompromised status or existing lung cavities (TB) [50]. 3) **Zygomycosis**: Uncontrolled **diabetes mellitus** (ketoacidosis) or cytotoxic drugs [45]."
+  },
+  {
+    "front": "University-Level Exam: Describe the morphology and clinical significance of **Pneumocystis jirovecii**.",
+    "back": "It is a fungus (related to Ascomycetes) that cannot be cultured [51, 52]. It exists as **trophozoites, precysts, and cysts** and is a leading cause of **life-threatening pneumonia in AIDS patients** [53, 54]."
+  },
+  {
+    "front": "University-Level Exam: Differentiate between **Mycetism** and **Mycotoxicosis**.",
+    "back": "**Mycetism** results from **eating poisonous mushrooms** (e.g., *Psilocybe* or *Inocybe*), causing direct toxic effects [55, 56]. **Mycotoxicosis** is caused by consuming food contaminated with **fungal toxins** (e.g., **aflatoxin** on groundnuts or **ergot** on rye) [10, 55, 56]."
+  },
+  {
+    "front": "PLAB/USMLE Pattern: A patient with **old pulmonary tuberculosis** develops a **fungal ball** inside a lung cavity. What is the most likely pathogen and clinical complication?",
+    "back": "The pathogen is **Aspergillus** (Aspergilloma). The major clinical concern is **massive hemoptysis**, which often requires **surgical removal** of the fungal ball [50]."
+  },
+  {
+    "front": "PLAB/USMLE Pattern: A patient presents with **'rice-water' appearance** in a skin scraping but no inflammation. **KOH** shows 'spaghetti and meatballs' (yeast and short hyphae). Diagnosis?",
+    "back": "The diagnosis is **Pityriasis (Tinea) versicolor** caused by the lipophilic yeast **Malassezia furfur** [57, 58]. It involves only the **stratum corneum** and elicits **no inflammatory response** [59]."
+  },
+  {
+    "front": "PLAB/USMLE Pattern: Microscopy of a skin lesion shows **broad-based budding yeast** with a double-contoured wall. What is the diagnosis?",
+    "back": "The diagnosis is **Blastomycosis** (*Blastomyces dermatitidis*) [43, 60]."
+  },
+  {
+    "front": "Bias Recognition: How might **availability bias** lead a clinician to misdiagnose **Rhinosporidiosis** in a coastal region?",
+    "back": "A clinician in a highly endemic area like **Sri Lanka or Southern India** [61] might assume any **nasal polyp** is rhinosporidiosis. However, they must perform **histopathology** to look for **large spherules (10–200 µm)** containing thousands of **endospores** to confirm, as the fungus **cannot be cultivated** [62, 63]."
+  },
+  {
+    "front": "Bias Recognition: Why is it dangerous to assume a **positive serological test** for *Aspergillus* always indicates an **invasive infection**?",
+    "back": "Antibodies to *Aspergillus* are present in many **healthy individuals** or those with allergic conditions (like **ABPA**) [64, 65]. Diagnosis of **invasive aspergillosis** requires clinical correlation and often the detection of **galactomannan** in serum [66]."
+  },
+  {
+    "front": "Decision-Making: A patient with **suspected Onychomycosis** has failed topical treatment. What is the next logical step according to the source?",
+    "back": "The patient should be started on **oral griseofulvin** (or other oral agents like terbinafine), as systemic therapy is necessary for nail involvement and must often be continued for **one year** [67, 68]."
+  }
+]
+}

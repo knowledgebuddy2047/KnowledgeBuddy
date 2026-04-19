@@ -1,0 +1,173 @@
+{
+  "quiz":
+
+[
+  {
+    "type": "mcq_single",
+    "question": "Which of the following organisms is considered the primary indicator of fecal pollution in water supplies because it is invariably present in feces in large numbers and easily detected?",
+    "options": ["Clostridium perfringens", "Coliform bacteria", "Pseudomonas aeruginosa", "Salmonella typhi"],
+    "answer": "Coliform bacteria",
+    "explanation": "Coliform bacteria are used as indicators of fecal pollution because they are invariably present in the feces of humans and warm-blooded animals and can be easily detected even in high dilutions [1]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following are recognized beneficial roles of the normal microbial flora of the human body?",
+    "options": [
+      "Synthesis of Vitamin K and B vitamins",
+      "Triggering the alternative complement pathway via endotoxins",
+      "Inhibition of pathogens through the production of colicins",
+      "Direct degradation of all types of dietary fiber"
+    ],
+    "answer": [
+      "Synthesis of Vitamin K and B vitamins",
+      "Triggering the alternative complement pathway via endotoxins",
+      "Inhibition of pathogens through the production of colicins"
+    ],
+    "explanation": "Normal flora synthesize essential vitamins (K and B), produce antibiotic substances like colicins that inhibit pathogens, and liberate endotoxins that help trigger the body's defense mechanisms [2]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Live attenuated vaccines are generally avoided in immunocompromised individuals.",
+    "reason": "There is a danger that the vaccine strain may cause disease in the absence of a robust host immune response.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "Live attenuated vaccines contain organisms that retain immunogenicity but have lost pathogenicity; however, in immunocompromised hosts, these organisms can cause disease due to the lack of an effective immune response [3]."
+  },
+  {
+    "type": "match_columns",
+    "question": "Match the category of biomedical waste (per 2016 rules) with its appropriate disposal container/method:",
+    "left": ["Human anatomical waste", "Recyclable contaminated plastic", "Waste sharps (needles/blades)", "Contaminated glass (vials/ampoules)"],
+    "right": ["Yellow Bag (Incineration)", "Red Bag (Autoclaving/Recycling)", "White Translucent (Puncture-proof)", "Blue Cardboard Box"],
+    "answer": {
+      "Human anatomical waste": "Yellow Bag (Incineration)",
+      "Recyclable contaminated plastic": "Red Bag (Autoclaving/Recycling)",
+      "Waste sharps (needles/blades)": "White Translucent (Puncture-proof)",
+      "Contaminated glass (vials/ampoules)": "Blue Cardboard Box"
+    },
+    "explanation": "According to the 2016 Biomedical Waste Management rules, different types of waste are segregated into specific color-coded containers for appropriate treatment like incineration, autoclaving, or recycling [4-6]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "A 65-year-old patient develops severe diarrhea and abdominal pain five days after starting a course of clindamycin. Stool tests identify the overgrowth of Clostridium difficile. This condition is a classic example of:",
+    "options": ["Primary viral enteritis", "Iatrogenic infection", "Pseudomembranous colitis", "Normal resident flora activity"],
+    "answer": "Pseudomembranous colitis",
+    "explanation": "Indiscriminate use of broad-spectrum antibiotics like clindamycin can suppress normal gut flora, allowing Clostridium difficile to multiply and cause life-threatening pseudomembranous colitis [7]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Critical Thinking Focus: A clinician isolates a diphtheroid from a single blood culture bottle of an otherwise healthy patient. What is the most likely interpretation, and what common pitfall must be avoided?",
+    "options": [
+      "The patient has a serious systemic infection; start immediate antibiotics.",
+      "The organism is a common skin commensal; it is likely a contaminant.",
+      "Diphtheroids are always pathogenic; the patient needs isolation.",
+      "The lab made an error in identification; request a re-test."
+    ],
+    "answer": "The organism is a common skin commensal; it is likely a contaminant.",
+    "explanation": "Diphtheroids are part of the normal skin flora. Isolating them once in a blood culture often represents contamination rather than infection. A common pitfall is treating these as pathogens unless they are isolated repeatedly in serial cultures [8]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which diagnostic advance allows for the identification of bacteria or fungi in minutes based on the unique protein composition of the bacterial cell?",
+    "options": ["Nested PCR", "MALDI-TOF MS", "Ligase Chain Reaction (LCR)", "Ribotyping"],
+    "answer": "MALDI-TOF MS",
+    "explanation": "MALDI-TOF MS technology identifies bacteria or fungi based on their unique protein composition, providing reliable results within minutes [9, 10]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "In the context of Healthcare-associated Infections (HCAI), what is the definition of a 'Nosocomial Infection'?",
+    "options": [
+      "An infection present at the time of admission.",
+      "An infection incubating at the time of admission.",
+      "An infection developing after 48-72 hours of hospital admission.",
+      "An infection resulting from animal contact in the hospital."
+    ],
+    "answer": "An infection developing after 48-72 hours of hospital admission.",
+    "explanation": "Nosocomial infections are clinical infections that develop 48-72 hours after hospital admission and were neither present nor incubating at the time of admission [11]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following are specific factors contributing to the emergence and re-emergence of infectious diseases worldwide?",
+    "options": [
+      "Deforestation and climate change",
+      "Uncontrolled use of antibiotics leading to drug resistance",
+      "Strict adherence to universal immunization programs",
+      "Increased international travel and commerce"
+    ],
+    "answer": [
+      "Deforestation and climate change",
+      "Uncontrolled use of antibiotics leading to drug resistance",
+      "Increased international travel and commerce"
+    ],
+    "explanation": "Factors contributing to emerging infections include ecological changes like deforestation, microbial adaptation (drug resistance), and human demographic changes such as international travel [12, 13]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "The 'Phosphatase test' is used to check the adequacy of milk pasteurization.",
+    "reason": "The enzyme phosphatase, normally present in milk, is inactivated if pasteurization has been performed properly.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "Phosphatase is an enzyme naturally present in raw milk. Since it is inactivated at pasteurization temperatures, its absence confirms that the milk was heated adequately [14, 15]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which molecular method is specifically used to differentiate products by discriminating DNA sequences that differ in only a single base pair?",
+    "options": ["Conventional PCR", "Transcription-mediated amplification (TMA)", "Ligase chain reaction (LCR)", "Quantitative PCR"],
+    "answer": "Ligase chain reaction (LCR)",
+    "explanation": "LCR is based on the ligation of primers and allows for the discrimination of DNA sequences differing in only a single base pair [16]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "University Level Question: In the bacteriological examination of water, the Eijkman test is performed to confirm the presence of which specific organism by incubating subcultures at 44°C?",
+    "options": ["Salmonella typhi", "Escherichia coli", "Vibrio cholerae", "Streptococcus faecalis"],
+    "answer": "Escherichia coli",
+    "explanation": "The Eijkman test (differential coliform test) uses incubation at 44°C to determine if coliforms detected in the presumptive test are specifically E. coli [17]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Problem-Solving/Bias Recognition: A urine sample from a healthy male contains Mycobacterium smegmatis. Why might this lead to 'confusion in diagnosis'?",
+    "options": [
+      "M. smegmatis causes severe urinary tract infections.",
+      "It is a harmless commensal that can be mistaken for pathogenic Mycobacteria in voided urine.",
+      "It indicates the patient has systemic tuberculosis.",
+      "M. smegmatis is a marker for fecal contamination of the sample."
+    ],
+    "answer": "It is a harmless commensal that can be mistaken for pathogenic Mycobacteria in voided urine.",
+    "explanation": "M. smegmatis is a harmless commensal found in the smegma of genitalia. Its presence in voided urine specimens can cause diagnostic confusion by resembling pathogenic acid-fast bacilli [18]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which features distinguish 'Airborne transmission' from 'Droplet transmission' regarding respiratory infections?",
+    "options": [
+      "Airborne particles are < 5 µm in size.",
+      "Droplet transmission requires close contact (≤ 1 m).",
+      "Airborne particles can travel several metres and remain suspended for long periods.",
+      "Droplets arise due to the evaporation of larger nuclei."
+    ],
+    "answer": [
+      "Airborne particles are < 5 µm in size.",
+      "Droplet transmission requires close contact (≤ 1 m).",
+      "Airborne particles can travel several metres and remain suspended for long periods."
+    ],
+    "explanation": "Airborne transmission involves small particles (< 5 µm) that stay suspended and travel far. Droplet transmission involves larger particles (> 5 µm) that travel short distances and require close contact. Droplet nuclei (airborne) arise from the evaporation of droplets [19, 20]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Case Study (PLAB Style): A medical student is accidentally stuck with a needle while drawing blood from a patient. Which element of 'Standard Precautions' is the first priority to prevent infection transmission?",
+    "options": ["Immediate use of a surgical mask", "Hand hygiene and proper disposal of sharps without capping", "Isolation of the student", "Applying a gown for all future patient contacts"],
+    "answer": "Hand hygiene and proper disposal of sharps without capping",
+    "explanation": "Standard precautions include hand hygiene and the safe handling/disposal of sharps. Specifically, used needles should never be capped to prevent accidental sticks [21, 22]."
+  }
+]
+}

@@ -1,0 +1,365 @@
+{
+  "quiz":
+
+[
+  {
+    "type": "mcq_single",
+    "question": "Which of the following terms describes an infection that is physician-induced, resulting from investigative or therapeutic procedures?",
+    "options": [
+      "Nosocomial infection",
+      "Iatrogenic infection",
+      "Endogenous infection",
+      "Atypical infection"
+    ],
+    "answer": "Iatrogenic infection",
+    "explanation": "The term iatrogenic infection refers to physician-induced infections resulting from investigative, therapeutic, or other procedures [1]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following are characteristic features of acquired (adaptive) immunity?",
+    "options": [
+      "Antigenic specificity",
+      "Diversity",
+      "Immunologic memory",
+      "Immediate protection without a latent period"
+    ],
+    "answer": [
+      "Antigenic specificity",
+      "Diversity",
+      "Immunologic memory"
+    ],
+    "explanation": "Acquired immunity displays four characteristic features: Antigenic specificity, Diversity, Immunologic memory, and Self/non-self recognition [2-5]. Active acquired immunity requires a latent period [6]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "The administration of active immunization is generally more effective than passive immunization.",
+    "reason": "Active immunization is associated with immunological memory and provides long-lasting protection.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "Active immunization involves the host's immune apparatus and is associated with immunological memory, making it more effective and long-lasting than passive immunization [7, 8]."
+  },
+  {
+    "type": "match_columns",
+    "question": "Match the immunoglobulin class with its primary characteristic:",
+    "left": [
+      "IgG",
+      "IgA",
+      "IgM",
+      "IgE"
+    ],
+    "right": [
+      "Crosses the placenta",
+      "Present in colostrum and secretions",
+      "First antibody produced in response to infection",
+      "Mediates Type I hypersensitivity"
+    ],
+    "answer": {
+      "IgG": "Crosses the placenta",
+      "IgA": "Present in colostrum and secretions",
+      "IgM": "First antibody produced in response to infection",
+      "IgE": "Mediates Type I hypersensitivity"
+    },
+    "explanation": "IgG is the only maternal Ig transported across the placenta [9]. IgA is the major Ig in colostrum and secretions [10]. IgM is the earliest Ig synthesised and appears after the initial immune response [11, 12]. IgE is involved in Type I hypersensitivity [13]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "In the laboratory diagnosis of a suspected infection, a clinician observes a 'false-negative' result in a precipitation test when using undiluted patient serum. Upon diluting the serum, a positive result appears. What phenomenon explains this?",
+    "options": [
+      "Post-zone phenomenon",
+      "Prozone phenomenon",
+      "Zoning phenomenon",
+      "Agglutination inhibition"
+    ],
+    "answer": "Prozone phenomenon",
+    "explanation": "The prozone phenomenon is caused by excess antibody in the test system, which inhibits lattice formation and can lead to false-negative results unless the serum is diluted [14, 15]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "A 10-year-old child presents with symptoms of an upper respiratory tract infection. The clinician considers the possibility of a 'subclinical' infection. What defines a subclinical infection according to the text?",
+    "options": [
+      "The clinical manifestations are not typical of the disease.",
+      "The clinical effects of the infection are not apparent.",
+      "The infection is localized and does not spread.",
+      "The infection is acquired from an animal reservoir."
+    ],
+    "answer": "The clinical effects of the infection are not apparent.",
+    "explanation": "Inapparent infection is one where the clinical effects are not apparent, and the term subclinical infection is often used as a synonym [1]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following are determinants of microbial virulence?",
+    "options": [
+      "Adhesion and ligands",
+      "Toxigenicity",
+      "Invasiveness",
+      "Phagocytic index"
+    ],
+    "answer": [
+      "Adhesion and ligands",
+      "Toxigenicity",
+      "Invasiveness"
+    ],
+    "explanation": "Virulence is the sum total of several determinants, including Adhesion, Invasiveness, Toxigenicity, and Communicability [16-19]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Haptens are considered incomplete antigens.",
+    "reason": "Haptens are capable of reacting specifically with antibodies but cannot induce antibody formation by themselves.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "Haptens are substances incapable of inducing antibody formation by themselves but can react specifically with antibodies; they become immunogenic only when combined with a larger molecule carrier [20, 21]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the primary site of action for 'superantigens' during an immune response?",
+    "options": [
+      "The antibody-binding groove of the MHC molecule",
+      "The lateral aspect of the TCR β chain, outside the binding groove",
+      "The J chain of secretory IgA",
+      "The Fc fragment of IgG antibodies"
+    ],
+    "answer": "The lateral aspect of the TCR β chain, outside the binding groove",
+    "explanation": "Superantigens bind outside the antibody-binding groove directly to the lateral aspect of the TCR β chain [22, 23]."
+  },
+  {
+    "type": "match_columns",
+    "question": "Match the term with its biological definition regarding immunoglobulins:",
+    "left": [
+      "Isotype",
+      "Allotype",
+      "Idiotype"
+    ],
+    "right": [
+      "Genetic variations in the constant region shared by all members of a species",
+      "Allelic variations in the genes, not shared by all members",
+      "Antigenic determinants found in the variable region (paratope)"
+    ],
+    "answer": {
+      "Isotype": "Genetic variations in the constant region shared by all members of a species",
+      "Allotype": "Allelic variations in the genes, not shared by all members",
+      "Idiotype": "Antigenic determinants found in the variable region (paratope)"
+    },
+    "explanation": "Isotypes refer to species-wide constant region variations [24]. Allotypes refer to multiple alleles existing within a species [25]. Idiotypes arise from sequence variations in the variable regions [26, 27]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "A patient with suspected primary atypical pneumonia is tested for 'cold agglutinins.' This is an example of which type of serological reaction?",
+    "options": [
+      "Organ-specific reaction",
+      "Heterophile reaction",
+      "Iso-specific reaction",
+      "T-cell independent reaction"
+    ],
+    "answer": "Heterophile reaction",
+    "explanation": "The cold agglutinin test used in primary atypical pneumonia is a diagnostic serological reaction where antigens unrelated to the etiological agent are employed, known as a heterophile reaction [28]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which of the following is the 'millionaire molecule' that is the first to be synthesized by the fetus and the oldest phylogenetically?",
+    "options": [
+      "IgG",
+      "IgA",
+      "IgM",
+      "IgD"
+    ],
+    "answer": "IgM",
+    "explanation": "IgM is a heavy molecule (19 S) called the 'millionaire molecule.' It is phylogenetically the oldest class and the earliest synthesized by the fetus [12, 29]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Regarding the sources of infection, which of the following statements are correct?",
+    "options": [
+      "Humans are the commonest source of infection for humans.",
+      "A healthy carrier harbours the pathogen but has never suffered from the disease.",
+      "Animals that maintain a parasite in nature and act as a source for humans are reservoir hosts.",
+      "Biological vectors transmit infection immediately upon contact with the pathogen."
+    ],
+    "answer": [
+      "Humans are the commonest source of infection for humans.",
+      "A healthy carrier harbours the pathogen but has never suffered from the disease.",
+      "Animals that maintain a parasite in nature and act as a source for humans are reservoir hosts."
+    ],
+    "explanation": "Humans are the commonest source [30]. Healthy carriers have never suffered from the disease [31]. Reservoir hosts maintain parasites in nature [32]. Biological vectors transmit only after the pathogen has multiplied or undergone a cycle in them [33]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Live vaccines are generally administered in smaller doses than killed vaccines.",
+    "reason": "Live vaccines initiate a low-grade infection and multiply within the host, providing more durable protection.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "Live vaccines initiate infection and multiply, paralleling natural infection. Killed vaccines are less immunogenic and must be administered repeatedly in larger doses or with boosters [34, 35]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which test is used to detect incomplete anti-Rh antibodies that do not agglutinate Rh-positive erythrocytes in saline?",
+    "options": [
+      "Widal test",
+      "Coombs test",
+      "Elek test",
+      "Schick test"
+    ],
+    "answer": "Coombs test",
+    "explanation": "The antiglobulin (Coombs) test was devised for the detection of anti-Rh antibodies that do not agglutinate Rh-positive erythrocytes in saline [36]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following are important non-specific host defense factors found in serum or secretions?",
+    "options": [
+      "Lysozymes",
+      "Beta lysin",
+      "Interferon",
+      "Bence Jones proteins"
+    ],
+    "answer": [
+      "Lysozymes",
+      "Beta lysin",
+      "Interferon"
+    ],
+    "explanation": "Important non-specific factors include lysozymes, beta lysin, peroxidase enzymes, interferons, and lactoferrin [37]. Bence Jones proteins are abnormal proteins found in multiple myeloma [24]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "In the context of 'Combined Immunisation,' what is the primary goal of administering both a vaccine and an immunoglobulin simultaneously?",
+    "options": [
+      "To provide immediate protection while active immunity is developing.",
+      "To enhance the effectiveness of the killed vaccine through adjuvants.",
+      "To prevent the latent period required for active immunity.",
+      "To suppress the negative phase of antibody production."
+    ],
+    "answer": "To provide immediate protection while active immunity is developing.",
+    "explanation": "Combined immunization is preferred for immediate protection (via TIG/passive immunity) while the host starts generating its own active immunity [38, 39]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Endotoxins are less potent and more heat-stable than exotoxins.",
+    "reason": "Endotoxins are lipopolysaccharides (LPS) that form part of the bacterial cell wall and are released only upon lysis.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "Endotoxins are heat-stable lipopolysaccharides (LPS) forming the cell wall and released on lysis. They are generally less potent than exotoxins, which are highly potent, heat-labile proteins [16, 40, 41]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the function of the 'J chain' in immunoglobulin structure?",
+    "options": [
+      "It connects the heavy and light chains.",
+      "It facilitates the polymerization of IgA and IgM.",
+      "It acts as a receptor for the Fc fragment.",
+      "It provides the hinge for segmental flexibility."
+    ],
+    "answer": "It facilitates the polymerization of IgA and IgM.",
+    "explanation": "Secretory IgA is a dimer and IgM is a pentamer; their polymerization depends on the presence of the J (joining) chain [9, 29]."
+  },
+  {
+    "type": "match_columns",
+    "question": "Match the diagnostic test with its application or mechanism:",
+    "left": [
+      "Wassermann reaction",
+      "Widal test",
+      "Elek test",
+      "Schick test"
+    ],
+    "right": [
+      "Complement fixation for syphilis",
+      "Tube agglutination for typhoid",
+      "Toxigenicity in diphtheria bacilli",
+      "Neutralization for diphtheria susceptibility"
+    ],
+    "answer": {
+      "Wassermann reaction": "Complement fixation for syphilis",
+      "Widal test": "Tube agglutination for typhoid",
+      "Elek test": "Toxigenicity in diphtheria bacilli",
+      "Schick test": "Neutralization for diphtheria susceptibility"
+    },
+    "explanation": "Wassermann is a classical CFT for syphilis [42]. Widal is used for typhoid [43]. Elek test checks toxigenicity in diphtheria [44]. Schick test checks diphtheria susceptibility [45]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which component of the innate immune system recognizes 'Pathogen Associated Molecular Patterns' (PAMPs)?",
+    "options": [
+      "B cell receptors (BCRs)",
+      "Pattern recognition receptors (PRRs)",
+      "Epitopes",
+      "Paratopes"
+    ],
+    "answer": "Pattern recognition receptors (PRRs)",
+    "explanation": "Components of the innate immune system recognize molecular patterns (PAMPs) using receptors called pattern recognition receptors or PRRs [23, 46]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "A patient with a clinical disease shows symptoms that do not match the typical manifestations of that illness. What is the classification for this infection?",
+    "options": [
+      "Latent infection",
+      "Atypical infection",
+      "Subclinical infection",
+      "Atypical virulence"
+    ],
+    "answer": "Atypical infection",
+    "explanation": "Atypical infection is one in which the typical or characteristic clinical manifestations of the particular infectious disease are not present [30]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Regarding antibody diversity, which of the following factors contribute to the 'enormous antibody repertoire' in an individual?",
+    "options": [
+      "Genetic recombination of different gene segments",
+      "Variations in the length and amino acid composition of CDRs",
+      "Mutations in the Hinge region",
+      "The use of adjuvants during vaccination"
+    ],
+    "answer": [
+      "Genetic recombination of different gene segments",
+      "Variations in the length and amino acid composition of CDRs"
+    ],
+    "explanation": "Antibody diversity is mainly of genetic origin involving recombination [47]. Specificity is also a function of variations in the length and amino acid composition of the six CDRs [48]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "The primary stage of an antigen-antibody reaction does not involve visible effects.",
+    "reason": "Antigens and antibodies in the primary stage are held by weak intermolecular forces such as Van der Waal's forces and hydrogen bonding.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "The primary stage interaction has no visible effects and is rapid and reversible, mediated by weak bonds rather than covalent ones [49, 50]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which technique combines the sensitivity of an enzyme immunoassay with high specificity and is used as a confirmatory test for HIV?",
+    "options": [
+      "ELISA",
+      "Western blot",
+      "Flow cytometry",
+      "Radioimmunoassay"
+    ],
+    "answer": "Western blot",
+    "explanation": "The Western blot test, considered the definitive/confirmatory test for HIV infection, combines the sensitivity of EIA with much greater specificity [51, 52]."
+  }
+]
+}

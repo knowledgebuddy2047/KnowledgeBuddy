@@ -1,0 +1,86 @@
+{
+  "flashcards":
+
+[
+  {
+    "front": "Explanation Note: Summarize the primary characteristics and clinical significance of Listeria monocytogenes.",
+    "back": "Listeria monocytogenes is a short, Gram-positive, non-sporing bacillus that exhibits a characteristic 'tumbling' motility at 25°C [1-3]. It is widely distributed in nature and can grow at refrigeration temperatures (4°C), allowing it to overcome standard food preservation processes [3-5]. It primarily causes meningitis or sepsis in neonates, the elderly, and the immunocompromised, and is a significant cause of intrauterine infections leading to abortion or stillbirth [3, 5]."
+  },
+  {
+    "front": "Explanation Note: Overview the unique metabolic and structural nature of Chlamydiae.",
+    "back": "Chlamydiae are obligate intracellular bacterial parasites that were once considered viruses due to their filterability but are now recognized as bacteria because they possess both DNA and RNA, have a cell wall and ribosomes, and are susceptible to antibiotics [6-8]. They lack enzymes of the electron transport chain and must obtain ATP from host cells, earning them the title 'energy parasites' [8, 9]."
+  },
+  {
+    "front": "Core Concept: Describe the 'cold enrichment' technique for Listeria diagnosis.",
+    "back": "Greater success in isolating L. monocytogenes is achieved by storing clinical materials (blood, CSF, secretions) at 4°C and performing subcultures at weekly intervals for 1–6 months [10]. This technique exploits the organism's ability to grow at low temperatures that inhibit competing flora [4, 10]."
+  },
+  {
+    "front": "Core Concept: Explain the biphasic growth cycle of Chlamydia (EB vs. RB).",
+    "back": "The cycle alternates between two forms: 1) The Elementary Body (EB), which is the extracellular, rigid, metabolically inert, infective form (200-300 nm) [8, 11]. 2) The Reticulate Body (RB), which is the intracellular, fragile, metabolically active, replicative form (500-1000 nm) that divides by binary fission within a cytoplasmic vacuole [8, 12, 13]."
+  },
+  {
+    "front": "Core Concept: What is the clinical significance of Helicobacter pylori and its primary diagnostic feature?",
+    "back": "H. pylori is a Gram-negative spiral rod adapted to the human gastric mucosa, causing chronic gastritis and peptic ulcers [14-16]. It is also a risk factor for gastric adenocarcinoma and MALT lymphomas [16, 17]. Its most distinctive feature is the production of abundant urease, which is utilized in 'rapid urease tests' on gastric biopsies and the non-invasive 'urease breath test' [16, 18-20]."
+  },
+  {
+    "front": "Core Concept: Define the 'Weil-Felix reaction' and its application in Rickettsial diagnosis.",
+    "back": "It is a heterophile agglutination test based on shared alkali-stable carbohydrate antigens between certain rickettsiae and non-motile Proteus strains OX 19, OX 2, and OX K [21, 22]. Epidemic and endemic typhus react with OX 19, while scrub typhus reacts specifically with OX K [23, 24]. It is negative in Q fever and rickettsial pox [23, 25]."
+  },
+  {
+    "front": "Critical Thinking Focus: Why is person-to-person transmission absent in Legionella pneumophila and Coxiella burnetii?",
+    "back": "L. pneumophila is acquired strictly by inhalation of aerosols from environmental water sources (cooling towers, shower heads), and no human carrier state is established [26, 27]. C. burnetii (Q fever) is a zoonosis acquired from animal products (milk, wool) or products of conception; human infection is a 'dead end' with rare case-to-case transmission [25, 28, 29]."
+  },
+  {
+    "front": "Critical Thinking Focus: What are the clinical pitfalls in diagnosing Listeria and Legionella based on standard microscopy?",
+    "back": "Listeria is frequently misdiagnosed as non-pathogenic diphtheroids unless its motility and biochemical profile are specifically investigated [10]. Legionella stains poorly with standard Gram stains and is best visualized by silver impregnation or direct fluorescent antibody (DFA) staining [30, 31]."
+  },
+  {
+    "front": "Clinical Case Study 1: A 60-year-old smoker in the ICU on a ventilator develops new pulmonary consolidation and high-grade fever. Culture of broncho-alveolar lavage reveals oxidase-negative, non-motile Gram-negative coccobacilli that do not ferment sugars. Diagnosis and priority?",
+    "back": "Diagnosis: Acinetobacter baumannii ventilator-associated pneumonia (VAP) [16, 32, 33]. Priority: Immediate sensitivity testing, as these 'Mimeae' are often multidrug-resistant (MDR), sometimes sensitive only to carbapenems or colistin [16, 32, 33]."
+  },
+  {
+    "front": "Clinical Case Study 2: A 35-year-old man presents with chronic epigastric pain that increases at night but improves after a meal. Endoscopy shows a gastric ulcer. A biopsy placed in an indicator medium changes color within minutes. Diagnosis and mechanism?",
+    "back": "Diagnosis: Gastric ulcer caused by Helicobacter pylori [34]. Mechanism: The positive 'rapid urease test' confirms the presence of bacterial urease, which breaks down urea into ammonia, a key survival mechanism for the bacteria in stomach acid [18, 19, 35]."
+  },
+  {
+    "front": "Clinical Case Study 3: A 5-day-old neonate presents with thick, yellowish discharge in both eyes. Gram stain shows no bacteria. Giemsa stain of conjunctival scrapings reveals large cytoplasmic inclusions. Diagnosis?",
+    "back": "Inclusion conjunctivitis (neonatal inclusion blenorrhea) caused by Chlamydia trachomatis serotypes D–K, acquired during passage through the birth canal [36-38]."
+  },
+  {
+    "front": "University-Level Exam Question: Describe the 'Neil-Mooser reaction' (Tunica reaction).",
+    "back": "When male guinea pigs are inoculated with R. typhi (endemic typhus), they develop fever and characteristic scrotal inflammation where the testes cannot be pushed back due to inflammatory adhesions in the tunica vaginalis [39, 40]. This reaction is negative for R. prowazekii (epidemic typhus) [39, 41]."
+  },
+  {
+    "front": "University-Level Exam Question: What is 'Reiter’s Syndrome' and which organism is most commonly associated with it?",
+    "back": "Reiter’s Syndrome is a clinical triad of recurrent conjunctivitis, polyarthritis, and urethritis/cervicitis [42, 43]. It is most commonly associated with genital chlamydiasis caused by C. trachomatis [42, 43]."
+  },
+  {
+    "front": "University-Level Exam Question: Differentiate between Legionnaires’ disease and Pontiac fever.",
+    "back": "Legionnaires’ disease is a severe pneumonia with potential fatality (15–20%), characterized by fever, cough, and chest pain [44, 45]. Pontiac fever is a milder, non-fatal, influenza-like illness with high attack rates but no pneumonia [27, 45, 46]."
+  },
+  {
+    "front": "PLAB & USMLE Pattern: A 20-year-old male is treated for gonorrhea with ceftriaxone. Two weeks later, dysuria and urethral discharge return. Gram stain shows neutrophils but no bacteria. Most likely cause?",
+    "back": "Non-gonococcal urethritis (NGU), typically caused by Chlamydia trachomatis [42, 47]. This occurs because ceftriaxone treats the gonococcus but not the frequently co-existing Chlamydia; tetracycline for seven days is required [42, 47]."
+  },
+  {
+    "front": "PLAB & USMLE Pattern: Which species of Bartonella is associated with 'Cat Scratch Disease'?",
+    "back": "Bartonella henselae [40, 48, 49]. It causes a febrile illness with lymphadenopathy following a cat scratch and can be demonstrated in biopsies by Warthin-Starry staining [49]."
+  },
+  {
+    "front": "PLAB & USMLE Pattern: A patient presents with a 'painless papule' on the genitalia that progresses to a chronic, autoinoculable ulcer. Smears show 'Donovan bodies' with a safety-pin appearance. Diagnosis?",
+    "back": "Donovanosis (Granuloma Inguinale) caused by Klebsiella granulomatis [50-52]."
+  },
+  {
+    "front": "Bias Recognition: Why should a clinician be cautious of a positive serological test for Q fever in a patient who has lived near a livestock farm?",
+    "back": "Q fever is often endemic and subclinical in cattle, sheep, and goats [53]. A single positive titre might indicate past exposure rather than current disease; a four-fold rise in titres or specific IgM detection is necessary for a structured, accurate diagnosis [54, 55]."
+  },
+  {
+    "front": "Problem-Solving Focus: How does the laboratory differentiate between C. jejuni and C. coli?",
+    "back": "Both are thermophilic and cause clinically indistinguishable infections [56, 57]. They are differentiated by the hippurate hydrolysis test, which is positive only for C. jejuni [57]."
+  },
+  {
+    "front": "Problem-Solving Focus: What are the growth requirements for Legionella pneumophila isolation?",
+    "back": "It has fastidious requirements, needing complex media such as Buffered Charcoal Yeast Extract (BCYE) agar enriched with L-cysteine and iron, incubated with 5% CO2 [30, 58]."
+  }
+]
+}

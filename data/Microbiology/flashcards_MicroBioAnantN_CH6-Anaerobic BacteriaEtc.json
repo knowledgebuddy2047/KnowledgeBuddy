@@ -1,0 +1,414 @@
+{
+  "flashcards":
+
+[
+  {
+    "front": "Explanation Note: Summarize the genus Clostridium.",
+    "back": "Clostridia are Gram-positive, anaerobic, spore-forming bacilli. They are primarily saprophytes in soil but include major pathogens causing gas gangrene, food poisoning, tetanus, and botulism. [1, 2]"
+  },
+  {
+    "front": "Core Concept: What is the morphological appearance of Clostridium tetani on a Gram stain?",
+    "back": "C. tetani appears as a slender bacillus with spherical, terminal, and bulging spores, giving it a characteristic 'drumstick' appearance. [3]"
+  },
+  {
+    "front": "Core Concept: Define the mechanism of action of Tetanospasmin.",
+    "back": "Tetanospasmin blocks synaptic inhibition in the spinal cord by acting pre-synaptically at inhibitory terminals that use glycine and GABA. This leads to muscle rigidity and spasms. [4]"
+  },
+  {
+    "front": "Critical Thinking: Why is the demonstration of 'drumstick' bacilli in a wound not diagnostic of tetanus?",
+    "back": "Demonstration is unreliable because C. tetani can be a harmless contaminant in a wound without causing disease, and it is morphologically indistinguishable from C. tetanomorphum or C. sphenoides. Diagnosis must be clinical. [5]"
+  },
+  {
+    "front": "Clinical Case Study: A 50-year-old man presents after a road accident with crushed muscle, edema, and crepitations around the wound. Microscopy shows thick, brick-shaped, Gram-positive bacilli. What is the provisional diagnosis?",
+    "back": "Gas gangrene, likely caused by Clostridium perfringens. Immediate surgical intervention is required. [6]"
+  },
+  {
+    "front": "Core Concept: What is the Nagler's reaction used to detect?",
+    "back": "It is used for the rapid detection of C. perfringens by demonstrating the specific neutralization of its alpha toxin (lecithinase C) on egg yolk agar. [7]"
+  },
+  {
+    "front": "Mechanism: Describe the 'hot-cold' variety of lysis caused by C. perfringens alpha toxin.",
+    "back": "Lysis of red cells is best seen after incubation at 37°C followed by cooling at 4°C. [8]"
+  },
+  {
+    "front": "Decision-Making Under Pressure: A child has a tetanus-prone wound and is non-immune. What is the recommended prophylaxis?",
+    "back": "Combined immunization: Administer Tetanus Immune Globulin (TIG) at one site and the first dose of adsorbed Tetanus Toxoid at a contralateral site. [9, 10]"
+  },
+  {
+    "front": "Core Concept: What is the most toxic substance known to mankind produced by Clostridium?",
+    "back": "Botulinum toxin. Its lethal dose for humans is approximately 1–2 µg. [11]"
+  },
+  {
+    "front": "Core Concept: Describe the characteristic clinical triad of 'pigbel' (Necrotising enteritis).",
+    "back": "Abdominal pain, diarrhea, and mucosal necrosis following ingestion of pig meat contaminated with C. perfringens type C, often associated with trypsin inhibitors like sweet potatoes. [12]"
+  },
+  {
+    "front": "Explanation Note: Define the importance of non-sporing anaerobes in the human body.",
+    "back": "They outnumber aerobes in many habitats; in the colon, they are 1,000 times more frequent. They are usually commensals but cause endogenous infections when tissue is damaged. [13, 14]"
+  },
+  {
+    "front": "Core Concept: Which non-sporing anaerobe is the most frequent isolate from clinical specimens like brain abscesses?",
+    "back": "Bacteroides fragilis. It is a Gram-negative bacillus and is typically resistant to penicillin. [15, 16]"
+  },
+  {
+    "front": "Clinical Case Study: A 65-year-old diabetic woman has a brain abscess. Pus culture grows Peptostreptococcus and B. fragilis. Why is this typical?",
+    "back": "Anaerobic infections are typically polymicrobial and endogenous, often occurring in patients with predisposing factors like diabetes or tissue necrosis. [14, 17, 18]"
+  },
+  {
+    "front": "Core Concept: What are 'Clue cells' and what do they indicate?",
+    "back": "Clue cells are epithelial cells covered by adherent bacilli (Gardnerella vaginalis), seen in vaginal discharge. They are diagnostic for bacterial vaginosis. [17]"
+  },
+  {
+    "front": "Critical Thinking: Why is sputum unsatisfactory for culturing a suspected anaerobic lung abscess?",
+    "back": "Sputum is contaminated by the abundant normal anaerobic flora of the mouth. Only material collected by aspiration is acceptable for anaerobic culture. [19]"
+  },
+  {
+    "front": "Explanation Note: Summarize the Enterobacteriaceae family.",
+    "back": "A complex family of Gram-negative, non-sporing bacilli that inhabit the gut. They are aerobic/facultative anaerobes, ferment glucose, reduce nitrates, and are oxidase-negative. [20]"
+  },
+  {
+    "front": "Core Concept: Define the IMViC mnemonic for E. coli.",
+    "back": "Indole (+), Methyl Red (+), Voges-Proskauer (-), and Citrate (-). [21]"
+  },
+  {
+    "front": "Core Concept: What is the primary indicator of fecal contamination in drinking water?",
+    "back": "Detection of thermotolerant Escherichia coli. [22]"
+  },
+  {
+    "front": "Mechanism: How does E. coli Heat-labile toxin (LT) cause diarrhea?",
+    "back": "It activates adenyl cyclase to form cAMP, leading to an increased outflow of water and electrolytes into the gut lumen, similar to cholera toxin. [23]"
+  },
+  {
+    "front": "PLAB/USMLE Pattern: A child develops bloody diarrhea and Hemolytic Uremic Syndrome (HUS). Which E. coli type is responsible?",
+    "back": "Enterohemorrhagic E. coli (EHEC), specifically serotype O157:H7, which produces Shiga-like toxin (Verotoxin). [24, 25]"
+  },
+  {
+    "front": "Core Concept: Define 'Significant Bacteriuria' in a midstream urine sample.",
+    "back": "A count of 100,000 (10^5) or more bacteria per ml of urine. [26]"
+  },
+  {
+    "front": "University Exam Question: Differentiate between Klebsiella pneumoniae and E. coli on MacConkey agar.",
+    "back": "Both are lactose fermenters (pink colonies), but Klebsiella produces large, dome-shaped, very mucoid colonies due to its prominent capsule. [27]"
+  },
+  {
+    "front": "Core Concept: What is 'swarming' and which organism is famous for it?",
+    "back": "Swarming is the active spreading of motile cells in successive waves across an agar plate, characteristic of Proteus species. [28]"
+  },
+  {
+    "front": "Critical Thinking: How can swarming of Proteus be inhibited in the lab?",
+    "back": "By increasing agar concentration to 6%, or adding substances like chloral hydrate, sodium azide, or alcohol. [28]"
+  },
+  {
+    "front": "Mechanism: Describe the PPA (Phenylalanine deaminase) reaction in the tribe Proteeae.",
+    "back": "Members of this tribe (Proteus, Morganella, Providencia) possess the enzyme to convert phenylalanine to phenyl pyruvic acid. [29]"
+  },
+  {
+    "front": "Explanation Note: Define Shigella and the clinical condition it causes.",
+    "back": "Shigella are Gram-negative, non-motile bacilli that cause bacillary dysentery, characterized by frequent passage of bloodstained, mucopurulent stools. [30, 31]"
+  },
+  {
+    "front": "Core Concept: What is the minimum infective dose for Shigella?",
+    "back": "Very low—as few as 10–100 bacilli can initiate disease because they survive gastric acidity well. [32, 33]"
+  },
+  {
+    "front": "Mechanism: How does Shigella invade host cells?",
+    "back": "They bind to M cells, invade the lamina propria, and use actin polymerization to push themselves laterally into neighboring enterocytes. [34]"
+  },
+  {
+    "front": "PLAB/USMLE Pattern: A patient has 'rotten fish' smelling vaginal discharge and a pH > 4.5. Microscopy shows Clue cells. Diagnosis?",
+    "back": "Bacterial Vaginosis. [17, 35]"
+  },
+  {
+    "front": "Bias Recognition: Why is a positive Widal test in a single sample not proof of typhoid fever?",
+    "back": "This is a common clinical pitfall (Anchoring bias). Agglutinins can be present due to prior disease, inapparent infection, or TAB vaccination. A four-fold rise in paired sera is required. [36, 37]"
+  },
+  {
+    "front": "Core Concept: What are the two phases of flagellar antigens in Salmonella?",
+    "back": "Phase 1 (specific phase, shared by few species) and Phase 2 (non-specific/group phase, widely shared). Strains possessing both are diphasic. [38]"
+  },
+  {
+    "front": "University Exam Question: What is the purpose of a Craigie's tube?",
+    "back": "To obtain a population of motile cells rich in H (flagellar) antigen from a culture by allowing only motile bacteria to pass through soft agar. [39, 40]"
+  },
+  {
+    "front": "Core Concept: What is the Vi antigen and its clinical significance?",
+    "back": "It is a surface polysaccharide antigen in S. Typhi that masks the O antigen, acts as a virulence factor by inhibiting phagocytosis, and is used for phage typing. [41, 42]"
+  },
+  {
+    "front": "Mechanism: How is Typhoid fever acquired and disseminated?",
+    "back": "Acquired by ingestion; bacilli penetrate ileal mucosa, are phagocytosed by macrophages, multiply in mesenteric lymph nodes, and enter the bloodstream via the thoracic duct (transient bacteremia). [43, 44]"
+  },
+  {
+    "front": "Clinical Case Study: A 10-year-old boy has remittent fever in a step-ladder pattern, abdominal pain, and hepatosplenomegaly. Blood culture is positive for S. Typhi. Diagnosis?",
+    "back": "Typhoid fever. Note that the Widal test may be negative in the first week. [45-47]"
+  },
+  {
+    "front": "Decision-Making: Which specimen is best for diagnosing Typhoid in the first week of fever?",
+    "back": "Blood culture is positive in 90% of cases in the first week. [47]"
+  },
+  {
+    "front": "Core Concept: Define the three types of Salmonella carriers.",
+    "back": "Convalescent (up to 3 months), Temporary (3–12 months), and Chronic (over 1 year). [48]"
+  },
+  {
+    "front": "University Exam Question: Describe Castaneda's method of blood culture.",
+    "back": "A double medium system using a bottle with an agar slant on one side and bile broth. This reduces contamination risk and allows for easy subculturing by tilting the bottle. [49, 50]"
+  },
+  {
+    "front": "Core Concept: Which Salmonella is most commonly associated with septicemia and focal suppurative lesions like osteomyelitis?",
+    "back": "Salmonella Choleraesuis. [51]"
+  },
+  {
+    "front": "PLAB/USMLE Pattern: A patient on clindamycin develops severe diarrhea. Stool ELISA detects toxins A and B. What is the pathogen?",
+    "back": "Clostridium difficile, causing pseudomembranous colitis. [52, 53]"
+  },
+  {
+    "front": "Core Concept: What is the mechanism of action of Botulinum toxin?",
+    "back": "It blocks the release of acetylcholine at the synapses and neuromuscular junctions, leading to symmetric descending paralysis. [11]"
+  },
+  {
+    "front": "Mechanism: How does the Shiga toxin (S. dysenteriae type 1) work?",
+    "back": "Its A subunit fragment A1 inactivates the host cell 60 S ribosome, interfering with protein synthesis. [54]"
+  },
+  {
+    "front": "Critical Thinking: Why is the Vi antigen not helpful for the diagnosis of typhoid in the Widal test?",
+    "back": "Vi antibodies are produced in low titers and disappear early in convalescence; however, their persistence indicates the development of a carrier state. [55]"
+  },
+  {
+    "front": "Core Concept: Which medium is used to demonstrate the 'stormy clot' formation for C. perfringens?",
+    "back": "Litmus milk medium. [56, 57]"
+  },
+  {
+    "front": "Critical Thinking: A clinician observes 'Citron bodies' in a wound smear. What does this suggest?",
+    "back": "The presence of boat- or leaf-shaped pleomorphic bacilli (Citron bodies) suggests infection with Clostridium septicum. [58]"
+  },
+  {
+    "front": "Mechanism: Why is the combination of metronidazole and penicillin used for tetanus treatment?",
+    "back": "Penicillin or metronidazole kills the vegetative bacilli to stop further toxin production, while supportive therapy manages the existing toxin effects. [59, 60]"
+  },
+  {
+    "front": "Core Concept: What is the 'Eijkman test' used for?",
+    "back": "To provide definite proof of fecal pollution in water by detecting thermotolerant E. coli that grow at 44°C. [61]"
+  },
+  {
+    "front": "University Exam Question: List three types of diarrheagenic E. coli and their primary mechanisms.",
+    "back": "1. ETEC (LT/ST toxins); 2. EPEC (adherence factor/LEE); 3. EHEC (Verotoxin). [24, 62-66]"
+  },
+  {
+    "front": "Core Concept: Which organism is associated with 'Rhinoscleroma'?",
+    "back": "Klebsiella rhinoscleromatis, causing chronic granulomatous hypertrophy of the nose. [67]"
+  },
+  {
+    "front": "PLAB/USMLE Pattern: A patient presents with 'rice-water' stools. Which E. coli type produces a similar clinical picture?",
+    "back": "Enterotoxigenic E. coli (ETEC) through its heat-labile toxin. [65]"
+  },
+  {
+    "front": "Core Concept: What is the Weil-Felix reaction?",
+    "back": "A diagnostic test for certain rickettsial infections based on the cross-reaction of their antibodies with the O antigens of Proteus strains OX2, OX19, and OXK. [68]"
+  },
+  {
+    "front": "Mechanism: How does the 'Reverse CAMP test' identify C. perfringens?",
+    "back": "C. perfringens is streaked perpendicular to Streptococcus agalactiae; an arrow-shaped zone of enhanced hemolysis indicates a positive result. [57]"
+  },
+  {
+    "front": "Critical Thinking: Why is 'Salmonella Typhi 901' specifically used for Widal antigen preparation?",
+    "back": "It is a standard smooth strain used to ensure consistent results for detecting H and O agglutinins. [36]"
+  },
+  {
+    "front": "Bias Recognition: Assuming all Gram-negative bacilli in feces are pathogens. Why is this wrong?",
+    "back": "Availability bias. Most Enterobacteriaceae in feces (like E. coli) are normal commensals. Pathogens like Salmonella/Shigella are typically non-lactose fermenters (pale colonies). [69, 70]"
+  },
+  {
+    "front": "Core Concept: What is the 'Millionaire molecule' of antibodies?",
+    "back": "IgM, which is the earliest synthesized by the fetus and often the first responder in primary infection (e.g., Salmonella IgM detection). [Turn history context, Chapter 15/31]"
+  },
+  {
+    "front": "Decision-Making: A patient has chronic typhoid carriage in the gall bladder. What is the definitive 'heroic' treatment?",
+    "back": "Cholecystectomy. [71]"
+  },
+  {
+    "front": "Core Concept: What is 'Infant Botulism' and its common source?",
+    "back": "A toxico-infection where C. botulinum spores germinate in the child's gut; honey is often incriminated. [72, 73]"
+  },
+  {
+    "front": "Explanation Note: Define 'Anaerobic Myositis'.",
+    "back": "The most serious form of gas gangrene, involving clostridial invasion of healthy muscle tissue and abundant exotoxin formation. [74]"
+  },
+  {
+    "front": "University Exam Question: Explain 'Anamnestic response' in the Widal test.",
+    "back": "A transient rise in typhoid antibody titers during an unrelated fever in someone with prior infection or vaccination. Repeating the test after a week shows no sustained rise. [37]"
+  },
+  {
+    "front": "Mechanism: Why are anaerobic infections often putrid and nauseating?",
+    "back": "Due to the production of gas and metabolic byproducts by proteolytic anaerobes. [75]"
+  },
+  {
+    "front": "Core Concept: What is the diagnostic significance of the 'Sewer-swab' technique?",
+    "back": "It is used for tracing typhoid carriers in cities by culturing gauze pads left in sewers. [76]"
+  },
+  {
+    "front": "PLAB/USMLE Pattern: A patient with a catheter develops a UTI. Culture shows mucoid colonies that are Indole negative and Citrate positive. Diagnosis?",
+    "back": "Klebsiella pneumoniae (CAUTI). [77, 78]"
+  },
+  {
+    "front": "Core Concept: What is the 'Typhoid Mary' historical significance?",
+    "back": "Mary Mallon was a chronic fecal carrier of S. Typhi who caused at least seven outbreaks as a cook. [79]"
+  },
+  {
+    "front": "Critical Thinking: Why are newborns not susceptible to food-borne botulism in the same way as adults?",
+    "back": "They are susceptible to 'Infant Botulism' (germination of spores), whereas adults typically suffer from ingestion of preformed toxin in food. [72, 80]"
+  },
+  {
+    "front": "Mechanism: How does the 'Gaspak system' work for anaerobic culture?",
+    "back": "It provides a convenient environment for routine anaerobic cultures by removing oxygen chemically. [81]"
+  },
+  {
+    "front": "Core Concept: What is 'Vincent's Angina' and what does a smear show?",
+    "back": "A necrotising lesion in the mouth resembling diphtheria; stained smears show large fusiform bacilli (Leptotrichia) and spiral Borrelia. [82]"
+  },
+  {
+    "front": "University Exam Question: Describe the classification of Salmonella based on the Kauffmann-White scheme.",
+    "back": "Classification is based on the structural formulae of O (somatic) and H (flagellar) antigens, identifying thousands of serovars. [83]"
+  },
+  {
+    "front": "Core Concept: What is the role of the 'A1 fragment' in Cholera and E. coli LT toxins?",
+    "back": "It activates cellular adenyl cyclase to form cAMP. [23]"
+  },
+  {
+    "front": "Critical Thinking: Why is 'Fildes technique' used for C. tetani isolation?",
+    "back": "It utilizes the swarming property of C. tetani to yield a pure growth at the top of a nutrient agar slope. [84]"
+  },
+  {
+    "front": "Explanation Note: Define 'Paracolon bacilli'.",
+    "back": "A small group of late lactose fermenting Enterobacteriaceae. [69]"
+  },
+  {
+    "front": "Mechanism: What is the 'Boivin antigen'?",
+    "back": "The somatic O antigen of Salmonella, extracted using trichloroacetic acid. [85]"
+  },
+  {
+    "front": "PLAB/USMLE Pattern: A patient develops 'step-ladder' fever after returning from an endemic area. Which marker appears first in serum?",
+    "back": "S. Typhi circulating antigen (within the first week) or IgM antibodies. [86, 87]"
+  },
+  {
+    "front": "Core Concept: What is 'Prodigiosin' and which organism produces it?",
+    "back": "A characteristic red pigment produced by Serratia marcescens at room temperature. [88]"
+  },
+  {
+    "front": "Decision-Making: A healthcare-associated diarrhea outbreak occurs. Which antibiotic restriction is key to prevention?",
+    "back": "Restricting the use of broad-spectrum antibiotics associated with C. difficile outbreaks. [89]"
+  },
+  {
+    "front": "Critical Thinking: In a patient with SLE, why might a VDRL test be positive without syphilis?",
+    "back": "Representativeness bias. It is a Chronic Biological False Positive (BFP) reaction due to cross-reacting antibodies. [Turn history context, Chapter 16]"
+  },
+  {
+    "front": "Core Concept: What is the 'Bombay' blood group?",
+    "back": "A rare phenotype where A, B, and H antigens are absent, and anti-H antibodies are present. [Turn history context, Chapter 17]"
+  },
+  {
+    "front": "Mechanism: Why does C. botulinum toxin cause death?",
+    "back": "Due to respiratory paralysis. [11, 90]"
+  },
+  {
+    "front": "University Exam Question: List the components of the 'Standard Precautions' in healthcare.",
+    "back": "Hand hygiene, use of PPE, safe injection practices, and safe handling of contaminated equipment. [Turn history context, Chapter 13]"
+  },
+  {
+    "front": "Core Concept: Define 'Iatrogenic Infection'.",
+    "back": "A physician-induced infection resulting from medical procedures. [Turn history context, Chapter 8]"
+  },
+  {
+    "front": "Mechanism: How do 'Superantigens' bypass normal immune processing?",
+    "back": "They bind directly to the lateral aspect of the TCR beta chain and MHC-II, activating massive numbers of T cells. [Turn history context, Chapter 15]"
+  },
+  {
+    "front": "Critical Thinking: Why is the 'O' agglutinin titer more indicative of recent typhoid than 'H'?",
+    "back": "'O' antibodies appear earlier and disappear sooner, while 'H' antibodies persist for years after infection or vaccination. [37]"
+  },
+  {
+    "front": "Explanation Note: Summarize the role of 'Bacteriophage typing' in Salmonella.",
+    "back": "It allows for intraspecies classification of S. Typhi for epidemiological tracking of outbreaks. [91]"
+  },
+  {
+    "front": "Core Concept: What is the 'Wassermann reaction'?",
+    "back": "A classical complement fixation test for syphilis. [Turn history context, Chapter 14]"
+  },
+  {
+    "front": "PLAB/USMLE Pattern: A mother is Rh-negative and has an Rh-positive baby. What is the standard prophylactic treatment?",
+    "back": "Anti-Rh globulin (RhoGAM) within 72 hours of delivery. [Turn history context, Chapter 17]"
+  },
+  {
+    "front": "Core Concept: Define 'Opsonization'.",
+    "back": "The coating of a microbe with antibodies or complement (opsonins) to make it more attractive to phagocytes. [Turn history context, Chapter 12]"
+  },
+  {
+    "front": "Mechanism: What causes 'Stormy fermentation' in C. perfringens?",
+    "back": "Fermentation of lactose in milk produces acid (clotting casein) and heavy gas (disrupting the clot). [57]"
+  },
+  {
+    "front": "Critical Thinking: Why is 'Combined Immunization' preferred for Rabies post-exposure?",
+    "back": "Passive antibodies provide immediate protection while the active vaccine builds long-term immunity. [Turn history context, Chapter 12]"
+  },
+  {
+    "front": "Core Concept: What is the 'Schick test'?",
+    "back": "A skin test to determine immunity or susceptibility to Diphtheria toxin. [Turn history context, Chapter 12]"
+  },
+  {
+    "front": "University Exam Question: Differentiate between Exotoxins and Endotoxins.",
+    "back": "Exotoxins: Proteins, secreted, highly toxic, heat-labile. Endotoxins: Lipopolysaccharides, part of cell wall, less toxic, heat-stable. [Turn history context, Chapter 8]"
+  },
+  {
+    "front": "Mechanism: How does the 'Hanging drop' preparation identify V. cholerae?",
+    "back": "It allows for the visualization of characteristic 'darting motility'. [Turn history context, Chapter 14]"
+  },
+  {
+    "front": "Core Concept: What is 'Herd Immunity'?",
+    "back": "The overall level of immunity in a community that protects non-immune individuals by reducing pathogen spread. [Turn history context, Chapter 9]"
+  },
+  {
+    "front": "Critical Thinking: Why must 'Red bags' be used for recyclable plastic waste in BMW management?",
+    "back": "For contaminated but recyclable items like IV bottles, allowing for sterilization and reuse of material. [Turn history context, Chapter 13]"
+  },
+  {
+    "front": "Explanation Note: Define 'Zoonoses'.",
+    "back": "Diseases whose causative agents are transmitted between animals and humans. [Turn history context, Chapter 8]"
+  },
+  {
+    "front": "Mechanism: What is the 'Lattice Hypothesis' in serology?",
+    "back": "The theory that multivalent antigens and bivalent antibodies form a visible framework (lattice) only at an optimal ratio. [Turn history context, Chapter 14]"
+  },
+  {
+    "front": "Core Concept: What is 'MALDI-TOF MS' used for?",
+    "back": "Rapid identification of bacteria and fungi within minutes based on protein fingerprints. [Turn history context, Chapter 14]"
+  },
+  {
+    "front": "PLAB/USMLE Pattern: A patient has 'Medusa head' colonies on nutrient agar. What is the diagnosis?",
+    "back": "Anthrax (Bacillus anthracis). [Turn history context, Chapter 14]"
+  },
+  {
+    "front": "Core Concept: Define 'Haptens'.",
+    "back": "Incomplete antigens that can react with antibodies but cannot induce their formation unless joined to a carrier. [Turn history context, Chapter 11]"
+  },
+  {
+    "front": "Mechanism: Why does the secondary immune response have a shorter lag phase?",
+    "back": "Due to the presence of 'Memory cells' that respond rapidly to a familiar antigen. [Turn history context, Chapter 15]"
+  },
+  {
+    "front": "Critical Thinking: A sputum sample shows many squamous epithelial cells. Is it acceptable for culture?",
+    "back": "No. This indicates salivary contamination rather than lower respiratory secretions. [Turn history context, Chapter 14]"
+  },
+  {
+    "front": "Core Concept: What is 'Satellitism' in Haemophilus?",
+    "back": "Growth of H. influenzae around S. aureus colonies, which provide the required V factor. [Turn history context, Chapter 15]"
+  },
+  {
+    "front": "Decision-Making: A patient has suspected bacterial meningitis. CSF shows low glucose and high protein. What is the next step?",
+    "back": "Urgent Gram stain and culture; start empiric antibiotics immediately. [Turn history context, Chapter 14]"
+  },
+  {
+    "front": "Core Concept: Define 'Antigenic Shift'.",
+    "back": "Drastic, abrupt changes in viral antigens (like Influenza) leading to pandemics. [Turn history context, Chapter 12]"
+  }
+]
+}

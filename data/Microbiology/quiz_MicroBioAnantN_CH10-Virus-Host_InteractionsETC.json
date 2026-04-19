@@ -1,0 +1,289 @@
+{
+  "quiz":
+
+[
+  {
+    "type": "mcq_single",
+    "question": "What is the primary function of the viral capsid?",
+    "options": [
+      "To provide lipids for the envelope",
+      "To protect the nucleic acid from environmental nucleases",
+      "To synthesize viral proteins using its own enzymes",
+      "To facilitate binary fission of the virion"
+    ],
+    "answer": "To protect the nucleic acid from environmental nucleases",
+    "explanation": "The function of the capsid is to protect the nucleic acid from inactivation by nucleases and other deleterious agents in the environment [1]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following are defining characteristics of viruses?",
+    "options": [
+      "They possess both DNA and RNA",
+      "They are obligate intracellular parasites",
+      "They multiply by complex processes, not binary fission",
+      "They are affected by antibacterial antibiotics"
+    ],
+    "answer": [
+      "They are obligate intracellular parasites",
+      "They multiply by complex processes, not binary fission"
+    ],
+    "explanation": "Viruses contain only one type of nucleic acid (never both), are obligate intracellular parasites, multiply by a complex process rather than binary fission, and are unaffected by antibacterial antibiotics [2, 3]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "The diagnosis of a virus infection by recovery of the virus from a patient does not always justify the assumption that it is the causative agent.",
+    "reason": "Many viruses, such as adenoviruses and enteroviruses, are frequently found in normal individuals.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "The mere recovery of a virus does not prove causation because certain viruses are often present in healthy people; therefore, results must be interpreted with clinical data [4]."
+  },
+  {
+    "type": "match_columns",
+    "question": "Match the virus with its characteristic inclusion body:",
+    "left": [
+      "Rabies virus",
+      "Vaccinia virus",
+      "Fowlpox virus",
+      "Molluscum contagiosum"
+    ],
+    "right": [
+      "Negri bodies",
+      "Guarnieri bodies",
+      "Bollinger bodies",
+      "Molluscum bodies"
+    ],
+    "answer": {
+      "Rabies virus": "Negri bodies",
+      "Vaccinia virus": "Guarnieri bodies",
+      "Fowlpox virus": "Bollinger bodies",
+      "Molluscum contagiosum": "Molluscum bodies"
+    },
+    "explanation": "Different viruses produce distinct histological inclusion bodies, such as Negri bodies for rabies and Guarnieri bodies for vaccinia [5, 6]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "A 10-year-old boy presents with fever, cough, and white 'grains of salt' lesions on his buccal mucosa. A day later, a red maculopapular rash appears on his forehead. What is the most likely diagnosis?",
+    "options": [
+      "Variola major",
+      "Measles (Rubeola)",
+      "Chickenpox (Varicella)",
+      "Herpes Simplex Type 1"
+    ],
+    "answer": "Measles (Rubeola)",
+    "explanation": "Koplik's spots (white lesions on the buccal mucosa) followed by a red maculopapular rash starting on the forehead are pathognomonic for measles [7, 8]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which Baltimore class describes viruses that use a reverse transcriptase enzyme to convert an RNA genome into a DNA provirus?",
+    "options": [
+      "Class 3",
+      "Class 4",
+      "Class 5",
+      "Class 6"
+    ],
+    "answer": "Class 6",
+    "explanation": "Class 6 (Retroviridae) viruses convert their single-stranded RNA genome into an RNA:DNA hybrid using reverse transcriptase [9]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which features distinguish the Oral Polio Vaccine (OPV) from the Inactivated Polio Vaccine (IPV)?",
+    "options": [
+      "OPV induces local intestinal immunity (IgA)",
+      "IPV is administered orally",
+      "OPV carries a remote risk of reversion to virulence (VDPV)",
+      "IPV can cause spread of the vaccine virus to contacts"
+    ],
+    "answer": [
+      "OPV induces local intestinal immunity (IgA)",
+      "OPV carries a remote risk of reversion to virulence (VDPV)"
+    ],
+    "explanation": "OPV induces intestinal immunity and can spread to contacts, but carries a risk of VDPV; IPV is given by injection and provides systemic but little mucosal immunity [10-12]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Antigenic shift is responsible for major influenza pandemics.",
+    "reason": "Antigenic shift involves abrupt, drastic changes in hemagglutinin or neuraminidase, often resulting from genetic reassortment.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "Antigenic shift is a sudden variation resulting in a novel virus strain to which the population has no immunity, leading to pandemics [13, 14]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "In a patient with suspected Infectious Mononucleosis, which diagnostic test detects heterophile antibodies that agglutinate sheep erythrocytes?",
+    "options": [
+      "Tzanck smear",
+      "Paul-Bunnell test",
+      "Widal test",
+      "Nagler reaction"
+    ],
+    "answer": "Paul-Bunnell test",
+    "explanation": "The Paul-Bunnell test is the standard procedure to detect heterophile antibodies in infectious mononucleosis [15]."
+  },
+  {
+    "type": "match_columns",
+    "question": "Match the virus family with its characteristic morphology:",
+    "left": [
+      "Rhabdoviridae",
+      "Adenoviridae",
+      "Poxviridae",
+      "Filoviridae"
+    ],
+    "right": [
+      "Bullet shaped",
+      "Space vehicle appearance",
+      "Brick shaped",
+      "Filamentous"
+    ],
+    "answer": {
+      "Rhabdoviridae": "Bullet shaped",
+      "Adenoviridae": "Space vehicle appearance",
+      "Poxviridae": "Brick shaped",
+      "Filoviridae": "Filamentous"
+    },
+    "explanation": "Viral families have distinct shapes: Rhabdoviruses are bullet-shaped [16], Adenoviruses look like space vehicles [17], Poxviruses are brick-shaped [18], and Filoviruses are filamentous [19]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which phenomenon occurs when cells are infected with a high dose of influenza virus, resulting in a high hemagglutinin titre but low infectivity due to 'incomplete viruses'?",
+    "options": [
+      "Kanagawa phenomenon",
+      "Von Magnus phenomenon",
+      "Prozone phenomenon",
+      "Satellite phenomenon"
+    ],
+    "answer": "Von Magnus phenomenon",
+    "explanation": "The Von Magnus phenomenon is due to the formation of incomplete virus particles lacking nucleic acid when cells are infected with high MOI [20, 21]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "A 25-year-old HIV-positive man presents with fluffy retinal infiltrates and multiple hemorrhages. PCR on his blood is positive for viral DNA. Which virus is the most likely pathogen?",
+    "options": [
+      "Herpes Simplex Type 2",
+      "Cytomegalovirus (CMV)",
+      "Epstein-Barr Virus",
+      "Varicella Zoster Virus"
+    ],
+    "answer": "Cytomegalovirus (CMV)",
+    "explanation": "CMV is an important pathogen in AIDS patients, frequently causing severe infections such as retinitis [22, 23]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which properties are associated with interferons?",
+    "options": [
+      "They are species specific",
+      "They have direct virucidal action on viruses",
+      "They act by inhibiting viral mRNA translation",
+      "They are virus specific"
+    ],
+    "answer": [
+      "They are species specific",
+      "They act by inhibiting viral mRNA translation"
+    ],
+    "explanation": "Interferons are species specific (e.g., human interferon protects human cells) and act by inhibiting the translation of viral mRNA, but they are NOT virus specific [24, 25]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "In the bacteriophage life cycle, what is the integrated viral genome within a bacterial chromosome called?",
+    "options": [
+      "Virion",
+      "Prophage",
+      "Capsomer",
+      "Peplomer"
+    ],
+    "answer": "Prophage",
+    "explanation": "In the lysogenic cycle, the temperate phage nucleic acid becomes integrated with the bacterial chromosome and is known as the prophage [26]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Acellular pertussis vaccines are now preferred in many countries.",
+    "reason": "They contain only the protective components like PT and FHA and cause fewer reactions.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "Acellular vaccines are preferred because they minimize adverse reactions while providing protection [Source information refers to common medical knowledge outside the specific provided viral sources, but aligned with general microbiology education]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which of the following is a potential pitfall in the diagnosis of viral infection using serology?",
+    "options": [
+      "Waiting too long to collect the acute sample",
+      "A four-fold rise in IgG titer in paired sera",
+      "The presence of IgM antibody in a single sample",
+      "Collecting the convalescent sample 14 days later"
+    ],
+    "answer": "Waiting too long to collect the acute sample",
+    "explanation": "It is essential to examine paired sera: the 'acute' sample must be collected early in the course of the disease to demonstrate a rise in antibody titre [27]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which clinical syndromes are specifically associated with Adenoviruses?",
+    "options": [
+      "Epidemic keratoconjunctivitis (Shipyard eye)",
+      "Acute respiratory disease in military recruits",
+      "Infectious mononucleosis",
+      "Infantile gastroenteritis (types 40, 41)"
+    ],
+    "answer": [
+      "Epidemic keratoconjunctivitis (Shipyard eye)",
+      "Acute respiratory disease in military recruits",
+      "Infantile gastroenteritis (types 40, 41)"
+    ],
+    "explanation": "Adenoviruses cause ARD in recruits, shipyard eye (EKC), and diarrhea via types 40/41 [28, 29]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the official name for the 'B' virus transmitted to humans via monkey bites, which causes fatal ascending myelitis?",
+    "options": [
+      "Human Herpesvirus type 8",
+      "Cercopithecine herpesvirus 1",
+      "Morbillivirus",
+      "Rubulavirus"
+    ],
+    "answer": "Cercopithecine herpesvirus 1",
+    "explanation": "The 'B' virus (Herpesvirus simiae) is officially named Cercopithecine herpesvirus 1 and is usually fatal in humans [30, 31]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Rhinoviruses are the primary cause of the common cold.",
+    "reason": "Rhinoviruses are acid-stable and can survive transit through the stomach.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Assertion is true, Reason is false",
+    "explanation": "While Rhinoviruses cause the common cold, they are acid-labile (inactivated below pH 6) and differ from enteroviruses in this respect [32]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "A patient presents with sudden swelling, congestion, watering, and subconjunctival hemorrhage in the eyes. This syndrome is most likely caused by:",
+    "options": [
+      "Measles virus",
+      "Enterovirus type 70",
+      "Mumps virus",
+      "Rhinovirus"
+    ],
+    "answer": "Enterovirus type 70",
+    "explanation": "Acute hemorrhagic conjunctivitis, characterized by subconjunctival hemorrhage, was identified as being caused by Enterovirus type 70 [33, 34]."
+  }
+]
+}

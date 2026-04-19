@@ -1,0 +1,139 @@
+
+{
+  "quiz": [
+    {
+        "type": "mcq_single",
+        "question": "What percentage of patients with systemic lupus erythematosus (SLE) develop anti-ds DNA antibodies?",
+        "options": ["5%", "50%", "70%", "90%"],
+        "answer": "70%",
+        "explanation": "Approximately 70% of SLE patients exhibit anti-ds DNA antibodies, associated with disease activity."
+    },
+    {
+        "type": "mcq_multiple",
+        "question": "Which of the following diseases are considered organ-specific autoimmune diseases?",
+        "options": ["Graves' disease", "Hashimoto's thyroiditis", "Rheumatoid arthritis", "Systemic lupus erythematosus"],
+        "answer": ["Graves' disease", "Hashimoto's thyroiditis"],
+        "explanation": "Graves' disease and Hashimoto's thyroiditis are examples of organ-specific autoimmune diseases affecting the thyroid."
+    },
+    {
+        "type": "assertion_reason",
+        "assertion": "Autoimmune diseases often exhibit increased levels of immunoglobulins.",
+        "reason": "Elevated immunoglobulin levels indicate an immune response against self-antigens.",
+        "options": [
+            "Both Assertion and Reason are true, Reason explains Assertion",
+            "Both Assertion and Reason are true, Reason does not explain Assertion",
+            "Assertion is true, Reason is false",
+            "Assertion is false, Reason is true",
+            "Both are false"
+        ],
+        "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+        "explanation": "The presence of autoantibodies and immunoglobulins supports the diagnosis of autoimmune diseases."
+    },
+    {
+        "type": "match_columns",
+        "question": "Match the autoimmune diseases with their associated autoantibodies:",
+        "left": ["Graves' disease", "Myasthenia gravis", "Pernicious anemia"],
+        "right": ["Anti-thyroid stimulating immunoglobulin", "Anti-acetylcholine receptor antibody", "Anti-intrinsic factor antibody"],
+        "answer": {
+            "Graves' disease": "Anti-thyroid stimulating immunoglobulin",
+            "Myasthenia gravis": "Anti-acetylcholine receptor antibody",
+            "Pernicious anemia": "Anti-intrinsic factor antibody"
+        },
+        "explanation": "Each autoimmune disease has specific autoantibodies that correlate with their pathogenesis."
+    },
+    {
+        "type": "mcq_single",
+        "question": "What is a common mechanism that leads to autoimmune responses?",
+        "options": ["Molecular mimicry", "Natural selection", "Endocytosis", "Transcription errors"],
+        "answer": "Molecular mimicry",
+        "explanation": "Molecular mimicry occurs when pathogen antigens resemble self-antigens, leading to an autoimmune response."
+    },
+    {
+        "type": "mcq_single",
+        "question": "A 55-year-old female presents with fatigue, joint pain, and a facial rash. Tests show high levels of anti-nuclear antibodies. What is the likely diagnosis?",
+        "options": ["Rheumatoid arthritis", "Systemic lupus erythematosus", "Hashimoto's thyroiditis", "Myasthenia gravis"],
+        "answer": "Systemic lupus erythematosus",
+        "explanation": "The combination of symptoms and positive ANA is indicative of SLE, a systemic autoimmune disease."
+    },
+    {
+        "type": "mcq_single",
+        "question": "What type of hypersensitivity reaction is associated with autoimmune hemolytic anemia?",
+        "options": ["Type I", "Type II", "Type III", "Type IV"],
+        "answer": "Type II",
+        "explanation": "Type II hypersensitivity involves antibodies binding to antigens on cells, leading to hemolysis."
+    },
+    {
+        "type": "mcq_multiple",
+        "question": "Which of the following conditions involve a breakdown of immunological tolerance?",
+        "options": ["Guillain-Barré syndrome", "Multiple sclerosis", "Rheumatoid arthritis", "Hashimoto's thyroiditis"],
+        "answer": ["Multiple sclerosis", "Rheumatoid arthritis", "Hashimoto's thyroiditis"],
+        "explanation": "These conditions are characterized by autoimmune responses due to loss of tolerance against self-antigens."
+    },
+    {
+        "type": "matching",
+        "question": "Match the blood group systems to their characteristics:",
+        "left": ["ABO system", "Rh system", "MN system"],
+        "right": ["Defines universal donors", "Involves D antigen", "Presence in plasma and saliva"],
+        "answer": {
+            "ABO system": "Defines universal donors",
+            "Rh system": "Involves D antigen",
+            "MN system": "Presence in plasma and saliva"
+        },
+        "explanation": "Each blood group system has distinct characteristics relevant for transfusion medicine."
+    },
+    {
+        "type": "mcq_single",
+        "question": "What is the underlying cause of Hashimoto's thyroiditis?",
+        "options": ["Excessive iodine intake", "Autoantibodies against thyroglobulin", "Viral infection", "Bacterial infection"],
+        "answer": "Autoantibodies against thyroglobulin",
+        "explanation": "Hashimoto's thyroiditis is characterized by the production of autoantibodies against thyroid antigens, leading to hypothyroidism."
+    },
+    {
+        "type": "mcq_multiple",
+        "question": "Autoimmune diseases are more prevalent in which demographic?",
+        "options": ["Males", "Females", "Children", "Elderly"],
+        "answer": ["Females"],
+        "explanation": "Autoimmune diseases show a higher incidence in females, likely due to hormonal and genetic factors."
+    },
+    {
+        "type": "mcq_single",
+        "question": "A 30-year-old woman presents with progressive muscle weakness and diplopia. Edrophonium test shows temporary improvement. Which disease is most likely?",
+        "options": ["Myasthenia gravis", "Multiple sclerosis", "Guillain-Barré syndrome", "Rheumatoid arthritis"],
+        "answer": "Myasthenia gravis",
+        "explanation": "The symptoms and positive response to the edrophonium test indicate myasthenia gravis."
+    },
+    {
+        "type": "mcq_single",
+        "question": "The 'horror autotoxicus' theory was proposed to explain what phenomenon?",
+        "options": ["Toleration of self-antigens", "Production of autoantibodies", "Cross-reactivity", "Genetic predisposition to autoimmune diseases"],
+        "answer": "Toleration of self-antigens",
+        "explanation": "The theory suggests that the immune system should not mount an attack against self-antigens."
+    },
+    {
+        "type": "matching",
+        "question": "Match the autoimmune diseases with their specific autoantibodies:",
+        "left": ["Systemic lupus erythematosus", "Rheumatoid arthritis", "Pernicious anemia"],
+        "right": ["Anti-Smith antibody", "Rheumatoid factor", "Anti-parietal cell antibodies"],
+        "answer": {
+            "Systemic lupus erythematosus": "Anti-Smith antibody",
+            "Rheumatoid arthritis": "Rheumatoid factor",
+            "Pernicious anemia": "Anti-parietal cell antibodies"
+        },
+        "explanation": "Each autoimmune disease has specific autoantibodies that help in their diagnosis and understanding."
+    },
+    {
+        "type": "mcq_single",
+        "question": "A patient with autoimmune hemolytic anemia is most likely to show which lab finding?",
+        "options": ["Increased platelet count", "Decreased hemoglobin", "High white blood cell count", "Normal reticulocyte count"],
+        "answer": "Decreased hemoglobin",
+        "explanation": "In autoimmune hemolytic anemia, hemolysis leads to decreased red blood cells and, consequently, decreased hemoglobin."
+    },
+    {
+        "type": "mcq_single",
+        "question": "What is the primary treatment option for autoimmune disorders?",
+        "options": ["Antibiotics", "Immunosuppressants", "Chemotherapy", "Surgery"],
+        "answer": "Immunosuppressants",
+        "explanation": "Immunosuppressants are used to reduce the immune response in autoimmune disorders."
+    }
+]
+}

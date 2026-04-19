@@ -1,0 +1,446 @@
+
+{
+  "flashcards":
+[
+  {
+    "front": "Explanation Note: Summarize the defining characteristics of the genus Mycobacterium.",
+    "back": "Mycobacteria are slender, aerobic, non-motile, non-capsulated, and non-sporing rods that resist decolourisation with dilute mineral acids due to mycolic acid in their cell wall, making them 'acid fast bacilli' (AFB) [1, 2]."
+  },
+  {
+    "front": "Core Concept: What is the significance of 'serpentine cords' in liquid media for M. tuberculosis?",
+    "back": "Virulent strains of M. tuberculosis tend to form long serpentine cords in liquid media, which is a characteristic growth pattern linked to the 'cord factor' virulence factor [3, 4]."
+  },
+  {
+    "front": "Core Concept: Describe the 'Ghon focus' and its components in primary tuberculosis.",
+    "back": "A Ghon focus is a subpleural focus of tuberculous pneumonia (usually in the lower lobes); when combined with enlarged hilar lymph nodes, it constitutes the 'primary complex' [5, 6]."
+  },
+  {
+    "front": "Critical Thinking: Why is a single positive sputum smear for AFB not definitive proof of M. tuberculosis infection?",
+    "back": "Even saprophytic mycobacteria present in tap water or urogenital specimens can appear as acid-fast bacilli; thus, microscopy provides only presumptive evidence of tuberculosis [7]."
+  },
+  {
+    "front": "Clinical Case Study: A 50-year-old man presents with low-grade evening fever, 10kg weight loss, and blood-tinged sputum. A chest X-ray shows a nodular infiltrate in the right upper lobe. What is the most likely diagnosis?",
+    "back": "Pulmonary Tuberculosis. The classic signs are chronic cough, evening rise in temperature, weight loss, and apical lung infiltrates [8]."
+  },
+  {
+    "front": "Decision-Making Under Pressure: A patient has suspected tuberculous meningitis. Why must the laboratory examine the 'spiderweb clot' if one forms in the CSF?",
+    "back": "CSF from tuberculous meningitis often develops a spiderweb clot on standing; examining this clot is often more successful for detecting the bacilli than examining the fluid itself [9]."
+  },
+  {
+    "front": "University-Level Exam MCQ: Which biochemical test differentiates M. tuberculosis (positive) from M. bovis (negative)?",
+    "back": "The Niacin test. Human tubercle bacilli (M. tuberculosis) form niacin when grown on egg-based medium, whereas bovine types do not [10]."
+  },
+  {
+    "front": "PLAB/USMLE Pattern: A patient on anti-TB therapy is found to have strains resistant to rifampicin and isoniazid. What is the specific clinical term for this resistance?",
+    "back": "Multidrug-resistant tuberculosis (MDR-TB). By definition, MDR-TB refers to resistance to at least rifampicin and isoniazid [11]."
+  },
+  {
+    "front": "Bias Recognition: How can 'anchoring bias' on a positive Mantoux test lead to diagnostic error in endemic areas?",
+    "back": "In endemic areas like India, many individuals have been exposed or BCG-vaccinated, leading to a positive Mantoux test without active disease. A clinician must look for clinical/radiological evidence to avoid over-diagnosis [12-14]."
+  },
+  {
+    "front": "Core Concept: Define the Runyon Classification Group I and name a representative species.",
+    "back": "Group I consists of Photochromogens, which produce pigment only after exposure to light. A key species is M. kansasii [15, 16]."
+  },
+  {
+    "front": "Core Concept: What is the clinical presentation of 'Swimming Pool Granuloma' and its causative agent?",
+    "back": "It is a warty skin lesion or fish tank granuloma caused by M. marinum, often following abrasions in contaminated water [17, 18]."
+  },
+  {
+    "front": "Critical Thinking: Why is M. avium complex (MAC) particularly significant in the context of the AIDS pandemic?",
+    "back": "MAC is one of the most common opportunist pathogens in AIDS patients, often causing disseminated disease when CD4 counts are severely depleted [19, 20]."
+  },
+  {
+    "front": "Clinical Case Study: A 20-year-old woman presents with a painless, discharging sinus on her left jaw containing 'sulphur granules.' Gram stain shows branching Gram-positive bacilli. Diagnosis?",
+    "back": "Cervicofacial Actinomycosis. The presence of sulphur granules and branching Gram-positive bacilli are pathognomonic [21-23]."
+  },
+  {
+    "front": "Core Concept: Differentiate the morphology of Tuberculoid vs. Lepromatous leprosy.",
+    "back": "Tuberculoid leprosy has few, sharply demarcated anesthetic patches with scanty bacilli (paucibacillary). Lepromatous leprosy has superficial nodular lesions (lepromata) with abundant bacilli in 'globi' (multibacillary) [24-26]."
+  },
+  {
+    "front": "Core Concept: What is the 'Mitsuda Reaction' in the Lepromin test?",
+    "back": "It is a late reaction (starting in 1-2 weeks) consisting of an indurated skin nodule; it measures the patient's CMI response against lepra bacillus antigens [27]."
+  },
+  {
+    "front": "Critical Thinking: Why is the 'Morphological Index' (MI) more useful than the 'Bacteriological Index' (BI) for monitoring leprosy treatment?",
+    "back": "MI measures the percentage of uniformly stained (live) bacilli, providing a method to assess the immediate progress of chemotherapy, whereas BI only measures the total number (live and dead) [28, 29]."
+  },
+  {
+    "front": "PLAB/USMLE Pattern: A patient with leprosy develops tender, inflamed subcutaneous nodules, fever, and arthralgia after starting treatment. What is this reaction?",
+    "back": "Type 2 Lepra Reaction (Erythema Nodosum Leprosum or ENL). It is an Arthus-type response to antigens released from dead lepra cells [30]."
+  },
+  {
+    "front": "Core Concept: Describe the characteristic motility and morphology of Treponema pallidum.",
+    "back": "It is a thin, delicate spirochete with ten regular spirals and exhibiting active rotation around its long axis ('backward and forward' movements) [31]."
+  },
+  {
+    "front": "Core Concept: Distinguish 'Hard Chancre' from 'Soft Chancre.'",
+    "back": "Hard Chancre (Syphilis) is a painless, indurated, avascular ulcer. Soft Chancre (Chancroid/H. ducreyi) is a painful, non-indurated ulcer [32]."
+  },
+  {
+    "front": "Critical Thinking: What causes a Biological False Positive (BFP) in VDRL testing?",
+    "back": "BFP occurs because the cardiolipin antigen used in VDRL is found in both T. pallidum and mammalian tissues; antibodies may be induced by other infections (malaria, leprosy) or autoimmune diseases (SLE) [33, 34]."
+  },
+  {
+    "front": "University-Level Exam MCQ: Which serological test is considered the specific 'confirmatory' standard for syphilis?",
+    "back": "TPHA (T. pallidum hemagglutination assay) or FTA-ABS (Fluorescent treponemal antibody-absorption) [35, 36]."
+  },
+  {
+    "front": "Clinical Case Study: A truck driver presents with a painless genital ulcer and enlarged inguinal lymph nodes. VDRL is reactive at 1:64. What is the standard treatment?",
+    "back": "Penicillin. It is uniformly effective in syphilis, often requiring a single injection of benzathine penicillin G for early cases [37, 38]."
+  },
+  {
+    "front": "Bias Recognition: Why might a 'negative' VDRL be misleading in a patient with obvious secondary syphilis symptoms?",
+    "back": "The Prozone Phenomenon. High antibody titers in secondary syphilis can inhibit visible clumping; testing sera in dilutions is essential to avoid this false negative [39, 40]."
+  },
+  {
+    "front": "Core Concept: Describe the 'Fried Egg' appearance of Mycoplasma colonies.",
+    "back": "Mycoplasma colonies are typically biphasic, with a central opaque granular area extending into the depth of the medium and a flat, translucent peripheral zone [41]."
+  },
+  {
+    "front": "Core Concept: Why are Mycoplasmas naturally resistant to penicillin?",
+    "back": "They lack a cell wall, which is the target of penicillin and other beta-lactam antibiotics [42, 43]."
+  },
+  {
+    "front": "PLAB/USMLE Pattern: A military recruit develops a gradual-onset 'atypical' pneumonia with a paroxysmal cough. Serology shows cold agglutinins. Pathogen?",
+    "back": "Mycoplasma pneumoniae [44-46]."
+  },
+  {
+    "front": "Critical Thinking: How can Mycoplasma contamination interfere with viral cell culture labs?",
+    "back": "Mycoplasma contamination generally does not produce cytopathic effects but may interfere with viral growth and produce misleading serological results [47]."
+  },
+  {
+    "front": "Core Concept: What defines 'Actinomycosis' as an endogenous infection?",
+    "back": "The Actinomyces species are normal commensals in the mouth, intestine, and vagina; infection occurs when they invade tissues following trauma or poor hygiene [48]."
+  },
+  {
+    "front": "Core Concept: Contrast the oxygen requirements of Actinomyces vs. Nocardia.",
+    "back": "Actinomyces is anaerobic or microaerophilic. Nocardia is an obligate aerobe [49, 50]."
+  },
+  {
+    "front": "Clinical Case Study: An HIV-positive man with a low CD4 count develops pneumonia. Sputum shows fine, right-angled branching filaments that are acid-fast. Pathogen?",
+    "back": "Nocardia (specifically N. asteroides). It is weakly acid-fast and frequently causes systemic disease in the immunodeficient [51, 52]."
+  },
+  {
+    "front": "Decision-Making Under Pressure: A patient has suspected Leptospirosis after walking in flooded streets. When should the blood sample be taken for the best chance of culture?",
+    "back": "In the early leptospiremic phase (first week). After 8-10 days, the organisms disappear from the blood and move to internal organs like the kidneys [53, 54]."
+  },
+  {
+    "front": "Core Concept: What is the 'Jarisch-Herxheimer reaction' and when does it occur?",
+    "back": "It is a reaction consisting of fever and malaise following penicillin treatment for syphilis, believed to be due to the massive destruction of treponemes and release of toxic products [38]."
+  },
+  {
+    "front": "University-Level Exam MCQ: Which spirochete causes 'Weil's disease'?",
+    "back": "Leptospira (specifically L. interrogans serotype icterohemorrhagiae), characterized by fever, jaundice, and hemorrhages [55-57]."
+  },
+  {
+    "front": "Core Concept: Define 'Maduramycosis' (Mycetoma).",
+    "back": "It is a localized, chronic granulomatous involvement of subcutaneous tissues, presenting as a tumor with multiple discharging sinuses, often on the foot [58]."
+  },
+  {
+    "front": "Critical Thinking: Why are 'blocking antibodies' a problem in serological tests for chronic Brucellosis or Syphilis?",
+    "back": "They can lead to false-negative results by preventing agglutination; specific tests like the Coombs test or serial dilutions are required to detect them [Turn context, 164, 171]."
+  },
+  {
+    "front": "Explanation Note: What is the medical importance of the genus Borrelia?",
+    "back": "Borreliae cause Relapsing Fever (louse-borne B. recurrentis or tick-borne) and Lyme Disease (B. burgdorferi) [59]."
+  },
+  {
+    "front": "Core Concept: What is the classic 'target' lesion of Lyme Disease called?",
+    "back": "Erythema migrans (EM) [60]."
+  },
+  {
+    "front": "PLAB/USMLE Pattern: A patient presents with recurring bouts of fever and headache. Blood smear shows large, irregular spirochetes during the febrile phase. Diagnosis?",
+    "back": "Relapsing Fever [61, 62]."
+  },
+  {
+    "front": "Bias Recognition: A clinician assumes a 'red rod' on ZN stain is M. tuberculosis in a patient with a skin ulcer. What is the potential pitfall?",
+    "back": "It could be M. ulcerans (Buruli ulcer) or M. marinum. The site of infection and clinical appearance must guide the differential between MTC and NTM [63, 64]."
+  },
+  {
+    "front": "Core Concept: What is the mechanism behind 'Antigenic Variation' in Borrelia?",
+    "back": "Antigenic variations are caused by DNA rearrangements in linear plasmids, leading to recurring relapses as the immune system must mount a new response to each variant [65]."
+  },
+  {
+    "front": "Core Concept: How does the morphology of M. leprae differ from M. tuberculosis regarding 'globi'?",
+    "back": "M. leprae are often seen in masses called 'globi,' where bacilli are held together by a lipid-like substance called glia, appearing like 'cigar bundles' [66]."
+  },
+  {
+    "front": "Critical Thinking: Why is 'Direct Drug Sensitivity' (DST) testing preferred over indirect testing for M. tuberculosis?",
+    "back": "Direct DST (performed on primary smear-positive specimens) provides results much faster than indirect DST (performed on cultured isolates), which is critical for starting the correct treatment early [67, 68]."
+  },
+  {
+    "front": "University-Level Exam MCQ: Which antibiotic is the 'drug of choice' for chemoprophylaxis of contacts of TB patients?",
+    "back": "Isoniazid (5 mg/kg daily for 6-12 months) [69]."
+  },
+  {
+    "front": "PLAB/USMLE Pattern: A patient has 'Pinta.' What is the causative agent and primary symptom?",
+    "back": "Treponema carateum; it presents with hyper- or hypopigmented skin lesions and seldom affects other tissues [70, 71]."
+  },
+  {
+    "front": "Core Concept: What is the 'Eaton Agent'?",
+    "back": "The historical name for Mycoplasma pneumoniae, originally thought to be a virus [72]."
+  },
+  {
+    "front": "Explanation Note: Define the 'Stop TB Strategy.'",
+    "back": "A WHO initiative to reduce the global burden of TB by achieving universal access to high-quality care, protecting vulnerable populations, and supporting new tool development [73]."
+  },
+  {
+    "front": "Core Concept: What are 'Metachromatic Granules' in C. diphtheriae and do Mycobacteria have similar structures?",
+    "back": "C. diphtheriae has them; Mycobacteria also show 'beaded' or 'barred' forms (granular staining) which are often seen in M. tuberculosis [7, 74]."
+  },
+  {
+    "front": "Critical Thinking: Why is the 'generation time' of M. leprae (12-13 days) a major challenge for medical research?",
+    "back": "The exceptionally slow growth makes cultivation in artificial media impossible so far and slows down the results of animal experiments significantly [66, 75]."
+  },
+  {
+    "front": "Clinical Case Study: A 12-year-old boy has a headache, neck stiffness, and confusion. His father has pulmonary TB. CSF shows lymphocytes, high protein, and low glucose. PCR is positive for M. tuberculosis. Diagnosis?",
+    "back": "Tuberculous Meningitis [76]."
+  },
+  {
+    "front": "Decision-Making Under Pressure: A patient is allergic to penicillin but needs treatment for Syphilis. What is an alternative drug?",
+    "back": "Doxycycline [38]."
+  },
+  {
+    "front": "Core Concept: Describe 'Yaws' and its subspecies.",
+    "back": "A non-venereal treponematosis caused by T. pallidum subspecies pertenue, characterized by 'mother yaws' ulcers and destructive bone lesions [77, 78]."
+  },
+  {
+    "front": "University-Level Exam MCQ: Which medium is the most widely employed for routine culture of M. tuberculosis?",
+    "back": "Lowenstein-Jensen (LJ) medium [79]."
+  },
+  {
+    "front": "PLAB/USMLE Pattern: A child has 'scrofula.' What is the most likely NTM involved?",
+    "back": "M. scrofulaceum (Group II scotochromogen), which typically causes cervical lymphadenitis in children [80, 81]."
+  },
+  {
+    "front": "Core Concept: What is 'Vincent's Angina'?",
+    "back": "Ulcerative gingivostomatitis caused by a symbiotic infection of Borrelia vincentii and fusiform bacilli (Fusobacterium fusiforme) [82]."
+  },
+  {
+    "front": "Critical Thinking: Why does the presence of specific IgM in neonatal serum confirm congenital syphilis?",
+    "back": "IgM does not cross the placenta; thus, its presence in the newborn indicates an immune response from the fetus itself rather than passively transferred maternal antibodies [83]."
+  },
+  {
+    "front": "Bias Recognition: A clinician assumes a patient with suspected syphilis and a negative VDRL is 'clear.' Why is this 'availability bias' dangerous in late syphilis?",
+    "back": "In late syphilis, VDRL sensitivity drops to 60-70%; specific treponemal tests (FTA-ABS/TPHA) remain positive (95-100%) and must be used to rule out the disease [84]."
+  },
+  {
+    "front": "Core Concept: Define 'Atypical' or 'Anonymous' mycobacteria.",
+    "back": "Earlier names for Non-Tuberculous Mycobacteria (NTM) which can cause disease resembling tuberculosis but are generally opportunistic and found in soil/water [85]."
+  },
+  {
+    "front": "Explanation Note: What are the two types of tuberculous lesions?",
+    "back": "Exudative (acute inflammatory, typically seen in weak host responses) and Productive (predominantly cellular/granulomatous, associated with protective immunity) [86]."
+  },
+  {
+    "front": "Core Concept: What is 'Spoligotyping'?",
+    "back": "A molecular typing method for M. tuberculosis based on polymorphism in the direct repeat (DR) locus, useful for typing non-viable cultures [87]."
+  },
+  {
+    "front": "Critical Thinking: Why is 'Animal Inoculation' for tuberculosis very rarely done now?",
+    "back": "Molecular techniques (PCR) and automated culture systems are much faster and more efficient at detecting the bacilli than waiting for a guinea pig to develop lesions [88]."
+  },
+  {
+    "front": "University-Level Exam MCQ: Which NTM species is a 'rapid grower' that causes chronic abscesses?",
+    "back": "M. fortuitum or M. chelonae [89, 90]."
+  },
+  {
+    "front": "PLAB/USMLE Pattern: A patient has 'Farmer's Lung.' What is the immunological cause?",
+    "back": "Allergic alveolitis induced by inhaling spores of thermophilic actinomycetes present in mouldy hay [91]."
+  },
+  {
+    "front": "Core Concept: What is the 'Koch Phenomenon'?",
+    "back": "A historical observation showing that a second injection of tubercle bacilli into an already infected guinea pig leads to a rapid, localized, and self-healing ulcer, demonstrating DTH and immunity [92]."
+  },
+  {
+    "front": "Explanation Note: Define the 'Directly Observed Treatment-short course' (DOTS).",
+    "back": "A strategy ensuring patient compliance where treatment is provided under direct observation by a DOT provider [93]."
+  },
+  {
+    "front": "Core Concept: What is the 'Gaspak system' and is it used for Mycobacterium?",
+    "back": "No. Gaspak is for anaerobes (like Actinomyces). Mycobacterium is an obligate aerobe and needs oxygen [94, 95]."
+  },
+  {
+    "front": "Critical Thinking: How does the 'Morphological Index' help evaluate if a leprosy patient is becoming resistant to Dapsone?",
+    "back": "If the MI (percentage of live, uniformly stained bacilli) does not fall after starting therapy, it indicates that the bacilli are not being killed, suggesting drug resistance [28, 96]."
+  },
+  {
+    "front": "Clinical Case Study: A lab worker accidentally sticks themselves with a needle used on a T. pallidum Nichol's strain in a rabbit. Are they at risk?",
+    "back": "Yes. Accidental infections in lab workers have occurred from the Nichol's strain, which remains virulent to humans [97, 98]."
+  },
+  {
+    "front": "Decision-Making Under Pressure: A child is born to an AFB-positive mother. Should they receive BCG at birth?",
+    "back": "No. They should not receive BCG at birth; they should only receive it after a course of preventive chemotherapy [99]."
+  },
+  {
+    "front": "Core Concept: Define 'Ureaplasma urealyticum.'",
+    "back": "A Mycoplasma that hydrolyses urea; it is the second most common cause of non-gonococcal urethritis (NGU) after Chlamydia [100]."
+  },
+  {
+    "front": "University-Level Exam MCQ: Which spirochete is transmitted by the 'rat flea'?",
+    "back": "None. Plague (Yersinia) is rat flea-borne. Relapsing fever is louse or tick-borne. Syphilis is venereal [59, 101]."
+  },
+  {
+    "front": "PLAB/USMLE Pattern: A patient with secondary syphilis has 'Condylomata lata.' Describe them.",
+    "back": "They are characteristic wart-like lesions occurring at mucocutaneous junctions, which are abundant in spirochetes and highly infectious [102]."
+  },
+  {
+    "front": "Core Concept: What is the 'Castaneda Method' and which spirochete does it apply to?",
+    "back": "It is a biphasic culture method. While used for Brucella, a similar principle (Kelley's BSK medium) is used for Borrelia culture, though culture is usually too slow for diagnosis [103, 104]."
+  },
+  {
+    "front": "Critical Thinking: Why is the 'cold agglutination test' for M. pneumoniae pneumonia called 'non-specific'?",
+    "back": "Because it detects macroglobulin antibodies that agglutinate human group O cells at 4°C, which can also appear in other conditions, whereas growth inhibition tests are specific [45, 46]."
+  },
+  {
+    "front": "Explanation Note: What are 'L-forms' of bacteria?",
+    "back": "Cell wall-deficient forms of bacteria that can develop spontaneously or be induced by penicillin; they differ from Mycoplasma because they can sometimes revert to normal morphology [105]."
+  },
+  {
+    "front": "Core Concept: What is the role of 'Mycolic Acid' in Granuloma formation?",
+    "back": "Mycolic acids, when complexed with peptidoglycan, are responsible for the formation of granulomas in tuberculosis [4]."
+  },
+  {
+    "front": "Critical Thinking: Why is 'Direct Fluorescent Antibody' (DFA-TP) safer than dark ground microscopy for Syphilis?",
+    "back": "DFA-TP uses fixed smears (the organisms are dead), whereas dark ground microscopy requires fresh, live exudates, posing an infection risk to the observer [106]."
+  },
+  {
+    "front": "Clinical Case Study: A patient has chronic lung disease and the isolate grows at 45°C. Which thermophilic NTM is likely?",
+    "back": "M. avium or M. xenopi [107]."
+  },
+  {
+    "front": "Decision-Making Under Pressure: A nurse accidentally splashes suspected T. pallidum exudate into their eye. What should be done?",
+    "back": "While T. pallidum is delicate and easily killed by antiseptics, immediate prophylaxis with penicillin may be considered, but it carries the risk of suppressing the primary lesion without eliminating the infection, making later diagnosis harder [97, 108]."
+  },
+  {
+    "front": "Core Concept: Define 'XDR-TB.'",
+    "back": "Extensively drug-resistant TB, which is MDR-TB plus resistance to any fluoroquinolone and at least one injectable second-line drug [109]."
+  },
+  {
+    "front": "University-Level Exam MCQ: Which test uses 'CFP10' antigen to detect TB exposure?",
+    "back": "Interferon gamma release assay (IGRA) [14]."
+  },
+  {
+    "front": "PLAB/USMLE Pattern: A patient has 'Buruli Ulcer.' causative agent and characteristic?",
+    "back": "M. ulcerans; it produces a toxin that causes inflammation and necrosis, leading to chronic progressive ulcers usually on limbs [64, 110]."
+  },
+  {
+    "front": "Core Concept: What is the 'Reiter strain'?",
+    "back": "A non-pathogenic, cultivable treponeme used as the antigen in group-specific treponemal tests like RPCF [111, 112]."
+  },
+  {
+    "front": "Critical Thinking: How does the 'Th1' vs 'Th2' T-cell path determine the outcome of a TB infection?",
+    "back": "Th-1 cytokines activate macrophages to contain the infection (protective). Th-2 cytokines induce DTH, leading to tissue destruction and progressive disease [113]."
+  },
+  {
+    "front": "Explanation Note: Describe 'Endemic Syphilis' (Bejel).",
+    "back": "A non-venereal syphilis caused by T. pallidum subspecies endemicum, common in children in hygiene-poor areas; it presents with mucous patches but not congenital transmission [77, 114]."
+  },
+  {
+    "front": "Core Concept: What is 'Actinomadura' and what does it cause?",
+    "back": "A genus of aerobic actinomycetes that causes bacterial mycetoma (Maduramycosis) [58]."
+  },
+  {
+    "front": "Critical Thinking: Why is 'N acetyl cysteine' used during sputum decontamination?",
+    "back": "It is a mucolytic agent used for liquefaction of sputum, allowing the decontaminating NaOH to work better and improving the yield of bacilli [115]."
+  },
+  {
+    "front": "Clinical Case Study: A 45-year-old woman in Mumbai develops jaundice and fever after walking in monsoon floodwaters. IgM dipstick is positive. Diagnosis?",
+    "back": "Leptospirosis [56, 116]."
+  },
+  {
+    "front": "Decision-Making Under Pressure: A physician suspects Syphilis but the patient is in the 'window' before VDRL becomes positive. What is the next step?",
+    "back": "Perform Dark Ground Microscopy on the chancre exudate, as spirochetes are detectable before antibodies appear [39, 117]."
+  },
+  {
+    "front": "Core Concept: Define 'BCG' vaccine.",
+    "back": "Bacille Calmette-Guerin; a live attenuated strain of M. bovis used for immunoprophylaxis against tuberculosis [118]."
+  },
+  {
+    "front": "University-Level Exam MCQ: Which spirochete is 'obligately aerobic' and hooked at the ends?",
+    "back": "Leptospira [119]."
+  },
+  {
+    "front": "PLAB/USMLE Pattern: A patient has 'Tabes dorsalis.' Which stage of syphilis is this?",
+    "back": "Late tertiary or quaternary syphilis [120]."
+  },
+  {
+    "front": "Core Concept: What is the 'Dienes Method' used for?",
+    "back": "Staining Mycoplasma colonies on agar blocks for better visualization [41]."
+  },
+  {
+    "front": "Critical Thinking: Why does leprosy prevalence vary regionally in India (e.g., high in Orissa/Bihar, low in Haryana)?",
+    "back": "It is influenced by socioeconomic factors, population density, and health infrastructure for 'case finding' and MDT distribution [121, 122]."
+  },
+  {
+    "front": "Bias Recognition: A clinician assumes a 'fried egg' colony on agar is Mycoplasma. What else could it be?",
+    "back": "L-forms of other bacteria can also produce 'fried egg' colonies; biochemical and genetic testing is needed for differentiation [105]."
+  },
+  {
+    "front": "Core Concept: Define 'Paucibacillary' vs 'Multibacillary' leprosy for treatment purposes.",
+    "back": "Paucibacillary (I, TT, BT) requires 6 months of Rifampicin/Dapsone. Multibacillary (BB, BL, LL) requires 2 years of Rifampicin/Dapsone/Clofazimine [123, 124]."
+  },
+  {
+    "front": "Explanation Note: What is 'Transfusion Syphilis'?",
+    "back": "Syphilis transmitted via blood transfusion; it bypasses the primary stage, and no chancre occurs [120]."
+  },
+  {
+    "front": "Core Concept: What is 'Petroff's Method'?",
+    "back": "A simple sputum decontamination technique using 4% sodium hydroxide to kill contaminating bacteria [125, 126]."
+  },
+  {
+    "front": "Critical Thinking: Why is the 'Mitsuda late reaction' NOT a diagnostic test for leprosy?",
+    "back": "Because healthy persons in non-endemic areas can show a positive lepromin test; it only measures the person's ability to mount a CMI response, not current infection [27, 96]."
+  },
+  {
+    "front": "University-Level Exam MCQ: Which NTM is commonly found in 'hot water taps' in hospitals?",
+    "back": "M. xenopi [107]."
+  },
+  {
+    "front": "PLAB/USMLE Pattern: A patient with HIV has a CD4 count < 50 and fever. Which NTM is the primary suspect for disseminated disease?",
+    "back": "M. avium-intracellulare complex (MAC) [19, 20]."
+  },
+  {
+    "front": "Core Concept: What are 'Lepra Cells' (Virchow's cells)?",
+    "back": "Large undifferentiated histiocytes (foamy cells) containing globi of M. leprae [66]."
+  },
+  {
+    "front": "Critical Thinking: How does the presence of 'Endoflagella' benefit Spirochetes?",
+    "back": "They are wound around the protoplasmic cylinder within the outer membrane, allowing the bacteria to move efficiently through viscous media [127, 128]."
+  },
+  {
+    "front": "Clinical Case Study: A patient has 'Lumpy Jaw' after a dental extraction. Sulphur granules are found. Pathogen?",
+    "back": "Actinomyces israelii [48, 49]."
+  },
+  {
+    "front": "Decision-Making Under Pressure: A patient has an 'anamnestic response' in a Widal test. How do you interpret this for TB if using the Mantoux test?",
+    "back": "In Mantoux, a 'booster effect' occurs where a second test in a week enhances the response in reactive individuals with waning allergy, which is useful for 'two-step testing' [129]."
+  },
+  {
+    "front": "Core Concept: Define 'TCH' (Thiophene-2-carboxylic acid hydrazide) resistance.",
+    "back": "Used to differentiate M. tuberculosis (resistant) from M. bovis (sensitive/inhibited) [130, 131]."
+  },
+  {
+    "front": "University-Level Exam MCQ: Which antibody class is the first to appear in a Treponemal infection?",
+    "back": "IgM [132]."
+  },
+  {
+    "front": "PLAB/USMLE Pattern: A child has chronic, painless inguinal lymph node swelling. What is this sign in syphilis?",
+    "back": "Syphilitic Bubo (regional lymphadenopathy associated with the primary chancre) [32]."
+  },
+  {
+    "front": "Core Concept: Describe 'Acrodermatitis chronica atrophicans.'",
+    "back": "A late-stage skin manifestation of persistent Lyme disease [60]."
+  },
+  {
+    "front": "Critical Thinking: Why are Mycoplasmas often mistaken for viruses?",
+    "back": "They lack a cell wall, are highly pleomorphic, and can pass through bacterial filters (size 450-nm) [42, 133]."
+  },
+  {
+    "front": "Explanation Note: What is the 'Lubeck Disaster'?",
+    "back": "A tragic event where children died of tuberculosis after being accidentally given live, virulent tubercle bacilli instead of BCG vaccine [134]."
+  }
+]
+}

@@ -1,0 +1,644 @@
+{
+  "quiz": [
+    {
+      "question": "Which stain differentiates bacteria into violet (Gram-positive) and pink (Gram-negative) groups?",
+      "options": ["Acid-fast stain", "Gram stain", "Simple stain", "Negative stain"],
+      "answer": "Gram stain",
+      "explanation": "Gram stain (1884) distinguishes Gram-positive (thick peptidoglycan retains crystal violet-iodine) from Gram-negative (thin peptidoglycan, LPS; decolorized by alcohol, take safranin counterstain). Essential for identification, antibiotic choice. [file:1]"
+    },
+    {
+      "question": "What is the primary chemical component responsible for acid-fastness in Mycobacterium tuberculosis?",
+      "options": ["Peptidoglycan", "Teichoic acid", "Mycolic acid", "Lipoteichoic acid"],
+      "answer": "Mycolic acid",
+      "explanation": "Mycolic acid (high MW hydroxy acid wax) in cell wall confers acid-fastness; resists decolorization with 3% H2SO4 after carbol fuchsin staining. M. leprae uses 5% acid. [file:1]"
+    },
+    {
+      "question": "Which bacterial arrangement appears as grape-like clusters?",
+      "options": ["Diplococci", "Streptococci", "Staphylococci", "Sarcina"],
+      "answer": "Staphylococci",
+      "explanation": "Staphylococci divide in multiple planes, forming irregular grape-like clusters. Streptococci form chains (single plane division). [file:1]"
+    },
+    {
+      "question": "What is the key structural difference between Gram-positive and Gram-negative bacterial cell walls?",
+      "options": ["Gram+ have thin peptidoglycan", "Gram- have teichoic acids", "Gram+ have thick peptidoglycan", "Gram- lack plasma membrane"],
+      "answer": "Gram+ have thick peptidoglycan",
+      "explanation": "Gram+ (15-80 nm thick peptidoglycan); Gram- (2-7 nm peptidoglycan + outer membrane with LPS/endotoxin). Table 2.2 comparison. [file:1]"
+    },
+    {
+      "question": "Which structure is demonstrated by India ink negative staining?",
+      "options": ["Flagella", "Spore", "Capsule", "Metachromatic granules"],
+      "answer": "Capsule",
+      "explanation": "India ink provides dark background; capsules appear as clear halos around bacteria. Also shows Quellung reaction with anticapsular serum. Anti-phagocytic virulence factor. [file:1]"
+    },
+    {
+      "question": "What is the typical generation time of E. coli under optimal conditions?",
+      "options": ["20 minutes", "20 hours", "20 days", "2 hours"],
+      "answer": "20 minutes",
+      "explanation": "Most medically important bacteria have ~20 min generation time (E. coli); M. tuberculosis ~20 hrs; M. leprae ~20 days. Binary fission. [file:1]"
+    },
+    {
+      "question": "Which component of Gram-negative cell wall is responsible for endotoxic activity?",
+      "options": ["O polysaccharide", "Core polysaccharide", "Lipid A", "Porin proteins"],
+      "answer": "Lipid A",
+      "explanation": "LPS region III (Lipid A) causes pyrogenicity, shock, tissue necrosis. O antigen (region I) determines serotype specificity. [file:1]"
+    },
+    {
+      "question": "What are bacterial ribosomes classified as?",
+      "options": ["80S", "70S", "60S", "50S"],
+      "answer": "70S",
+      "explanation": "Bacterial ribosomes (70S) smaller than eukaryotic (80S). Sites of protein synthesis, form polysomes with mRNA. [file:1]"
+    },
+    {
+      "question": "Which flagellar arrangement is characteristic of Vibrio cholerae?",
+      "options": ["Peritrichous", "Lophotrichous", "Monotrichous", "Amphitrichous"],
+      "answer": "Monotrichous",
+      "explanation": "V. cholerae: single polar flagellum (monotrichous). Typhoid bacilli: peritrichous (all over surface). Spirilla: lophotrichous tufts. [file:1]"
+    },
+    {
+      "question": "What demonstrates metachromatic granules in Corynebacterium diphtheriae?",
+      "options": ["Gram stain", "Acid-fast stain", "Albert's stain", "India ink"],
+      "answer": "Albert's stain",
+      "explanation": "Albert's stain shows polar metachromatic (volutin/Babes-Ernst) granules as bluish-purple in C. diphtheriae (Chinese letter arrangement). [file:1]"
+    },
+    {
+      "question": "Which form results when lysozyme acts on Gram-positive bacteria in hypotonic solution?",
+      "options": ["Spheroplast", "Protoplast", "L-form", "Spirochete"],
+      "answer": "Protoplast",
+      "explanation": "Lysozyme splits peptidoglycan; Gram+ → protoplast (cytoplasmic membrane only). Gram- → spheroplast (some wall remnants). [file:1]"
+    },
+    {
+      "question": "What is the function of bacterial fimbriae/pili?",
+      "options": ["Motility", "Adhesion", "Sporulation", "Protein synthesis"],
+      "answer": "Adhesion",
+      "explanation": "Fimbriae mediate adherence to host cells/surfaces (mannose-sensitive hemagglutination). Sex pili enable conjugation. Not motile. [file:1]"
+    },
+    {
+      "question": "Which microscopy technique best visualizes living, motile spirochetes?",
+      "options": ["Light microscope", "Phase contrast", "Dark-field", "Electron microscope"],
+      "answer": "Dark-field",
+      "explanation": "Dark-field uses oblique illumination; slender spirochetes appear luminous against dark background. Shows motility. [file:1]"
+    },
+    {
+      "question": "What is the characteristic spore position in Clostridium tetani?",
+      "options": ["Central, bulging", "Subterminal, bulging", "Terminal, spherical", "Central, not bulging"],
+      "answer": "Subterminal, bulging",
+      "explanation": "C. tetani: terminal/spherical spore distending the end ('drumstick'). C. perfringens: central bulging. Species-specific. [file:1]"
+    },
+    {
+      "question": "Which phase of bacterial growth curve shows maximum multiplication rate?",
+      "options": ["Lag phase", "Log/exponential phase", "Stationary phase", "Decline/death phase"],
+      "answer": "Log/exponential phase",
+      "explanation": "Log phase: balanced growth, maximum division rate, optimal antibiotic susceptibility testing. [file:1]"
+    },
+    {
+      "question": "A 45-year-old male presents to the emergency department with high fever, chills, and a productive cough. A Gram stain of his sputum reveals purple-colored, spherical bacteria arranged in pairs and short chains. Which characteristic of these bacteria explains their staining property?",
+      "options": [
+        "A high lipid content in the cell wall",
+        "A thin layer of peptidoglycan",
+        "A thick peptidoglycan layer that retains the dye-iodine complex",
+        "The presence of an outer membrane containing Lipopolysaccharide"
+      ],
+      "answer": "A thick peptidoglycan layer that retains the dye-iodine complex",
+      "explanation": "Gram-positive bacteria (appearing purple/violet) have a thick peptidoglycan layer (15–80 nm) that is able to retain the crystal violet-iodine complex even after decolourisation with organic solvents like acetone [1, 2]."
+    },
+    {
+      "question": "A 24-year-old intravenous drug user develops a high-grade fever and a new heart murmur. Blood cultures are positive for Gram-positive cocci in clusters. The laboratory technician performs a test where a loopful of hydrogen peroxide is placed on the colonies, resulting in prompt effervescence. What enzyme is being detected?",
+      "options": [
+        "Oxidase",
+        "Urease",
+        "Catalase",
+        "Lecithinase"
+      ],
+      "answer": "Catalase",
+      "explanation": "The production of prompt effervescence when hydrogen peroxide (H2O2) is added to colonies indicates the presence of the enzyme catalase [3]. This test is commonly used to differentiate Staphylococci (catalase-positive) from Streptococci (catalase-negative) [4]."
+    },
+    {
+      "question": "A 30-year-old woman with a history of recurrent urinary tract infections presents with flank pain and hematuria. Imaging reveals a 'staghorn' calculus in the renal pelvis. The causative organism is found to produce an enzyme that splits urea into ammonia, raising the urinary pH. Which biochemical test would be positive for this organism?",
+      "options": [
+        "Indole test",
+        "Urease test",
+        "Voges-Proskauer test",
+        "Nitrate reduction test"
+      ],
+      "answer": "Urease test",
+      "explanation": "Urease-producing bacteria (like Proteus) reduce urea to ammonia, which is responsible for the purple-pink colour change in Christensen's urease medium [5, 6]. The resulting alkaline pH facilitates the formation of certain renal stones."
+    },
+    {
+      "question": "A 10-year-old child presents with a sore throat and a thick, greyish-white membrane over the tonsils. A swab is taken and stained with Albert's stain, showing slender bacilli with bluish-purple granules at the poles. These granules are also known as:",
+      "options": [
+        "Endospores",
+        "Babes-Ernst granules",
+        "Capsules",
+        "Flagella"
+      ],
+      "answer": "Babes-Ernst granules",
+      "explanation": "Corynebacterium diphtheriae contains metachromatic granules at its poles, also called Babes-Ernst granules, volutin, or polar bodies, which take up a bluish-purple color with Albert's stain [7, 8]."
+    },
+    {
+      "question": "Following a natural disaster, an outbreak of profuse watery diarrhea occurs in a settlement. Stool samples are inoculated onto Thiosulphate Citrate Bile Salt Sucrose (TCBS) agar, yielding large yellow colonies. What is the primary reason for the yellow color of these colonies?",
+      "options": [
+        "Production of hydrogen sulphide",
+        "Lactose fermentation",
+        "Sucrose fermentation in an alkaline medium",
+        "Reduction of potassium tellurite"
+      ],
+      "answer": "Sucrose fermentation in an alkaline medium",
+      "explanation": "TCBS agar is selective for Vibrio species. Vibrio cholerae ferments sucrose, and in the alkaline pH of the medium, the colonies appear yellow [9, 10]."
+    },
+    {
+      "question": "A researcher is studying a bacterium that can survive boiling for several minutes. Microscopic examination of the sample using a modification of the Ziehl-Neelsen technique reveals highly refractive, oval structures within the bacillary bodies. These structures are most likely:",
+      "options": [
+        "Capsules",
+        "Mesosomes",
+        "Endospores",
+        "Inclusion bodies"
+      ],
+      "answer": "Endospores",
+      "explanation": "Bacterial spores (endospores) are highly resistant resting stages formed by genera like Bacillus and Clostridium. They can resist boiling and are seen as refractile bodies that can be stained by modified acid-fast techniques [11-13]."
+    },
+    {
+      "question": "During a routine check of a hospital's sterilization equipment, the microbiology lab uses a biological indicator to test the efficacy of the autoclave. Which organism is standardly used for this purpose?",
+      "options": [
+        "Bacillus subtilis",
+        "Clostridium tetani",
+        "Geobacillus stearothermophilus",
+        "Mycobacterium tuberculosis"
+      ],
+      "answer": "Geobacillus stearothermophilus",
+      "explanation": "Geobacillus stearothermophilus is the test organism used for checking sterilization by steam under pressure (autoclaving) because its spores are highly thermophilic and resistant [14]."
+    },
+    {
+      "question": "A patient with suspected primary syphilis presents with a painless genital ulcer. The physician performs a 'hanging drop' examination of the ulcer's serous discharge but cannot see the organism under a standard light microscope. Which microscopy technique would be best to visualize the causative spirochete?",
+      "options": [
+        "Phase contrast microscopy",
+        "Fluorescence microscopy",
+        "Dark field microscopy",
+        "Electron microscopy"
+      ],
+      "answer": "Dark field microscopy",
+      "explanation": "Dark field (dark ground) microscopy provides an illusion of increased resolution, allowing very slender organisms such as spirochetes (e.g., Treponema pallidum) to be clearly seen as self-luminous objects against a dark background [15]."
+    },
+    {
+      "question": "A 50-year-old male with chronic cough and weight loss has a sputum sample that remains red after decolourisation with 20% sulphuric acid and counterstaining with methylene blue. This property of 'acid fastness' is primarily due to:",
+      "options": [
+        "A thick peptidoglycan layer",
+        "The presence of mycolic acid in the cell wall",
+        "The presence of teichoic acid",
+        "Intracellular volutin granules"
+      ],
+      "answer": "The presence of mycolic acid in the cell wall",
+      "explanation": "Acid fastness is attributed to the high content and variety of lipids, specifically high molecular weight hydroxy acid waxes called mycolic acids, found in the cell walls of Mycobacteria [16, 17]."
+    },
+    {
+      "question": "A patient is diagnosed with a severe infection caused by a Gram-negative bacterium. The clinician is concerned about the risk of septic shock. Which component of the bacterial cell wall is the primary mediator of endotoxic activity?",
+      "options": [
+        "Teichoic acid",
+        "O polysaccharide",
+        "Lipid A",
+        "Porin proteins"
+      ],
+      "answer": "Lipid A",
+      "explanation": "The Lipopolysaccharide (LPS) of Gram-negative bacteria consists of three regions. Region III, the glycolipid portion known as Lipid A, is responsible for the endotoxic activities, including pyrogenicity and tissue necrosis [18, 19]."
+    },
+    {
+      "question": "A microbiology lab receives a fecal sample from a patient with suspected Salmonella dysentery. To suppress the growth of normal gut commensals and allow the pathogen to grow, the sample should be first inoculated into which type of medium?",
+      "options": [
+        "Enriched medium like Blood Agar",
+        "Enrichment medium like Selenite F broth",
+        "Differential medium like MacConkey Agar",
+        "Basal medium like Nutrient Broth"
+      ],
+      "answer": "Enrichment medium like Selenite F broth",
+      "explanation": "Enrichment media are liquid media used to suppress commensal bacteria while allowing the pathogen to grow. Examples include Selenite F broth for bacteria causing dysentery (Salmonella/Shigella) [20, 21]."
+    },
+    {
+      "question": "In a bacterial genetics experiment, a 'male' donor cell is observed making physical contact with a 'female' recipient cell via a specialized pilus. Genetic material, specifically a plasmid, is then transferred. This process is called:",
+      "options": [
+        "Transformation",
+        "Transduction",
+        "Conjugation",
+        "Transposition"
+      ],
+      "answer": "Conjugation",
+      "explanation": "Conjugation is the process where a 'male' (donor) bacterium makes physical contact with a 'female' (recipient) via a sex pilus and transfers genetic elements (usually plasmids) [22, 23]."
+    },
+    {
+      "question": "A 22-year-old female presents with symptoms of a urinary tract infection. The lab isolates E. coli and notes that it adheres firmly to the uroepithelial cells. Which bacterial structure is primarily responsible for this adhesion?",
+      "options": [
+        "Flagella",
+        "Capsule",
+        "Fimbriae (Pili)",
+        "Mesosomes"
+      ],
+      "answer": "Fimbriae (Pili)",
+      "explanation": "Fimbriae (or pili) function as organs of adhesion, helping bacteria adhere firmly to particles or host cell surfaces [24]."
+    },
+    {
+      "question": "A surgeon is choosing a method to sterilize heat-sensitive heart-lung machine components. Which of the following is the most appropriate agent for this 'cold' sterilization?",
+      "options": [
+        "Autoclaving at 121°C",
+        "Hot-air oven at 160°C",
+        "Ethylene oxide gas",
+        "Boiling in water with 2% sodium bicarbonate"
+      ],
+      "answer": "Ethylene oxide gas",
+      "explanation": "Ethylene oxide is a highly penetrating gas used specifically for sterilizing heat-sensitive equipment like heart-lung machines, respirators, and plastic items [25]."
+    },
+    {
+      "question": "A patient with a deep, traumatic wound develops signs of gas gangrene. The lab uses Robertson's cooked meat medium to culture the suspected Clostridium species. If the meat in the broth turns black, it indicates that the organism has:",
+      "options": [
+        "Saccharolytic activity",
+        "Proteolytic activity",
+        "Nitrate reductase activity",
+        "Lecithinase activity"
+      ],
+      "answer": "Proteolytic activity",
+      "explanation": "Robertson's cooked meat medium allows for the growth of strict anaerobes. Proteolytic activity is indicated by the meat turning black, while saccharolytic activity turns it red [26]."
+    },
+    {
+      "question": "During a laboratory study, a strain of Streptococcus pneumoniae loses its ability to produce a capsule due to a mutation. This strain is now observed to be avirulent when injected into mice. This illustrates that the capsule primarily serves to:",
+      "options": [
+        "Facilitate motility",
+        "Protect the bacterium from phagocytosis",
+        "Store energy and phosphate",
+        "Enable genetic exchange"
+      ],
+      "answer": "Protect the bacterium from phagocytosis",
+      "explanation": "Capsules contribute to the virulence of pathogenic bacteria by inhibiting phagocytosis. Loss of the capsule by mutation can render the bacterium avirulent [27]."
+    },
+    {
+      "question": "A 70-year-old man requires an endoscopical procedure. Between patients, the bronchoscope must undergo 'high-level disinfection.' According to Spaulding's classification, which chemical agent is most commonly used for this semi-critical item?",
+      "options": [
+        "70% Ethyl alcohol",
+        "2% Glutaraldehyde",
+        "0.5% Chlorhexidine",
+        "10% Povidone iodine"
+      ],
+      "answer": "2% Glutaraldehyde",
+      "explanation": "Semi-critical items like endoscopes and bronchoscopes require high-level disinfection. Glutaraldehyde (2%) is the most commonly used high-level disinfectant for these instruments [28, 29]."
+    },
+    {
+      "question": "A researcher is using the 'central dogma' of molecular biology to explain how a bacterial cell produces a specific protein. What is the correct sequence of this information flow?",
+      "options": [
+        "DNA -> Polypeptide -> RNA",
+        "RNA -> DNA -> Polypeptide",
+        "DNA -> RNA -> Polypeptide",
+        "Polypeptide -> RNA -> DNA"
+      ],
+      "answer": "DNA -> RNA -> Polypeptide",
+      "explanation": "The 'central dogma' of molecular biology states that genetic information is transcribed from DNA onto RNA and then translated into a polypeptide [30, 31]."
+    },
+    {
+      "question": "An outbreak of neonatal sepsis occurs in a nursery. To identify the source, the microbiology department uses a technique where bacterial proteins are separated by electrophoresis and then identified using radiolabelled antibodies. This technique is known as:",
+      "options": [
+        "Southern blotting",
+        "Northern blotting",
+        "Western blotting (Immunoblotting)",
+        "Polymerase Chain Reaction (PCR)"
+      ],
+      "answer": "Western blotting (Immunoblotting)",
+      "explanation": "Western blotting (or immunoblotting) is used for the identification of proteins (antigens) by separating them via electrophoresis and identifying them with specific antibodies [32]."
+    },
+    {
+      "question": "A patient with tuberculosis is being treated with a single antibiotic. Within weeks, the physician notes that the bacteria have become highly resistant to the drug. This rapid, 'one-step' development of resistance is classically associated with which drug?",
+      "options": [
+        "Penicillin",
+        "Streptomycin",
+        "Sulfonamides",
+        "Erythromycin"
+      ],
+      "answer": "Streptomycin",
+      "explanation": "Mutational resistance can be 'one-step' (large-step), as seen with streptomycin, where mutants differ widely in resistance, some being highly resistant or even drug-dependent [33, 34]."
+    },
+    {
+      "question": "A lab technician is preparing a culture medium that contains blood, serum, and egg to grow nutritionally demanding (fastidious) bacteria. This type of medium is classified as:",
+      "options": [
+        "Basal medium",
+        "Enriched medium",
+        "Selective medium",
+        "Transport medium"
+      ],
+      "answer": "Enriched medium",
+      "explanation": "Enriched media are basal media with added substances like blood, serum, or egg to support the growth of fastidious organisms [20]."
+    },
+    {
+      "question": "A 19-year-old male with symptoms of meningitis undergoes a lumbar puncture. The CSF is inoculated onto chocolate agar and incubated in an atmosphere containing 5-10% CO2. Organisms that require higher levels of CO2 for growth are termed:",
+      "options": [
+        "Microaerophilic",
+        "Obligate anaerobes",
+        "Capnophilic",
+        "Facultative anaerobes"
+      ],
+      "answer": "Capnophilic",
+      "explanation": "Bacteria that require higher levels of carbon dioxide (5–10%) for growth, such as Brucella abortus or certain Neisseria, are called capnophilic [35]."
+    },
+    {
+      "question": "In a study of bacterial growth, a scientist plots the viable count against time and observes a period where the number of newly formed cells equals the number of dying cells. This phase is known as the:",
+      "options": [
+        "Lag phase",
+        "Log phase",
+        "Stationary phase",
+        "Phase of decline"
+      ],
+      "answer": "Stationary phase",
+      "explanation": "In the stationary phase, cell division stops due to nutrient depletion and toxic accumulation, and the viable count remains stationary because an equilibrium exists between dying and newly formed cells [36, 37]."
+    },
+    {
+      "question": "A 35-year-old male is suspected of having a lung infection with a very slender organism that cannot be demonstrated by simple staining methods. The lab uses 'Negative staining' with Indian ink. What is the primary purpose of this technique?",
+      "options": [
+        "To stain the bacterial cell wall",
+        "To provide a dark background against which unstained capsules or slender bacteria stand out",
+        "To identify acid-fast bacilli",
+        "To demonstrate bacterial motility"
+      ],
+      "answer": "To provide a dark background against which unstained capsules or slender bacteria stand out",
+      "explanation": "Negative staining (e.g., with Indian ink) provide a uniformly coloured background against which unstained bacteria or capsules stand out in contrast [38]."
+    },
+    {
+      "question": "A clinician wants to confirm a diagnosis of HIV by detecting specific viral antibodies in a patient's serum. Which test is considered the confirmatory test for this purpose?",
+      "options": [
+        "PCR",
+        "Southern Blot",
+        "Western Blot",
+        "Northern Blot"
+      ],
+      "answer": "Western Blot",
+      "explanation": "The western blot test is used as the confirmatory test for the diagnosis of HIV antibody in sera [32]."
+    },
+    {
+      "question": "While investigating an outbreak of diarrhea, a microbiologist uses a technique where DNA segments from a donor are carried by a bacteriophage and transferred to a recipient cell. This mode of genetic exchange is:",
+      "options": [
+        "Transformation",
+        "Transduction",
+        "Conjugation",
+        "Transposition"
+      ],
+      "answer": "Transduction",
+      "explanation": "Transduction is the transfer of a portion of DNA from one bacterium to another by a bacteriophage [39]."
+    },
+    {
+      "question": "A patient with a heart valve replacement is undergoing a procedure. The surgical instruments were sterilized in an autoclave. What is the standard temperature and holding time for effective autoclaving?",
+      "options": [
+        "160°C for 2 hours",
+        "100°C for 20 minutes",
+        "121°C for 15 minutes",
+        "150°C for 1 hour"
+      ],
+      "answer": "121°C for 15 minutes",
+      "explanation": "The standard recommended temperature and holding time for sterilization in an autoclave is 121°C for 15 minutes [40]."
+    },
+    {
+      "question": "A lab uses Triple Sugar Iron (TSI) agar to help identify Gram-negative bacilli. After incubation, a tube shows a yellow slant and a yellow butt with bubbles. This indicates that the organism ferments:",
+      "options": [
+        "Glucose only",
+        "Lactose and sucrose only",
+        "Glucose, lactose, and sucrose with gas production",
+        "No sugars at all"
+      ],
+      "answer": "Glucose, lactose, and sucrose with gas production",
+      "explanation": "On TSI medium, if both the slant and butt become yellow, it means all the sugars (glucose, lactose, and sucrose) are fermented. Bubbles in the butt indicate gas production [41, 42]."
+    },
+    {
+      "question": "In the history of microbiology, who was the first person to observe and report bacteria using hand-ground lenses?",
+      "options": [
+        "Louis Pasteur",
+        "Robert Koch",
+        "Antony van Leeuwenhoek",
+        "Joseph Lister"
+      ],
+      "answer": "Antony van Leeuwenhoek",
+      "explanation": "The credit for having first observed and reported bacteria belongs to Antony van Leeuwenhoek, who observed them through lenses he ground as a hobby [43]."
+    },
+    {
+      "question": "A 40-year-old female presents with symptoms of dysentery. The lab performs an 'IMViC' series of tests. What do these tests primarily help to identify and classify?",
+      "options": [
+        "Gram-positive cocci",
+        "Acid-fast bacilli",
+        "Enteric Gram-negative bacteria",
+        "Spore-forming anaerobes"
+      ],
+      "answer": "Enteric Gram-negative bacteria",
+      "explanation": "The Indole, MR, VP, and Citrate (IMViC) tests are very useful in the identification and classification of enteric Gram-negative bacteria [44]."
+    },
+    {
+      "question": "A scientist is studying 'jumping genes' that can move between chromosomal and extrachromosomal DNA. These structurally discrete segments of DNA are called:",
+      "options": [
+        "Plasmids",
+        "Transposons",
+        "Exons",
+        "Introns"
+      ],
+      "answer": "Transposons",
+      "explanation": "Transposons (or 'jumping genes') are structurally and genetically discrete segments of DNA that have the ability to move around in a 'cut-and-paste' manner within cells [45, 46]."
+    },
+    {
+      "question": "A 28-year-old male with a history of recurrent pneumonia has a sputum culture that yields 'L forms' of bacteria. These forms are characterized by:",
+      "options": [
+        "Being highly motile with peritrichous flagella",
+        "Being cell wall-deficient and pleomorphic",
+        "Producing large amounts of extracellular slime",
+        "Forming highly resistant endospores"
+      ],
+      "answer": "Being cell wall-deficient and pleomorphic",
+      "explanation": "L forms are cell wall-deficient aberrant morphological forms of bacteria that can develop spontaneously or due to agents like penicillin that interfere with cell wall synthesis [47]."
+    },
+    {
+      "question": "To isolate Mycobacterium tuberculosis from a contaminated sputum sample, the lab treats the material with alkali to which the tubercle bacilli are resistant. This method of obtaining a pure culture is called:",
+      "options": [
+        "Surface plating",
+        "Pretreatment",
+        "Enrichment",
+        "Transduction"
+      ],
+      "answer": "Pretreatment",
+      "explanation": "Pure cultures can be obtained by the pretreatment of specimens with bactericidal substances (like alkali or acid) that destroy commensals while the pathogen (like tubercle bacilli) resists them [48]."
+    },
+    {
+      "question": "A hospital uses gamma radiation for the large-scale sterilization of prepacked items like plastic syringes and catheters. This method is an example of:",
+      "options": [
+        "Dry heat sterilization",
+        "Moist heat sterilization",
+        "Cold sterilization",
+        "Tyndallisation"
+      ],
+      "answer": "Cold sterilization",
+      "explanation": "Sterilization methods that do not involve heat, such as gamma radiation, chemicals, or filters, are referred to as cold sterilization [49, 50]."
+    },
+    {
+      "question": "A patient is suspected of having a bacterial infection, but the number of organisms in the specimen is too small to be seen by direct microscopy. What is the most common next step for identification?",
+      "options": [
+        "Electron microscopy",
+        "PCR",
+        "Isolation in pure culture using culture media",
+        "Agglutination test"
+      ],
+      "answer": "Isolation in pure culture using culture media",
+      "explanation": "Culture techniques are generally necessary because bacteria may be present in numbers too small for direct microscopy. Once isolated, they can be precisely identified [51, 52]."
+    },
+    {
+      "question": "During an experiment, a non-capsulated (rough) strain of S. pneumoniae is mixed with heat-killed capsulated (smooth) S. pneumoniae. When injected into mice, the mice die and live capsulated bacteria are recovered. This phenomenon is:",
+      "options": [
+        "Transformation",
+        "Transduction",
+        "Conjugation",
+        "Mutation"
+      ],
+      "answer": "Transformation",
+      "explanation": "Transformation is the transfer of genetic information (like the ability to form a capsule) through free DNA, first demonstrated by Griffith in his 1928 experiment with S. pneumoniae [53, 54]."
+    },
+    {
+      "question": "A microbiology lab is using a rapid, automated method to amplify a specific DNA sequence from a minimal source. This method, invented by Kary Mullis, is called:",
+      "options": [
+        "DNA microarray",
+        "Southern blotting",
+        "Polymerase Chain Reaction (PCR)",
+        "MALDI-TOF"
+      ],
+      "answer": "Polymerase Chain Reaction (PCR)",
+      "explanation": "PCR is a rapid automated method for the amplification of specific DNA sequences (or genes), invented by Kary B. Mullis [55]."
+    },
+    {
+      "question": "A researcher identifies a group of highly specific antibiotic-like substances produced by certain strains of E. coli that are active against other strains of the same species. These substances are called:",
+      "options": [
+        "Exotoxins",
+        "Bacteriocins (Colicins)",
+        "Endotoxins",
+        "Antitoxins"
+      ],
+      "answer": "Bacteriocins (Colicins)",
+      "explanation": "Bacteriocins are highly specific antibiotic-like substances produced by certain strains of bacteria active against other strains of the same or different species. Those from E. coli are called colicins [56, 57]."
+    },
+    {
+      "question": "In bacterial taxonomy, what is considered the basic taxonomic unit?",
+      "options": [
+        "Kingdom",
+        "Genus",
+        "Species",
+        "Strain"
+      ],
+      "answer": "Species",
+      "explanation": "The basic taxonomic unit in bacteria is the species; two species differ from one another in several genetically determined features [58, 59]."
+    },
+    {
+      "question": "A lab uses a special tool to identify bacteria based on their unique protein composition using matrix-assisted laser desorption/ionisation-time of flight mass spectrometry. This system is:",
+      "options": [
+        "VITEK",
+        "BACTEC",
+        "MALDI-TOF",
+        "Anoxomat"
+      ],
+      "answer": "MALDI-TOF",
+      "explanation": "MALDI-TOF is an identification system based on the unique protein composition of a bacterial cell using mass spectrometry [52, 60]."
+    },
+    {
+      "question": "A patient presents with a severe cough. Sputum microscopy shows red-colored rods. The lab reports the presence of 'Acid Fast Bacilli.' Which stain was used?",
+      "options": [
+        "Gram stain",
+        "Albert stain",
+        "Ziehl-Neelsen stain",
+        "Methylene blue stain"
+      ],
+      "answer": "Ziehl-Neelsen stain",
+      "explanation": "The Ziehl-Neelsen stain is the standard method for acid-fast staining, where acid-fast bacteria (like M. tuberculosis) appear as red rods [16, 61]."
+    },
+    {
+      "question": "A physician is explaining to a medical student that some bacteria can survive in the absence of oxygen and may even die on exposure to it. These are known as:",
+      "options": [
+        "Obligate aerobes",
+        "Facultative anaerobes",
+        "Obligate anaerobes",
+        "Microaerophilic bacteria"
+      ],
+      "answer": "Obligate anaerobes",
+      "explanation": "Anaerobic bacteria grow in the absence of oxygen, and obligate anaerobes may even die if exposed to it [62, 63]."
+    },
+    {
+      "question": "A lab technician needs to transport a throat swab to another facility to isolate fastidious pathogens. Which transport medium is most appropriate?",
+      "options": [
+        "Stuart's transport medium",
+        "Nutrient broth",
+        "Normal saline",
+        "Distilled water"
+      ],
+      "answer": "Stuart's transport medium",
+      "explanation": "Stuart's medium is a non-nutrient, soft agar gel used for transporting specimens suspected to have fastidious organisms [64]."
+    },
+    {
+      "question": "During an outbreak of puerperal sepsis in the 1840s, which historical figure independently concluded that the infection was contagious and could be prevented by doctors washing their hands in antiseptic solution?",
+      "options": [
+        "Louis Pasteur",
+        "Ignaz Semmelweis",
+        "Joseph Lister",
+        "Robert Koch"
+      ],
+      "answer": "Ignaz Semmelweis",
+      "explanation": "Ignaz Semmelweis (1846) concluded that puerperal sepsis was contagious and prevented it through hand-washing in antiseptic solution [65]."
+    },
+    {
+      "question": "Which of Koch's postulates states that a pure culture of an organism, when inoculated into a suitable laboratory animal, should reproduce the lesions of the disease?",
+      "options": [
+        "Postulate 1",
+        "Postulate 2",
+        "Postulate 3",
+        "Postulate 4"
+      ],
+      "answer": "Postulate 3",
+      "explanation": "Koch's third postulate requires that the inoculation of a pure culture into suitable laboratory animals should reproduce the lesions of the disease [66, 67]."
+    },
+    {
+      "question": "A research scientist is investigating the 'O antigen' specificity of a Gram-negative bacterium. Which part of the cell wall contains this antigen?",
+      "options": [
+        "Peptidoglycan layer",
+        "Teichoic acid",
+        "Lipopolysaccharide (LPS) polysaccharide portion",
+        "Cytoplasmic membrane"
+      ],
+      "answer": "Lipopolysaccharide (LPS) polysaccharide portion",
+      "explanation": "In Gram-negative bacteria, Region I of the LPS is the O polysaccharide portion, which determines O antigen specificity [18]."
+    },
+    {
+      "question": "A patient with suspected cholera has their stool cultured on TCBS agar. The lab uses the 'hanging drop' method to observe the movement of the bacteria. They see a 'darting' motility. This movement is powered by:",
+      "options": [
+        "Fimbriae",
+        "Pili",
+        "Flagella",
+        "Capsule"
+      ],
+      "answer": "Flagella",
+      "explanation": "Bacterial motility, including the 'darting' movement of cholera vibrios, is achieved by the action of flagella, which are organs of locomotion [68, 69]."
+    },
+    {
+      "question": "A hospital uses an 'inspissator' to sterilize media containing egg or serum, such as Lowenstein-Jensen medium. What temperature range is typically used?",
+      "options": [
+        "121°C for 15 minutes",
+        "160-180°C for 1 hour",
+        "80-85°C for 30 minutes on three successive days",
+        "100°C for 20 minutes"
+      ],
+      "answer": "80-85°C for 30 minutes on three successive days",
+      "explanation": "Inspissation involves heating media at 80–85°C for half an hour on three successive days to render them sterile [40]."
+    },
+    {
+      "question": "A molecular biologist is using 'Next-generation sequencing' (NGS) in a research study. What is a primary advantage of this technology compared to conventional Sanger sequencing?",
+      "options": [
+        "Lower cost of equipment",
+        "High turnover and the ability to sequence many DNA fragments in parallel",
+        "No need for bioinformatics analysis",
+        "Can only sequence RNA"
+      ],
+      "answer": "High turnover and the ability to sequence many DNA fragments in parallel",
+      "explanation": "Next-generation sequencing (NGS) has the advantage of high turnover and high speed, allowing many DNA fragments to be sequenced in parallel [70]."
+    },
+    {
+      "question": "A microbiology student is asked to differentiate between a 'clone' and a 'strain.' Which of the following is true according to bacterial classification?",
+      "options": [
+        "A clone is a population of bacteria from a particular source like a patient.",
+        "A strain is a population derived by binary fission from a single cell.",
+        "A single bacterial colony on an agar plate represents a clone.",
+        "All cells in a clone are always identical, even after many generations."
+      ],
+      "answer": "A single bacterial colony on an agar plate represents a clone.",
+      "explanation": "A population derived by binary fission from a single cell is a clone, and a single bacterial colony represents a clone. A population derived from a particular source (like a patient) is a strain [71]."
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+
+{
+  "quiz":
+[
+    {
+        "type": "mcq_single",
+        "question": "What percentage of the human genome codes for proteins?",
+        "options": ["10%", "5%", "1.5%", "20%"],
+        "answer": "1.5%",
+        "explanation": "Only ~20,000 protein-coding genes exist, ~1.5% of the genome."
+    },
+    {
+        "type": "mcq_single",
+        "question": "What is the most important virulence factor of Staphylococcus aureus?",
+        "options": ["Capsule", "Coagulase", "Protein A", "Toxins"],
+        "answer": "Toxins",
+        "explanation": "Toxins such as enterotoxins and exfoliative toxins significantly contribute to the pathogenicity of S. aureus."
+    },
+    {
+        "type": "mcq_single",
+        "question": "Which test is used to differentiate Staphylococcus aureus from Staphylococcus epidermidis?",
+        "options": ["Oxidase test", "Citrate test", "Coagulase test", "Mannitol fermentation"],
+        "answer": "Coagulase test",
+        "explanation": "The coagulase test identifies whether a staphylococcal species can clot plasma, distinguishing S. aureus (positive) from S. epidermidis (negative)."
+    },
+    {
+        "type": "mcq_multiple",
+        "question": "Which of the following diseases are caused by Staphylococcus aureus?",
+        "options": [
+            "Toxic Shock Syndrome",
+            "Gonorrhea",
+            "Food poisoning",
+            "Pneumonia"
+        ],
+        "answer": ["Toxic Shock Syndrome", "Food poisoning", "Pneumonia"],
+        "explanation": "Staphylococcus aureus is responsible for various infections including Toxic Shock Syndrome, food poisoning through enterotoxins, and pneumonia."
+    },
+    {
+        "type": "assertion_reason",
+        "assertion": "Staphylococci are resistant to heat and drying.",
+        "reason": "Their spores can survive harsh environmental conditions.",
+        "options": [
+            "Both Assertion and Reason are true, Reason explains Assertion",
+            "Both Assertion and Reason are true, Reason does not explain Assertion",
+            "Assertion is true, Reason is false",
+            "Assertion is false, Reason is true",
+            "Both are false"
+        ],
+        "answer": "Assertion is true, Reason is false",
+        "explanation": "While Staphylococci are resilient, they do not form spores and are not typically resistant to heat, which can kill them."
+    },
+    {
+        "type": "mcq_single",
+        "question": "A 56-year-old man presents with severe swelling and inflammation of a hand abrasion. After two days, purulent discharge is observed. A Gram stain reveals Gram-positive cocci in clusters. What's the most likely pathogen?",
+        "options": [
+            "Staphylococcus aureus",
+            "Streptococcus pyogenes",
+            "Neisseria gonorrhoeae",
+            "Corynebacterium diphtheriae"
+        ],
+        "answer": "Staphylococcus aureus",
+        "explanation": "The clinical presentation and Gram stain findings are characteristic of a S. aureus infection, particularly in skin infections."
+    },
+    {
+        "type": "mcq_single",
+        "question": "How is Staphylococcus saprophyticus identified in urinary tract infections?",
+        "options": [
+            "Mannitol fermentation",
+            "Coagulase production",
+            "Novobiocin resistance",
+            "Lactose fermentation"
+        ],
+        "answer": "Novobiocin resistance",
+        "explanation": "S. saprophyticus is commonly identified by its resistance to novobiocin, differentiating it from other coagulase-negative staphylococci."
+    },
+    {
+        "type": "mcq_multiple",
+        "question": "Which are risk factors for Streptococcus pneumoniae infections?",
+        "options": [
+            "Age under 5 years",
+            "Chronic lung disease",
+            "Sickle cell anemia",
+            "Seasonal allergies"
+        ],
+        "answer": ["Age under 5 years", "Chronic lung disease", "Sickle cell anemia"],
+        "explanation": "Children and individuals with chronic conditions are more susceptible to pneumococcal infections."
+    },
+    {
+        "type": "mcq_single",
+        "question": "What type of hemolysis is seen with Streptococcus pneumoniae on blood agar?",
+        "options": ["Alpha hemolysis", "Beta hemolysis", "Gamma hemolysis", "Delta hemolysis"],
+        "answer": "Alpha hemolysis",
+        "explanation": "S. pneumoniae is characterized by alpha hemolysis, causing greenish discoloration on blood agar."
+    },
+    {
+        "type": "assertion_reason",
+        "assertion": "Erythromycin is ineffective against S. pneumoniae.",
+        "reason": "S. pneumoniae has developed resistance to many antibiotics, including erythromycin.",
+        "options": [
+            "Both Assertion and Reason are true, Reason explains Assertion",
+            "Both Assertion and Reason are true, Reason does not explain Assertion",
+            "Assertion is true, Reason is false",
+            "Assertion is false, Reason is true",
+            "Both are false"
+        ],
+        "answer": "Assertion is false, Reason is true",
+        "explanation": "While some strains have exhibited resistance to erythromycin, it is not universally ineffective."
+    },
+    {
+        "type": "mcq_single",
+        "question": "A 20-year-old man presents with urethral discharge and dysuria after engaging in unprotected sex. Microscopy shows Gram-negative diplococci. What is the most likely pathogen?",
+        "options": [
+            "Neisseria meningitidis",
+            "Neisseria gonorrhoeae",
+            "Haemophilus ducreyi",
+            "Staphylococcus aureus"
+        ],
+        "answer": "Neisseria gonorrhoeae",
+        "explanation": "The symptoms and microscopy findings are characteristic of gonorrhea, caused by N. gonorrhoeae."
+    },
+    {
+        "type": "mcq_single",
+        "question": "How can Corynebacterium diphtheriae be detected?",
+        "options": [
+            "Elek's test",
+            "Coagulase test",
+            "CAMP test",
+            "Mannitol fermentation"
+        ],
+        "answer": "Elek's test",
+        "explanation": "Elek's test is used to demonstrate the toxin production by C. diphtheriae."
+    },
+    {
+        "type": "match_columns",
+        "question": "Match the Corynebacteria species with their associated diseases:",
+        "left": ["Corynebacterium diphtheriae", "Corynebacterium ulcerans", "Corynebacterium jeikeium"],
+        "right": ["Diphtheria", "Diphtheria-like lesions", "Bacteremia in immunocompromised hosts"],
+        "answer": {
+            "Corynebacterium diphtheriae": "Diphtheria",
+            "Corynebacterium ulcerans": "Diphtheria-like lesions",
+            "Corynebacterium jeikeium": "Bacteremia in immunocompromised hosts"
+        },
+        "explanation": "Each species is associated with specific diseases based on their pathogenic potential."
+    },
+    {
+        "type": "mcq_single",
+        "question": "What is the primary treatment for anthrax?",
+        "options": ["Tetracycline", "Ciprofloxacin", "Amoxicillin", "Doxycycline"],
+        "answer": "Ciprofloxacin",
+        "explanation": "Ciprofloxacin is commonly used as the first-line treatment for anthrax infections."
+    },
+    {
+        "type": "mcq_multiple",
+        "question": "Which factors affect toxin production in Corynebacterium diphtheriae?",
+        "options": [
+            "Presence of corynephages",
+            "Concentration of iron",
+            "Temperature",
+            "Oxygen levels"
+        ],
+        "answer": ["Presence of corynephages", "Concentration of iron"],
+        "explanation": "Toxin production is influenced by the genetic factors from corynephages and environmental factors such as iron concentration."
+    },
+    {
+        "type": "mcq_single",
+        "question": "A 45-year-old farmer presents with a black eschar on his hand after handling a dead animal. What is the likely diagnosis?",
+        "options": [
+            "Cutaneous anthrax",
+            "Corynebacterium diphtheriae infection",
+            "Diphtheria",
+            "Gonorrhea"
+        ],
+        "answer": "Cutaneous anthrax",
+        "explanation": "The clinical presentation and patient's history suggest a diagnosis of cutaneous anthrax, caused by Bacillus anthracis."
+    }
+]
+}

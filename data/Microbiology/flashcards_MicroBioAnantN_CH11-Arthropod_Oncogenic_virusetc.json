@@ -1,0 +1,126 @@
+{
+  "flashcards":
+
+[
+  {
+    "front": "Explanation Note: Summarize the defining characteristics of Arboviruses and their epidemiology.",
+    "back": "Arboviruses (arthropod-borne) are RNA viruses transmitted by hematophagous insect vectors like mosquitoes and ticks to vertebrates [1, 2]. They are worldwide but most numerous in tropical zones, often involving natural cycles in non-human vertebrate hosts like birds and wild mammals [3]. Human disease typically results when humans are accidentally transmitted the virus through a vector bite or through animal reservoirs [4]."
+  },
+  {
+    "front": "Explanation Note: Overview the clinical stages of a Rabies infection.",
+    "back": "Rabies progresses through four stages: 1. Prodrome (fever, malaise, pain/paresthesia at the bite site); 2. Acute encephalitic phase (intermittent hyperactivity, bouts of bizarre behavior, and pathognomonic hydrophobia); 3. Coma; and 4. Death (usually within 1–6 days from respiratory arrest) [5-7]."
+  },
+  {
+    "front": "Explanation Note: Distinguish between the five major types of viral hepatitis (A through E).",
+    "back": "Hepatitis A and E are transmitted via the fecal-oral route and usually cause acute, self-limiting illness [8, 9]. Hepatitis B, C, and D are bloodborne (parenteral, sexual, or perinatal transmission) and can lead to chronic infection, cirrhosis, and hepatocellular carcinoma [10-12]."
+  },
+  {
+    "front": "Core Concept: What are 'Negri bodies' and where are they most abundant?",
+    "back": "Negri bodies are intracytoplasmic inclusion bodies found in the brains of animals or humans dying from 'street virus' rabies infection [13]. They are most abundant in the hippocampus and the cerebellum [14]."
+  },
+  {
+    "front": "Core Concept: Define the 'Dane particle' in Hepatitis B.",
+    "back": "The Dane particle is the complete 42-nm double-walled spherical hepatitis B virus, consisting of an outer envelope and an inner core enclosing the viral DNA and DNA polymerase [15, 16]."
+  },
+  {
+    "front": "Core Concept: Describe the genomic structure and primary enzymes of HIV.",
+    "back": "HIV has two copies of single-stranded positive-sense RNA and three major genes: gag (core), pol (enzymes), and env (envelope spikes) [17, 18]. Its three essential enzymes are reverse transcriptase (converts RNA to DNA), integrase (integrates DNA into host genome), and protease [19, 20]."
+  },
+  {
+    "front": "Mechanism: How does the Rabies virus travel from the bite site to the brain?",
+    "back": "The virus multiplies locally in connective tissue or muscle for 48–72 hours, penetrates nerve endings, and travels centripetally through the axoplasm to the spinal cord and brain at a speed of approximately 3 mm per hour [21, 22]."
+  },
+  {
+    "front": "Clinical Relevance: What are the three commonest congenital malformations in Congenital Rubella Syndrome?",
+    "back": "The classic triad consists of cataracts, deafness, and cardiac defects [23, 24]."
+  },
+  {
+    "front": "Critical Thinking Focus: Why is a 10-day observation period recommended for a biting dog instead of immediate euthanasia?",
+    "back": "The rabies virus may be present in a dog's saliva only 3–4 days before the onset of clinical symptoms, and the animal usually dies within 5–6 days of developing the disease [25]. If the dog remains healthy for 10 days, it was not shedding the virus at the time of the bite, and the human patient does not need vaccination [25]."
+  },
+  {
+    "front": "Critical Thinking Focus: What is the significance of HBeAg in a patient's serum?",
+    "back": "The presence of HBeAg (Hepatitis B e-antigen) is an indicator of active intrahepatic viral replication and reflects high infectivity [26, 27]. Its disappearance often coincides with a fall in transaminase levels and indicates lower infectivity [28]."
+  },
+  {
+    "front": "Critical Thinking Focus: Why is the 'window period' a major challenge in HIV screening?",
+    "back": "The window period is the time (usually 2–8 weeks to 6 months) between infection and the appearance of detectable antibodies [29, 30]. During this time, an individual may be highly infectious even though antibody-based screening tests (ELISA) appear negative [30]."
+  },
+  {
+    "front": "Clinical Case Study 1: A 40-year-old man presents with high fever, severe headache, retro-orbital pain, and petechial lesions. A tourniquet test is positive. What is the diagnosis and priority management?",
+    "back": "Diagnosis: Dengue Hemorrhagic Fever (DHF) [31, 32]. Priority: Fluid and electrolyte replacement and monitoring platelet counts; if shock occurs (Dengue Shock Syndrome), whole blood transfusion is required [33]."
+  },
+  {
+    "front": "Clinical Case Study 2: A 30-year-old woman presents with fever, anorexia, and vomiting. She becomes delirious with pharyngeal muscle spasms when trying to drink water. She was bitten by a stray dog 3 months ago. Diagnosis?",
+    "back": "Rabies [34]. The spasms during attempts to drink (hydrophobia) are pathognomonic [6]."
+  },
+  {
+    "front": "Clinical Case Study 3: A 35-year-old sex worker presents with weight loss, cough, and a CD4 count of 350 cells/µl. HIV serology is reactive. What is the priority in her management?",
+    "back": "Initiate Antiretroviral Therapy (ART) and investigate for opportunistic infections, particularly tuberculosis, as she has a cough and a CD4 count below 500 [35-37]."
+  },
+  {
+    "front": "Decision-Making Under Pressure: A lab worker is accidentally pricked with a needle used on an HBsAg-positive patient. What is the immediate prophylactic protocol?",
+    "back": "Administration of Hepatitis B Immune Globulin (HBIG) soon after exposure, followed by the full course of the Hepatitis B vaccine [38, 39]."
+  },
+  {
+    "front": "University-Level Exam Question: Describe the 'One-Step Growth Curve' (noted in previous virology) vs the 'Eclipse Phase' in this context.",
+    "back": "The 'Eclipse Phase' is the period from viral penetration until mature daughter virions appear, during which the virus cannot be detected inside the host cell [40]."
+  },
+  {
+    "front": "University-Level Exam Question: Discuss the NACO strategy for HIV diagnosis in symptomatic vs. asymptomatic individuals.",
+    "back": "For surveillance (Strategy 2A) and diagnosis of symptomatic cases (Strategy 2B), two positive ELISA/Rapid tests using different systems are required [41, 42]. For asymptomatic individuals (Strategy III), three positive tests using different principles are necessary to declare a sample reactive [43, 44]."
+  },
+  {
+    "front": "University-Level Exam Question: Explain the mechanism of viral oncogenesis for DNA viruses.",
+    "back": "The viral DNA integrates into the host cell genome; being incomplete or 'defective', it does not produce infectious virus but causes malignant transformation, similar to lysogenic conversion in bacteria [45, 46]."
+  },
+  {
+    "front": "PLAB & USMLE Pattern: A newborn presents with hepatosplenomegaly, thrombocytopenic purpura (blueberry muffin rash), and cataracts. What viral infection did the mother likely have?",
+    "back": "Rubella (specifically, 'Expanded Rubella Syndrome' occurring when infected during the first trimester) [24, 47]."
+  },
+  {
+    "front": "PLAB & USMLE Pattern: Which HIV protein is the earliest marker to appear in blood and is used for early diagnosis?",
+    "back": "The p24 core antigen [48, 49]. It disappears once antibodies (seroconversion) develop but may reappear in late-stage AIDS [50]."
+  },
+  {
+    "front": "PLAB & USMLE Pattern: A patient from Karnataka, India, presents with high fever, headache, myalgia, and hemorrhages after visiting a forest area. Several dead monkeys were reported nearby. Diagnosis?",
+    "back": "Kyasanur Forest Disease (KFD), also known as 'monkey fever' [51, 52]."
+  },
+  {
+    "front": "PLAB & USMLE Pattern: A patient's serology shows HBsAg negative, Anti-HBs positive, and Anti-HBc negative. What does this indicate?",
+    "back": "Immunity following Hepatitis B vaccination [53, 54]."
+  },
+  {
+    "front": "Bias Recognition: Why is it a clinical pitfall to assume that a person who recovered from Dengue is immune to future Dengue infections?",
+    "back": "There are four types of Dengue virus [31]. Recovery from one type provides lifelong immunity to that specific type but only partial, short-lived immunity to the others; subsequent infection with a different serotype can actually induce severe DHF due to non-neutralizing heterologous antibodies [55, 56]."
+  },
+  {
+    "front": "Bias Recognition: How does 'anchoring bias' affect the diagnosis of jaundice in developing countries?",
+    "back": "Clinicians might anchor on a diagnosis of Hepatitis A in children because it is the most common cause [57]. However, failing to test for Hepatitis E in pregnant women can be fatal, as HEV has a 20–40% case fatality rate in the last trimester [9]."
+  },
+  {
+    "front": "Problem-Solving: How can the laboratory distinguish between HIV-1 and HIV-2 infections?",
+    "back": "Detection of type-specific sequences 'vpu' (unique to HIV-1) and 'vpx' (unique to HIV-2) is used to differentiate the two infections [58]."
+  },
+  {
+    "front": "Core Concept: What are Prions and name two human diseases they cause?",
+    "back": "Prions are proteinaceous infectious particles devoid of DNA and RNA that are highly resistant to physical/chemical agents [59]. They cause Creutzfeldt-Jakob disease (CJD) and Kuru [60-62]."
+  },
+  {
+    "front": "Mechanism: Describe 'Antigenic Drift' vs 'Antigenic Shift' (general virology context).",
+    "back": "Antigenic drift involves gradual mutations leading to epidemics, while antigenic shift involves abrupt, major changes (often genomic reassortment) that can lead to pandemics [Reference to general virology principles noted in summary phase]."
+  },
+  {
+    "front": "Core Concept: What is 'Brill-Zinsser disease'?",
+    "back": "It is a recrudescent typhus (rodent/arthropod-borne) occurring years after recovery from epidemic typhus due to the reactivation of latent rickettsiae [63, 64]."
+  },
+  {
+    "front": "Critical Thinking Focus: Why should breastfeeding be avoided by mothers who are carriers of HBV?",
+    "back": "While the efficiency of transmission by ingestion is low, HBV is present in breast milk, and it is safer for carrier mothers not to breastfeed if proper nutrition for the baby can otherwise be ensured [10, 65]."
+  },
+  {
+    "front": "Clinical Case Study 4: A 5-year-old child presents with 'slapped cheek' appearance (erythema infectiosum). What is the causative agent?",
+    "back": "Parvovirus B19 [66, 67]."
+  }
+]
+}

@@ -1,0 +1,185 @@
+{
+  "quiz":
+
+[
+  {
+    "type": "mcq_single",
+    "question": "What is the primary substance in the cell wall of Mycobacteria responsible for their 'acid-fast' property?",
+    "options": ["Teichoic acid", "Mycolic acid", "Ergosterol", "Peptidoglycan"],
+    "answer": "Mycolic acid",
+    "explanation": "Mycobacteria resist decolourisation with dilute mineral acids due to the presence of mycolic acid (an unsaponifiable lipid-rich wax) in their cell wall [1], [2]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following are components of the Lowenstein–Jensen (LJ) medium used for routine culture of M. tuberculosis?",
+    "options": ["Coagulated hen's eggs", "Mineral salt solution", "Malachite green", "Horse serum"],
+    "answer": ["Coagulated hen's eggs", "Mineral salt solution", "Malachite green"],
+    "explanation": "LJ medium consists of coagulated hen's eggs, mineral salt solution, asparagine, and malachite green (which acts as a selective agent) [3]. Horse serum is used for Mycoplasma culture [4]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "The Mantoux test may yield a negative result in a patient with miliary tuberculosis.",
+    "reason": "Miliary tuberculosis can cause a state of anergy where the immune system fails to react to the tuberculoprotein.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "False negative tests (anergy) can occur in conditions like miliary tuberculosis, where the cell-mediated immune response is impaired [5], [6]."
+  },
+  {
+    "type": "match_columns",
+    "question": "Match the Runyon classification of Non-Tuberculous Mycobacteria (NTM) with their characteristics:",
+    "left": ["Group I: Photochromogens", "Group II: Scotochromogens", "Group III: Non-photochromogens", "Group IV: Rapid growers"],
+    "right": ["Produce pigment only on exposure to light", "Produce pigment even in the dark", "No pigment even on exposure to light", "Colonies appear within 7 days"],
+    "answer": {
+      "Group I: Photochromogens": "Produce pigment only on exposure to light",
+      "Group II: Scotochromogens": "Produce pigment even in the dark",
+      "Group III: Non-photochromogens": "No pigment even on exposure to light",
+      "Group IV: Rapid growers": "Colonies appear within 7 days"
+    },
+    "explanation": "Runyon classified NTM into four groups based on pigment production and growth rate [7], [8]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "A 25-year-old male presents with a painless, indurated genital ulcer and enlarged, non-tender inguinal lymph nodes. Which diagnostic test is considered the gold standard for monitoring his response to treatment?",
+    "options": ["TPHA", "FTA-ABS", "VDRL/RPR", "Dark ground microscopy"],
+    "answer": "VDRL/RPR",
+    "explanation": "Quantitative reagin tests like VDRL or RPR are preferred for monitoring treatment response because their titres usually become negative following successful therapy [9]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which features distinguish Lepromatous Leprosy (LL) from Tuberculoid Leprosy (TT)?",
+    "options": ["High cell-mediated immunity", "Negative Lepromin test", "Abundant bacilli in lesions (multibacillary)", "Exaggerated humoral immune response"],
+    "answer": ["Negative Lepromin test", "Abundant bacilli in lesions (multibacillary)", "Exaggerated humoral immune response"],
+    "explanation": "LL is characterized by deficient cell-mediated immunity, a negative lepromin test, abundant bacilli (multibacillary), and a broad humoral response. TT has high resistance and scanty bacilli [10], [11], [12]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "Mycoplasma are naturally resistant to penicillin and cephalosporins.",
+    "reason": "Mycoplasma lack a cell wall, which is the target for beta-lactam antibiotics.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "Because Mycoplasma lack a cell wall, they are resistant to antibiotics like penicillin that act by inhibiting cell wall synthesis [13], [14]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "A 40-year-old farmer presents with a chronic, painless swelling of the left jaw with multiple discharging sinuses. Examination of the discharge reveals 'sulphur granules'. Which organism is most likely responsible?",
+    "options": ["Mycobacterium bovis", "Actinomyces israelii", "Nocardia asteroides", "Treponema pallidum"],
+    "answer": "Actinomyces israelii",
+    "explanation": "Cervicofacial actinomycosis ('lumpy jaw') is typically caused by A. israelii and is characterized by indurated swellings and the discharge of 'sulphur granules' [15], [16], [17]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "A patient's VDRL test returns positive, but they have no clinical symptoms or history of syphilis. They were recently diagnosed with Systemic Lupus Erythematosus (SLE). This VDRL result is most likely a:",
+    "options": ["True positive", "Acute Biological False Positive (BFP)", "Chronic Biological False Positive (BFP)", "Technical error"],
+    "answer": "Chronic Biological False Positive (BFP)",
+    "explanation": "Chronic BFP reactions (persisting >6 months) are typically seen in SLE and other collagen diseases [18]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "In the laboratory diagnosis of primary syphilis, which methods can be used to visualize Treponema pallidum directly from the lesion exudate?",
+    "options": ["Gram staining", "Dark ground microscopy", "Direct fluorescent antibody test (DFA-TP)", "Ziehl-Neelsen staining"],
+    "answer": ["Dark ground microscopy", "Direct fluorescent antibody test (DFA-TP)"],
+    "explanation": "T. pallidum cannot be seen by Gram stain or light microscopy. Dark ground microscopy and DFA-TP (which is safer and more reliable) are used for direct visualization [19], [20]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "A positive Mitsuda reaction in a leprosy patient indicates a good prognosis.",
+    "reason": "The Mitsuda reaction is a measure of the patient's cell-mediated immunity (CMI) against lepra bacilli.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "The Mitsuda late reaction is a measure of CMI; a positive reaction indicates the patient can mount an immune response, correlating with a better prognosis [21], [22]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "A 19-year-old college student presents with a gradual onset of headache, low-grade fever, and a persistent paroxysmal cough. A chest X-ray shows patchy consolidation in the lower lobe, but the physical signs are minimal. Serum tests show high titres of cold agglutinins. What is the most likely pathogen?",
+    "options": ["Streptococcus pneumoniae", "Mycobacterium tuberculosis", "Mycoplasma pneumoniae", "Bordetella pertussis"],
+    "answer": "Mycoplasma pneumoniae",
+    "explanation": "M. pneumoniae causes 'primary atypical pneumonia' characterized by a discrepancy between minimal physical signs and significant X-ray findings, often associated with cold agglutinins [23], [24], [25]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which drug is specifically used for the treatment of MDR-TB, specifically defined as resistance to at least Rifampicin and Isoniazid?",
+    "options": ["Ethambutol", "Pyrazinamide", "Ofloxacin", "Streptomycin"],
+    "answer": "Ofloxacin",
+    "explanation": "MDR-TB requires second-line drugs such as fluoroquinolones (e.g., Ofloxacin) when first-line drugs like Rifampicin and Isoniazid are ineffective [26], [27]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following are characteristics of Borrelia recurrentis, the cause of louse-borne relapsing fever?",
+    "options": ["Gram-positive", "Anaerobic", "Transmitted by body lice", "Exhibits antigenic variation"],
+    "answer": ["Anaerobic", "Transmitted by body lice", "Exhibits antigenic variation"],
+    "explanation": "Borrelia are Gram-negative, strictly anaerobic, and undergo antigenic variation (leading to relapses). B. recurrentis is transmitted by body lice [28], [29], [30], [31]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "A woman who recently waded through floodwaters in a tropical area presents with high fever, jaundice, and intense injection of the eyes (conjunctival suffusion). What is the most likely diagnosis?",
+    "options": ["Yellow fever", "Leptospirosis (Weil's disease)", "Hepatitis A", "Typhoid fever"],
+    "answer": "Leptospirosis (Weil's disease)",
+    "explanation": "Leptospirosis is a zoonosis often acquired via water contaminated with animal urine. Severe cases (Weil's disease) present with fever, jaundice, and intense eye injection [32], [33]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "BCG vaccine should not be given to infants with active HIV disease.",
+    "reason": "BCG is a live attenuated vaccine and can cause progressive disease in immunodeficient subjects.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "BCG is an attenuated strain of M. bovis; in severely immunocompromised individuals, even attenuated live vaccines can cause serious complications [34], [35]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "In the context of syphilis, the 'Prozone Phenomenon' can lead to which clinical reasoning pitfall?",
+    "options": [
+      "A false positive result due to cross-reactivity",
+      "A false negative result in high-titre sera if not diluted",
+      "A delay in the appearance of antibodies",
+      "Confusion with a BFP reaction"
+    ],
+    "answer": "A false negative result in high-titre sera if not diluted",
+    "explanation": "The prozone phenomenon can cause false negative results in secondary syphilis (where titres are very high) if the serum is not tested in dilutions [36], [37]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following organisms are classified as 'aerobic' and can be 'weakly acid-fast'?",
+    "options": ["Actinomyces israelii", "Nocardia asteroides", "Mycobacterium tuberculosis", "Mycobacterium leprae"],
+    "answer": ["Nocardia asteroides", "Mycobacterium tuberculosis", "Mycobacterium leprae"],
+    "explanation": "Nocardia is aerobic and weakly acid-fast [38], [39]. Mycobacteria are aerobic and strongly acid-fast [1], [40]. Actinomyces is anaerobic and non-acid fast [15]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the incubation period for leprosy on average?",
+    "options": ["2–5 days", "2–5 weeks", "2–5 months", "2–5 years"],
+    "answer": "2–5 years",
+    "explanation": "Leprosy has a very long incubation period, averaging 2–5 years, but can range from a few months to 30 years [41]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which diagnostic test for syphilis relies on the use of the virulent Nichol's strain of T. pallidum?",
+    "options": ["VDRL", "RPR", "TPHA", "TPI"],
+    "answer": "TPI",
+    "explanation": "The Treponema pallidum immobilisation (TPI) test uses the virulent Nichol's strain maintained in rabbit testes [42]."
+  }
+]
+}

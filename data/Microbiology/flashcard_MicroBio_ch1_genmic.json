@@ -1,0 +1,80 @@
+{
+  "flashcards": [
+    {
+      "front": "What differentiates Gram-positive from Gram-negative bacteria in staining?",
+      "back": "Gram+ retain crystal violet (violet, thick peptidoglycan); Gram- decolorized by alcohol (pink, thin PG + LPS). [file:1]"
+    },
+    {
+      "front": "Principle of acid-fast stain?",
+      "back": "Mycolic acids in cell wall resist decolorization with acid-alcohol after carbol fuchsin (ZN method). Red AFB vs blue non-AFB. [file:1]"
+    },
+    {
+      "front": "Bacterial shapes and examples?",
+      "back": "Cocci (staph/strep), Bacilli (rods), Vibrio (comma, V.cholerae), Spirillum (rigid spiral), Spirochete (flexuous, Treponema). [file:1]"
+    },
+    {
+      "front": "Gram+ vs Gram- cell wall comparison?",
+      "back": "Gram+: Thick PG (15-80nm), teichoic acid, no OM. Gram-: Thin PG (2-7nm), LPS/OM/endotoxin, porins. [file:1]"
+    },
+    {
+      "front": "How to demonstrate bacterial capsule?",
+      "back": "India ink negative stain (clear halo), Quellung reaction (swelling with anticapsular Ab). Polysaccharide, anti-phagocytic. [file:1]"
+    },
+    {
+      "front": "Flagellar arrangements?",
+      "back": "Monotrichous (single polar, V.cholerae), Amphitrichous (both poles), Lophotrichous (tuft one end), Peritrichous (all over). [file:1]"
+    },
+    {
+      "front": "Function of fimbriae/pili?",
+      "back": "Adhesion to host cells (mannose-sensitive), sex pili for conjugation. Thinner/shorter than flagella. [file:1]"
+    },
+    {
+      "front": "Bacterial spore characteristics?",
+      "back": "Endospores (Bacillus/Clostridium): heat/chemical resistant (dipicolinic acid), central/subterminal/terminal ± bulging. Stain modified ZN. [file:1]"
+    },
+    {
+      "front": "Bacterial generation time examples?",
+      "back": "E.coli: 20 min; M.tuberculosis: 20 hrs; M.leprae: 20 days. Binary fission. [file:1]"
+    },
+    {
+      "front": "Albert's stain used for?",
+      "back": "Metachromatic granules (volutin) in C.diphtheriae (polar bodies, bluish-purple). Chinese letter arrangement. [file:1]"
+    },
+    {
+      "front": "Protoplast vs Spheroplast?",
+      "back": "Protoplast: Gram+ + lysozyme (no wall). Spheroplast: Gram- + lysozyme (partial wall remnants). Spherical. [file:1]"
+    },
+    {
+      "front": "Bacterial nucleus features?",
+      "back": "No membrane/nucleolus; single circular dsDNA (prokaryote); haploid; plasmids (R-factors/toxigenicity). [file:1]"
+    },
+    {
+      "front": "Cytoplasmic membrane function?",
+      "back": "Semipermeable (permeases), trilaminar lipoprotein, respiration site (mesosomes analogous to mitochondria). No sterols except Mycoplasma. [file:1]"
+    },
+    {
+      "front": "Dark-field microscopy advantage?",
+      "back": "Visualizes slender spirochetes/motility against dark background (oblique light). [file:1]"
+    },
+    {
+      "front": "Bacterial growth curve phases?",
+      "back": "Lag (adaptation), Log (exponential), Stationary (nutrients/toxins balance), Decline (death). [file:1]"
+    },
+    {
+      "front": "LPS regions and functions?",
+      "back": "O-polysaccharide (serotype), Core PS, Lipid A (endotoxin: shock/pyrogen). [file:1]"
+    },
+    {
+      "front": "Mesosomes in bacteria?",
+      "back": "Plasma membrane invaginations; respiratory enzymes, septum formation (mitochondria analog). More in Gram+. [file:1]"
+    },
+    {
+      "front": "Teichoic acids location/function?",
+      "back": "Gram+ cell wall (wall/lipoteichoic); antigens, ion binding. [file:1]"
+    },
+    {
+      "front": "Pleomorphism cause?",
+      "back": "Cell wall defects (penicillin, autolysis); L-forms, protoplasts/spheroplasts. [file:1]"
+    }
+  ]
+}

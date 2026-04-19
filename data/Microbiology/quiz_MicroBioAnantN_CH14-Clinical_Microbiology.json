@@ -1,0 +1,282 @@
+{
+  "quiz":
+[
+  {
+    "type": "mcq_single",
+    "question": "What is the primary difference between bacteremia and septicemia?",
+    "options": [
+      "Bacteremia is more severe than septicemia",
+      "Septicemia involves active bacterial multiplication causing harm, whereas bacteremia is the presence of bacteria in blood without multiplication",
+      "Bacteremia occurs only after surgery, while septicemia is spontaneous",
+      "Septicemia is always transient, while bacteremia is always continuous"
+    ],
+    "answer": "Septicemia involves active bacterial multiplication causing harm, whereas bacteremia is the presence of bacteria in blood without multiplication",
+    "explanation": "Bacteremia indicates the presence of bacteria in the bloodstream without multiplication, while septicemia or sepsis occurs when active bacterial multiplication or toxins cause harm to the host [1]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following conditions are typically associated with intermittent bacteremia?",
+    "options": [
+      "Bacterial endocarditis",
+      "Meningitis",
+      "Osteomyelitis",
+      "Septic shock"
+    ],
+    "answer": [
+      "Meningitis",
+      "Osteomyelitis"
+    ],
+    "explanation": "Intermittent bacteremia is seen with causative agents of meningitis, pneumonia, pyogenic arthritis, and osteomyelitis [2]. Continuous bacteremia is associated with bacterial endocarditis and septic shock [2]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "In cases of a sequestered focus of infection like an abscess, blood samples should be taken approximately 45 minutes before a febrile episode.",
+    "reason": "Bacteria are released into the blood roughly 45 minutes prior to the onset of fever in intermittent bacteremia.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "In sequestered foci of infection, bacteria are released into the blood approximately 45 minutes before a febrile episode, making this the optimal time for collection [2]."
+  },
+  {
+    "type": "match_columns",
+    "question": "Match the clinical manifestation with its defining characteristics:",
+    "left": [
+      "Septic shock",
+      "Pharyngitis",
+      "Dysentery",
+      "Cystitis"
+    ],
+    "right": [
+      "Acute respiratory distress, renal failure, and intravascular coagulation",
+      "Sore throat, high-grade fever, and tonsillar exudates",
+      "Presence of blood and mucus in stool with tenesmus",
+      "Infection of the urinary bladder"
+    ],
+    "answer": {
+      "Septic shock": "Acute respiratory distress, renal failure, and intravascular coagulation",
+      "Pharyngitis": "Sore throat, high-grade fever, and tonsillar exudates",
+      "Dysentery": "Presence of blood and mucus in stool with tenesmus",
+      "Cystitis": "Infection of the urinary bladder"
+    },
+    "explanation": "Septic shock includes respiratory distress and renal failure [3]. Pharyngitis presents as a sore throat with exudates [4]. Dysentery is defined by blood/mucus in stool [5]. Cystitis is a lower UTI of the bladder [6, 7]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "**Critical Thinking:** A clinician suspects bacterial meningitis in a 2-year-old child. The CSF sample is collected via lumbar puncture. Which of the following is a critical transport pitfall that could invalidate the bacteriological culture results?",
+    "options": [
+      "Transporting the sample on ice",
+      "Transporting the sample at room temperature",
+      "Storing the sample in an incubator at 37°C if a delay occurs",
+      "Collecting the sample into three sterile containers"
+    ],
+    "answer": "Transporting the sample on ice",
+    "explanation": "For bacterial culture, CSF must be transported at room temperature and must NOT be refrigerated or placed on ice, as this can kill delicate pathogens [8, 9]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "**Case Study:** A 35-year-old male presents with a single, indurated, painless genital ulcer and moderate non-tender lymph node swelling. Based on clinical presentation, what is the most likely diagnosis and diagnostic test?",
+    "options": [
+      "Genital herpes; Tzank smear",
+      "Chancroid; Gram stain for coccobacilli",
+      "Syphilis (Chancre); Dark ground microscopy",
+      "Granuloma inguinale; Giemsa stain"
+    ],
+    "answer": "Syphilis (Chancre); Dark ground microscopy",
+    "explanation": "A single, indurated, painless ulcer is characteristic of a syphilis chancre [10]. Dark ground microscopy is used on preparations from the chancre to demonstrate spirochetes [11]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "**University Exam:** According to the provided sources, which findings in CSF biochemistry are indicative of bacterial meningitis as opposed to viral meningitis?",
+    "options": [
+      "Glucose (CSF:blood ratio) < 0.4",
+      "Protein levels > 1.0 g/L",
+      "Predominance of Lymphocytes",
+      "Usually normal glucose levels"
+    ],
+    "answer": [
+      "Glucose (CSF:blood ratio) < 0.4",
+      "Protein levels > 1.0 g/L"
+    ],
+    "explanation": "Bacterial meningitis is characterized by low glucose (<0.4 ratio) and high protein (>1.0 g/L), whereas viral meningitis typically has normal glucose and lower protein [12, 13]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "**PLAB Pattern:** A 28-year-old female presents with urgency and frequency of micturition. A midstream urine (MSU) sample is collected. What colony count is generally considered significant for diagnosing a UTI?",
+    "options": [
+      "10^2 /ml",
+      "10^3 /ml",
+      "10^4 /ml",
+      "10^5 /ml"
+    ],
+    "answer": "10^5 /ml",
+    "explanation": "A colony count of 10^5/ml is considered significant for the diagnosis of a urinary tract infection [14]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "A 'Clue cell' finding on a Gram-stained smear of vaginal discharge is diagnostic for bacterial vaginosis.",
+    "reason": "Clue cells are vaginal epithelial cells with adherent bacteria that indicate an imbalance in normal flora.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "Clue cells are vaginal epithelial cells with adherent G. vaginalis; their presence, along with the absence of pus cells, suggests a diagnosis of bacterial vaginosis [15]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "**USMLE Pattern:** A patient presents with acute diarrhea. Microscopy of the stool shows darting motility. Which of the following pathogens is most likely responsible?",
+    "options": [
+      "Salmonella typhi",
+      "Shigella dysenteriae",
+      "Vibrio cholerae",
+      "Staphylococcus aureus"
+    ],
+    "answer": "Vibrio cholerae",
+    "explanation": "Hanging drop preparation is used to detect the darting motility characteristic of Vibrio cholerae [16]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "**Bias Recognition:** A lab report for a patient with fever shows positive IgG antibodies for a specific virus. The clinician assumes this proves the virus is causing the current illness. Why is this reasoning biased?",
+    "options": [
+      "IgG only appears during the first 24 hours of infection",
+      "IgG reflects a past infection, whereas IgM denotes a recent or ongoing infection",
+      "IgG antibodies are always false positives",
+      "IgG is only found in bacterial infections"
+    ],
+    "answer": "IgG reflects a past infection, whereas IgM denotes a recent or ongoing infection",
+    "explanation": "Detection of IgM denotes recent or ongoing infection, whereas demonstration of IgG reflects a past infection; assuming IgG proves a current cause is a diagnostic error [17, 18]."
+  },
+  {
+    "type": "match_columns",
+    "question": "Match the specific stain or test with the pathogen it is designed to detect:",
+    "left": [
+      "Albert stain",
+      "Ziehl-Neelsen (ZN) stain",
+      "India ink preparation",
+      "Limulus lysate test"
+    ],
+    "right": [
+      "Metachromatic granules in C. diphtheriae",
+      "Acid-fast bacilli (M. tuberculosis)",
+      "Capsulated budding yeast (C. neoformans)",
+      "Bacterial endotoxin"
+    ],
+    "answer": {
+      "Albert stain": "Metachromatic granules in C. diphtheriae",
+      "Ziehl-Neelsen (ZN) stain": "Acid-fast bacilli (M. tuberculosis)",
+      "India ink preparation": "Capsulated budding yeast (C. neoformans)",
+      "Limulus lysate test": "Bacterial endotoxin"
+    },
+    "explanation": "Albert stain is for diphtheria granules [19]. ZN stain identifies acid-fast M. tuberculosis [20]. India ink reveals encapsulated Cryptococcus [21]. The Limulus lysate test is sensitive for endotoxin [22, 23]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "**Problem Solving:** In a suspected case of typhoid fever, which serological test is commonly used to detect antibodies against Salmonella antigens?",
+    "options": [
+      "Weil-Felix test",
+      "Paul-Bunnell test",
+      "Widal test",
+      "ASO titre"
+    ],
+    "answer": "Widal test",
+    "explanation": "The Widal test is used for diagnosing typhoid fever [24, 25]. The Weil-Felix test is for rickettsia and Paul-Bunnell for infectious mononucleosis [25]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which component of Gram-negative bacteria is primarily responsible for mediating the systemic response in septic shock, including fever and complement activation?",
+    "options": [
+      "Exotoxins",
+      "Lipid A (Core of LPS)",
+      "Peptidoglycan",
+      "Capsular polysaccharide"
+    ],
+    "answer": "Lipid A (Core of LPS)",
+    "explanation": "Gram-negative bacteria release endotoxin (LPS), and its core, lipid A, mediates the systemic response including fever and activation of complement [26]."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "**Decision-Making Under Pressure:** An intubated ICU patient is suspected of having ventilator-associated pneumonia (VAP). Which specimens are appropriate for diagnosis?",
+    "options": [
+      "Saliva sample",
+      "Endotracheal aspirate",
+      "Bronchoalveolar lavage (BAL)",
+      "Swab of the ventilator tubing"
+    ],
+    "answer": [
+      "Endotracheal aspirate",
+      "Bronchoalveolar lavage (BAL)"
+    ],
+    "explanation": "If a patient is on a ventilator or intubated, an endotracheal aspirate or BAL sample may be collected to diagnose ventilator-associated pneumonia [27]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the recommended blood volume for a single blood culture in an adult patient?",
+    "options": [
+      "1–2 ml",
+      "3–5 ml",
+      "7–10 ml",
+      "15–20 ml"
+    ],
+    "answer": "7–10 ml",
+    "explanation": "In adults, 7–10 ml of blood per culture is recommended [28]."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "A sputum specimen is considered acceptable for culture if it contains <10 squamous epithelial cells per low-power field.",
+    "reason": "The presence of many squamous epithelial cells suggests that the sample is primarily saliva rather than lower respiratory tract secretions.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "An acceptable sputum specimen has <10 squamous epithelial cells per low-power field (100x), as higher counts indicate salivary contamination [20, 27]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "In the diagnosis of Zoonoses, which organism is associated with a 'Medusa head' colony morphology on nutrient agar?",
+    "options": [
+      "Bacillus anthracis (Cutaneous anthrax)",
+      "Yersinia pestis (Bubonic plague)",
+      "Brucella species",
+      "Leptospira"
+    ],
+    "answer": "Bacillus anthracis (Cutaneous anthrax)",
+    "explanation": "Cutaneous anthrax produces Gram-positive bacilli that form 'Medusa head' colonies on nutrient agar [29]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "**Critical Thinking:** Why is it necessary to perform both MIC (Minimum Inhibitory Concentration) and MBC (Minimum Bactericidal Concentration) for patients with infective endocarditis?",
+    "options": [
+      "To identify the colony morphology",
+      "As a guide to ensure an adequate bactericidal dose of antibiotic is used",
+      "To determine if the infection is intravascular or extravascular",
+      "To check for the presence of lipid A"
+    ],
+    "answer": "As a guide to ensure an adequate bactericidal dose of antibiotic is used",
+    "explanation": "It is necessary to determine MIC and MBC as a guide to treatment (adequate dose of antibiotic) in patients with infective endocarditis [30]."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which of the following is a key precaution when collecting a specimen for microbiological culture to avoid skin flora contamination?",
+    "options": [
+      "Using non-sterile containers",
+      "Asepsis during collection (e.g., preparing skin with 70% isopropyl alcohol)",
+      "Storing all samples at 4°C immediately",
+      "Adding antibiotics to the specimen container"
+    ],
+    "answer": "Asepsis during collection (e.g., preparing skin with 70% isopropyl alcohol)",
+    "explanation": "Asepsis during collection is essential to avoid contamination by skin flora. For blood cultures, the skin should be prepared with 70% isopropyl alcohol [28, 31]."
+  }
+]
+}

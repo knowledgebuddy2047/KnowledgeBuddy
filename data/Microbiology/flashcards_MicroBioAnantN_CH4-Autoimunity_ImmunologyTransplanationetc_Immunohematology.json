@@ -1,0 +1,101 @@
+{
+  "flashcards": 
+[
+  {
+    "front": "Explanation Note: Define Autoimmunity and the criteria used to prove a disease is of autoimmune origin.",
+    "back": "Autoimmunity is a condition where structural or functional damage is produced by immunologically competent cells or antibodies against normal body components [1]. Authenticity criteria include elevated immunoglobulins, demonstrable autoantibodies, deposition of immune complexes at sites like renal glomeruli, accumulation of lymphocytes/plasma cells at lesions, and benefit from immunosuppressive therapy [2, 3]."
+  },
+  {
+    "front": "Core Concept: What are 'Sequestered Antigens' and how do they relate to post-traumatic uveitis?",
+    "back": "Sequestered antigens are self-antigens in 'closed systems' (like the eye lens or sperm) not accessible to the immune apparatus during fetal life [4]. Following penetrating injury, these antigens leak out, and because immunological tolerance was never established, the immune system attacks them, potentially damaging the uninjured eye (sympathetic ophthalmia) [5, 6]."
+  },
+  {
+    "front": "Core Concept: Define 'Molecular Mimicry' and provide a clinical example involving the heart.",
+    "back": "Molecular mimicry occurs when epitopes of infecting microorganisms share identical peptide sequences with self-antigens [7]. A key example is Streptococcal M proteins, which share characteristics with heart muscle; repeated infections can lead to immune-mediated heart damage [8, 9]."
+  },
+  {
+    "front": "Critical Thinking: Why is the presence of autoantibodies alone insufficient to diagnose an autoimmune disease?",
+    "back": "The mere presence of autoantibodies does not prove a causative role; they may form as a result of tissue injury to help in the immune elimination of damaged elements rather than being the primary driver of the disease [10]. Diagnosis requires correlating laboratory findings with clinical features and histopathology [2, 3]."
+  },
+  {
+    "front": "Critical Thinking: Identify a common pitfall in diagnosing neonatal myasthenia gravis.",
+    "back": "Clinicians might assume the infant has a permanent genetic defect. However, neonatal myasthenia is often due to the passive acquisition of maternal autoantibodies [6]. The pitfall is overlooked if the mother's status is unknown, as infants typically recover spontaneously within two months as maternal antibodies disappear [6]."
+  },
+  {
+    "front": "Clinical Case Study 1: A 27-year-old woman presents with joint pain in her hands and a 'butterfly rash' on her cheeks. ANA shows a homogenous pattern and anti-ds DNA is positive. What is the diagnosis and the significance of the LE cell?",
+    "back": "The diagnosis is Systemic Lupus Erythematosus (SLE) [3]. The LE cell is a neutrophil containing a pale, homogenous 'LE body' (damaged leucocyte nucleus); while it was the first immunological feature identified for SLE, high-titre anti-ds DNA is more relatively specific for the condition [11, 12]."
+  },
+  {
+    "front": "Clinical Case Study 2: A 38-year-old man receives a kidney transplant. On the seventh post-operative day, the graft becomes tender, and creatinine levels rise. Biopsy shows lymphocytic infiltration. What type of reaction is this?",
+    "back": "This is an Acute Allograft Rejection, specifically a 'first set response' [13, 14]. It is predominantly cell-mediated, brought about almost exclusively by T lymphocytes [15, 16]. Treatment typically involves intravenous corticosteroids [14]."
+  },
+  {
+    "front": "Decision-Making Under Pressure: A patient receives a skin graft that remains pale and is rejected within hours without vascularization. What is this called, and what does it imply about the patient's history?",
+    "back": "This is a 'white graft response' or hyperacute rejection [17]. It implies the recipient had pre-existing antibodies against the donor tissue, likely due to prior transplantation, blood transfusion, or pregnancy [17]."
+  },
+  {
+    "front": "Core Concept: Differentiate between Autografts, Isografts, Allografts, and Xenografts.",
+    "back": "1. Autograft: Tissue from an individual grafted onto themselves. 2. Isograft: Graft between genetically identical individuals (twins). 3. Allograft: Graft between non-identical members of the same species. 4. Xenograft: Graft between different species [16, 18-20]."
+  },
+  {
+    "front": "Core Concept: What is the 'Graft-Versus-Host' (GVH) reaction and its common name in animals?",
+    "back": "GVH occurs when the graft contains immunocompetent T cells that attack the antigens of an immunodeficient host [21]. In animals, the resulting syndrome of retardation, emaciation, and diarrhea is called 'runt disease' [22]."
+  },
+  {
+    "front": "University-Level Exam Question: List the three classes of HLA antigens and identify which are most relevant to allograft survival.",
+    "back": "The classes are I, II, and III [23]. ABO blood group compatibility and HLA Class I (A, B, C) and Class II (DR) compatibility are the most critical factors for graft survival [23-25]."
+  },
+  {
+    "front": "University-Level Exam Question: Define 'Immunological Surveillance' as proposed by Lewis Thomas.",
+    "back": "It postulates that the primary function of cell-mediated immunity is to 'seek and destroy' malignant cells arising by somatic mutation [26]. The immune system maintains constant vigilance, and tumors develop only when there is a lapse in this surveillance [26, 27]."
+  },
+  {
+    "front": "Core Concept: Distinguish between 'Natural' and 'Immune' ABO isoantibodies.",
+    "back": "Natural antibodies (anti-A, anti-B) are IgM saline agglutinins appearing by six months of age [28, 29]. Immune isoantibodies are IgG 'albumin agglutinating' antibodies that may develop after incompatible pregnancy or transfusion; they are more clinically significant and act as hemolysins [29, 30]."
+  },
+  {
+    "front": "Critical Thinking: Why is an Rh-negative mother usually only sensitized during the delivery of her first Rh-positive child?",
+    "back": "While minor leaks can occur during pregnancy, it is during the trauma of delivery that fetal red cells enter maternal circulation in large numbers [31, 32]. Therefore, the first child usually escapes damage, while subsequent Rh-positive pregnancies are at risk [32, 33]."
+  },
+  {
+    "front": "PLAB/USMLE Pattern Question: A woman with blood group O gives birth to a baby with group A. The baby develops mild jaundice shortly after birth. Why is ABO hemolytic disease seen even in first-borns?",
+    "back": "Unlike Rh disease, ABO hemolytic disease occurs because anti-A and anti-B isoantibodies are naturally occurring [34]. In group O mothers, these are predominantly IgG and cross the placenta to harm the fetus, regardless of previous exposure [34]."
+  },
+  {
+    "front": "PLAB/USMLE Pattern Question: A patient requires an emergency transfusion, but their blood group cannot be immediately determined. What is the safest course of action and why?",
+    "back": "Administer Group O Rh-negative blood [35, 36]. Group O red cells carry no A or B antigens (universal donor), and Rh-negative blood avoids sensitizing the patient to the D antigen [32, 35, 36]."
+  },
+  {
+    "front": "Bias Recognition: A clinician assumes a 'LE cell' is specific only to SLE. How can this bias be corrected?",
+    "back": "While identified with SLE, LE cells can occasionally be found in other conditions [11]. To avoid bias, clinicians should recognize that high-titre anti-ds DNA is a more specific marker for SLE diagnosis [12]. Structured reasoning requires using multiple diagnostic markers (ANA, anti-Sm, anti-ds DNA) alongside clinical signs [3, 12]."
+  },
+  {
+    "front": "Core Concept: What is the 'Bombay' (OH) blood group phenotype?",
+    "back": "A rare instance where A, B, and H antigens are absent from red cells [30]. These individuals have anti-A, anti-B, and anti-H antibodies, making their blood incompatible with all red cells except those of the same rare phenotype [30]."
+  },
+  {
+    "front": "Mechanism: How does Pernicious Anemia lead to Vitamin B12 deficiency?",
+    "back": "Autoantibodies target gastric parietal cells (causing achlorhydria) and intrinsic factor [37]. This prevents B12 absorption by either blocking its attachment to the intrinsic factor or interfering with its uptake in the intestinal mucosa [37]."
+  },
+  {
+    "front": "University-Level Exam Question: Describe the 'Eichwald-Silmser effect'.",
+    "back": "This is a unilateral sex-linked histoincompatibility where grafts from male donors (XY) are rejected by female recipients (XX) of the same inbred strain due to antigens determined by the Y chromosome [38]. Grafts from females to males succeed [38]."
+  },
+  {
+    "front": "Core Concept: What are 'Oncofetal Antigens' and give two examples.",
+    "back": "Fetal antigens found in embryonic and malignant cells but not in normal adult cells [39, 40]. Examples include alpha fetoprotein (AFP) in hepatomas and carcinoembryonic antigen (CEA) in colonic cancers [39, 41]."
+  },
+  {
+    "front": "Problem-Solving: A patient develops 'endotoxic shock' after a blood transfusion. What was the most likely cause?",
+    "back": "The transfusion of blood contaminated by bacteria [42, 43]. Gross contamination can often be recognized by inspecting the blood before transfusion [42]."
+  },
+  {
+    "front": "Critical Thinking: Why is the 'indirect Coombs test' used for screening Rh-negative pregnant women?",
+    "back": "It is the most sensitive method to detect IgG anti-D antibodies (incomplete antibodies) in the mother's serum, allowing for the identification of sensitization before it causes hemolytic disease in the fetus [44, 45]."
+  },
+  {
+    "front": "Core Concept: What is the 'Thomsen-Friedenreich phenomenon'?",
+    "back": "The unmasking of a hidden 'T antigen' on human erythrocytes due to contamination by certain bacteria (e.g., Pseudomonas) [46]. This causes the cells to become agglutinable by all normal human sera, which contain anti-T agglutinins [46]."
+  }
+]
+}

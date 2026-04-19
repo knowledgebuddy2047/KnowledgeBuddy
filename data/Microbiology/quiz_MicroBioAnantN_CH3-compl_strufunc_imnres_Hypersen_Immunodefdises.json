@@ -1,0 +1,182 @@
+{
+  "quiz": [
+
+  {
+    "type": "mcq_single",
+    "question": "Which components of the immune response have the longest lag time?",
+    "options": ["B cells", "T cells", "Antibodies", "NK cells"],
+    "answer": "B cells",
+    "explanation": "Naïve B cells typically take longer to respond due to initial activation and differentiation."
+  },
+   
+  {
+    "type": "mcq_single",
+    "question": "What determines MHC restriction in T cells?",
+    "options": ["Presence of a specific cytokine", "Type of antigen presented", "Type of MHC molecule", "All of the above"],
+    "answer": "Type of MHC molecule",
+    "explanation": "T cells only recognize antigens presented in the context of self-MHC molecules."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which complement deficiencies are associated with increased risk of severe pyogenic infections?",
+    "options": ["C3 deficiency", "C1 inhibitor deficiency", "C5-C9 deficiencies", "C2 deficiency"],
+    "answer": ["C3 deficiency", "C5-C9 deficiencies"],
+    "explanation": "C3 is crucial for opsonization; C5-C9 are integral for MAC formation."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What initiates the classical complement pathway?",
+    "options": ["Microbial surfaces", "Antigen-antibody complexes", "Mannose-binding lectin", "C1 inhibitor"],
+    "answer": "Antigen-antibody complexes",
+    "explanation": "The classical pathway is triggered by the binding of C1 to the Fc region of IgM or IgG."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which pathway is considered an antibody-independent defense?",
+    "options": ["Classical Pathway", "Alternative Pathway", "Lectin Pathway", "All of the above"],
+    "answer": "Alternative Pathway",
+    "explanation": "The alternative pathway is activated by microbial surfaces and does not require antibodies."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which factors are involved in the alternative complement pathway?",
+    "options": ["C1", "Factor B", "C2", "Properdin"],
+    "answer": ["Factor B", "Properdin"],
+    "explanation": "The alternative pathway involves factors B, D, and Properdin."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the role of the Membrane Attack Complex (MAC)?",
+    "options": ["Opsinization", "Lysis of target cells", "Antigen presentation", "Cell signaling"],
+    "answer": "Lysis of target cells",
+    "explanation": "The MAC forms pores in the target cell membrane, leading to osmotic lysis."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What does MHC Class I present to?",
+    "options": ["CD4+ T cells", "B cells", "CD8+ T cells", "Dendritic cells"],
+    "answer": "CD8+ T cells",
+    "explanation": "MHC Class I molecules present intracellular antigens to CD8+ cytotoxic T cells."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which type of hypersensitivity reaction is characterized by immediate responses?",
+    "options": ["Type I", "Type II", "Type III", "Type IV"],
+    "answer": "Type I",
+    "explanation": "Type I hypersensitivity is mediated by IgE antibodies and results in immediate reactions like anaphylaxis."
+  },
+  {
+    "type": "mcq_multiple",
+    "question": "Which of the following conditions are associated with Type II hypersensitivity?",
+    "options": ["Anaphylaxis", "Hemolytic disease of the newborn", "Serum sickness", "Contact dermatitis"],
+    "answer": ["Hemolytic disease of the newborn"],
+    "explanation": "Type II hypersensitivity reactions involve IgG or IgM binding to cell-surface antigens."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What causes Hereditary Angioneurotic Edema?",
+    "options": ["C1 inhibitor deficiency", "C4 complement deficiency", "IgA deficiency", "Hyper-IgM syndrome"],
+    "answer": "C1 inhibitor deficiency",
+    "explanation": "Hereditary angioneurotic edema is due to deficiency of C1 esterase inhibitor."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is a characteristic clinical feature of DiGeorge Syndrome?",
+    "options": ["Persistent bacterial infections", "Severe eczema", "Neonatal tetany", "Recurrent viral infections"],
+    "answer": "Neonatal tetany",
+    "explanation": "DiGeorge Syndrome results in hypoparathyroidism, leading to hypocalcemia and neonatal tetany."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which component of the classical complement pathway forms C3 convertase?",
+    "options": ["C1", "C2", "C4", "C3b"],
+    "answer": "C4b2a",
+    "explanation": "C4b2a is the enzyme complex that converts C3 to C3b in the classical pathway."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the main function of C3b in the complement pathway?",
+    "options": ["Directly lyses pathogens", "Promotes opsonization", "Recruits neutrophils", "Activates C5"],
+    "answer": "Promotes opsonization",
+    "explanation": "C3b coats pathogens to promote phagocytosis via complement receptors."
+  },
+  {
+    "type": "mcq_single",
+    "question": "A 9-month-old male presents with recurrent infections and has absent B cells. What is the most likely diagnosis?",
+    "options": ["Common Variable Immunodeficiency","Bruton's Agammaglobulinemia","Severe Combined Immunodeficiency","DiGeorge Syndrome"],
+    "answer": "Bruton's Agammaglobulinemia",
+    "explanation": "The clinical presentation suggests Bruton's due to X-linked inheritance, affecting B cell development."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Why might patients with deficiencies in the classical complement pathway develop autoimmune diseases?",
+    "options": ["Increased infection susceptibility","Failure to clear immune complexes","Reduced T cell function","Increased antibody production"],
+    "answer": "Failure to clear immune complexes",
+    "explanation": "Deficiencies in early classical proteins lead to the accumulation of immune complexes, predisposing to autoimmunity."
+  },
+  {
+    "type": "mcq_single",
+    "question": "Which complement fragment is primarily responsible for chemotaxis of neutrophils?",
+    "options": ["C3b","C4a","C5a","C1q"],
+    "answer": "C5a",
+    "explanation": "C5a acts as a potent chemotactic factor, attracting neutrophils to sites of inflammation."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What bias might lead to underdiagnosing a patient with selective IgA deficiency who has recurrent infections?",
+    "options": ["Attribution bias","Confirmation bias","Anchoring bias","Availability heuristic"],
+    "answer": "Anchoring bias",
+    "explanation": "Clinicians may anchor on common diagnoses and overlook conditions that fit less typical presentations."
+  },
+  {
+    "type": "assertion_reason",
+    "assertion": "T-cells are responsible for cell-mediated immunity.",
+    "reason": "B cells are responsible for humoral immunity.",
+    "options": [
+      "Both Assertion and Reason are true, Reason explains Assertion",
+      "Both Assertion and Reason are true, Reason does not explain Assertion",
+      "Assertion is true, Reason is false",
+      "Assertion is false, Reason is true",
+      "Both are false"
+    ],
+    "answer": "Both Assertion and Reason are true, Reason explains Assertion",
+    "explanation": "T-cells and B cells have distinct roles in the adaptive immune response."
+  },
+  {
+    "type": "match_columns",
+    "question": "Match the complement component with its function:",
+    "left": ["C3a", "C5b", "C1", "C4b2a"],
+    "right": ["Anaphylatoxin", "Initiates MAC formation", "Binds to antibody", "C3 convertase"],
+    "answer": {
+      "C3a": "Anaphylatoxin",
+      "C5b": "Initiates MAC formation",
+      "C1": "Binds to antibody",
+      "C4b2a": "C3 convertase"
+    },
+    "explanation": "Each complement component contributes to different functions in the immune response."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the primary role of anaphylatoxins?",
+    "options": ["Promote opsonization", "Cause mast cell degranulation", "Attract neutrophils", "Activate C3 convertase"],
+    "answer": "Cause mast cell degranulation",
+    "explanation": "Anaphylatoxins like C3a and C5a trigger mast cell degranulation, leading to inflammation."
+  },
+  {
+    "type": "mcq_single",
+    "question": "What is the effect of complement deficiencies in the early classical pathway?",
+    "options": ["Increase susceptibility to infections", "Increase susceptibility to autoimmunity", "Both A and B", "None of the above"],
+    "answer": "Both A and B",
+    "explanation": "Deficiencies can lead to both increased infection risk and autoimmune disease due to immune complex accumulation."
+  },
+  {
+    "type": "mcq_single",
+    "question": "A patient receiving penicillin develops hypotension and shortness of breath. What is the immediate management?",
+    "options": ["IV steroids","Intranasal antihistamines","Intramuscular adrenaline","Oral antihistamines"],
+    "answer": "Intramuscular adrenaline",
+    "explanation": "Adrenaline is the first-line treatment for anaphylaxis, not delaying for lab confirmations."
+  } 
+
+
+  ]
+}

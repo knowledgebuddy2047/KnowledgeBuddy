@@ -1,0 +1,429 @@
+{
+  "flashcards": 
+[
+  {
+    "front": "Explanation Note: Define the Complement system and its primary activation trigger.",
+    "back": "The complement (C) system is a set of factors in normal serum, typically activated by antigen-antibody interaction, which mediates significant biological consequences like cell lysis and opsonization [1, 2]."
+  },
+  {
+    "front": "Core Concept: Which antibody classes can fix complement via the classical pathway?",
+    "back": "Only IgM, IgG3, IgG1, and IgG2 (in that order) fix complement. IgG4, IgA, IgD, and IgE do not [3]."
+  },
+  {
+    "front": "Core Concept: What is the recognition unit of C1 in the classical pathway and its requirement for activation?",
+    "back": "C1q is the recognition unit. Effective activation requires it to attach to the Fc piece of immunoglobulins at two or more of its six binding sites (e.g., one IgM or two IgG molecules) [4]."
+  },
+  {
+    "front": "Core Concept: What constitutes the 'C3 convertase' in the classical pathway?",
+    "back": "The trimolecular complex C4b2a acts as the C3 convertase, splitting C3 into C3a and C3b [5]."
+  },
+  {
+    "front": "Mechanism: Describe the primary action of the Membrane Attack Complex (MAC).",
+    "back": "The MAC (C5b-9) produces 'holes' (approx. 100 Å) on the cell membrane, disrupting osmotic integrity and leading to the release of cell contents [6, 7]."
+  },
+  {
+    "front": "Core Concept: How does the Alternative pathway differ from the Classical in its initial activation?",
+    "back": "The Alternative pathway activates C3 without the prior participation of C4b2a, triggered by substances like zymosan, bacterial endotoxins, or IgA [8, 9]."
+  },
+  {
+    "front": "Core Concept: What is the role of properdin (Factor P) in the complement cascade?",
+    "back": "Properdin stabilizes the extremely labile alternative pathway C3 convertase (C3bBb) [10]."
+  },
+  {
+    "front": "Core Concept: What defines the Lectin pathway activation trigger?",
+    "back": "Activation occurs when Mannose-binding lectin (MBL) binds to mannose residues on the surfaces of microorganisms like Salmonella or Listeria [11]."
+  },
+  {
+    "front": "Critical Thinking: Why is complement regulation (inhibitors/inactivators) essential for the host?",
+    "back": "Unchecked activity can cause systemic exhaustion of the complement system and serious damage to healthy host tissues [12]."
+  },
+  {
+    "front": "Clinical Case Study: A patient presents with episodic swelling of the larynx and respiratory tract. Diagnosis?",
+    "back": "Hereditary angioneurotic edema, caused by a genetic deficiency of the C1 inhibitor (C1INH) [13]."
+  },
+  {
+    "front": "Decision-Making Under Pressure: A patient with hereditary angioedema has a life-threatening laryngeal attack. Immediate medical source of inhibitor?",
+    "back": "Infusion of fresh plasma can serve as an immediate source of the C1 inhibitor [13]."
+  },
+  {
+    "front": "Core Concept: Which complement component is essential for 'Immune Adherence'?",
+    "back": "C3 and C4 are necessary for complement-bound complexes to adhere to erythrocytes or platelets for rapid phagocytosis [14]."
+  },
+  {
+    "front": "University Exam (Short Answer): List three biological effects of complement activation.",
+    "back": "1. Lysis of cells and bacteria. 2. Opsonization. 3. Amplification of the inflammatory process (e.g., release of histamine) [15, 16]."
+  },
+  {
+    "front": "PLAB/USMLE Pattern: Genetic deficiency in C5 to C8 predisposes a patient to which type of infection?",
+    "back": "Bacteremia, primarily with Gram-negative diplococci like Neisseria [17]."
+  },
+  {
+    "front": "Bias Recognition: A clinician assumes a patient with recurrent pyogenic infections has a B-cell defect. What complement deficiency should also be considered?",
+    "back": "Deficiency of C3 or its regulatory protein C3b inactivator can present with severe recurrent pyogenic infections [17]."
+  },
+  {
+    "front": "Core Concept: Define the primary lymphoid organs in humans.",
+    "back": "The thymus and bone marrow are the primary lymphoid organs where lymphocytes mature [18]."
+  },
+  {
+    "front": "Core Concept: What is the primary immunological function of the spleen?",
+    "back": "The spleen traps circulating bloodborne foreign antigens and acts as a filter to remove effete blood cells [19]."
+  },
+  {
+    "front": "Mechanism: What happens to over 95% of thymocytes in the thymus?",
+    "back": "They die by apoptosis during thymic selection, ensuring only those that recognize MHC-antigen complexes survive [20, 21]."
+  },
+  {
+    "front": "Clinical Case Study: A 4-year-old child presents with frequent bacterial sepsis after an emergency splenectomy. Why?",
+    "back": "Splenectomy in children leads to a high incidence of bacterial sepsis (e.g., S. pneumoniae) because the spleen's filtering and antibody response are lost [22]."
+  },
+  {
+    "front": "Core Concept: Define 'MALT' and its significance in defense.",
+    "back": "Mucosa-associated lymphoid tissue (MALT) is strategically placed along mucosal surfaces (GALT, BALT) to defend against antigens constantly entering via these routes [23, 24]."
+  },
+  {
+    "front": "Core Concept: Which immunoglobulin class is predominantly produced in the mucosa?",
+    "back": "Secretory IgA (SIgA) [25]."
+  },
+  {
+    "front": "Mechanism: What is 'Lymphocytic Recirculation'?",
+    "back": "The constant traffic of lymphocytes through blood and lymph, ensuring they reach any part of the body to mount an immune response [25]."
+  },
+  {
+    "front": "Core Concept: Define 'Naïve cells' in the immune system.",
+    "back": "Mature T and B cells that are immunocompetent but have not yet encountered their specific antigen [26]."
+  },
+  {
+    "front": "Critical Thinking: How do 'memory cells' differ from 'naïve cells' in their response?",
+    "back": "Memory cells are characteristically long-lived and more readily stimulated, mediating a faster and more vigorous secondary immune response [27, 28]."
+  },
+  {
+    "front": "Core Concept: What are 'Clue Cells' indicative of?",
+    "back": "They are characteristic of bacterial vaginosis (often Gardnerella vaginalis) [Chapter 13-17 clinical correlations]."
+  },
+  {
+    "front": "Core Concept: What is the diagnostic marker for Helper/Inducer T cells?",
+    "back": "CD4 [29]."
+  },
+  {
+    "front": "Core Concept: Which T cell subset is restricted by MHC Class I?",
+    "back": "CD8+ Cytotoxic T cells (Tc) [30]."
+  },
+  {
+    "front": "Mechanism: Explain 'MHC Restriction'.",
+    "back": "T cells respond to processed antigens only when presented alongside 'self' MHC molecules by an APC [31]."
+  },
+  {
+    "front": "Core Concept: Which cells are 'Professional' Antigen-Presenting Cells (APCs)?",
+    "back": "Dendritic cells, macrophages, and B lymphocytes [32]."
+  },
+  {
+    "front": "Structure: What is the 'J chain' in antibody structure?",
+    "back": "A glycopeptide that facilitates the polymerization of IgA (into dimers) and IgM (into pentamers) [Chapter 14/15]."
+  },
+  {
+    "front": "University Exam (Essay Question): Describe the structure and function of the Major Histocompatibility Complex (MHC).",
+    "back": "MHC consists of three classes (I, II, III). Class I & II present antigens to T cells for immune recognition, while Class III includes complement components. It is essential for transplant rejection and self/non-self recognition [33, 34]."
+  },
+  {
+    "front": "Clinical Case Study: A newborn presents with heart defects, tetany, and facial anomalies. Diagnosis?",
+    "back": "DiGeorge syndrome (thymic hypoplasia), resulting from congenital aplasia of the thymus and deficient CMI [35, 36]."
+  },
+  {
+    "front": "Core Concept: What is 'HLA-B27' strongly associated with?",
+    "back": "Ankylosing spondylitis [37]."
+  },
+  {
+    "front": "Critical Thinking: Why is HLA typing more discriminating than blood grouping for paternity tests?",
+    "back": "Because of the extreme pleomorphism of the HLA system, which provides unique genetic 'fingerprints' [37, 38]."
+  },
+  {
+    "front": "Mechanism: How does Interleukin-1 (IL-1) act as an endogenous pyrogen?",
+    "back": "It acts on the brain to induce fever during the inflammatory response [39]."
+  },
+  {
+    "front": "Core Concept: Define the four phases of antibody production.",
+    "back": "1. Lag phase. 2. Log phase (rising titre). 3. Plateau (steady state). 4. Phase of decline [40]."
+  },
+  {
+    "front": "Comparison: Contrast Primary and Secondary immune responses regarding the isotype generated.",
+    "back": "Primary: IgM predominates. Secondary: IgG predominates [41]."
+  },
+  {
+    "front": "Critical Thinking: What is the 'Negative Phase' following a booster injection?",
+    "back": "A temporary fall in circulating antibody levels because the injected antigen combines with existing antibodies [42]."
+  },
+  {
+    "front": "Core Concept: Define 'Immunological Paralysis' (Felton).",
+    "back": "A state of tolerance induced by a massive dose of antigen (e.g., pneumococcal polysaccharide) that swamps and paralyzes the antibody-producing system [43]."
+  },
+  {
+    "front": "Mechanism: What is the principle of Hybridoma technology?",
+    "back": "Fusing antibody-forming spleen cells with myeloma cells to create immortal 'hybridomas' that produce unlimited monoclonal antibodies of a single specificity [44]."
+  },
+  {
+    "front": "University Exam (Short Note): Define Adjuvants and give two examples used in human vaccines.",
+    "back": "Substances that enhance the immunogenicity of an antigen. Examples: Aluminum hydroxide and Aluminum phosphate [45, 46]."
+  },
+  {
+    "front": "Core Concept: Which drug is the most widely used for immunosuppression in transplants and inhibits helper T cell activity?",
+    "back": "Cyclosporine [47]."
+  },
+  {
+    "front": "PLAB/USMLE Pattern: A mother is Rh-negative and carries an Rh-positive fetus. What is the standard prophylactic management?",
+    "back": "Administration of anti-Rh globulin within 72 hours of delivery to prevent Rh sensitization [48]."
+  },
+  {
+    "front": "Core Concept: What is the 'Transfer Factor'?",
+    "back": "A dialyzable extract from sensitized leucocytes that can passively transfer cell-mediated immunity (CMI) [49]."
+  },
+  {
+    "front": "Critical Thinking: Why are embryos and newborns particularly susceptible to the induction of immunological tolerance?",
+    "back": "Because their immunological system is immature and recognizes any antigen coming into contact during this period as 'self' [50]."
+  },
+  {
+    "front": "Core Concept: Define the 'Clonal Selection Theory' (Burnet).",
+    "back": "Postulates that antigens recognize and stimulate the proliferation of pre-existing specific immunocompetent cells to form antibody-synthesizing clones [51]."
+  },
+  {
+    "front": "Bias Recognition: A clinician assumes a positive antibody test proves current infection. What is the reflective question to avoid this bias?",
+    "back": "Does this represent a primary response (IgM) or a secondary response/past infection (IgG), and is there a four-fold rise in paired sera? [41, 52]."
+  },
+  {
+    "front": "Core Concept: Define 'Hypersensitivity'.",
+    "back": "Undesirable injurious consequences in a sensitized host following contact with specific antigens [53]."
+  },
+  {
+    "front": "Core Concept: Contrast Type I and Type IV hypersensitivity regarding the time of manifestation.",
+    "back": "Type I (Immediate): Minutes. Type IV (Delayed): 48-72 hours [54, 55]."
+  },
+  {
+    "front": "Core Concept: Which immunoglobulin mediates Type I anaphylactic reactions?",
+    "back": "IgE (Reaginic antibody) [54, 55]."
+  },
+  {
+    "front": "Mechanism: How does Histamine cause a 'wheal-and-flare' response?",
+    "back": "It causes vasodilatation and hyperemia (flare) and increased capillary permeability leading to edema (wheal) [56]."
+  },
+  {
+    "front": "Clinical Case Study: A 45-year-old farmer is stung by a bee and develops shortness of breath and hypotension. Diagnosis?",
+    "back": "Anaphylactic shock (Type I hypersensitivity) [57]."
+  },
+  {
+    "front": "Decision-Making Under Pressure: What is the immediate life-saving treatment for anaphylactic shock?",
+    "back": "Prompt intramuscular injection of adrenaline (0.5 ml of 1-in-1000 solution) [57, 58]."
+  },
+  {
+    "front": "Core Concept: Define 'Atopy'.",
+    "back": "Naturally occurring familial hypersensitivities (e.g., hay fever, asthma) characterized by overproduction of IgE [59, 60]."
+  },
+  {
+    "front": "Core Concept: What is the 'Schultz-Dale phenomenon'?",
+    "back": "In vitro anaphylaxis where isolated sensitized tissues (like uterine strips) contract vigorously when the specific antigen is added [61]."
+  },
+  {
+    "front": "Critical Thinking: Why is IgA deficiency sometimes associated with atopy?",
+    "back": "Deficiency allows inhalant antigens to come into contact with IgE-producing cells that are normally blocked by mucosal SIgA [60]."
+  },
+  {
+    "front": "Core Concept: What is 'Serum Sickness' a clinical example of?",
+    "back": "Type III (Immune complex) hypersensitivity [62, 63]."
+  },
+  {
+    "front": "Mechanism: What causes the tissue damage in an Arthus reaction?",
+    "back": "Antigen-antibody precipitates fix complement, leading to neutrophil infiltration, thrombi formation, and tissue necrosis [64]."
+  },
+  {
+    "front": "Core Concept: What is the archetype of Type IV delayed hypersensitivity?",
+    "back": "The Tuberculin reaction [65, 66]."
+  },
+  {
+    "front": "University Exam (Essay Question): Classify hypersensitivity reactions according to Coombs and Gell.",
+    "back": "Type I (IgE-mediated), Type II (Cytotoxic), Type III (Immune complex), Type IV (Delayed/Cell-mediated), and Type V (Stimulatory) [54, 55]."
+  },
+  {
+    "front": "PLAB/USMLE Pattern: A patient develops a weeping skin rash after using a nickel watch strap. Type of reaction and test?",
+    "back": "Contact dermatitis (Type IV hypersensitivity); diagnosed by a Patch Test [67, 68]."
+  },
+  {
+    "front": "Core Concept: Describe the 'Shwartzman Reaction'.",
+    "back": "A non-immunological hemorrhagic necrotic lesion following two doses of bacterial endotoxin, illustrating a perturbation in intravascular coagulation [69, 70]."
+  },
+  {
+    "front": "Core Concept: Define 'Primary Immunodeficiency'.",
+    "back": "Abnormalities in the development of immune mechanisms, often inherited [71]."
+  },
+  {
+    "front": "Core Concept: What is the characteristic gender prevalence of Bruton's agammaglobulinemia?",
+    "back": "It is X-linked and seen only in male infants [72]."
+  },
+  {
+    "front": "Clinical Case Study: A 9-month-old male infant has recurrent pyogenic infections and very low levels of all Ig classes. Diagnosis?",
+    "back": "Bruton's X-linked agammaglobulinemia [71, 72]."
+  },
+  {
+    "front": "Mechanism: Why is Bruton's disease not apparent until about six months of age?",
+    "back": "Because the infant is protected by passively transferred maternal antibodies [72, 73]."
+  },
+  {
+    "front": "Critical Thinking: Why must live microbial vaccines be avoided in children with primary immunodeficiency?",
+    "back": "There is a danger of paralytic poliomyelitis or progressive encephalitis as the attenuated virus may multiply unrestrained [74]."
+  },
+  {
+    "front": "Core Concept: What is the most common selective immunoglobulin deficiency?",
+    "back": "Isolated IgA deficiency [75]."
+  },
+  {
+    "front": "Core Concept: What defines 'Chronic Mucocutaneous Candidosis'?",
+    "back": "An abnormal response where CMI to candida is deficient, leading to severe chronic infection of skin, nails, and mucosa [76]."
+  },
+  {
+    "front": "PLAB/USMLE Pattern: A patient has low serum uric acid and decreased CMI. Which enzyme deficiency should be suspected?",
+    "back": "Purine nucleoside phosphorylase (PNP) deficiency [77]."
+  },
+  {
+    "front": "Core Concept: What is 'Nezelof Syndrome'?",
+    "back": "Combined immunodeficiency with depressed CMI and abnormal (elevated, low, or normal) immunoglobulin levels [78]."
+  },
+  {
+    "front": "Mechanism: Explain the basic defect in Swiss-type agammaglobulinemia.",
+    "back": "The defect is at the level of the lymphoid stem cell [79]."
+  },
+  {
+    "front": "Core Concept: What enzyme deficiency was the first recognized cause of SCID?",
+    "back": "Adenosine deaminase (ADA) deficiency [79, 80]."
+  },
+  {
+    "front": "University Exam (Short Note): Define Chronic Granulomatous Disease (CGD).",
+    "back": "A familial disease where leukocytes can phagocytose but not kill catalase-positive bacteria due to a defect in hydrogen peroxide production. Diagnosed by the Nitroblue tetrazolium (NBT) test [81, 82]."
+  },
+  {
+    "front": "Critical Thinking: In CGD, why are catalase-negative pathogens handled normally while catalase-positive ones cause recurrent infection?",
+    "back": "Catalase-negative bacteria provide their own H2O2, which the phagocyte uses to kill them; catalase-positive bacteria destroy their own H2O2, leaving the defective phagocyte unable to kill them [83]."
+  },
+  {
+    "front": "Core Concept: What is 'Chediak-Higashi Syndrome' characterized by microscopically?",
+    "back": "Giant peroxidase-positive inclusions in the cytoplasm of leukocytes [84]."
+  },
+  {
+    "front": "Core Concept: Define 'Job's Syndrome'.",
+    "back": "Characterized by multiple large 'cold' staphylococcal abscesses and elevated IgE [85]."
+  },
+  {
+    "front": "Core Concept: Define 'Secondary Immunodeficiency'.",
+    "back": "Deficits in immunity resulting from disease, drugs, or malnutrition (e.g., AIDS) [86]."
+  },
+  {
+    "front": "Comparison: Contrast Primary and Secondary immunodeficiencies regarding commonality.",
+    "back": "Secondary immunodeficiencies are much more common than primary ones [86]."
+  },
+  {
+    "front": "Critical Thinking: How does leprosy cause a cell-mediated immunity deficiency?",
+    "back": "The thymus-dependent areas of lymph nodes are infiltrated with non-lymphoid cells, depressing CMI [87]."
+  },
+  {
+    "front": "Decision-Making Under Pressure: A child with SCID requires immune restoration. What is the standard definitive treatment?",
+    "back": "Hematopoietic stem cell transplantation (HSCT) [78]."
+  },
+  {
+    "front": "Bias Recognition: Assuming every patient with low immunoglobulin has a genetic defect. What common adult cause should be checked?",
+    "back": "Malignancies (e.g., chronic lymphatic leukemia, multiple myeloma) or nephrotic syndrome [87]."
+  },
+  {
+    "front": "Core Concept: What is 'Wiskott-Aldrich Syndrome'?",
+    "back": "An X-linked disease characterized by the triad of eczema, thrombocytopenic purpura, and recurrent infections [88]."
+  },
+  {
+    "front": "Mechanism: Why is the 'Log Phase' of antibody response important in vaccines?",
+    "back": "It is when the titre of antibodies rises steadily, reaching its peak for protection [40]."
+  },
+  {
+    "front": "Core Concept: What is a 'Hapten'?",
+    "back": "A small molecule that is not immunogenic alone but reacts with antibodies once bound to a carrier protein [Chapter 11/15]."
+  },
+  {
+    "front": "Structure: Which antibody is the 'Millionaire Molecule'?",
+    "back": "IgM, due to its high molecular weight pentameric structure [Chapter 14/15]."
+  },
+  {
+    "front": "Critical Thinking: Why is intravenous route the best for inducing tolerance to soluble antigens?",
+    "back": "It allows the antigen to equilibrate throughout the extra- and intravascular compartments rapidly [89]."
+  },
+  {
+    "front": "University Exam (MCQ): Which complement component acts as an anaphylatoxin?",
+    "back": "C3a, C4a, and C5a [90, 91]."
+  },
+  {
+    "front": "PLAB/USMLE Pattern: A 2-year-old with recurrent pneumonia has a negative NBT test. Likely diagnosis?",
+    "back": "Chronic Granulomatous Disease (CGD) [82]."
+  },
+  {
+    "front": "Core Concept: Define 'Species Immunity'.",
+    "back": "Innate resistance shared by all members of a species against a specific pathogen [Chapter 12]."
+  },
+  {
+    "front": "Mechanism: How do 'Anaphylatoxins' work?",
+    "back": "They induce degranulation of mast cells, releasing histamine and increasing vascular permeability [91, 92]."
+  },
+  {
+    "front": "Core Concept: What is the 'Zone of Equivalence' in a precipitation test?",
+    "back": "The ratio of antigen and antibody where the most rapid and complete precipitation occurs [Chapter 14]."
+  },
+  {
+    "front": "Critical Thinking: Why is 'Combined Immunization' necessary in post-exposure Rabies prophylaxis?",
+    "back": "Passive antibodies provide immediate protection while the active vaccine stimulates the body's long-term immune response [Chapter 12/15]."
+  },
+  {
+    "front": "Clinical Case Study: A patient with SLE has a positive VDRL but negative specific treponemal tests. Interpret.",
+    "back": "Chronic Biological False Positive (BFP) reaction [Chapter 16 clinical correlation]."
+  },
+  {
+    "front": "Core Concept: What are 'NK cells'?",
+    "back": "Natural Killer cells are large granular lymphocytes that kill virus-infected and tumor cells without prior sensitization [93]."
+  },
+  {
+    "front": "Mechanism: What is 'Opsonization'?",
+    "back": "The coating of a pathogen with opsonins (like C3b or IgG) to make it more attractive to phagocytes [94]."
+  },
+  {
+    "front": "Core Concept: Define 'Haplotype' in HLA typing.",
+    "back": "The combination of HLA alleles on one strand of a chromosome inherited as a block [95]."
+  },
+  {
+    "front": "Decision-Making: A patient with suspected syphilis shows no precipitation in undiluted serum but strong precipitation in 1:10 dilution. Name this effect.",
+    "back": "Prozone Phenomenon [Chapter 14]."
+  },
+  {
+    "front": "University Exam (Short Note): Role of the thymus in T-cell maturation.",
+    "back": "The thymus provides the microenvironment for T-cell proliferation and education, including the elimination of self-reactive clones via selection [18, 20]."
+  },
+  {
+    "front": "PLAB/USMLE Pattern: Which cytokine is the 'major activator' of both T and B cells?",
+    "back": "Interleukin-2 (IL-2) [96]."
+  },
+  {
+    "front": "Critical Thinking: Why does the secondary response have a shorter lag phase?",
+    "back": "Because of the presence of memory cells that are already primed to respond [41]."
+  },
+  {
+    "front": "Core Concept: What is 'MHC restriction' of Helper T cells?",
+    "back": "Helper T cells (CD4) recognize antigens only when presented with MHC Class II molecules [31, 97]."
+  },
+  {
+    "front": "Mechanism: What is 'Class Switching'?",
+    "back": "When a B cell changes the constant region of its heavy chain to produce a different antibody class (e.g., IgM to IgG) while maintaining specificity [Chapter 14/15]."
+  },
+  {
+    "front": "Core Concept: Define 'Isoantigens'.",
+    "back": "Antigens present in some but not all members of a species (e.g., blood groups) [Chapter 13-17]."
+  },
+  {
+    "front": "Clinical Case Study: A child with recurring otitis media and delayed IgG synthesis. Condition?",
+    "back": "Transient hypogammaglobulinemia of infancy [73]."
+  },
+  {
+    "front": "Bias Recognition: Assuming a negative Tuberculin test rules out TB in an elderly patient. Pitfall?",
+    "back": "Waning immunity or anergy in severe disease (like miliary TB) can cause a false negative [Chapter 16/17]."
+  }
+]
+}
