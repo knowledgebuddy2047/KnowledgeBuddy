@@ -1,0 +1,210 @@
+{
+  "flashcards":
+
+[
+  {
+    "front": "What is the average weight of the normal adult right lung?",
+    "back": "450 grams [83]."
+  },
+  {
+    "front": "Which lung has three lobes and two fissures?",
+    "back": "The right lung [83]."
+  },
+  {
+    "front": "Why does aspirated foreign material tend to pass into the right lung?",
+    "back": "The right main bronchus is more vertical than the left [84]."
+  },
+  {
+    "front": "Define a 'Pulmonary Lobule'.",
+    "back": "A cluster of about 5 acini enclosed by visible fibrous septa [63]."
+  },
+  {
+    "front": "What part of the lung tissue is distal to a terminal bronchiole?",
+    "back": "The acinus [63]."
+  },
+  {
+    "front": "Which cells secrete surfactant in the lungs?",
+    "back": "Type II or granular pneumocytes [64, 65]."
+  },
+  {
+    "front": "What is the main function of surfactant?",
+    "back": "To lower surface tension and maintain alveolar stability [65]."
+  },
+  {
+    "front": "What are the 'Pores of Kohn'?",
+    "back": "Connections between adjacent alveoli that allow the passage of bacteria and exudate [85]."
+  },
+  {
+    "front": "Define 'Pneumatocele' in congenital lung disease.",
+    "back": "A single large congenital cyst occupying almost an entire lobe [2]."
+  },
+  {
+    "front": "Distinguish between Intralobar and Extralobar sequestration.",
+    "back": "Intralobar is within the pleural covering; Extralobar lies outside the pleural layer (often below the diaphragm) [4]."
+  },
+  {
+    "front": "What is the basic defect in neonatal ARDS (Hyaline Membrane Disease)?",
+    "back": "A deficiency of pulmonary surfactant, usually due to prematurity [82]."
+  },
+  {
+    "front": "Why do stillborn infants NOT develop Hyaline Membrane Disease?",
+    "back": "Entry of air into the alveoli is essential for hyaline membrane formation [82]."
+  },
+  {
+    "front": "Name three direct causes of Adult ARDS.",
+    "back": "Diffuse infections (viral pneumonia), oxygen toxicity, and aspiration of gastric contents [86]."
+  },
+  {
+    "front": "What are 'Stiff Lungs' in the context of ARDS?",
+    "back": "Lungs coated with hyaline membranes that lose surfactant and fail to respond to oxygen therapy [87, 88]."
+  },
+  {
+    "front": "What is the definition of Pulmonary Hypertension?",
+    "back": "A systolic blood pressure in the pulmonary arterial circulation above 30 mmHg [7]."
+  },
+  {
+    "front": "Who is the typical patient for Primary (Idiopathic) Pulmonary Hypertension?",
+    "back": "Young females between ages 20 and 40 [8]."
+  },
+  {
+    "front": "What are 'Plexiform lesions'?",
+    "back": "Intraluminal tufts of capillary formation in dilated arterial branches, seen in pulmonary hypertension [89]."
+  },
+  {
+    "front": "Define 'Consolidation' in pneumonia.",
+    "back": "The solidification of the lung due to acute inflammation of the parenchyma [12]."
+  },
+  {
+    "front": "Which organism causes 90% of all lobar pneumonias?",
+    "back": "Streptococcus pneumoniae (Pneumococcus) [90]."
+  },
+  {
+    "front": "What is 'Carnification' in pneumonia complications?",
+    "back": "Post-pneumonic fibrosis where the lung becomes tough and leathery [91]."
+  },
+  {
+    "front": "Define Bronchopneumonia.",
+    "back": "Infection of the terminal bronchioles that extends into surrounding alveoli resulting in patchy consolidation [92]."
+  },
+  {
+    "front": "What is the hallmark histological feature of Viral Pneumonia?",
+    "back": "Interstitial inflammation without alveolar exudate [23, 75]."
+  },
+  {
+    "front": "Which fungus is a common opportunistic infection in 100% of HIV/AIDS cases?",
+    "back": "Pneumocystis jirovecii [93]."
+  },
+  {
+    "front": "Which special stain is used to identify Pneumocystis jirovecii?",
+    "back": "Grocott’s methenamine-silver (GMS) stain [94]."
+  },
+  {
+    "front": "What is the clinical definition of Chronic Bronchitis?",
+    "back": "Persistent cough with expectoration for at least 3 months of the year for 2 consecutive years [24]."
+  },
+  {
+    "front": "What is the 'Reid Index'?",
+    "back": "The ratio of the thickness of submucosal glands to the total bronchial wall thickness [29]."
+  },
+  {
+    "front": "Define Pulmonary Emphysema.",
+    "back": "Permanent dilatation of air spaces distal to terminal bronchioles with destruction of their walls [31]."
+  },
+  {
+    "front": "Contrast 'Blue Bloaters' vs. 'Pink Puffers'.",
+    "back": "Blue Bloaters (Chronic Bronchitis) have cyanosis/edema; Pink Puffers (Emphysema) are well-oxygenated but have labored breathing [30, 95]."
+  },
+  {
+    "front": "Which emphysema type is linked to alpha-1-antitrypsin deficiency?",
+    "back": "Panacinar (Panlobular) emphysema [96]."
+  },
+  {
+    "front": "What are 'Curschmann’s spirals'?",
+    "back": "Twisted strips of respiratory epithelium found in the mucus plugs of asthma patients [97]."
+  },
+  {
+    "front": "What are 'Charcot-Leyden crystals'?",
+    "back": "Diamond-shaped crystals derived from eosinophils found in the sputum of asthma patients [98]."
+  },
+  {
+    "front": "Define Bronchiectasis.",
+    "back": "Abnormal and irreversible dilatation of bronchi and bronchioles due to inflammatory weakening of walls [34]."
+  },
+  {
+    "front": "What is 'Kartagener’s syndrome'?",
+    "back": "A triad of bronchiectasis, situs inversus, and sinusitis due to immotile cilia [99]."
+  },
+  {
+    "front": "What is 'Honeycomb Lung'?",
+    "back": "End-stage lung with widespread destruction of alveolar capillary walls and cystic spaces, seen in ILDs [42]."
+  },
+  {
+    "front": "Define Pneumoconiosis.",
+    "back": "Lung disease caused by inhalation of dust, usually at work [43]."
+  },
+  {
+    "front": "What is 'Caplan’s syndrome'?",
+    "back": "The development of rheumatoid nodules in the lungs of workers with pneumoconiosis (CWP, silicosis, or asbestosis) [100]."
+  },
+  {
+    "front": "What is the pathognomonic feature of Silicosis?",
+    "back": "Silicotic nodules consisting of a hyalinised center with concentric collagen laminations [101]."
+  },
+  {
+    "front": "How do asbestos bodies appear microscopically?",
+    "back": "Beaded or dumbbell-shaped fibres coated with glycoprotein and haemosiderin [102, 103]."
+  },
+  {
+    "front": "List three cancers associated with asbestos exposure.",
+    "back": "Bronchogenic carcinoma, Malignant mesothelioma, and carcinomas of the esophagus/stomach/colon [104]."
+  },
+  {
+    "front": "What is Goodpasture’s Syndrome?",
+    "back": "Combination of necrotising haemorrhagic interstitial pneumonitis and rapidly progressive glomerulonephritis [105]."
+  },
+  {
+    "front": "Which type of bronchogenic carcinoma is most common in women and non-smokers?",
+    "back": "Adenocarcinoma [106]."
+  },
+  {
+    "front": "What is 'Pancoast’s syndrome'?",
+    "back": "Apical lung cancer involving the brachial plexus and sympathetic chain, causing arm pain and Horner's syndrome [73]."
+  },
+  {
+    "front": "Name four peptide hormones produced ectopically by lung cancer.",
+    "back": "ACTH (Cushing's), ADH (hyponatremia), Parathormone (hypercalcemia), and Calcitonin [50]."
+  },
+  {
+    "front": "What is 'Status Asthmaticus'?",
+    "back": "A severe and unremitting form of asthma that may be fatal [33]."
+  },
+  {
+    "front": "What is the primary risk factor for Malignant Mesothelioma?",
+    "back": "Occupational exposure to asbestos (particularly crocidolite) [61]."
+  },
+  {
+    "front": "Define 'Chylothorax'.",
+    "back": "Accumulation of milky fluid of lymphatic origin in the pleural cavity, usually from thoracic duct rupture [54]."
+  },
+  {
+    "front": "What is a 'Tension Pneumothorax'?",
+    "back": "A flap-valve defect that allows air in during inspiration but prevents escape during expiration, causing circulatory failure [58]."
+  },
+  {
+    "front": "What are 'Smokers’ macrophages'?",
+    "back": "Intra-alveolar macrophages with abundant brown-black pigment seen in Desquamative Interstitial Pneumonia (DIP) [107]."
+  },
+  {
+    "front": "Which lung cancer type is known as 'Oat cell carcinoma'?",
+    "back": "Small cell carcinoma [108]."
+  },
+  {
+    "front": "What is 'Hamman-Rich syndrome'?",
+    "back": "A rapidly progressive form of idiopathic pulmonary fibrosis causing death within 6 months [109]."
+  },
+  {
+    "front": "True or False: Asbestos exposure increases the risk of lung cancer more in smokers than non-smokers.",
+    "back": "True: Risk is 10x higher in smokers vs. 5x higher in non-smokers [78]."
+  }
+]
+}

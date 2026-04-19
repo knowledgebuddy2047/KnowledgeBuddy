@@ -1,0 +1,86 @@
+{
+  "flashcards": [
+
+    {
+    "front": "1. EXPLANATION NOTES: Define the four types of host-organism inter-relationships.",
+    "back": "1. Symbiosis: Beneficial to both organisms; 2. Commensalism: Benefits one without harming the other; 3. True parasitism: Benefits the parasite but harms the host; 4. Saprophytism: Organisms thrive on dead tissues [1]."
+  },
+  {
+    "front": "1. EXPLANATION NOTES: What are the three primary reasons infectious diseases remain a leading cause of death globally despite medical advances?",
+    "back": "1. Development of antibiotic-resistant strains (e.g., MRSA); 2. Increased use of immunosuppressive therapy (making hosts susceptible to opportunistic infections); 3. Discovery of new deadly diseases like AIDS [2]."
+  },
+  {
+    "front": "2. CORE CONCEPTS: What are prions and what makes them unique compared to other infectious agents?",
+    "back": "Prions are modified infectious host proteins found in the mammalian CNS. They are unique because they lack nucleic acids but act as transmissible agents, causing diseases like Creutzfeldt-Jakob disease (CJD) and bovine spongiform encephalopathy [1, 3]."
+  },
+  {
+    "front": "2. CORE CONCEPTS: Compare the release and action of Endotoxins vs. Exotoxins.",
+    "back": "Endotoxins are liberated only upon the lysis of the bacterial cell wall, while exotoxins are actively secreted by living bacteria and can exert toxic effects at distant sites throughout the body [4]."
+  },
+  {
+    "front": "2. CORE CONCEPTS: Match the special stain to the organism: 1. ZN/AFB, 2. Mucicarmine, 3. PAS, 4. GMS.",
+    "back": "1. Mycobacteria (Acid-fast bacilli); 2. Cryptococci; 3. Amoebae (also most fungi); 4. Most fungi (Silver stain) [5-7]."
+  },
+  {
+    "front": "3. CRITICAL THINKING: What is a common clinical pitfall when evaluating a potential case of Pneumonic Plague?",
+    "back": "A common pitfall is assuming the absence of a 'bubo' (tender lymphadenopathy) rules out plague. Pneumonic plague occurs via inhalation and lacks regional lymphadenopathy but is 100% fatal and highly contagious [6, 8, 9]."
+  },
+  {
+    "front": "3. CRITICAL THINKING: Reflective Question - Why is debridement of damaged tissue the primary prevention for gas gangrene?",
+    "back": "Clostridia (*C. perfringens*) are anaerobic spore-forming organisms that thrive in de-oxygenated, necrotic tissue. Removing this tissue eliminates the environment necessary for vegetative division and toxin production [10, 11]."
+  },
+  {
+    "front": "4. CLINICAL CASE 1: A patient from a rural area presents with 'lock-jaw' and backward arching of the back (opisthotonos). What is the mechanism of the toxin involved?",
+    "back": "Diagnosis: Tetanus. Mechanism: The neurotoxic exotoxin 'tetanospasmin' causes neuronal stimulation and severe muscle spasms [12]."
+  },
+  {
+    "front": "4. CLINICAL CASE 2: A 3-year-old child presents with paroxysmal coughing fits ending in a high-pitched 'whoop'. What distinctive laboratory finding confirms this clinical suspicion?",
+    "back": "Diagnosis: Whooping Cough (*Bordetella pertussis*). Laboratory finding: Marked peripheral blood lymphocytosis, sometimes up to 90% [13, 14]."
+  },
+  {
+    "front": "4. CLINICAL CASE 3: A textile worker presents with a rapidly progressing necrotizing pneumonia and 'hemorrhagic mediastinitis'. What is the likely diagnosis and occupational name?",
+    "back": "Diagnosis: Pulmonary Anthrax. Occupational name: 'Wool-sorters’ disease' [15, 16]."
+  },
+  {
+    "front": "5. UNIVERSITY EXAM: Describe the morphology of 'flask-shaped ulcers' in Amoebic Colitis.",
+    "back": "The ulcers feature a small area of mucosal necrosis that enlarges with 'undermined margins' due to the lytic action of *Entamoeba histolytica* trophozoites, which are found at the junction of viable and necrotic tissue [17, 18]."
+  },
+  {
+    "front": "5. UNIVERSITY EXAM: What are the components of the TORCH complex and why are they tested together?",
+    "back": "Components: Toxoplasma, Others (Hep B, etc.), Rubella, Cytomegalovirus (CMV), and Herpes Simplex Virus (HSV). They are tested together because they produce indistinguishable, irreparable fetal damage, such as ocular and cardiac defects [19, 20]."
+  },
+  {
+    "front": "6. PLAB & USMLE PATTERN: A genital ulcer is soft, painless, and reddish with 'exuberant granulation tissue.' Histology shows histiocytes containing 'Donovan bodies.' What is the diagnosis?",
+    "back": "Donovanosis (Granuloma Inguinale), caused by *Calymmatobacterium donovani* [21, 22]."
+  },
+  {
+    "front": "6. PLAB & USMLE PATTERN: An autopsy of an encephalitis victim reveals 'Negri bodies.' What are these and where are they found?",
+    "back": "Negri bodies are intracytoplasmic, deeply eosinophilic inclusions pathognomonic for Rabies, typically found in the neurons of the brainstem [23, 24]."
+  },
+  {
+    "front": "6. PLAB & USMLE PATTERN: Why is P. falciparum significantly more dangerous than other malarial species?",
+    "back": "1. It lacks an exo-erythrocytic stage; 2. It parasitizes red cells of any age; 3. Parasitized cells become 'sticky,' causing capillary obstruction (e.g., cerebral malaria) and fatal hypoxia [25, 26]."
+  },
+  {
+    "front": "6. PLAB & USMLE PATTERN: A patient develops symmetric paralysis and respiratory failure 24 hours after eating improperly canned food. What is the mechanism of action?",
+    "back": "Botulism: The toxin binds to membrane receptors at cholinergic nerve endings and inhibits the release of acetylcholine [27]."
+  },
+  {
+    "front": "7. BIAS RECOGNITION: How does 'availability bias' affect diagnosis in tropical regions during the rainy season?",
+    "back": "Clinicians may over-diagnose malaria because it is 'available' in their minds, potentially missing other high-morbidity diseases like Dengue Haemorrhagic Fever or Chikungunya, which also present with fever and myalgia [28-30]."
+  },
+  {
+    "front": "7. PROBLEM-SOLVING: What is the key to managing any infection regarding the 'Chain of Transmission'?",
+    "back": "The key is breaking or blocking the chain at its links: targeting the reservoir (e.g., controlling rats for plague), the route/mode of transmission (e.g., using bed nets for malaria), or the susceptibility of the host (e.g., vaccination) [31, 32]."
+  },
+  {
+    "front": "SUMMARY: What are the characteristic liver changes in Yellow Fever?",
+    "back": "1. Midzonal necrosis; 2. Councilman bodies; 3. Microvesicular fat [29]."
+  },
+  {
+    "front": "SUMMARY: Define 'Blackwater Fever' in the context of malaria.",
+    "back": "Blackwater fever is hemoglobinuric nephrosis resulting from the massive absorption of hemoglobin by renal tubules during severe *P. falciparum* malaria [33]."
+  }
+
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "flashcards": [
+
+    {
+    "front": "How is 'Inflammation' defined and what is its primary biological purpose?",
+    "back": "Inflammation is the local response of living mammalian tissues to injury from any agent [1]. Its purpose is to eliminate or limit the spread of injurious agents, followed by the removal of necrosed cells and tissues to prepare for healing [1]."
+  },
+  {
+    "front": "What are the four cardinal signs of inflammation named by Celsus, and what was the fifth added by Virchow?",
+    "back": "The four cardinal signs are rubor (redness), tumor (swelling), calor (heat), and dolor (pain) [2]. Virchow later added functio laesa (loss of function) [2]."
+  },
+  {
+    "front": "Distinguish between Acute and Chronic inflammation based on duration and primary cell types.",
+    "back": "Acute inflammation lasts less than 2 weeks and is characterized by fluid/plasma accumulation and neutrophils [3]. Chronic inflammation is of longer duration, featuring lymphocytes, plasma cells, macrophages, and often granulation tissue [3]."
+  },
+  {
+    "front": "Explain the three components of the 'Triple Response' (Lewis Experiment) and their physiological causes.",
+    "back": "1. Red line: Local vasodilation of capillaries and venules [4]. 2. Flare: Bright reddish flush from vasodilation of adjacent arterioles [4]. 3. Wheal: Localized oedema from fluid transudation into extravascular space [4]."
+  },
+  {
+    "front": "What is the primary mechanism for increased vascular permeability in a mild thermal injury (Immediate Transient Response)?",
+    "back": "It is caused by the contraction of endothelial cells, creating temporary gaps in venules, mediated by histamine and bradykinin [5]. This response typically lasts 15–30 minutes [5]."
+  },
+  {
+    "front": "How does the 'Delayed Prolonged Leakage' seen in sunburns differ mechanistically from immediate responses?",
+    "back": "Sunburn-related leakage is caused by structural re-organization of the endothelial cytoskeleton or mild direct damage, mediated by cytokines like IL-1 and TNF-α [6]. It begins 4–6 hours after injury and can last for days [6]."
+  },
+  {
+    "front": "Describe the sequence of 'leucocyte exudation' during the cellular phase of acute inflammation.",
+    "back": "The sequence is: Margination (peripheral orientation), Pavementing (sticking to endothelium), Rolling (loose transient bonds), Adhesion (firm attachment), and Emigration (migration into extravascular space) [7-9]."
+  },
+  {
+    "front": "Which adhesion molecules are responsible for the 'rolling' phase vs the 'firm adhesion' phase of leucocytes?",
+    "back": "Selectins (P, E, and L-selectins) mediate the rolling phase [8, 10]. Integrins and Immunoglobulin gene superfamily molecules (ICAM-1, VCAM-1) mediate firm adhesion and stabilization [10, 11]."
+  },
+  {
+    "front": "What are the three essential steps of phagocytosis?",
+    "back": "1. Recognition and attachment (enhanced by opsonins like IgG and C3b) [12]. 2. Engulfment (formation of a phagolysosome) [13]. 3. Killing and degradation (via oxidative or non-oxidative mechanisms) [14]."
+  },
+  {
+    "front": "Explain the 'MPO-halide system' in the oxidative killing of microbes.",
+    "back": "The enzyme myeloperoxidase (MPO) acts on hydrogen peroxide (H2O2) in the presence of halides (like chloride) to form hypochlorous acid (HOCl), a potent antibacterial agent [15]."
+  },
+  {
+    "front": "Critical Thinking: Why is it clinically vital to distinguish between 'Inflammation' and 'Infection'?",
+    "back": "This avoids a common reasoning pitfall; inflammation is a protective host response to any injury, while infection is specifically the invasion and ill-effects of microbes [16]. Treating all inflammation with antibiotics is an inappropriate assumption of microbial presence [16]."
+  },
+  {
+    "front": "Critical Thinking: Why might a patient with severe, disseminated tuberculosis have a negative Mantoux skin test?",
+    "back": "This is a form of cutaneous anergy where the massive release of tuberculoproteins from endogenous lesions masks the hypersensitivity test [17]. This represents a potential pitfall in diagnostic reasoning during fulminant disease [17]."
+  },
+  {
+    "front": "Case Study (Mechanism): A 25-year-old sustains a jagged, dirty wound at a construction site. Why is 'debridement' necessary for healing?",
+    "back": "Debridement removes necrotic tissue and debris that would otherwise provoke persistent inflammation, suppuration, and thrombosis, which significantly delays healing [18, 19]."
+  },
+  {
+    "front": "Case Study (Diagnosis): A patient presents with a 'lumpy jaw' and yellow 'sulphur granules' in discharging pus. What is the likely diagnosis?",
+    "back": "The clinical presentation is pathognomonic for Cervicofacial Actinomycosis, caused by the anaerobic bacteria Actinomycetes israelii [20, 21]."
+  },
+  {
+    "front": "Case Study (USMLE): A chronic cough patient has a subpleural focus in the upper part of the lower lobe and enlarged hilar nodes. Name the complex.",
+    "back": "This is a 'Ghon’s complex' (or Primary Complex), consisting of a Ghon’s focus, tuberculous lymphangitis, and hilar lymphadenopathy [22, 23]."
+  },
+  {
+    "front": "Exam Focus: Contrast healing by 'First Intention' vs 'Second Intention'.",
+    "back": "First intention involves clean, sutured surgical wounds with minimal tissue loss [24]. Second intention involves large tissue defects or infected wounds that heal from the base upward via exuberant granulation tissue and significant wound contraction [18, 25]."
+  },
+  {
+    "front": "Exam Focus: Define 'Labile', 'Stable', and 'Permanent' cells regarding regeneration.",
+    "back": "Labile cells divide throughout life (e.g., surface epithelia) [26]. Stable cells divide only when stimulated (e.g., liver hepatocytes) [26]. Permanent cells lose the ability to proliferate around birth (e.g., neurons, cardiac muscle) [27]."
+  },
+  {
+    "front": "PLAB/USMLE: Which cytokine is a potent chemotactic agent for neutrophils and is released by macrophages in acute inflammation?",
+    "back": "Interleukin-8 (IL-8) is the primary chemokine responsible for inducing the migration of neutrophils to the site of inflammation [28, 29]."
+  },
+  {
+    "front": "PLAB/USMLE: A 40-year-old patient with lepromatous leprosy shows symmetrical nodules. What will the 'subepidermal clear zone' on histology indicate?",
+    "back": "In Lepromatous Leprosy (LL), a 'clear zone' of dermis separates the lepra cell (foam cell) infiltrate from the epidermis, distinguishing it from Tuberculoid Leprosy where the granuloma erodes the basal layer [30, 31]."
+  },
+  {
+    "front": "Bias Recognition: How can 'Representativeness Heuristic' affect the diagnosis of granulomatous diseases?",
+    "back": "In endemic areas, clinicians often assume every granuloma is tuberculosis [32]. Structured problem-solving requires ruling out leprosy, syphilis, sarcoidosis, or foreign body reactions using specific stains like ZN or Fite-Faraco [33, 34]."
+  },
+  {
+    "front": "Problem Solving: What is the significance of the 'cord factor' in M. tuberculosis?",
+    "back": "The 'cord factor' (a mycoside) is essential for the growth and virulence of the organism within the host [35, 36]."
+  },
+  {
+    "front": "What are 'Asteroid bodies' and 'Schaumann’s bodies', and where are they found?",
+    "back": "These are cytoplasmic inclusions found within giant cells in Sarcoidosis; Asteroid bodies are stellate-shaped, and Schaumann’s bodies are concentric laminations of calcium and iron [37]."
+  },
+  {
+    "front": "Explain the role of 'Myofibroblasts' in wound healing.",
+    "back": "Myofibroblasts have features of both fibroblasts and smooth muscle cells; they are responsible for wound contraction, which can reduce the wound size by up to 80% [38, 39]."
+  },
+  {
+    "front": "Why does a 'Soft Tubercle' indicate a more advanced tuberculous lesion than a 'Hard Tubercle'?",
+    "back": "A hard tubercle is a cluster of epithelioid cells and giant cells without necrosis [40]. A soft tubercle has developed central caseation necrosis, which is the hallmark of established tuberculosis [41]."
+  },
+  {
+    "front": "What are 'Heart Failure Cells' and their clinical significance in chronic inflammation?",
+    "back": "While primarily a feature of congestion, haemosiderin-laden alveolar macrophages (heart failure cells) indicate previous haemorrhage and are found in the lungs during chronic venous congestion [42]."
+  }
+
+  ]
+}

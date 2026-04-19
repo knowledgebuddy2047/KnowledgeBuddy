@@ -1,0 +1,227 @@
+{
+  "flashcards":
+
+[
+  {
+    "front": "Explanation Note: What is the clinical significance of the 40 cm measurement in the oesophagus?",
+    "back": "While the anatomical oesophagus is 25 cm, the distance from the incisor teeth to the gastro-oesophageal (GE) junction is clinically measured at 40 cm for procedures like endoscopy [1]."
+  },
+  {
+    "front": "Core Concept: Define Achalasia and its primary underlying etiology.",
+    "back": "Achalasia is a neuromuscular dysfunction where the lower oesophageal sphincter fails to relax during swallowing, leading to 'mega-oesophagus'. The primary cause is the loss of intramural neurons in the oesophageal wall [2]."
+  },
+  {
+    "front": "Critical Thinking: Why is achlorhydria significant when found alongside a gastric ulcer?",
+    "back": "Achlorhydria (lack of HCl) in the presence of a gastric ulcer is highly suggestive of gastric malignancy, as benign ulcers rarely occur in the absence of acid [3, 4]."
+  },
+  {
+    "front": "Clinical Case: A 6-week-old male infant presents with projectile, non-bile stained vomiting and a palpable abdominal lump. What is the most likely diagnosis?",
+    "back": "Infantile Pyloric Stenosis, characterized by hypertrophy and hyperplasia of the circular muscle layer of the pyloric sphincter [5, 6]."
+  },
+  {
+    "front": "University Exam Question: Contrast the pain patterns of Gastric vs. Duodenal ulcers.",
+    "back": "Gastric Ulcers: Pain occurs immediately after eating (Food-pain pattern). Duodenal Ulcers: Pain occurs 2-3 hours after eating or at night and is relieved by food (Pain-food-relief/Hunger pain) [7, 8]."
+  },
+  {
+    "front": "PLAB/USMLE Pattern: A 60-year-old smoker with long-standing GERD presents with columnar metaplasia and goblet cells in the distal oesophagus. What is the diagnosis and the risk?",
+    "back": "Barrett’s Oesophagus. It is a premalignant condition that increases the risk of developing oesophageal adenocarcinoma at a rate of roughly 0.5% per year [9, 10]."
+  },
+  {
+    "front": "Bias Recognition: What common cognitive bias might lead a physician to misdiagnose Hyperplastic Tuberculosis as Gastric Carcinoma?",
+    "back": "Anchoring Bias: Because both present as a thick-walled mass in the ileocaecal region, a physician might 'anchor' on a cancer diagnosis and overlook tuberculosis without confirming the presence of caseating tubercles [11, 12]."
+  },
+  {
+    "front": "Core Concept: What are the three anatomical areas of oesophageal constriction where Squamous Cell Carcinoma (SCC) is most likely to occur?",
+    "back": "SCC typically occurs at the three physiological constrictions; half of all cases occur in the middle third of the oesophagus [13, 14]."
+  },
+  {
+    "front": "Core Concept: Describe the 'Adenoma-Carcinoma Sequence' and the genes involved.",
+    "back": "It is the sequential evolution of colorectal cancer from adenomas. Key mutations include loss of APC (chromosome 5q), K-RAS mutation (12p), and finally loss of p53 (17p) [15-18]."
+  },
+  {
+    "front": "Clinical Case: A patient presents with 'leather-bottle stomach'. What is the pathological term for this condition and its hallmark feature?",
+    "back": "Linitis Plastica (Scirrhous Carcinoma). The hallmark is extensive desmoplasia (fibrosis) that thickens the stomach wall and reduces its lumen [19, 20]."
+  },
+  {
+    "front": "Critical Thinking Focus: Identify a common pitfall in interpreting CEA (Carcinoembryonic Antigen) levels.",
+    "back": "Assuming CEA is diagnostic for colon cancer. CEA is not specific; it can be elevated in smokers, or patients with ulcerative colitis, pancreatitis, and cirrhosis [21, 22]."
+  },
+  {
+    "front": "University Exam Question: What is the diagnostic histological criterion for Acute Appendicitis?",
+    "back": "The presence of neutrophilic infiltration within the muscularis propria of the appendix [23, 24]."
+  },
+  {
+    "front": "PLAB/USMLE Pattern: A patient with cirrhosis presents with massive haematemesis. What is the most likely source of bleeding?",
+    "back": "Oesophageal Varices, which result from elevated portal venous pressure bypassing the liver to the oesophageal venous plexus [25]."
+  },
+  {
+    "front": "Bias Recognition: How can a clinician avoid bias when diagnosing chronic abdominal pain in a 'stressful' patient?",
+    "back": "Structured Reasoning: Avoid assuming symptoms are purely psychogenic. The clinician should systematically rule out organic causes like H. pylori infection or IBD, as psychological stress often exacerbates rather than causes these conditions [26-28]."
+  },
+  {
+    "front": "Core Concept: Differentiate the location of Hirschsprung’s disease pathology vs. clinical symptoms.",
+    "back": "The pathology (lack of ganglion cells) is in the distal, narrow segment. The clinical symptoms (dilatation/megacolon) appear in the proximal segment which has normal innervation but becomes obstructed [29, 30]."
+  },
+  {
+    "front": "Explanation Note: What is the clinical triad of Plummer-Vinson Syndrome?",
+    "back": "1. Upper oesophageal webs, 2. Iron deficiency anaemia, and 3. Chronic atrophic glossitis [31, 32]."
+  },
+  {
+    "front": "Core Concept: Define the Secretin Test for Zollinger-Ellison Syndrome.",
+    "back": "Intravenous secretin injection normally inhibits gastrin; however, in Gastrinoma (Z-E Syndrome), it causes a paradoxical rise in serum gastrin by more than 50% [33]."
+  },
+  {
+    "front": "Clinical Case: A 25-year-old presents with right lower quadrant pain, non-caseating granulomas, and 'skip lesions' in the terminal ileum. Diagnosis?",
+    "back": "Crohn’s Disease (Regional Enteritis) [34, 35]."
+  },
+  {
+    "front": "Critical Thinking: Why is it important to distinguish 'True' from 'False' diverticula in the GI tract?",
+    "back": "True diverticula (like Meckel’s) contain all layers of the intestinal wall. False diverticula (like Zenker’s or Colonic) only involve herniation of mucosa and submucosa through a muscular defect [36-38]."
+  },
+  {
+    "front": "University Exam Question: List the four histological zones of a chronic peptic ulcer.",
+    "back": "1. Necrotic zone, 2. Superficial exudative zone, 3. Granulation tissue zone, 4. Zone of cicatrisation (scarring) [39, 40]."
+  },
+  {
+    "front": "PLAB/USMLE Pattern: A patient presents with skin pigmentation, abdominal pain, and right-sided heart failure. High levels of 5-HIAA are found in the urine. Diagnosis?",
+    "back": "Carcinoid Syndrome, caused by a metastatic carcinoid tumour (usually from the midgut) producing serotonin [41, 42]."
+  },
+  {
+    "front": "Core Concept: What is the most common site for a Meckel’s Diverticulum and its 'Rule of 2s'?",
+    "back": "It is located on the antimesenteric border of the ileum, about 2 feet (approx 1 meter) from the ileocaecal valve. It occurs in ~2% of the population [37]."
+  },
+  {
+    "front": "Clinical Case: A patient presents with enormous thickening of gastric rugae resembling cerebral convolutions. Biopsy shows elongated pits and mucus-filled cysts. Diagnosis?",
+    "back": "Ménétrier’s Disease (Chronic Hypertrophic Gastritis) [43, 44]."
+  },
+  {
+    "front": "Core Concept: Contrast the orientation of Typhoid vs. Tuberculous intestinal ulcers.",
+    "back": "Typhoid ulcers: Long axis is parallel to the bowel length (in Peyer's patches). Tuberculous ulcers: Long axis is transverse to the bowel length [45, 46]."
+  },
+  {
+    "front": "Critical Thinking: What is the significance of 'Intestinal Metaplasia' in the stomach?",
+    "back": "It is a pre-malignant change often seen in atrophic gastritis where gastric mucosa is replaced by intestinal-type cells. It is strongly linked to a higher risk of gastric adenocarcinoma [47, 48]."
+  },
+  {
+    "front": "University Exam Question: Define Intussusception and its typical presentation in children.",
+    "back": "The telescoping of one segment of the bowel (intussusceptum) into the segment below (intussuscipiens). It often presents in the ileocaecal region in infants [49]."
+  },
+  {
+    "front": "PLAB/USMLE Pattern: A biopsy of the jejunum shows total villous atrophy and increased intraepithelial lymphocytes. Symptoms resolve on a wheat-free diet. Diagnosis?",
+    "back": "Coeliac Sprue (Gluten-Sensitive Enteropathy), caused by sensitivity to gliadin [50-52]."
+  },
+  {
+    "front": "Core Concept: What is the significance of the Astler-Coller 'Stage C' in colorectal cancer?",
+    "back": "Stage C indicates that the cancer has spread to the regional lymph nodes (C1: confined to muscularis; C2: through the serosa) [53, 54]."
+  },
+  {
+    "front": "Critical Thinking: Why is primary small intestinal cancer so rare compared to the stomach or colon?",
+    "back": "This is a persistent medical mystery (obscure reasons); despite its 6-meter length, the small intestine rarely develops primary tumours [55]."
+  },
+  {
+    "front": "Clinical Case: An elderly patient with a history of atherosclerosis presents with sudden, severe abdominal pain and blood-stained diarrhoea. Diagnosis?",
+    "back": "Transmural Infarction (Ischaemic Bowel Disease), often caused by mesenteric arterial thrombosis [56, 57]."
+  },
+  {
+    "front": "Core Concept: Define 'Skip Lesions' and their diagnostic utility.",
+    "back": "Skip lesions are well-demarcated segments of diseased bowel with intervening normal areas. They are a hallmark of Crohn's Disease, distinguishing it from the continuous involvement in Ulcerative Colitis [35, 58]."
+  },
+  {
+    "front": "University Exam Question: What are the main causes of Upper GI Bleeding?",
+    "back": "1. Oesophageal varices, 2. Mallory-Weiss tear, 3. Gastritis, 4. Peptic ulcers (gastric and duodenal), 5. Gastric cancer [59]."
+  },
+  {
+    "front": "PLAB/USMLE Pattern: A 40-year-old male with long-standing Ulcerative Colitis presents with a thin-walled, massively dilated colon. What is the emergency diagnosis?",
+    "back": "Toxic Megacolon (Fulminant Colitis), a life-threatening complication prone to perforation [60]."
+  },
+  {
+    "front": "Bias Recognition: A patient with a history of mental illness presents with abdominal pain. A clinician quickly diagnoses it as psychogenic. What might they be missing?",
+    "back": "Bezoars. Patients with mental illness may ingest foreign objects (like hair - trichobezoars), which can cause actual physical obstruction [6, 61]."
+  },
+  {
+    "front": "Core Concept: What are the two types of antibodies found in Type A (Autoimmune) Gastritis?",
+    "back": "Antibodies against gastric parietal cells and Intrinsic Factor, often leading to Pernicious Anaemia [62, 63]."
+  },
+  {
+    "front": "Critical Thinking: Differentiate 'Mural' vs 'Transmural' infarction pathogenesis.",
+    "back": "Transmural is typically caused by occlusive factors (thrombosis/embolism). Mural/Mucosal is often caused by non-occlusive hypoperfusion (shock/cardiac failure) [57, 64, 65]."
+  },
+  {
+    "front": "Clinical Case: A 70-year-old male has thousands of polyps on colonoscopy. What gene is mutated and what is the surgical recommendation?",
+    "back": "APC gene (Familial Polyposis Coli). Colectomy is recommended because cancer develops in 100% of cases by age 50 [66, 67]."
+  },
+  {
+    "front": "Core Concept: What is the primary cause of Pseudomembranous Colitis?",
+    "back": "Overgrowth of Clostridium difficile, usually following antibiotic use (like clindamycin) [68, 69]."
+  },
+  {
+    "front": "University Exam Question: List the extra-colonic features of Gardner’s Syndrome.",
+    "back": "Multiple osteomas (mandible/maxilla), sebaceous cysts, and connective tissue tumours [70]."
+  },
+  {
+    "front": "PLAB/USMLE Pattern: A 50-year-old Japanese male presents with a shallow, well-differentiated gastric adenocarcinoma limited to the mucosa. Diagnosis and prognosis?",
+    "back": "Early Gastric Carcinoma (EGC). Prognosis is excellent with a 5-year survival rate of 93-99% [71, 72]."
+  },
+  {
+    "front": "Core Concept: Describe the 'Flask-shaped' ulcer.",
+    "back": "A characteristic ulcer of Amoebic Dysentery (Entamoeba histolytica) with a narrow neck and broad base, formed when the parasite invades the submucosa and spreads laterally [73]."
+  },
+  {
+    "front": "Critical Thinking: Why is 'Back-wash Ileitis' found in some Ulcerative Colitis cases?",
+    "back": "It occurs when colonic contents backflow through the ileocaecal valve, causing continuous inflammation into the terminal ileum in about 10% of UC cases [58]."
+  },
+  {
+    "front": "Clinical Case: A patient presents with iron deficiency anaemia and 'napkin-ring' constriction in the sigmoid colon. Most likely diagnosis?",
+    "back": "Left-sided Colonic Carcinoma [74, 75]."
+  },
+  {
+    "front": "Core Concept: What is the 'Troisier’s Sign'?",
+    "back": "Enlargement of the left supraclavicular lymph node (Virchow's node), which may be the first presenting feature of gastric carcinoma [76]."
+  },
+  {
+    "front": "University Exam Question: What is Zenker’s Diverticulum and its mechanism?",
+    "back": "A Pulsion-type diverticulum in the hypopharynx caused by oesophageal obstruction or muscle weakness, where mucosa herniates through the muscularis propria [77]."
+  },
+  {
+    "front": "PLAB/USMLE Pattern: A biopsy of a gastric mass shows round to polygonal cells with perinuclear halos. Diagnosis?",
+    "back": "Leiomyoblastoma (Epithelioid Leiomyoma) [78, 79]."
+  },
+  {
+    "front": "Core Concept: Define 'Melanosis Coli'.",
+    "back": "Brown-black pigmentation of the colonic mucosa due to pigment-laden macrophages, typically found in habitual users of anthracene-type laxatives [80, 81]."
+  },
+  {
+    "front": "Critical Thinking: Differentiate between Primary and Secondary Malabsorption Syndrome (MAS).",
+    "back": "Primary MAS is due to an inherent defect in the mucosal surface or enzymes (e.g., Coeliac sprue). Secondary MAS is caused by other factors like surgery, infection, or drugs [82, 83]."
+  },
+  {
+    "front": "Clinical Case: A 40-year-old presents with migratory polyarthritis and malabsorption. Biopsy shows PAS-positive macrophages and rod-shaped bacilli. Diagnosis?",
+    "back": "Whipple’s Disease [84, 85]."
+  },
+  {
+    "front": "Core Concept: What is the 'Cobblestone Appearance'?",
+    "back": "Found in Crohn's Disease, it results from swollen areas of surviving mucosa between serpiginous and linear ulcers [35, 86]."
+  },
+  {
+    "front": "University Exam Question: Define a 'Villous Adenoma' and its clinical risk.",
+    "back": "A sessile neoplastic polyp with finger-like villi. It has the highest malignant potential (30% invasive cancer) among colonic adenomas [87, 88]."
+  },
+  {
+    "front": "PLAB/USMLE Pattern: A patient presents with matted, caseous mesenteric lymph nodes but no lung symptoms. Diagnosis?",
+    "back": "Primary Intestinal Tuberculosis (Tabes Mesenterica), often caused by M. bovis or M. tuberculosis [89, 90]."
+  },
+  {
+    "front": "Core Concept: What is a Krukenberg tumour?",
+    "back": "A metastatic ovarian mass (usually bilateral) resulting from transcoelomic spread of gastric adenocarcinoma [91]."
+  },
+  {
+    "front": "Bias Recognition: How does the 'Once a peptic ulcer patient, always a peptic ulcer patient' adage reflect clinical reality?",
+    "back": "It reflects the remitting and relapsing nature of the disease, but it can create an 'availability bias' where doctors assume any recurring pain is just an old ulcer rather than investigating for perforation or malignancy [92]."
+  },
+  {
+    "front": "Core Concept: What is 'Ormond’s Disease'?",
+    "back": "Idiopathic Retroperitoneal Fibrosis, characterized by fibrous overgrowth and chronic inflammation in the retroperitoneum [93, 94]."
+  }
+]
+
+}

@@ -1,0 +1,226 @@
+{
+  "flashcards":
+
+[
+  {
+    "front": "What are the three histological layers found in all major arteries?",
+    "back": "Tunica intima (inner), tunica media (middle), and tunica adventitia (outer) [2]."
+  },
+  {
+    "front": "Why is the integrity of the vascular endothelium considered of 'paramount importance'?",
+    "back": "Damage to the endothelium is the most critical event in the initiation of thrombus formation [2]."
+  },
+  {
+    "front": "How do the tunica intima and the inner third of the media receive nutrition?",
+    "back": "By direct diffusion from the blood present in the vessel lumen [11]."
+  },
+  {
+    "front": "What is the primary source of nutrition for the outer two-thirds of the media and the adventitia?",
+    "back": "Vasa vasora (vessels of vessels) arising from the parent artery [11]."
+  },
+  {
+    "front": "What is the defining internal diameter of an arteriole?",
+    "back": "20–100 µm [12]."
+  },
+  {
+    "front": "What histological feature distinguishes veins from arteries regarding the tunica media?",
+    "back": "The media in veins contains very few smooth muscle cells and abundant collagen; elastic laminae are not clearly organized [13, 14]."
+  },
+  {
+    "front": "Define 'Arteriosclerosis'.",
+    "back": "A general term for conditions involving the thickening and hardening of arterial walls [3]."
+  },
+  {
+    "front": "Which morphologic entity of arteriosclerosis is characterized by 'onion-skin' lesions?",
+    "back": "Hyperplastic arteriolosclerosis, typically seen in malignant hypertension [15, 16]."
+  },
+  {
+    "front": "What is Mönckeberg’s arteriosclerosis (Medial calcific sclerosis)?",
+    "back": "Calcification of the media of large/medium muscular arteries in persons over 50; it is typically an incidental finding of little clinical significance because it doesn't narrow the lumen [17-19]."
+  },
+  {
+    "front": "What is the origin of the term 'Atherosclerosis'?",
+    "back": "'Athero' means porridge (soft lipid core) and 'sclerosis' means scarring (connective tissue in the plaque) [19]."
+  },
+  {
+    "front": "List the four major modifiable risk factors for atherosclerosis.",
+    "back": "Dyslipidaemias, hypertension, diabetes mellitus, and smoking [20, 21]."
+  },
+  {
+    "front": "Which lipoprotein is known as 'good cholesterol' and why?",
+    "back": "HDL (High-density lipoprotein) because it is protective against atherosclerosis [22, 23]."
+  },
+  {
+    "front": "What is the 'Reaction-to-Injury' hypothesis in atherosclerosis?",
+    "back": "The theory that endothelial injury is the triggering event, followed by smooth muscle cell proliferation and monocyte-macrophage infiltration [24-26]."
+  },
+  {
+    "front": "What are 'Foam cells'?",
+    "back": "Lipid-laden macrophages formed when monocytes take up oxidized LDL in the tunica intima [27]."
+  },
+  {
+    "front": "What are the precursor lesions of atheromatous plaques that can appear in the first year of life?",
+    "back": "Fatty streaks and dots [28, 29]."
+  },
+  {
+    "front": "Identify the two main components of a fully developed atheromatous plaque.",
+    "back": "A firm, white fibrous cap and a central soft core composed of yellow porridge-like lipid material [30, 31]."
+  },
+  {
+    "front": "What are the 'complicated lesions' of atherosclerosis that cause the most serious harm?",
+    "back": "Calcification, ulceration, thrombosis, hemorrhage, and aneurysmal dilatation [32, 33]."
+  },
+  {
+    "front": "Critical Thinking: Why is atherosclerosis more severe at arterial bifurcations?",
+    "back": "Bifurcations are points of high shear stress and hemodynamic forces, which more easily cause endothelial injury [26]."
+  },
+  {
+    "front": "Distinguish c-ANCA from p-ANCA patterns.",
+    "back": "c-ANCA (cytoplasmic) is specific for Proteinase-3 and Wegener’s granulomatosis; p-ANCA (perinuclear) is specific for myeloperoxidase and microscopic polyarteritis [34]."
+  },
+  {
+    "front": "Which vasculitis is known as 'Pulseless Disease'?",
+    "back": "Takayasu’s arteritis, which primarily affects the aorta and its major branches in young women [35]."
+  },
+  {
+    "front": "What is the pathognomonic clinical feature of Wegener’s granulomatosis?",
+    "back": "A triad of necrotizing granulomas of the respiratory tract, focal necrotising vasculitis, and necrotising glomerulonephritis [36, 37]."
+  },
+  {
+    "front": "Define Buerger’s disease (Thromboangiitis obliterans).",
+    "back": "An occlusive inflammatory disease of small/medium arteries and veins in the extremities, strongly associated with heavy smoking [38, 39]."
+  },
+  {
+    "front": "How does Raynaud’s disease differ from Raynaud’s phenomenon?",
+    "back": "Raynaud’s disease is a primary functional disorder in healthy young females; Raynaud’s phenomenon is secondary to an underlying disease like scleroderma or atherosclerosis [40, 41]."
+  },
+  {
+    "front": "Define 'True Aneurysm' vs. 'False Aneurysm'.",
+    "back": "True: involves all layers of a normal vessel wall. False: has a fibrous wall, often following trauma [42]."
+  },
+  {
+    "front": "Where is the most common site for an atherosclerotic aneurysm?",
+    "back": "The abdominal aorta, typically infra-renal [43, 44]."
+  },
+  {
+    "front": "What is a 'Cor Bovinum'?",
+    "back": "A massively enlarged heart (like an ox heart) caused by aortic incompetence in syphilitic heart disease [45]."
+  },
+  {
+    "front": "Explain the pathogenesis of a 'Dissecting Aneurysm'.",
+    "back": "Blood enters through an intimal tear and separates (dissects) the media longitudinally [46]."
+  },
+  {
+    "front": "What is 'Cystic Medial Necrosis of Erdheim'?",
+    "back": "A degenerative condition of the media (seen in Marfan’s) that predisposes the aorta to dissection [47, 48]."
+  },
+  {
+    "front": "Distinguish Stanford Type A from Type B aortic dissections.",
+    "back": "Type A (Proximal) involves the ascending aorta; Type B (Distal) is limited to the descending aorta [49, 50]."
+  },
+  {
+    "front": "What are the 'Three Ts' of venous thrombosis initiation?",
+    "back": "Endothelial damage, alteration in blood composition, and venous stasis (Virchow’s triad) [51]."
+  },
+  {
+    "front": "What is Trousseau’s syndrome (Thrombophlebitis migrans)?",
+    "back": "Multiple migratory venous thrombi, often associated with disseminated visceral cancers as a paraneoplastic syndrome [52]."
+  },
+  {
+    "front": "Define Milroy’s disease.",
+    "back": "A familial hereditary form of congenital lymphoedema inherited as an autosomal dominant trait [53]."
+  },
+  {
+    "front": "What is the 'Strawberry Birthmark'?",
+    "back": "A capillary haemangioma common in infancy that often regresses spontaneously [54, 55]."
+  },
+  {
+    "front": "Where are Glomus tumors most commonly found?",
+    "back": "Under the nail of fingers or toes; they are characterized by extreme pain [56]."
+  },
+  {
+    "front": "What is the etiologic agent of Bacillary Angiomatosis in AIDS patients?",
+    "back": "Bartonella bacilli [57]."
+  },
+  {
+    "front": "What are the four forms of Kaposi’s sarcoma?",
+    "back": "Classic (European), African (Endemic), Epidemic (AIDS-associated), and Renal transplant-associated [10, 58, 59]."
+  },
+  {
+    "front": "Which virus is consistently associated with Kaposi’s sarcoma?",
+    "back": "Human herpesvirus 8 (HHV-8) [59, 60]."
+  },
+  {
+    "front": "Case Study Analysis: A 65-year-old male smoker with intermittent leg pain and a small toe ulcer. Likely diagnosis?",
+    "back": "Peripheral vascular disease due to atherosclerosis; the pain is 'intermittent claudication' [5, 61]."
+  },
+  {
+    "front": "Bias Recognition: Why shouldn't you ignore 'benign' medial calcification on an X-ray?",
+    "back": "Mönckeberg's medial calcific sclerosis is harmless, but clinicians may falsely attribute symptoms to it, missing coexistent atherosclerosis [18, 19]."
+  },
+  {
+    "front": "Clinical reasoning: Why is a 'Double-barrel aorta' considered a signs of survival in dissection?",
+    "back": "It indicates a second distal intimal tear occurred, allowing blood to re-enter the true lumen, potentially stabilizing the patient [49]."
+  },
+  {
+    "front": "University Question: Contrast Syphilitic Aortitis and Aortic Atheroma sites.",
+    "back": "Syphilitic: Ascending aorta and arch; absent below diaphragm. Atheroma: Abdominal aorta; increases from arch to bifurcation [62]."
+  },
+  {
+    "front": "USMLE Pattern: A patient presents with fever, sinusitis, and hematuria. Serum is c-ANCA positive. Likely diagnosis?",
+    "back": "Wegener’s granulomatosis [34, 37]."
+  },
+  {
+    "front": "PLAB Pattern: A young child presents with a high fever, oral erosions, and a skin rash. Imaging shows coronary aneurysms. Likely diagnosis?",
+    "back": "Kawasaki’s disease [63]."
+  },
+  {
+    "front": "Decision-Making: A patient with a known abdominal aortic aneurysm presents with sudden, excruciating back pain and hypotension. Immediate step?",
+    "back": "Emergency surgical consultation for suspected aneurysm rupture [7, 64]."
+  },
+  {
+    "front": "Core Mechanism: How does smoking cause hypoxia in the arterial wall?",
+    "back": "Accumulation of carbon monoxide produces carboxyhaemoglobin, favoring atherosclerosis [65]."
+  },
+  {
+    "front": "Diagnostic Morphology: What is the 'Tree-bark' appearance in the aorta characteristic of?",
+    "back": "Syphilitic aortitis (due to wrinkled normal intima between pearly-white thickenings) [66, 67]."
+  },
+  {
+    "front": "Problem Solving: How do you differentiate Buerger's disease from Atherosclerosis histologically?",
+    "back": "Buerger's has microabscesses in thrombi and an intact internal elastic lamina; atherosclerosis lacks these and features lipid aggregates [68]."
+  },
+  {
+    "front": "Reflective Question: Why might atherosclerosis be called a 'multifactorial process'?",
+    "back": "Because it involves lipids, hemodynamic stress, inflammatory cells (monocytes), and smooth muscle proliferation [29, 69]."
+  },
+  {
+    "front": "University Essay Point: Explain the role of PDGF in atherogenesis.",
+    "back": "Platelet-derived growth factor stimulates the proliferation and migration of smooth muscle cells from the media into the intima [70]."
+  },
+  {
+    "front": "USMLE High-Yield: Which vascular tumor is associated with carcinogens like polyvinyl chloride and Thorotrast?",
+    "back": "Hepatic angiosarcoma [71]."
+  },
+  {
+    "front": "Core Definition: What is 'Trousseau's Syndrome'?",
+    "back": "Migratory thrombophlebitis—venous thrombi that disappear from one site and appear at another, indicating a disseminated visceral cancer [52]."
+  },
+  {
+    "front": "Clinical Feature: What defines 'Superior Vena Caval Syndrome'?",
+    "back": "Obstruction of the SVC causing face/neck edema, dilated neck veins, and visual disturbances [72]."
+  },
+  {
+    "front": "Mechanism: Why does Marfan's syndrome lead to aortic dissection?",
+    "back": "A genetic defect in fibrillin causes medial weakness (cystic medial necrosis), making the aorta susceptible to intimal tears [47]."
+  },
+  {
+    "front": "Clinical Sign: Define 'Intermittent Claudication'.",
+    "back": "Intense limb pain during walking caused by ischemia from atherosclerotic narrowing; relieved by rest [39, 61]."
+  },
+  {
+    "front": "Morphology: What are 'Birbeck granules' (Reference link to Ch 12)?",
+    "back": "Rod/tennis-racket-shaped inclusions found in Langerhans cell histiocytosis (not explicitly detailed here, but standard medical knowledge for differential diagnosis of vascular lesions) [Source context: Tumors section 127]."
+  }
+]
+}

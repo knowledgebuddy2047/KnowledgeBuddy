@@ -1,0 +1,214 @@
+{
+  "flashcards":
+
+[
+  {
+    "front": "Explanation Note: Summarize the **Normal Structure** of the eye globe and its layers.",
+    "back": "The eye globe consists of three layers: the outer **cornea-sclera**, the middle vascular **uveal tract** (choroid, iris, and ciliary body), and the inner **retina** [1], [2]. The eye's transparent focusing system includes the cornea, lens, and aqueous/vitreous humours [3]."
+  },
+  {
+    "front": "Core Concept: What is the **Central Fovea** and how does its composition support visual acuity?",
+    "back": "The central fovea is a specialized retinal spot posteriorly that consists **only of photosensitive cones** [4]. It is notably devoid of rods and blood vessels to ensure maximum sensitivity for fine vision [4]."
+  },
+  {
+    "front": "Core Concept: Define **Retrolental Fibroplasia** (Retinopathy of Prematurity) and its primary trigger.",
+    "back": "It is a developmental disorder in premature infants caused by **high-dose oxygen-therapy** at birth [5]. Premature retinal vessels are oxygen-sensitive; hyperoxia causes vaso-obliteration, while the subsequent return to room air triggers vaso-proliferation and potential retinal detachment [5]."
+  },
+  {
+    "front": "Clinical Relevance: Distinguish between a **Stye** and a **Chalazion**.",
+    "back": "A **Stye** (hordeolum) is an **acute suppurative inflammation** of Zeis, Moll, or Meibomian glands [6]. A **Chalazion** is a **chronic inflammatory lipogranuloma** of the Meibomian glands resulting from ductal obstruction [7]."
+  },
+  {
+    "front": "Critical Thinking: Identify a common **clinical pitfall** when diagnosing a Chalazion via biopsy.",
+    "back": "Assuming a chronic granuloma is purely infectious. Histologically, a chalazion presents as a **lipogranuloma** (fat globules surrounded by mixed inflammatory and giant cells), which can be mistaken for other granulomatous diseases if the fat-mediated pathogenesis is ignored [7], [8]."
+  },
+  {
+    "front": "Core Concept: What are **Synechiae** and what are their types?",
+    "back": "Synechiae are **inflammatory adhesions** [9]. **Anterior synechiae** form between the iris and cornea, while **posterior synechiae** form between the iris and the anterior lens surface [9]."
+  },
+  {
+    "front": "Clinical Relevance: Why is **Trachoma** a significant global health issue?",
+    "back": "Caused by *C. trachomatis*, it is widely prevalent in developing countries and is a leading cause of **blindness** due to extensive corneal and conjunctival **cicatrisation** [10], [11]."
+  },
+  {
+    "front": "Core Concept: Define **Sympathetic Ophthalmia**.",
+    "back": "A rare bilateral diffuse granulomatous uveitis occurring after a **penetrating injury to one eye** [12]. It is believed to be an **autosensitivity reaction** to the injured uveal tissue [12], [13]."
+  },
+  {
+    "front": "University-Level Question: Compare **Background (non-proliferative)** and **Proliferative Diabetic Retinopathy**.",
+    "back": "Background retinopathy involves **capillary microangiopathy** (BM thickening, pericyte loss, waxy exudates, and dot-and-blot hemorrhages) [8], [14]. Proliferative retinopathy is characterized by **neovascularization** and fibrosis driven by chronic hypoxia, leading to retinal detachment [15], [16]."
+  },
+  {
+    "front": "Core Concept: List the hallmark ocular findings in **Hypertensive Retinopathy**.",
+    "back": "Findings include **arteriolar narrowing**, flame-shaped hemorrhages, **macular star** (exudates radiating from the macula), cotton-wool spots, and arteriovenous (AV) nicking [17]."
+  },
+  {
+    "front": "Mechanism: What causes **Papilloedema** and why?",
+    "back": "It is edema of the optic disc resulting from **increased intracranial pressure** [18]. This occurs because the **subarachnoid space** is anatomically continued around the optic nerve, transmitting intracranial pressure directly to the disc area [18]."
+  },
+  {
+    "front": "Core Concept: Define the **Sjögren’s Syndrome** triad.",
+    "back": "The triad consists of **keratoconjunctivitis sicca** (dry eyes), **xerostomia** (dry mouth), and **rheumatoid arthritis** [19]."
+  },
+  {
+    "front": "Clinical Relevance: Where is **Sebaceous Carcinoma** most commonly found and how does it compare to BCC?",
+    "back": "It is the most frequent eyelid tumor after Basal Cell Carcinoma (BCC) but is mostly seen in the **upper eyelid**, whereas BCC more frequently affects the lower eyelid [20]."
+  },
+  {
+    "front": "University-Level Question: Detail the **Callender classification** for Uveal Malignant Melanoma.",
+    "back": "1. **Spindle A**: Spindle cells, rare mitoses (85% 10-year survival) [21]. 2. **Spindle B**: Plump spindle cells, conspicuous nucleoli (80% survival) [22]. 3. **Epithelioid**: Pleomorphic cells, most malignant (35% survival) [22]. 4. **Mixed**: Intermediate prognosis (45% survival) [22]."
+  },
+  {
+    "front": "Core Concept: Discuss the genetics and clinical presentation of **Retinoblastoma**.",
+    "back": "It is the most common childhood ocular malignancy; 40% are familial (autosomal dominant **RB gene** on chromosome 13) [23], [24]. It characteristically presents with **leukokoria** (white pupillary reflex) [24]."
+  },
+  {
+    "front": "Mechanism: Describe the two types of **rosettes** found in Retinoblastoma.",
+    "back": "1. **Flexner-Wintersteiner rosettes**: Cells arranged around a central **lumen** [25]. 2. **Homer-Wright rosettes**: Radial arrangement around a central **neurofibrillar structure** [25]."
+  },
+  {
+    "front": "Problem Solving: A patient presents with **white pupillary reflex**. Provide a structured differential diagnosis based on the sources.",
+    "back": "The primary concern is **Retinoblastoma** [24]. Other causes of opacification or white reflex include **Cataract** (opacification of the lens) [26] and potentially advanced endophthalmitis organization [9]."
+  },
+  {
+    "front": "Critical Thinking Focus: Contrast the metastatic patterns of **Uveal Melanoma** vs. **Retinoblastoma**.",
+    "back": "Uveal Melanoma spreads primarily via the **haematogenous route** (90% to the liver) [23]. Retinoblastoma disseminates widely through **direct invasion** (optic nerve/brain), haematogenous routes, and sub-retinal spread [25], [27], [28]."
+  },
+  {
+    "front": "Core Concept: Define **Otitis Media** and its common causative organisms.",
+    "back": "Inflammation of the middle ear [29]. Common pathogens include ***Streptococcus pneumoniae***, ***Haemophilus influenzae***, and **β-Streptococcus haemolyticus** [29]."
+  },
+  {
+    "front": "Clinical Relevance: What is **Cauliflower Ear** and its cause?",
+    "back": "An acquired deformity of the external ear due to **cartilage degeneration** resulting from **repeated trauma**, commonly seen in boxers and wrestlers [30]."
+  },
+  {
+    "front": "Core Concept: Define **Otosclerosis** and its clinical significance.",
+    "back": "A dystrophic disease of the temporal bone labyrinth where the stapes footplate is replaced by **sclerotic bone**, causing **sensori-neural type deafness** in young males [31]."
+  },
+  {
+    "front": "Mechanism: Explain the pathogenesis of a **Cholesteatoma** (Keratoma).",
+    "back": "It is a post-inflammatory 'pseudotumour' where **squamous epithelium** enters the middle ear (often via a perforation), leading to the accumulation of **keratin material** and cholesterol crystals, which can erode bone [32], [33]."
+  },
+  {
+    "front": "Core Concept: What is an **Acoustic Neuroma** (Schwannoma)?",
+    "back": "A benign tumour of **8th cranial nerve Schwann cells**, typically in the cerebellopontine angle [34]. Large tumours compress adjacent tissues, causing deafness, tinnitus, and **hydrocephalus** [34]."
+  },
+  {
+    "front": "Core Concept: Describe **Rhinosporidiosis**.",
+    "back": "A fungal infection caused by ***Rhinosporidium seeberi***, typically presenting as a **nasal polyp** containing thick-walled **sporangia** filled with thousands of spores [35]."
+  },
+  {
+    "front": "Mechanism: How does **Rhinoscleroma** present pathologically?",
+    "back": "Caused by *Klebsiella rhinoscleromatis*, it features extensive infiltration by foamy histiocytes known as **Mikulicz cells** [36], [37]."
+  },
+  {
+    "front": "Critical Thinking: Why must an **Inverted Sinonasal Papilloma** be distinguished from carcinoma?",
+    "back": "Because its **downward (inverted) growth pattern** into the underlying stroma can mimic invasive carcinoma, despite being a differentiated benign lesion [38]."
+  },
+  {
+    "front": "Bias Recognition: Identify an **availability bias** in diagnosing eyelid tumours.",
+    "back": "Clinicians may assume all eyelid lumps are BCC due to its prevalence. However, a mass in the **upper eyelid** should increase suspicion for **Sebaceous Carcinoma**, which is more common there than BCC [20]."
+  },
+  {
+    "front": "Core Concept: Define **Ludwig’s Angina** and its risks.",
+    "back": "A severe, acute **streptococcal cellulitis** of the neck and throat [39]. It is frequently fatal due to **glottic oedema and asphyxia** [39]."
+  },
+  {
+    "front": "Mechanism: How does **Diphtheria** cause systemic injury?",
+    "back": "The organism elaborates an **exotoxin** that causes local epithelial necrosis and formation of a **pseudomembrane**; absorption of the toxin into the blood leads to distant necrosis in the **heart, liver, and kidneys** [40]."
+  },
+  {
+    "front": "Core Concept: Contrast **Quinsy** and **Retropharyngeal Abscess**.",
+    "back": "**Quinsy** (peritonsillar abscess) is a complication of acute tonsillitis involving the adjacent tissues [41]. **Retropharyngeal abscess** occurs in the soft tissue between the pharynx and vertebral column, often due to infected lymph nodes or **tuberculosis (cold abscess)** [42]."
+  },
+  {
+    "front": "Clinical Relevance: Why is **Nasopharyngeal Angiofibroma** unique?",
+    "back": "It occurs **exclusively in adolescent males** and is **androgen-dependent**, composed of vascular spaces and myofibroblastic stroma [43], [44]."
+  },
+  {
+    "front": "University-Level Question: Discuss the etiology and variants of **Nasopharyngeal Carcinoma**.",
+    "back": "Strongly linked to **Epstein-Barr virus (EBV)** and genetic susceptibility (prevalent in Chinese descent) [45]. Variants include non-keratinising, keratinising, and **undifferentiated (lymphoepithelioma)**, which is infiltrated by mature lymphocytes [45], [46]."
+  },
+  {
+    "front": "Core Concept: Define **Laryngeal Nodules** (Singers' Nodes).",
+    "back": "Polypoid swellings on the true vocal cords caused by **vocal abuse** or heavy smoking [47]. Histologically, they show edema, sparse fibrous tissue, and **dilated vascular channels** [48]."
+  },
+  {
+    "front": "Mechanism: List the anatomic classifications of **Laryngeal Carcinoma**.",
+    "back": "**Glottic** (commonest, true vocal cords), supraglottic, subglottic, marginal zone, and laryngopharynx [48], [49]."
+  },
+  {
+    "front": "Bias Recognition: Reflect on **biases in smoking history** and laryngeal disease.",
+    "back": "Clinicians might assume all hoarseness in a smoker is carcinoma. However, chronic irritants also cause **Laryngeal Nodules** [47] and **Chronic Laryngitis** with squamous metaplasia [50], requiring histological confirmation."
+  },
+  {
+    "front": "Problem Solving: Contrast **Midline** and **Lateral** cervical cysts.",
+    "back": "Midline cysts include **Thyroglossal** and **Dermoid** cysts [51], [52]. Lateral cysts include **Branchial (lymphoepithelial)**, **Cystic Hygroma**, Parathyroid, and Thymic cysts [53]-[52]."
+  },
+  {
+    "front": "Core Concept: Describe the histology of a **Branchial Cyst**.",
+    "back": "Lined by stratified squamous or respiratory epithelium with prominent **subepithelial lymphoid tissue aggregates** or follicles with germinal centres [53], [54]."
+  },
+  {
+    "front": "Core Concept: Define **Carotid Body Tumour** (Chemodectoma).",
+    "back": "A rare **neuroendocrine tumour** arising at the carotid bifurcation [52]. Cells are sensitive to **pH and oxygen tension** and contain neurosecretory granules [52], [55]."
+  },
+  {
+    "front": "Clinical Case Study 1: A 15-year-old male presents with severe nasal obstruction and recurrent epistaxis. Provide a differential and reasoning.",
+    "back": "The primary diagnosis is **Nasopharyngeal Angiofibroma**, given the age, sex, and vascular nature of the tumour [43]. Interventions include surgical management after assessing androgen receptor status [43]."
+  },
+  {
+    "front": "Clinical Case Study 2: A 3-year-old child presents with a white reflex in the left pupil. What is the most critical next step and likely diagnosis?",
+    "back": "The likely diagnosis is **Retinoblastoma** [24]. The critical step is an immediate ophthalmologic exam and potentially genetic testing for the **RB gene** [24]. Differential includes congenital cataract [26]."
+  },
+  {
+    "front": "Problem Solving: A patient has a midline neck swelling that moves with swallowing. What is the most likely diagnosis?",
+    "back": "A **Thyroglossal Cyst**, as it arises from the vestiges of the thyroglossal duct connecting the foramen caecum and the thyroid [51]."
+  },
+  {
+    "front": "Decision-making Under Pressure: A patient with **Ludwig’s Angina** presents with rapid onset respiratory distress. What is the priority?",
+    "back": "Airway management is the top priority due to the risk of **glottic oedema and asphyxia** [39]."
+  },
+  {
+    "front": "PLAB Style MCQ: A 40-year-old male of Chinese descent presents with a large cervical lymph node. Biopsy shows undifferentiated carcinoma with lymphoid infiltrate. What virus is likely involved?",
+    "back": "The **Epstein-Barr Virus (EBV)** is virtually always found in undifferentiated Nasopharyngeal Carcinoma (Lymphoepithelioma) [45], [46]."
+  },
+  {
+    "front": "USMLE Style MCQ: An infant presents with night blindness and 'bone-spicule' pigmentation on fundoscopy. What is the cellular defect?",
+    "back": "Disappearance of **rods and cones** in the photoreceptor layer and degeneration of retinal pigment epithelium in **Retinitis Pigmentosa** [56]."
+  },
+  {
+    "front": "University-Level Exam Question: Discuss the pathogenetic mechanisms of **Retinal Detachment**.",
+    "back": "1. **Traction**: processes in the vitreous pull the retina. 2. **Exudation**: serous fluid collection from inflammation/tumour. 3. **Rhegmatogenous**: Vitreous accumulation through a tear [57]."
+  },
+  {
+    "front": "Bias Recognition: Avoid **Search Satisfaction bias** in neck masses.",
+    "back": "In a patient with known head/neck carcinoma, do not assume a neck lump is just 'reactive' lymphadenopathy. Cervical nodes are a common site for **metastases** from the mouth, larynx, and even abdominal organs like the stomach [58]."
+  },
+  {
+    "front": "Core Concept: Describe the **Mikulicz cell**.",
+    "back": "A foamy histiocyte containing *Klebsiella rhinoscleromatis* organisms, characteristic of **Rhinoscleroma** [36], [37]."
+  },
+  {
+    "front": "Clinical Relevance: What is the significance of the **annulus** in the ear?",
+    "back": "It is the peripheral support for the **tympanic membrane**, which separates the external meatus from the middle ear [59]."
+  },
+  {
+    "front": "Mechanism: Why does **Syphilis** cause a 'saddle-nose' deformity?",
+    "back": "Acquired or congenital syphilis causes **gummas** that destroy the nasal bridge and septum, leading to its collapse [60]."
+  },
+  {
+    "front": "Critical Thinking: Reflect on the role of **oxygen therapy** in neonatal care according to the sources.",
+    "back": "While life-saving, it is a **double-edged sword** for premature infants. It must be carefully monitored to prevent the vaso-obliteration that leads to **Retrolental Fibroplasia** [5]."
+  },
+  {
+    "front": "Core Concept: What is **Vincent’s Angina**?",
+    "back": "A painful throat condition characterized by **local ulceration** of the tonsils and mouth, caused by Vincent’s bacillus [40]."
+  },
+  {
+    "front": "Clinical Relevance: Define **Torticollis** and its types.",
+    "back": "A deformity (wry neck) where the head bends to one side. **Congenital** (primary) appears at birth in the sternocleidomastoid; **acquired** can result from spine fractures, chills, or burns [55]."
+  }
+]
+}

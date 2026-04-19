@@ -1,0 +1,122 @@
+{
+  "flashcards": [
+
+    {
+    "front": "What are the 'three pillars of prevention' identified by the WHO to prevent 80% of cardiovascular diseases and 40% of cancers? [1]",
+    "back": "The three pillars are: avoidance of tobacco, healthy diet, and physical activity."
+  },
+  {
+    "front": "Which air pollutant particle size is most dangerous to human health and why? [2, 3]",
+    "back": "Particles of 1-5 µm size are most dangerous because they can become impacted in the distal airways and produce tissue injury."
+  },
+  {
+    "front": "How does Cyanide cause rapid toxicity in the body? [4, 5]",
+    "back": "It blocks cellular respiration by binding to mitochondrial cytochrome oxidase, effectively killing the cell."
+  },
+  {
+    "front": "According to the sources, how many years of life does a person lose by smoking 2 packs of cigarettes daily at age 30? [6]",
+    "back": "A person reduces their life expectancy by approximately 8 years compared to a non-smoker."
+  },
+  {
+    "front": "List the three pathways of ethanol metabolism in the liver. [7, 8]",
+    "back": "1. Alcohol Dehydrogenase (ADH) in the cytosol (major pathway).\n2. Microsomal Ethanol Oxidising System (MEOS/P-450) at high blood levels.\n3. Catalase from peroxisomes (minor pathway)."
+  },
+  {
+    "front": "What is the toxic metabolite of ethanol primarily responsible for tissue injury in chronic alcoholism? [7, 9]",
+    "back": "Acetaldehyde."
+  },
+  {
+    "front": "Define the upper limit of sobriety regarding blood alcohol levels as defined by most Western laws. [10]",
+    "back": "100 mg/dl. Levels above 400 mg/dl can cause death from respiratory arrest."
+  },
+  {
+    "front": "Which two enzymes are inhibited by lead, resulting in microcytic hypochromic anaemia? [11]",
+    "back": "Delta-aminolevulinic acid dehydrogenase and ferroketolase."
+  },
+  {
+    "front": "What is 'basophilic stippling' and what does its presence in an adult suggest? [11, 12]",
+    "back": "It is the presence of small blue dots in red blood cells on a blood film, a characteristic finding in chronic lead poisoning."
+  },
+  {
+    "front": "Why is Carbon Monoxide (CO) poisoning particularly lethal even in small amounts? [13]",
+    "back": "Haemoglobin has a 200-times higher affinity for CO than for O2, leading to carboxyhaemoglobin formation and systemic oxygen deprivation."
+  },
+  {
+    "front": "What is the primary mechanism of cell death caused by ionising radiation? [14]",
+    "back": "The radiolysis of water within the cell, which generates toxic hydroxyl free radicals."
+  },
+  {
+    "front": "Define Obesity based on BMI cut-off and percentage over ideal weight. [15]",
+    "back": "Obesity is a body weight 20% over ideal weight or a Body Mass Index (BMI) of 30 or more."
+  },
+  {
+    "front": "What is the 'Pickwickian Syndrome' and who does it typically affect? [16]",
+    "back": "It is a hypoventilation syndrome in markedly obese individuals characterized by hypersomnolence, CO2 retention, hypoxia, and right-sided heart failure."
+  },
+  {
+    "front": "Contrast the primary deficiency in Kwashiorkor vs. Marasmus. [17, 18]",
+    "back": "Kwashiorkor is protein deficiency with sufficient calories (leading to edema and fatty liver). Marasmus is overall calorie starvation in infants (leading to extreme wasting)."
+  },
+  {
+    "front": "Name the specific deficiency states for the trace elements Zinc and Selenium. [19]",
+    "back": "Zinc deficiency leads to growth retardation, infertility, and alopecia. Selenium deficiency causes cardiomyopathy."
+  },
+  {
+    "front": "Which vitamin deficiency is associated with '3 Ds': Dermatitis, Diarrhea, and Dementia? [20-22]",
+    "back": "Niacin (Vitamin B3) deficiency, causing Pellagra."
+  },
+  {
+    "front": "What is the first sign of Vitamin A deficiency? [23, 24]",
+    "back": "Night blindness (nyctalopia)."
+  },
+  {
+    "front": "Describe the activation process of Vitamin D. [24, 25]",
+    "back": "Vitamin D is hydroxylated in the liver to 25-hydroxy vitamin D, and then in the kidney to its active form, 1,25-dihydroxy vitamin D (Calcitriol)."
+  },
+  {
+    "front": "List three skeletal deformities characteristic of Rickets. [24, 26]",
+    "back": "Possible answers: Craniotabes, Harrison’s sulcus, Rachitic rosary, Pigeon-chest deformity, Bow legs, or Knocked knees."
+  },
+  {
+    "front": "Which vitamin deficiency causes Scurvy and what is the underlying physiological defect? [27-29]",
+    "back": "Vitamin C deficiency. It impairs the hydroxylation of proline, preventing the formation of stable collagen and intercellular cement substance."
+  },
+  {
+    "front": "CASE STUDY: An elderly man living alone presents with perifollicular haemorrhages and bleeding gums. Diagnosis? [29, 30]",
+    "back": "Scurvy (Vitamin C deficiency) due to poor diet (primary deficiency)."
+  },
+  {
+    "front": "CASE STUDY: A chronic alcoholic presents with ataxia, confusion, and ophthalmoplegia. Diagnosis and treatment priority? [31-33]",
+    "back": "Wernicke’s Encephalopathy. Priority: Immediate administration of Thiamine (B1) before glucose."
+  },
+  {
+    "front": "CRITICAL THINKING: Why might an obese patient have high blood sugar despite having hyperinsulinaemia? [34]",
+    "back": "This is due to insulin-resistance, where tissues become insensitive to the actions of insulin."
+  },
+  {
+    "front": "BIAS RECOGNITION: What is a common pitfall in diagnosing symptoms in an alcoholic patient? [10, 35]",
+    "back": "Diagnostic Overshadowing: Attributing symptoms (like confusion or gait changes) solely to intoxication, thereby missing a subdural hematoma or metabolic emergency."
+  },
+  {
+    "front": "PROBLEM SOLVING: How does a low-fibre diet increase the risk of colon cancer? [36]",
+    "back": "It reduces stool bulk and increases the transit time of stools in the colon, allowing more time for carcinogens (like bile acid metabolites) to contact the mucosa."
+  },
+  {
+    "front": "What is the clinical significance of 'Aflatoxin' in diet? [37]",
+    "back": "It is a naturally-occurring carcinogen from Aspergillus flavus found in contaminated grains; it is strongly associated with hepatocellular carcinoma."
+  },
+  {
+    "front": "How does chronic lead poisoning affect the adult nervous system differently than children? [12, 38]",
+    "back": "Adults typically develop demyelinating peripheral motor neuropathy (e.g., wristdrop), whereas children are more likely to suffer from lead encephalopathy (brain edema)."
+  },
+  {
+    "front": "Which vitamin deficiency is responsible for Megaloblastic Anaemia? [20, 22, 39]",
+    "back": "Folate (Folic acid) or Cyanocobalamin (Vitamin B12)."
+  },
+  {
+    "front": "Distinguish between Primary and Secondary (Conditioned) nutritional deficiency. [40-42]",
+    "back": "Primary: Lack of nutrients in the diet. Secondary: Nutrients are in the diet but interference occurs with ingestion, absorption, utilization, or there is increased demand/excretion."
+  }
+
+  ]
+}

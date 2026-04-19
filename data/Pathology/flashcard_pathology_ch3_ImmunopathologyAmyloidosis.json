@@ -1,0 +1,103 @@
+{
+  "flashcards": [
+
+    {
+    "front": "Explain the 'double-edged sword' concept of the immune system.",
+    "back": "Immunity is a defense mechanism against infections, but it can also become injurious to the body through hypersensitivity, autoimmunity, or amyloidosis [1, 2]."
+  },
+  {
+    "front": "Differentiate between Innate and Adaptive immunity components.",
+    "back": "Innate (Natural): Non-specific, first line of defense; includes complement (humoral) and neutrophils/NK cells (cellular). Adaptive (Specific): Characterized by antigenic specificity; includes antibodies (humoral) and T cells (cellular) [3]."
+  },
+  {
+    "front": "Which chromosome contains the HLA (Major Histocompatibility Complex) system?",
+    "back": "Chromosome 6, specifically on the short arm (p) [4, 5]."
+  },
+  {
+    "front": "Match the MHC Classes with their specific T-cell interactions.",
+    "back": "MHC Class I (HLA-A, B, C) interacts with CD8+ (T-suppressor/cytotoxic) cells. MHC Class II (HLA-DR, DQ, DP) interacts with CD4+ (T-helper) cells [6, 7]."
+  },
+  {
+    "front": "What is 'MHC Restriction'?",
+    "back": "The requirement for an antigen to be presented to T cells in association with the body's own MHC molecules to be recognized as 'non-self' [8, 9]."
+  },
+  {
+    "front": "Define the four types of grafts based on genetic relationship.",
+    "back": "1. Autografts (same individual). 2. Isografts (same genotype/twins). 3. Allografts (same species, different genotype). 4. Xenografts (different species) [10]."
+  },
+  {
+    "front": "Contrast the timing and mechanism of Hyperacute vs. Acute graft rejection.",
+    "back": "Hyperacute: Occurs within minutes/hours; mediated by preformed humoral antibodies. Acute: Occurs within days/months; mediated by either T-cell cellular response or humoral vasculitis [11-13]."
+  },
+  {
+    "front": "What is the 'Graft-versus-host (GVH) reaction'?",
+    "back": "Occurs when immunocompetent cells (usually bone marrow) are transplanted into an immunodeficient recipient, causing the graft to attack the host [14, 15]."
+  },
+  {
+    "front": "What is the diagnostic threshold for AIDS according to the CDC classification?",
+    "back": "A CD4+ T cell count of <200/μl, regardless of the presence of clinical symptoms [16, 17]."
+  },
+  {
+    "front": "Identify the primary HIV surface proteins involved in host cell entry.",
+    "back": "gp120 (selective tropism for the CD4 receptor) and gp41 (mediates internalisation/fusion) [18-20]."
+  },
+  {
+    "front": "Critical Thinking: Why is a negative ELISA in the first 2-4 weeks of HIV exposure potentially misleading?",
+    "back": "This is the 'window period.' The patient is highly infectious but hasn't yet produced detectable antibodies (seroconversion). Direct detection of p24 antigen or HIV RNA is required for early diagnosis [21, 22]."
+  },
+  {
+    "front": "Differentiate Type I and Type IV Hypersensitivity by timing and mediators.",
+    "back": "Type I (Anaphylactic): Immediate (15-30 mins); mediated by IgE binding to mast cells. Type IV (Delayed): Slow onset (24-48 hours); mediated by T cells/cytokines [23-25]."
+  },
+  {
+    "front": "What is the hallmark morphological finding of Type III Hypersensitivity?",
+    "back": "Fibrinoid necrosis in blood vessel walls due to the deposition of antigen-antibody (immune) complexes [26, 27]."
+  },
+  {
+    "front": "Name the most specific antibody tests for Systemic Lupus Erythematosus (SLE).",
+    "back": "Anti-dsDNA (70% specific) and Anti-Smith (anti-Sm) antibodies (25% specific) [28, 29]."
+  },
+  {
+    "front": "What is the 'LE cell phenomenon'?",
+    "back": "A neutrophil that has phagocytosed a denatured nucleus (LE body) coated with antinuclear antibodies; a diagnostic hallmark of SLE [30, 31]."
+  },
+  {
+    "front": "Bias Recognition: Why should you not diagnose Amyloidosis based solely on H&E staining?",
+    "back": "Amyloid appears as pink, eosinophilic 'hyaline' material on H&E, but many other substances (protein deposits, scars) look identical. Specificity requires Congo red staining with apple-green birefringence under polarized light [32-34]."
+  },
+  {
+    "front": "Explain the difference between AL and AA Amyloidosis etiology.",
+    "back": "AL (Primary): Derived from immunoglobulin light chains; associated with B-cell/plasma cell disorders. AA (Secondary): Derived from SAA protein; associated with chronic inflammation or infections [35-38]."
+  },
+  {
+    "front": "Clinical Case: A patient with chronic tuberculosis develops proteinuria and enlarged kidneys. What is the most likely diagnosis?",
+    "back": "Secondary (AA) Amyloidosis of the kidneys, triggered by the long-standing inflammatory stimulus of tuberculosis [39, 40]."
+  },
+  {
+    "front": "Differentiate 'Sago Spleen' from 'Lardaceous Spleen' in Amyloidosis.",
+    "back": "Sago Spleen: Deposits involve the white pulp (follicles); grossly resembles sago grains. Lardaceous Spleen: Deposits involve the red pulp (sinusoids); grossly shows map-like waxy areas [41, 42]."
+  },
+  {
+    "front": "What biochemical protein is associated with Senile Cerebral Amyloidosis (Alzheimer's)?",
+    "back": "Amyloid β-peptide (Aβ), derived from amyloid beta precursor protein (AβPP) [43, 44]."
+  },
+  {
+    "front": "Problem-Solving: How can you distinguish AL from AA amyloid using the permanganate test?",
+    "back": "Congophilia (affinity for Congo red) persists in AL amyloid after potassium permanganate treatment but is lost in AA amyloid [45, 46]."
+  },
+  {
+    "front": "USMLE Pattern: Which HLA association is most strongly linked to Ankylosing Spondylitis?",
+    "back": "HLA-B27 [7]."
+  },
+  {
+    "front": "What are the components of the 'Sicca Syndrome' in Sjögren's Syndrome?",
+    "back": "The combination of dry eyes (keratoconjunctivitis sicca) and dry mouth (xerostomia) [47]."
+  },
+  {
+    "front": "Which diagnostic procedure is currently favored for systemic amyloidosis diagnosis due to its high yield and low invasiveness?",
+    "back": "Fine needle aspiration (FNA) of abdominal subcutaneous fat [48, 49]."
+  }
+
+  ]
+
+}

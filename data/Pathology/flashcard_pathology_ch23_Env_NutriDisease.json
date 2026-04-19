@@ -1,0 +1,219 @@
+
+{
+  "flashcards":
+
+[
+  {
+    "front": "Chapter Note: Describe the microanatomy of the breast and its two main tissue components.",
+    "back": "The breast is a modified skin appendage composed of epithelial and stromal components [1]. The epithelial component makes up less than 10% of the volume in non-lactating breasts but is pathologically more significant [1]."
+  },
+  {
+    "front": "Core Concept: What are the two major parts of the epithelial component and their functions?",
+    "back": "1. Terminal duct-lobular unit (TDLU): Performs main secretory functions during lactation [2]. 2. Large duct system: Collects and drains secretions [2]."
+  },
+  {
+    "front": "Core Concept: Identify the immunohistochemical markers used to distinguish the bilayered lining of the ductal-lobular system.",
+    "back": "The inner epithelium stains positive for epithelial membrane antigen (EMA) and lactalbumin [3]. The outer myoepithelial lining stains positive for smooth muscle actin (SMA) and S-100 [3]."
+  },
+  {
+    "front": "Core Concept: Distinguish between intralobular and interlobular stroma.",
+    "back": "Intralobular stroma encloses each lobule and is made of loose connective tissue [4]. Interlobular stroma separates lobules and is composed mainly of adipose tissue [5]."
+  },
+  {
+    "front": "Explanation Note: What is the most common cause of acute mastitis and when does it typically occur?",
+    "back": "Acute pyogenic infection (mastitis) usually occurs during the first few weeks of lactation [6]. Bacteria like staphylococci or streptococci enter through nipple cracks or fissures [6]."
+  },
+  {
+    "front": "Critical Thinking: Why is Tuberculous mastitis often misdiagnosed as breast cancer in developing countries like India?",
+    "back": "It often presents with a palpable mass and axillary nodal involvement, which clinically mimics malignancy [7]. Diagnosis requires identifying caseating tubercles or acid-fast bacilli via ZN staining [7]."
+  },
+  {
+    "front": "Core Concept: Define Mammary Duct Ectasia (Plasma Cell Mastitis).",
+    "back": "A condition in women (4th–7th decades) where large ducts are dilated and filled with inspissated secretions, associated with periductal inflammation and fibrosis [8]. It can cause nipple retraction and mimic carcinoma [8]."
+  },
+  {
+    "front": "Core Concept: Describe the histological hallmarks of Mammary Duct Ectasia.",
+    "back": "Histology shows dilated ducts with atrophic lining, amorphous pink debris in the lumen, and dense periductal chronic inflammation featuring lymphocytes and prominent plasma cells [9]."
+  },
+  {
+    "front": "Core Concept: What is the primary trigger for fat necrosis of the breast and its histological presentation?",
+    "back": "It is generally initiated by trauma to an obese, pendulous breast [10]. Histology shows lipid-filled spaces surrounded by foamy histiocytes, foreign body giant cells, and later, replacement fibrosis or calcification [10]."
+  },
+  {
+    "front": "Core Concept: Define Galactocele.",
+    "back": "A galactocele is a thin-walled cyst filled with milky fluid, caused by the cystic dilatation of an obstructed duct during lactation [11]."
+  },
+  {
+    "front": "Explanation Note: Summarize 'Fibrocystic Change' and its pathogenesis.",
+    "back": "It is the most common benign breast condition, characterized by a 'lumpy' breast [11]. It is considered an exaggerated physiologic response to estrogen, often declining after menopause [11]."
+  },
+  {
+    "front": "Core Concept: What are 'blue-dome cysts' in simple fibrocystic change?",
+    "back": "They are rounded, translucent cysts with a bluish color prior to opening, formed by the dilatation of obstructed collecting ducts [12]."
+  },
+  {
+    "front": "Core Concept: Differentiate between proliferative and non-proliferative fibrocystic changes.",
+    "back": "Non-proliferative (simple) change involves fibrosis and cyst formation [12]. Proliferative changes include epithelial hyperplasia and sclerosing adenosis [13]."
+  },
+  {
+    "front": "Core Concept: Define Epithelial Hyperplasia (Epitheliosis).",
+    "back": "The increase in epithelial cell layers over the basement membrane to three or more layers in ducts or lobules [13]. Atypical hyperplasia is the precancerous form [13]."
+  },
+  {
+    "front": "Core Concept: Describe Sclerosing Adenosis.",
+    "back": "A benign proliferation of small ductules or acini and intralobular fibrosis [14]. It can form a hard, cartilage-like mass that mimics infiltrating carcinoma clinically and grossly [15]."
+  },
+  {
+    "front": "Critical Thinking: What is the clinical significance of finding atypical hyperplasia on a breast biopsy?",
+    "back": "Atypical hyperplasia carries a 4 to 5 times increased risk of developing invasive breast cancer [16]. This risk is higher if there is a positive family history of breast cancer [16]."
+  },
+  {
+    "front": "Core Concept: Define Gynaecomastia and its primary hormonal trigger.",
+    "back": "Unilateral or bilateral enlargement of the male breast due to proliferation of ducts and stroma [16]. it is primarily caused by estrogenic activity or decreased androgenic activity [17]."
+  },
+  {
+    "front": "University-Level Exam Question: List four systemic or endocrine causes of secondary gynaecomastia.",
+    "back": "1. Hepatic cirrhosis. 2. Testicular tumors. 3. Klinefelter’s syndrome. 4. Estrogen therapy for prostatic cancer [17]."
+  },
+  {
+    "front": "Core Concept: What is the 'Breast Mouse' and what are its features?",
+    "back": "A clinical term for Fibroadenoma, the most common benign tumor in young women (15-30 years) [18]. It is characterized as a solitary, discrete, and freely mobile nodule [18]."
+  },
+  {
+    "front": "Core Concept: Compare Intracanalicular and Pericanalicular patterns in fibroadenoma.",
+    "back": "Intracanalicular: Stroma compresses ducts into slit-like clefts [19]. Pericanalicular: Fibrous stroma encircles patent or dilated ducts [19]."
+  },
+  {
+    "front": "Core Concept: Identify the histological variant of fibroadenoma seen during pregnancy.",
+    "back": "Lactating adenoma, which is composed of acini with secretory activity [19]."
+  },
+  {
+    "front": "Core Concept: Distinguish Phyllodes tumor from giant fibroadenoma.",
+    "back": "Phyllodes tumors are distinguished by an extremely hypercellular stroma and leaf-like (phyllodes) gross appearance [20, 21]. They can be benign, borderline, or malignant [20]."
+  },
+  {
+    "front": "Core Concept: What is the typical clinical presentation of Intraductal Papilloma?",
+    "back": "It characteristically produces a serous or serosanguineous nipple discharge and is usually found in a major lactiferous duct near the nipple [22]."
+  },
+  {
+    "front": "University-Level Exam Question: Describe the 'Triple Technique' for early diagnosis of breast cancer.",
+    "back": "It consists of 1. Palpation, 2. Mammography, and 3. Fine needle aspiration cytology (FNAC) [23]."
+  },
+  {
+    "front": "Explanation Note: Summarize the risk factors for female breast cancer.",
+    "back": "Geographic/racial factors, family history (especially first-degree relatives), early menarche, nulliparity, late first childbirth, delayed menopause, and atypical hyperplasia [24-26]."
+  },
+  {
+    "front": "Core Concept: Contrast the role of BRCA1 and BRCA2 mutations in breast cancer.",
+    "back": "BRCA1 (Ch 17) is linked to inherited breast and ovarian cancer [27]. BRCA2 (Ch 13) is linked to inherited breast and ovarian cancer in females, and prostate and male breast cancer in males [27]."
+  },
+  {
+    "front": "Core Concept: What quadrant of the breast is the most frequent site of tumor development?",
+    "back": "The upper outer quadrant (50% of cases) [28]."
+  },
+  {
+    "front": "Explanation Note: Classify non-invasive (in situ) breast carcinoma.",
+    "back": "1. Intraductal carcinoma: Confined to large mammary ducts [29]. 2. Lobular carcinoma in situ (LCIS): Confined to terminal ducts and acini [30]."
+  },
+  {
+    "front": "Core Concept: Describe the Comedo pattern of Intraductal Carcinoma.",
+    "back": "It features centrally placed necrotic debris (resembling 'cheesy' material) surrounded by neoplastic cells within the duct [31]."
+  },
+  {
+    "front": "PLAB/USMLE Pattern: A biopsy shows filling of acini by uniform, loosely cohesive cells with small rounded nuclei. What is the risk of bilateral cancer?",
+    "back": "This describes Lobular Carcinoma in Situ (LCIS) [30]. It has a high incidence of contralateral breast cancer (30%) [30]."
+  },
+  {
+    "front": "Core Concept: What is 'Scirrhous Carcinoma'?",
+    "back": "A term for invasive breast cancer (usually IDC-NOS) that has a hard consistency due to dense collagenous stroma [32]."
+  },
+  {
+    "front": "Core Concept: Describe the gross appearance of Infiltrating Duct Carcinoma-NOS (IDC-NOS).",
+    "back": "An irregular, hard mass that cuts with a grating sound, showing chalky streaks and extension into surrounding fat [33]."
+  },
+  {
+    "front": "PLAB/USMLE Pattern: A histological slide shows an 'Indian file' or single file linear arrangement of tumor cells. Diagnosis?",
+    "back": "Infiltrating (Invasive) Lobular Carcinoma [34]."
+  },
+  {
+    "front": "Core Concept: Which invasive breast cancer is soft, fleshy, and 'brain-like'?",
+    "back": "Medullary carcinoma (also called 'encephaloid carcinoma') [35]. it has a relatively favorable prognosis due to prominent lymphoid infiltrate [35, 36]."
+  },
+  {
+    "front": "Core Concept: Define Colloid (Mucinous) Carcinoma.",
+    "back": "A slow-growing tumor in older women characterized by clusters of tumor cells floating in large pools/lakes of extracellular mucin [36, 37]."
+  },
+  {
+    "front": "Core Concept: What defines Inflammatory Carcinoma of the breast?",
+    "back": "A clinical entity presenting with redness, edema, and rapid enlargement, histologically associated with extensive invasion of dermal lymphatics [38]. it has a dismal prognosis [38]."
+  },
+  {
+    "front": "Core Concept: Describe the clinical presentation and pathogenesis of Paget's Disease of the nipple.",
+    "back": "An eczematoid lesion (crusted/scaly) of the nipple, caused by tumor cells from an underlying ductal carcinoma migrating into the epidermis [39-41]."
+  },
+  {
+    "front": "University-Level Exam Question: Name the three parameters used in the Nottingham modification of the Bloom-Richardson grading system.",
+    "back": "1. Tubule formation. 2. Nuclear pleomorphism. 3. Mitotic count [42]."
+  },
+  {
+    "front": "Core Concept: Define 'Sentinel Lymph Node' and its prognostic value.",
+    "back": "The first node to receive drainage from the primary cancer [43]. A negative sentinel node can help avoid unnecessary deep axillary dissection [43]."
+  },
+  {
+    "front": "Critical Thinking: How does ER/PR status affect treatment and prognosis?",
+    "back": "Hormone-positive tumors respond better to endocrine (anti-estrogen) therapy and generally have a slightly better prognosis [44]."
+  },
+  {
+    "front": "Core Concept: What is the clinical significance of HER2/neu overexpression?",
+    "back": "It is a predictive marker; individuals with overexpression are more likely to respond to herceptin therapy [45]."
+  },
+  {
+    "front": "University-Level Exam Question: Describe AJC Stage I breast cancer.",
+    "back": "Tumor is 2 cm or less in diameter with no nodal spread [46]."
+  },
+  {
+    "front": "Critical Thinking: Identify the biological markers associated with a worse prognosis in invasive breast cancer.",
+    "back": "High mitotic index (Ki67), aneuploid DNA content, high angiogenic activity (VEGF), p53 negativity, and HER2/neu overexpression [47, 48]."
+  },
+  {
+    "front": "Bias Recognition: Why should clinicians avoid the 'Anchoring Bias' of assuming all nipple discharge is cancerous?",
+    "back": "While serosanguineous discharge can occur in cancer, it is most commonly associated with benign intraductal papilloma [22]. Also, milky fluid obstruction results in galactocele, which is benign [11]."
+  },
+  {
+    "front": "Clinical Case Study: 65y/o woman, soreness/oozing from nipple, no trauma, fissuring/ulceration of areola. Hard 5cm lump underneath. Probable diagnosis?",
+    "back": "Paget's disease of the nipple with underlying infiltrating duct carcinoma (T2, N1) [48, 49]."
+  },
+  {
+    "front": "Problem-Solving: A patient presents with a hard mass and nipple retraction. Besides cancer, what inflammatory condition must be ruled out?",
+    "back": "Mammary duct ectasia, which can cause both a palpable mass and nipple retraction due to fibrous scarring [8]."
+  },
+  {
+    "front": "University-Level Exam Question: What are the common sites for haematogenous metastatic spread of breast cancer?",
+    "back": "Lungs, liver, bones, adrenals, brain, and ovaries [50]."
+  },
+  {
+    "front": "Reflective Question: Why is the presence of an inflammatory reaction in the tumor stroma considered a 'controversial' prognostic factor?",
+    "back": "While some forms, like the lymphoid infiltrate in medullary carcinoma, suggest a better host immune response and prognosis [35], in other types, the significance is less clear and is listed as poor or controversial [51]."
+  },
+  {
+    "front": "Core Concept: Define 'Pau d'orange'.",
+    "back": "An orange-peel appearance of the breast skin seen in inflammatory carcinoma due to skin edema caused by dermal lymphatic invasion [38]."
+  },
+  {
+    "front": "Problem-Solving: How does breast conservative therapy (BCT) affect the management of carcinoma in situ?",
+    "back": "BCT requires careful consideration of surgical margins, disease extent, and biological markers like p53 to reduce recurrence risk [52]."
+  },
+  {
+    "front": "Critical Thinking: Why is 'Clinging Carcinoma' considered a specific diagnostic category in some classifications?",
+    "back": "It is a lesion related to DCIS but has a lower risk of progression to invasive cancer, though it still demands attention [53]."
+  },
+  {
+    "front": "Core Concept: What are the molecular types of breast cancer proposed by microarray gene profiling?",
+    "back": "Luminal type A (good prognosis), Luminal type B, HER2/neu type, basal-like type (worst prognosis), and normal breast-like type [54]."
+  },
+  {
+    "front": "Bias Recognition: Why is it important to perform a biopsy on all breast lumps, regardless of age?",
+    "back": "Clinicians may have a bias that 'young age equals benignancy,' but although rare, breast cancer can occur before age 25, and all lumps must be excluded from malignancy surgically or cytologically [23]."
+  }
+]
+}

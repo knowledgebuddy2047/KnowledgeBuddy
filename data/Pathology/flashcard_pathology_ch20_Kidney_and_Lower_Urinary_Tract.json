@@ -1,0 +1,230 @@
+{
+  "flashcards":
+
+[
+  {
+    "front": "Explanation Note: Describe the three components of the glomerular filtration barrier.",
+    "back": "1. Fenestrated endothelial cells lining the capillary loops. 2. Glomerular basement membrane (GBM) consisting of three layers (lamina densa, rara interna, and rara externa). 3. Filtration slit pores between podocyte foot processes [1, 2]."
+  },
+  {
+    "front": "Core Concept: Define 'Medullary Rays' and explain why the name is considered a misnomer.",
+    "back": "Medullary rays are faint striations located in the renal cortex; they are a misnomer because they consist of structures (loops of Henle and collecting ducts) destined for the medulla rather than being part of it [3]."
+  },
+  {
+    "front": "Explanation Note: Summarize the primary functions of the Juxtaglomerular Apparatus (JGA).",
+    "back": "The JGA is the principal source of renin production and is intimately involved in sodium metabolism and blood pressure regulation [4, 5]."
+  },
+  {
+    "front": "Core Concept: Differentiate between Azotaemia and Uraemia.",
+    "back": "Azotaemia is a biochemical abnormality characterized by elevated BUN and creatinine levels. Uraemia is the association of these biochemical abnormalities with clinical signs and symptoms of renal failure [6]."
+  },
+  {
+    "front": "Critical Thinking: Why is the renal cortex more susceptible to hypertensive injury than the medulla?",
+    "back": "The cortex receives 90% of total renal blood supply, and the pressure in the glomerular capillaries is high, making it more prone to the effects of systemic hypertension [7]."
+  },
+  {
+    "front": "University-Level Exam Question: List the clinical hallmarks of the Acute Nephritic Syndrome.",
+    "back": "1. Haematuria (smoky urine). 2. Mild proteinuria (<3 gm/24 hrs). 3. Hypertension. 4. Oedema. 5. Oliguria [8, 9]."
+  },
+  {
+    "front": "PLAB/USMLE Pattern: A 5-year-old child presents with periorbital oedema and smoky urine 2 weeks after a skin infection. What is the most likely diagnosis and pathognomonic finding on EM?",
+    "back": "Diagnosis: Acute Post-Streptococcal Glomerulonephritis (PSGN). EM Finding: Characteristic subepithelial electron-dense 'humps' [10, 11]."
+  },
+  {
+    "front": "Core Concept: What are the four defining features of the Nephrotic Syndrome?",
+    "back": "1. Massive proteinuria (>3.5 gm/24 hrs). 2. Hypoalbuminaemia. 3. Generalised oedema. 4. Hyperlipidaemia and lipiduria [12]."
+  },
+  {
+    "front": "Critical Thinking: Explain the mechanism of hyperlipidaemia in Nephrotic Syndrome.",
+    "back": "The liver responds to the stress of massive protein loss by increasing the synthesis of lipoproteins to compensate [13]."
+  },
+  {
+    "front": "Core Concept: Define the 'Rule of 3s' for genetic mutations in Adult Polycystic Kidney Disease (ADPKD).",
+    "back": "ADPKD-1 (85% of cases) involves a mutation on Chromosome 16 (PKD-1 gene), while ADPKD-2 (15% of cases) involves a mutation on Chromosome 4 (PKD-2 gene) [14]."
+  },
+  {
+    "front": "Explanation Note: Describe the systemic manifestations associated with ADPKD.",
+    "back": "Extra-renal features include liver cysts (found in 1/3 of patients), intracranial 'berry' aneurysms of the circle of Willis (15% of patients), and cysts in the pancreas or lungs [15]."
+  },
+  {
+    "front": "Bias Recognition: Why might a clinician fail to diagnose Rapidly Progressive Glomerulonephritis (RPGN) early, and how can this be avoided?",
+    "back": "Anchor Bias: Clinicians may anchor on a simple UTI or self-limiting GN due to the initial presentation. This is avoided by closely monitoring renal function (BUN/Creatinine) and recognizing that any rapid decline in GFR requires urgent biopsy to look for 'crescents' [16]."
+  },
+  {
+    "front": "Core Concept: What is the primary stimulus for 'crescent' formation in RPGN?",
+    "back": "The leakage of fibrin into the capsular (Bowman's) space acts as a potent stimulus for the proliferation of parietal epithelial cells and invading mononuclear cells [16, 17]."
+  },
+  {
+    "front": "University-Level Exam Question: Contrast the findings in Goodpasture's Syndrome (Type I RPGN) vs. Pauci-immune GN (Type III RPGN) on Immunofluorescence.",
+    "back": "Type I: Linear IgG and C3 deposits along the GBM. Type III: Sparse or absent (pauci-immune) immunoglobulin and C3 deposits [18, 19]."
+  },
+  {
+    "front": "Core Concept: What is the histological hallmark of Minimal Change Disease (MCD) on Electron Microscopy?",
+    "back": "Diffuse flattening or effacement of the foot processes of visceral epithelial cells (podocytes) [20]."
+  },
+  {
+    "front": "Critical Thinking: Why is proteinuria in children with MCD described as 'highly selective'?",
+    "back": "The damage is restricted to the loss of negative charge on the GBM, allowing only low-molecular-weight proteins like albumin to pass, while larger proteins are still restricted [21, 22]."
+  },
+  {
+    "front": "PLAB/USMLE Pattern: A 50-year-old male smoker with nephrotic syndrome shows 'spikes' and 'domes' on silver-stained renal biopsy. What is the diagnosis?",
+    "back": "Membranous Glomerulonephritis (Epimembranous Nephropathy) [23, 24]."
+  },
+  {
+    "front": "Core Concept: Define the 'Tram-Track' or 'Double Contour' appearance in Membranoproliferative GN (MPGN).",
+    "back": "It is the splitting or duplication of the GBM seen on silver stains, caused by the interposition of mesangial cell processes into the capillary wall [25]."
+  },
+  {
+    "front": "Critical Thinking: Distinguish between the pathogenesis of MPGN Type I and Type II.",
+    "back": "Type I is an immune-complex disease with subendothelial deposits. Type II (Dense Deposit Disease) involves alternate pathway complement activation and intramembranous deposits [26, 27]."
+  },
+  {
+    "front": "Core Concept: What is the most common form of glomerulopathy worldwide and its diagnostic IF finding?",
+    "back": "IgA Nephropathy (Berger's Disease). Diagnostic finding: Aggregates of IgA deposited principally in the mesangium [28]."
+  },
+  {
+    "front": "University-Level Exam Question: List the six WHO classes of Lupus Nephritis.",
+    "back": "Class I: Minimal lesions; Class II: Mesangial; Class III: Focal segmental; Class IV: Diffuse proliferative (most common/severe); Class V: Membranous; Class VI: Sclerosing [29-36]."
+  },
+  {
+    "front": "Core Concept: Define Kimmelstiel-Wilson (KW) lesions in Diabetic Nephropathy.",
+    "back": "These are ovoid, laminated, hyaline nodules located within the glomerular lobules, surrounded by peripheral capillary loops. They are specific for Type 1 (juvenile-onset) diabetes [35]."
+  },
+  {
+    "front": "Problem Solving: A patient with long-standing diabetes presents with asymptomatic proteinuria. What are the four types of renal lesions typically seen in this disease?",
+    "back": "1. Diabetic glomerulosclerosis (diffuse or nodular). 2. Vascular lesions (atheroma/hyaline arteriolosclerosis). 3. Diabetic pyelonephritis. 4. Tubular lesions (Armanni-Ebstein lesions) [37]."
+  },
+  {
+    "front": "PLAB/USMLE Pattern: An X-linked dominant condition presents with sensorineural deafness and cataracts alongside persistent haematuria. What is the diagnosis and underlying defect?",
+    "back": "Alport’s Syndrome. Defect: Mutation in the alpha-5 chain of Type IV collagen [38]."
+  },
+  {
+    "front": "Critical Thinking: Contrast Ischaemic ATN with Toxic ATN regarding the site of injury.",
+    "back": "Ischaemic ATN typically shows focal damage, especially in the distal parts of convoluted tubules (tubulorrhexis). Toxic ATN involves diffuse damage, primarily in the proximal convoluted tubules [39, 40]."
+  },
+  {
+    "front": "Core Concept: What are the three phases of clinical recovery in Acute Tubular Necrosis (ATN)?",
+    "back": "1. Oliguric phase (urinary output <400 ml/day). 2. Diuretic phase (increasing output but low concentration). 3. Phase of recovery (restoration of normal function) [41-43]."
+  },
+  {
+    "front": "Explanation Note: Describe the two main routes of infection in Acute Pyelonephritis.",
+    "back": "1. Ascending infection (most common, especially in females due to short urethra). 2. Haematogenous infection (less common, usually in immunosuppressed or obstructed patients) [44, 45]."
+  },
+  {
+    "front": "Critical Thinking: Why is 'Honeymoon Pyelitis' a common clinical term?",
+    "back": "It refers to acute pyelonephritis following urethral trauma during sexual intercourse, which facilitates the ascent of bacteria into the bladder and kidneys [46]."
+  },
+  {
+    "front": "Core Concept: What are the two major etiologic mechanisms for Chronic Pyelonephritis?",
+    "back": "1. Reflux nephropathy (vesicoureteric reflux, especially in children). 2. Obstructive pyelonephritis (recurrent infections due to urinary tract blockage) [47, 48]."
+  },
+  {
+    "front": "University-Level Exam Question: Differentiate the gross appearance of a kidney in Chronic Pyelonephritis vs. Benign Nephrosclerosis.",
+    "back": "Chronic Pyelonephritis: Irregularly scarred with U-shaped cortical depressions and blunted calyces. Benign Nephrosclerosis: Finely granular surface with V-shaped areas of scarring [49, 50]."
+  },
+  {
+    "front": "Core Concept: Define 'Thyroidisation' of renal tubules.",
+    "back": "Seen in Chronic Pyelonephritis; dilated tubules fill with eosinophilic colloid casts, giving the kidney a histological appearance similar to thyroid tissue [51]."
+  },
+  {
+    "front": "Explanation Note: What is the diagnostic significance of 'Fractured Casts' in a renal biopsy?",
+    "back": "These are bright pink, laminated, and fractured casts of Bence-Jones proteins, diagnostic of Myeloma Nephropathy [52]."
+  },
+  {
+    "front": "Critical Thinking: Explain the relationship between Proteus species and 'Staghorn' calculi.",
+    "back": "Proteus is a urea-splitting organism that produces urease, making the urine alkaline. This promotes the precipitation of magnesium-ammonium-phosphate (struvite), which can grow to fill the entire renal pelvis [53, 54]."
+  },
+  {
+    "front": "Core Concept: Which type of urinary stone is radiolucent and associated with primary gout?",
+    "back": "Uric acid stones [55]."
+  },
+  {
+    "front": "Bias Recognition: A patient with known kidney stones presents with loin pain. Why is it dangerous to assume it is just another stone?",
+    "back": "Availability Bias: The doctor may miss an evolving Renal Cell Carcinoma or Pyelonephritis because the 'stone' diagnosis is most readily available in memory. Persistent haematuria must be evaluated for malignancy [56]."
+  },
+  {
+    "front": "University-Level Exam Question: List the stages of Hydronephrosis evolution.",
+    "back": "1. Extrarenal hydronephrosis (dilatation of pelvis medially). 2. Intrarenal hydronephrosis (progressive dilatation of calyces and pressure atrophy of cortex) [57, 58]."
+  },
+  {
+    "front": "Core Concept: Define the two stages of Hypertension per NIH criteria.",
+    "back": "Stage 1: 140-159/90-99 mmHg. Stage 2: >160/100 mmHg [59]."
+  },
+  {
+    "front": "Explanation Note: Describe the three functions of the Renin-Angiotensin System.",
+    "back": "1. Control of blood pressure via Angiotensin II and Aldosterone. 2. Regulation of sodium and water content. 3. Regulation of potassium balance [60]."
+  },
+  {
+    "front": "Core Concept: What are the characteristic vascular changes in Malignant Nephrosclerosis?",
+    "back": "1. Necrotising arteriolitis (fibrinoid necrosis). 2. Hyperplastic intimal sclerosis ('onion-skin' proliferation) [61]."
+  },
+  {
+    "front": "PLAB/USMLE Pattern: A patient with accelerated hypertension (200/140 mmHg) presents with papilloedema and 'flea-bitten' kidneys on imaging. What is the diagnosis?",
+    "back": "Malignant Nephrosclerosis [62, 63]."
+  },
+  {
+    "front": "Core Concept: Define Oncocytoma and its gross appearance.",
+    "back": "A benign epithelial tumour arising from collecting ducts. Grossly, it is encapsulated and has a characteristic mahogany-brown or tan colour [64, 65]."
+  },
+  {
+    "front": "Problem Solving: A 60-year-old male presents with the 'classic triad' for Renal Cell Carcinoma (RCC). What are these three symptoms?",
+    "back": "1. Gross haematuria (most common, 60%). 2. Flank pain. 3. Palpable abdominal mass [56]."
+  },
+  {
+    "front": "Critical Thinking: Why is RCC often referred to as a 'great mimicker' or source of paraneoplastic syndromes?",
+    "back": "It produces ectopic hormones leading to polycythaemia (erythropoietin), hypercalcaemia (PTH-like hormone), and hypertension (renin) [56, 66]."
+  },
+  {
+    "front": "Core Concept: What genetic mutation is associated with sporadic Clear Cell RCC?",
+    "back": "Homozygous loss of the VHL (von Hippel-Lindau) tumour suppressor gene on chromosome 3p [67, 68]."
+  },
+  {
+    "front": "PLAB/USMLE Pattern: A 3-year-old child presents with a large palpable flank mass. Histology shows abortive tubules and small round blue cells. Diagnosis and gene involved?",
+    "back": "Wilms’ Tumour (Nephroblastoma). Gene: WT1 gene on chromosome 11p13 [66, 69]."
+  },
+  {
+    "front": "University-Level Exam Question: List the WAGR syndrome components.",
+    "back": "Wilms’ tumour, Aniridia (absence of iris), Genitourinary anomalies, and mental Retardation [70]."
+  },
+  {
+    "front": "Core Concept: Define 'Umbrella Cells' in the lower urinary tract.",
+    "back": "These are large, superficial epithelial cells in the urothelium with abundant eosinophilic cytoplasm that protect the underlying layers of the bladder [71]."
+  },
+  {
+    "front": "Critical Thinking: Why is chronic Schistosoma haematobium infection a specific risk factor for Squamous Cell Carcinoma of the bladder?",
+    "back": "The parasitic infestation induces local irritation and initiates squamous metaplasia, which progresses to malignancy in countries like Egypt and Sudan [72, 73]."
+  },
+  {
+    "front": "Core Concept: Define 'Michaelis-Gutmann bodies' in Malakoplakia.",
+    "back": "These are cytoplasmic laminated concretions of calcium phosphate within foamy macrophages, representing incompletely digested bacterial debris [74]."
+  },
+  {
+    "front": "Explanation Note: Describe 'Interstitial Cystitis' and its classic endoscopic finding.",
+    "back": "A chronic inflammatory variant in middle-aged women causing severe pain on bladder distension. Classic finding: A localized 'Hunner’s ulcer' [75, 76]."
+  },
+  {
+    "front": "Critical Thinking: Explain the concept of 'Polychronotropism' in bladder cancer.",
+    "back": "Bladder tumours are multifocal and tend to recur over time at different locations within the urinary tract due to a 'field effect' in the urothelium [77, 78]."
+  },
+  {
+    "front": "Clinical Case Discussion (Case 20): A 5-year-old boy presents with smoky urine and facial puffiness following skin boils. What is the diagnosis and its pathogenesis?",
+    "back": "Diagnosis: Post-streptococcal Glomerulonephritis (PSGN). Pathogenesis: Immune complex-mediated injury following infection with nephritogenic strains of Group A beta-haemolytic streptococci [10, 79]."
+  },
+  {
+    "front": "Clinical Case Discussion (Case 21): A 50-year-old man presents with weight loss, flank pain, and a palpable mass. Biopsy shows clear cells with delicate vasculature. Diagnosis?",
+    "back": "Renal Cell Carcinoma (RCC), clear cell type [68, 80]."
+  },
+  {
+    "front": "Problem Solving: In the oliguric phase of ARF, why does hyperkalaemia develop?",
+    "back": "Decreased GFR prevents the normal excretion of potassium in the urine, while metabolic acidosis further shifts potassium out of cells into the blood [81]."
+  },
+  {
+    "front": "Core Concept: Define 'Uraemic Frost'.",
+    "back": "A powdery deposit of urea found on the skin of patients with severe uraemia, caused by the evaporation of sweat with high urea content [82]."
+  },
+  {
+    "front": "Bias Recognition: What is 'Diagnostic Overshadowing' in the context of chronic kidney disease?",
+    "back": "Clinicians may attribute new systemic symptoms (like nausea or bone pain) purely to the 'primary' renal failure, failing to investigate secondary complications like peptic ulcers or hyperparathyroidism (renal osteodystrophy) [83, 84]."
+  }
+]
+}

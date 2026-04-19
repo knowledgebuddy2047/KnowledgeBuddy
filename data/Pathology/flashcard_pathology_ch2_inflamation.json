@@ -1,0 +1,84 @@
+{
+  "flashcards": [
+    {
+      "front": "Define inflammation in pathology.",
+      "back": "Inflammation is a protective response of vascularized tissues to infections and tissue damage, delivering leukocytes and plasma proteins to eliminate harmful agents."
+    },
+    {
+      "front": "List the five cardinal signs of inflammation.",
+      "back": "Heat (calor), Redness (rubor), Swelling (tumor), Pain (dolor), Loss of function (functio laesa)."
+    },
+    {
+      "front": "Which cells predominate in acute inflammation?",
+      "back": "Neutrophils (polymorphonuclear leukocytes)."
+    },
+    {
+      "front": "Which cells predominate in chronic inflammation?",
+      "back": "Macrophages and lymphocytes."
+    },
+    {
+      "front": "What are the five Rs of inflammation?",
+      "back": "Recognition, Recruitment, Removal, Regulation, Resolution."
+    },
+    {
+      "front": "Name two receptor families that recognize microbes in inflammation.",
+      "back": "Toll-like receptors (TLRs) and cytosolic receptors for DAMPs."
+    },
+    {
+      "front": "What cytokine is produced by inflammasome activation?",
+      "back": "Interleukin-1 (IL-1)."
+    },
+    {
+      "front": "Differentiate between exudate and transudate.",
+      "back": "Exudate: high protein, cellular debris, due to increased vascular permeability. Transudate: low protein, few cells, due to hydrostatic/oncotic imbalance."
+    },
+    {
+      "front": "Which mediator causes vasodilation in acute inflammation?",
+      "back": "Histamine."
+    },
+    {
+      "front": "Which mediator increases vascular permeability by endothelial contraction?",
+      "back": "Histamine, bradykinin, and leukotrienes."
+    },
+    {
+      "front": "What is lymphangitis?",
+      "back": "Inflammation of lymphatic vessels, often seen as red streaks near a wound."
+    },
+    {
+      "front": "What is lymphadenitis?",
+      "back": "Inflammation of draining lymph nodes, often presenting as painful enlargement."
+    },
+    {
+      "front": "Give examples of diseases caused by acute inflammatory reactions.",
+      "back": "Acute respiratory distress syndrome, asthma, glomerulonephritis, septic shock."
+    },
+    {
+      "front": "Give examples of diseases caused by chronic inflammatory reactions.",
+      "back": "Rheumatoid arthritis, atherosclerosis, pulmonary fibrosis, chronic asthma."
+    },
+    {
+      "front": "What is the role of complement proteins in inflammation?",
+      "back": "Complement proteins opsonize microbes, promote leukocyte recruitment, and generate inflammatory mediators."
+    },
+    {
+      "front": "What is the role of mannose-binding lectin?",
+      "back": "It recognizes microbial sugars and activates complement, promoting phagocytosis."
+    },
+    {
+      "front": "What is the difference in onset between acute and chronic inflammation?",
+      "back": "Acute: rapid onset (minutes to hours). Chronic: slow onset (days)."
+    },
+    {
+      "front": "What is the typical outcome of acute inflammation?",
+      "back": "Elimination of the stimulus, resolution of inflammation, and tissue repair."
+    },
+    {
+      "front": "What happens if acute inflammation fails to clear the stimulus?",
+      "back": "It progresses to chronic inflammation with tissue destruction and fibrosis."
+    },
+    {
+      "front": "Why is inflammation considered a double-edged sword?",
+      "back": "It protects against infection and injury but can cause tissue damage when excessive, misdirected, or prolonged."
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "flashcards":
+
+[
+  {
+    "front": "What is the average weight of the heart in an adult male?",
+    "back": "300-350 gm."
+  },
+  {
+    "front": "What is the normal thickness of the left ventricular wall?",
+    "back": "1.3 to 1.5 cm."
+  },
+  {
+    "front": "Identify the 'cardiac pacemaker' and its location.",
+    "back": "The sinoatrial (SA) node; located in the posterior wall of the right atrium."
+  },
+  {
+    "front": "Which coronary artery supplies the apex of the heart?",
+    "back": "The Left Anterior Descending (LAD) artery."
+  },
+  {
+    "front": "Define Congestive Heart Failure (CHF).",
+    "back": "The chronic form of heart failure with evidence of congestion in peripheral circulation and lungs."
+  },
+  {
+    "front": "According to Starling’s law, how does a dilated heart maintain stroke volume?",
+    "back": "By increasing the length of sarcomeres to increase myocardial contractility."
+  },
+  {
+    "front": "What is the most common congenital heart anomaly?",
+    "back": "Ventricular Septal Defect (VSD), comprising about 30% of cases."
+  },
+  {
+    "front": "What drug is used pharmacologically to close a Patent Ductus Arteriosus (PDA)?",
+    "back": "Indomethacin (to suppress PGE2 synthesis)."
+  },
+  {
+    "front": "List the four features of Tetralogy of Fallot.",
+    "back": "1. VSD, 2. Overriding aorta, 3. Pulmonary stenosis, 4. Right ventricular hypertrophy."
+  },
+  {
+    "front": "Distinguish between Preductal and Postductal Coarctation of the Aorta.",
+    "back": "Preductal (infantile) is proximal to the ductus; Postductal (adult) is distal to the ductus."
+  },
+  {
+    "front": "Define Ischaemic Heart Disease (IHD).",
+    "back": "Cardiac disability from imbalance between myocardial oxygen supply and demand."
+  },
+  {
+    "front": "What percentage of coronary lumen compromise is considered significant for stenotic lesions?",
+    "back": "More than 75% reduction in cross-sectional area."
+  },
+  {
+    "front": "Identify the triad of Acute Coronary Syndromes.",
+    "back": "1. Acute Myocardial Infarction, 2. Unstable Angina, 3. Sudden Cardiac Death."
+  },
+  {
+    "front": "What ECG change is characteristic of Stable Angina during an attack?",
+    "back": "Depression of the ST segment."
+  },
+  {
+    "front": "What ECG change is characteristic of Prinzmetal’s Variant Angina?",
+    "back": "ST segment elevation (due to transmural ischaemia)."
+  },
+  {
+    "front": "Why are women during their reproductive period at lower risk for MI?",
+    "back": "Due to the protective influence of oestrogen."
+  },
+  {
+    "front": "What is the most common coronary artery site for MI-causing stenosis?",
+    "back": "Left Anterior Descending (LAD) coronary artery (40-50%)."
+  },
+  {
+    "front": "How do you histochemically detect an MI that is only 3-6 hours old?",
+    "back": "Use TTC (triphenyltetrazolium chloride) or NBT (nitroblue tetrazolium) stains; infarcted areas remain unstained."
+  },
+  {
+    "front": "At what time point after MI is a grey-white fibrous scar well-developed?",
+    "back": "About 2 to 3 months (starts appearing at 6 weeks)."
+  },
+  {
+    "front": "What is 'Myocytolysis'?",
+    "back": "Vacuolar degeneration of muscle fibres often seen at the margins of an infarct."
+  },
+  {
+    "front": "What is the 'door-to-needle' time goal for thrombolytic therapy?",
+    "back": "Less than 30 minutes."
+  },
+  {
+    "front": "Which serum cardiac marker is the most specific for myocardial damage?",
+    "back": "Cardiac Troponins (cTnI and cTnT)."
+  },
+  {
+    "front": "How long does Cardiac Troponin T (cTnT) remain elevated in the blood?",
+    "back": "10-14 days."
+  },
+  {
+    "front": "What is the most common complication and cause of sudden death following acute MI?",
+    "back": "Arrhythmias (specifically ventricular fibrillation)."
+  },
+  {
+    "front": "What is Dressler’s Syndrome?",
+    "back": "Postmyocardial infarction syndrome characterized by pneumonitis, occurring 1-6 weeks after MI."
+  },
+  {
+    "front": "What is the primary stimulus for Left Ventricular Hypertrophy (LVH)?",
+    "back": "Pressure overload, most commonly from systemic hypertension."
+  },
+  {
+    "front": "Define Cor Pulmonale.",
+    "back": "Right-sided heart disease resulting from disorders of the lungs."
+  },
+  {
+    "front": "What is the pathognomonic histological feature of Rheumatic Fever?",
+    "back": "Aschoff nodules or Aschoff bodies."
+  },
+  {
+    "front": "Describe Anitschkow cells.",
+    "back": "Cardiac histiocytes with 'caterpillar-like' (longitudinal) or 'owl-eye' (cross-section) nuclei."
+  },
+  {
+    "front": "What is 'MacCallum’s patch'?",
+    "back": "A map-like area of thickened, wrinkled endocardium in the posterior left atrium seen in Rheumatic Fever."
+  },
+  {
+    "front": "Which heart valve is most frequently involved in Rheumatic Heart Disease (RHD)?",
+    "back": "The Mitral valve (almost always involved; 37% alone)."
+  },
+  {
+    "front": "What is the 'fish-mouth' or 'button-hole' appearance in RHD indicative of?",
+    "back": "Chronic healed Mitral Stenosis."
+  },
+  {
+    "front": "Define 'Migratory Polyarthritis' in the context of RF.",
+    "back": "Painful inflammation that moves from one large joint to another, involving two or more at a time."
+  },
+  {
+    "front": "What are the five Major Jones Criteria for diagnosing RF?",
+    "back": "1. Carditis, 2. Polyarthritis, 3. Chorea, 4. Erythema marginatum, 5. Subcutaneous nodules."
+  },
+  {
+    "front": "Contrast the vegetations of RF vs. Infective Endocarditis.",
+    "back": "RF: Small, warty, firmly attached (no emboli). IE: Large, irregular, friable (common emboli)."
+  },
+  {
+    "front": "What is the pathognomonic microscopic finding in Libman-Sacks Endocarditis?",
+    "back": "Haematoxylin bodies of Gross."
+  },
+  {
+    "front": "What is 'Marantic' Endocarditis?",
+    "back": "Non-bacterial thrombotic endocarditis associated with debilitating diseases like cancer."
+  },
+  {
+    "front": "Distinguish Acute Bacterial Endocarditis (ABE) from Subacute (SABE) by organism.",
+    "back": "ABE: Staph aureus (highly virulent). SABE: Strep viridans (low virulence)."
+  },
+  {
+    "front": "What are Osler’s nodes?",
+    "back": "Painful, tender nodules on fingertips/feet in SABE."
+  },
+  {
+    "front": "What are Janeway’s spots?",
+    "back": "Painless, non-tender subcutaneous maculopapular lesions on finger pulps in ABE."
+  },
+  {
+    "front": "Define Valvular Insufficiency.",
+    "back": "Failure of a valve to close completely during systole, resulting in regurgitation."
+  },
+  {
+    "front": "What is the 'Floppy Valve Syndrome'?",
+    "back": "Myxomatous degeneration of the mitral valve (Mitral Valve Prolapse)."
+  },
+  {
+    "front": "Which side of the heart is primarily affected in Carcinoid Heart Disease and why?",
+    "back": "The right side; serotonin is inactivated in the lungs, sparing the left side."
+  },
+  {
+    "front": "What is the most common causative agent of Viral Myocarditis?",
+    "back": "Coxsackievirus B."
+  },
+  {
+    "front": "Define Primary Cardiomyopathy.",
+    "back": "Heart muscle disease with an unknown underlying cause."
+  },
+  {
+    "front": "What is the most common form of Primary Cardiomyopathy?",
+    "back": "Idiopathic Dilated (Congestive) Cardiomyopathy."
+  },
+  {
+    "front": "Which cardiomyopathy is characterized by asymmetric septal hypertrophy?",
+    "back": "Idiopathic Hypertrophic Cardiomyopathy (Teare's disease)."
+  },
+  {
+    "front": "What is 'Cardiac Tamponade'?",
+    "back": "Compression of the heart due to rapid accumulation of fluid in the pericardial sac (as little as 250 ml)."
+  },
+  {
+    "front": "What is the 'Bread and Butter' appearance grossly?",
+    "back": "The shaggy surfaces of fibrinous pericarditis when the layers are pulled apart."
+  },
+  {
+    "front": "What is the most common primary benign tumor of the heart?",
+    "back": "Myxoma (90% in the left atrium)."
+  },
+  {
+    "front": "Which ventricle is preferred for Endomyocardial Biopsy (EMB) and why?",
+    "back": "The right ventricle, for relative ease and safety."
+  },
+  {
+    "front": "What is the survival rate 1 year after a cardiac transplant?",
+    "back": "85%."
+  }
+]
+}

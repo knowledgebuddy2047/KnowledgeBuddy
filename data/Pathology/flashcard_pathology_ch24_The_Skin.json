@@ -1,0 +1,218 @@
+{
+  "flashcards":
+
+[
+  {
+    "front": "**Explanation Note**: Summarize the five layers of the epidermis from the base to the surface.",
+    "back": "The layers are the **basal cell layer** (stratum germinatum) for regeneration, the **prickle cell layer** (stratum spinosum) containing tonofilaments, the **granular cell layer** (stratum granulosum) with keratohyaline granules, the **stratum lucidum** (palms/soles only), and the **horny layer** (stratum corneum) consisting of keratin [1-3]."
+  },
+  {
+    "front": "**Core Concept**: Define **Acanthosis** and **Hyperkeratosis**.",
+    "back": "**Acanthosis** is the thickening of the epidermis due to hyperplasia of the stratum malpighii [4]. **Hyperkeratosis** is defined as the thickening of the horny layer [5]."
+  },
+  {
+    "front": "**Core Concept**: What is **Parakeratosis**?",
+    "back": "It is abnormal keratinisation where the horny layer retains **nucleated keratinocytes** instead of the normal non-nucleate keratin layer [5]."
+  },
+  {
+    "front": "**Core Concept**: Define **Spongiosis**.",
+    "back": "Spongiosis is **intercellular oedema** of the epidermis, which can progress to the formation of intraepidermal vesicles [6]."
+  },
+  {
+    "front": "**Core Concept**: What is the ratio of **melanocytes** to keratinocytes in the basal layer?",
+    "back": "The ratio is typically **1:4 to 1:10** depending on the body site [1]."
+  },
+  {
+    "front": "**Core Concept**: Differentiate between the two types of **sweat glands**.",
+    "back": "**Eccrine glands** are coiled tubular glands present all over the skin, especially on palms and soles [7]. **Apocrine glands** are found in specific areas like the axillae and anogenital region and use **decapitation secretion** [8]."
+  },
+  {
+    "front": "**Core Concept**: What creates the clinical appearance of **'goose pimple skin'**?",
+    "back": "It is produced by the contraction of the **arrectores pilori**, which are small bundles of smooth muscle attached to hair follicles [9]."
+  },
+  {
+    "front": "**Core Concept**: Describe the specialized nerve endings: **Pacinian** and **Meissner** corpuscles.",
+    "back": "**Pacinian corpuscles** are concerned with pressure and are found in deep skin layers [10]. **Meissner corpuscles** are touch receptors located in the papillae of the palms, soles, and fingertips [10]."
+  },
+  {
+    "front": "**Explanation Note**: Distinguish the histological features of **Ichthyosis vulgaris** vs. **Sex-linked ichthyosis**.",
+    "back": "**Ichthyosis vulgaris** shows hyperkeratosis with a **thin or absent granular layer** [11]. **Sex-linked ichthyosis** shows hyperkeratosis with a **normal or thickened** granular cell layer and acanthosis [12]."
+  },
+  {
+    "front": "**Core Concept**: What is the underlying cause of **Xeroderma Pigmentosum**?",
+    "back": "It is an autosomal recessive disorder resulting from a **decreased ability to repair sunlight-induced DNA damage** [12]."
+  },
+  {
+    "front": "**Core Concept**: Identify the characteristic histological features of **Darier’s Disease**.",
+    "back": "The hallmarks are hyperkeratosis, papillomatosis, and **dyskeratosis** resulting in **'corps ronds'** and **'grains'** [13]."
+  },
+  {
+    "front": "**Core Concept**: What is the histological hallmark of **Urticaria Pigmentosa**?",
+    "back": "The characteristic feature is the presence of **numerous mast cells** in the dermis [14]."
+  },
+  {
+    "front": "**Explanation Note**: Summarize the three histological stages of **Dermatitis (Eczema)**.",
+    "back": "**Acute** involves considerable spongiosis and intraepidermal vesicles [15]. **Subacute** shows smaller vesicles, moderate acanthosis, and crusting [15]. **Chronic** features hyperkeratosis, acanthosis with elongation of rete ridges, and broadened dermal papillae [16]."
+  },
+  {
+    "front": "**Core Concept**: Differentiate **Miliaria crystallina** from **Miliaria rubra**.",
+    "back": "**Miliaria crystallina** involves sweat duct obstruction in the **stratum corneum** [17]. **Miliaria rubra** involve obstruction in the **deeper layers** of the epidermis [17]."
+  },
+  {
+    "front": "**Core Concept**: What are **comedones** in Acne Vulgaris?",
+    "back": "They are blocked hair follicles; **'black heads'** are open comedones dark due to melanin oxidation, while **'white heads'** are closed follicles [18]."
+  },
+  {
+    "front": "**Core Concept**: Identify the histological pathognomonic feature of **Impetigo**.",
+    "back": "The hallmark is the **subcorneal pustule**, which is a collection of neutrophils located just under the stratum corneum [19]."
+  },
+  {
+    "front": "**Core Concept**: Link HPV types to **Verruca vulgaris** and **Condyloma acuminatum**.",
+    "back": "**Verruca vulgaris** (common wart) is usually caused by **HPV-1 and 2** [20]. **Condyloma acuminatum** (anogenital wart) is commonly caused by **HPV-6** [21]."
+  },
+  {
+    "front": "**Core Concept**: What are the pathognomonic bodies in **Molluscum Contagiosum**?",
+    "back": "They are **molluscum bodies**, which are intracytoplasmic eosinophilic inclusion bodies found in proliferating epidermal cells [22]."
+  },
+  {
+    "front": "**Core Concept**: Define the **'apple-jelly nodules'** of Lupus Vulgaris.",
+    "back": "They are tiny yellowish-brown to reddish-brown nodules found on the head and neck, histologically representing **well-defined tubercles** in the upper dermis [23]."
+  },
+  {
+    "front": "**Core Concept**: What are **'naked granulomas'** in Cutaneous Sarcoidosis?",
+    "back": "They are non-caseating epithelioid cell granulomas that have a **paucity of lymphocytes** [24]."
+  },
+  {
+    "front": "**Core Concept**: Describe the histological triad of **Psoriasis**.",
+    "back": "It involves **acanthosis with regular downgrowth of rete ridges**, absence of the granular layer, and **Munro microabscesses** in the parakeratotic horny layer [25]."
+  },
+  {
+    "front": "**Core Concept**: What are **'saw-toothed' rete ridges** associated with?",
+    "back": "They are a characteristic histological feature of **Lichen Planus**, along with liquefactive degeneration of the basal layer [26]."
+  },
+  {
+    "front": "**Critical Thinking**: Why is **Acantholysis** a critical finding in bullous diseases?",
+    "back": "It represents the **loss of cohesion** between epidermal cells, which is the essential feature of the **Pemphigus** group, differentiating them from non-acantholytic diseases like Pemphigoid [5, 27, 28]."
+  },
+  {
+    "front": "**Critical Thinking Focus**: Differentiate **Pemphigus vulgaris** from **Bullous Pemphigoid** based on blister location.",
+    "back": "**Pemphigus vulgaris** features **suprabasal** (intraepidermal) bullae [29]. **Bullous Pemphigoid** features **subepidermal** bullae [28]."
+  },
+  {
+    "front": "**Critical Thinking**: What is the significance of **Direct Immunofluorescence (DIF)** in Dermatitis Herpetiformis?",
+    "back": "DIF is diagnostic as it shows **granular deposits of IgA** specifically at the papillary tips [30]."
+  },
+  {
+    "front": "**Critical Thinking**: What does the **Auspitz sign** indicate clinically?",
+    "back": "It indicates **Psoriasis**; fine bleeding points appear when silvery scales are gently scraped away [31]."
+  },
+  {
+    "front": "**Critical Thinking Focus**: Explain the **'row of tombstones'** appearance in Pemphigus vulgaris.",
+    "back": "It refers to the **basal layer** remaining attached to the dermis while the layers above are separated by the suprabasal bulla [29]."
+  },
+  {
+    "front": "**Clinical Case Study 1**: A 60-year-old male presents with a slow-growing nodule on his face with pearly rolled margins and central ulceration. No lymphadenopathy. Probable diagnosis?",
+    "back": "**Basal Cell Carcinoma (Rodent Ulcer)** [32, 33]. The classic location (face above the mouth line) and pearly margins are key indicators [32, 34]."
+  },
+  {
+    "front": "**Clinical Case Study 1 Discussion**: How does the **'Rodent Ulcer'** typically behave?",
+    "back": "It is **locally invasive** and slow-growing, destroying tissue by burrowing, but it **rarely metastasises** [32, 35]."
+  },
+  {
+    "front": "**Clinical Case Study 2**: A patient presents with symmetrically distributed violaceous, flat-topped, pruritic papules on the wrists and 'Wickham's striae' on the buccal mucosa. Diagnosis?",
+    "back": "**Lichen Planus** [26]. The combination of violaceous papules and mucosal involvement is characteristic [26]."
+  },
+  {
+    "front": "**Clinical Case Study 3**: A child presents with 'honey-colored' crusts on the face following vesico-pustules. What is the expected histological finding?",
+    "back": "**Impetigo**; specifically, a **subcorneal pustule** filled with neutrophils and possibly gram-positive bacteria [19, 36]."
+  },
+  {
+    "front": "**University-Level Exam Question**: Describe the histological patterns of **Basal Cell Carcinoma**.",
+    "back": "The most common is the **solid pattern** with irregular masses of basaloid cells showing **peripheral palisading** [35]. Other patterns include pigmented, keratotic, cystic, and adenoid variants [35]."
+  },
+  {
+    "front": "**University-Level Exam Question**: List the factors predisposing to **Squamous Cell Carcinoma (SCC)** of the skin.",
+    "back": "Predisposing factors include **prolonged sun exposure**, immunosuppression, Xeroderma Pigmentosum, solar keratosis, chronic ulcers, and old burn scars (Marjolin’s ulcers) [37]."
+  },
+  {
+    "front": "**University-Level Exam Question**: Compare **DLE** and **SLE** cutaneous lesions histologically.",
+    "back": "Both show **hyperkeratosis with plugging**, thinning of rete malpighii, and **hydropic degeneration of the basal layer** [38]. DIF reveals granular IgG/IgM deposits on the basement membrane in both [38]."
+  },
+  {
+    "front": "**University-Level Exam Question**: What are the features of **Malignant Melanoma** cells?",
+    "back": "Cells are larger than naevus cells, often **epithelioid or spindle-shaped**, with large pleomorphic nuclei and **conspicuous nucleoli** [39]. Mitotic figures are common [39]."
+  },
+  {
+    "front": "**University-Level Exam Question**: Define **Verrucous Carcinoma (Ackerman tumour)**.",
+    "back": "It is a **low-grade variant of SCC** that resembles a wart superficially but shows downward proliferation of broad masses of well-differentiated epithelium without cellular atypia [40]."
+  },
+  {
+    "front": "**PLAB & USMLE Pattern**: A 70-year-old farmer presents with rough, tan-brown lesions on his sun-exposed hands. Biopsy shows dysplasia of epidermal cells and hyperkeratosis but no basement membrane breach. Diagnosis?",
+    "back": "**Solar Keratosis (Actinic Keratosis)** [41]. It is a carcinoma in situ and a forerunner of invasive SCC [41, 42]."
+  },
+  {
+    "front": "**PLAB & USMLE Pattern**: A patient with long-standing gluten sensitivity develops itchy blisters on the elbows. What is the gold-standard diagnostic finding?",
+    "back": "**Dermatitis Herpetiformis**; confirmed by **granular IgA deposits at the papillary tips** on direct immunofluorescence [30, 43]."
+  },
+  {
+    "front": "**PLAB & USMLE Pattern**: Which histological finding is diagnostic of **Psoriasis**?",
+    "back": "**Munro microabscesses**, which are collections of neutrophils within the parakeratotic horny layer [25]."
+  },
+  {
+    "front": "**PLAB & USMLE Pattern**: A black lesion on the trunk has an irregular border, variegated color, and is 8mm in diameter. What is the **ABCD** acronym and its application?",
+    "back": "The acronym stands for **Asymmetry**, **Border irregularity**, **Colour change**, and **Diameter >6 mm**; it is used to differentiate Malignant Melanoma from benign moles [44]."
+  },
+  {
+    "front": "**PLAB & USMLE Pattern**: A biopsy shows **Darier-Pautrier’s microabscesses**. For which condition is this pathognomonic?",
+    "back": "**Mycosis Fungoides (Cutaneous T-cell Lymphoma)** [45]. These are intraepidermal clusters of atypical lymphoid cells [45]."
+  },
+  {
+    "front": "**PLAB & USMLE Pattern**: Match the HPV type to the malignancy risk: HPV 16/18 and HPV 6/11.",
+    "back": "**HPV 16 and 18** are high-risk types associated with Bowen's disease and cervical carcinoma [46]. **HPV 6 and 11** are low-risk types associated with anogenital warts [46]."
+  },
+  {
+    "front": "**Bias Recognition**: How might **Sutton’s Law** (looking where the money is) lead to error in Lupus Vulgaris diagnosis?",
+    "back": "Clinicians might anchor on common skin infections or Sarcoidosis because **tubercle bacilli are hard to demonstrate** in Lupus Vulgaris, leading to a missed diagnosis of skin TB [23]."
+  },
+  {
+    "front": "**Problem-Solving**: How can a clinician distinguish between a **Seborrheic Keratosis** and Malignant Melanoma?",
+    "back": "Seborrheic Keratosis is a sharply-demarcated, **'stuck-on'** appearing brownish lesion that histologically sits **above a straight line** from the normal epidermis, unlike the invasive growth of melanoma [47, 48]."
+  },
+  {
+    "front": "**Bias Recognition**: Avoiding **Premature Closure** in 'Skin Tag' diagnosis.",
+    "back": "While **Fibroepithelial polyps** (skin tags) are the most common cutaneous lesions, a clinician must ensure the lesion isn't a peduncultated **naevocellular naevus** or a viral wart, which require different management [49-51]."
+  },
+  {
+    "front": "**Problem-Solving**: Differentiate **Morphea** from **Progressive Systemic Sclerosis**.",
+    "back": "**Morphea** is the localised form limited to the skin and subcutaneous tissue [52]. **Progressive Systemic Sclerosis** is generalised with extensive skin involvement and **visceral lesions** [52]."
+  },
+  {
+    "front": "**Problem-Solving**: Identify the **Clark's Levels** of Melanoma invasion.",
+    "back": "Level I: Epidermis only; Level II: Papillary dermis; Level III: Papillary-reticular interface; Level IV: Reticular dermis; **Level V: Subcutaneous fat** [53]."
+  },
+  {
+    "front": "**Bias Recognition**: Why is the term **'leukoplakia'** avoided by pathologists in skin reporting?",
+    "back": "It is a **non-specific clinical term** for a white patch; pathologically, these patches could represent anything from vitiligo to invasive carcinoma, so descriptive terms like **Lichen Sclerosus** are preferred [54]."
+  },
+  {
+    "front": "**Core Concept**: What defines the **'Fungoid stage'** of Mycosis Fungoides?",
+    "back": "It is the third stage characterized by **red-brown nodules** of tumor that frequently undergo ulceration [55]."
+  },
+  {
+    "front": "**Core Concept**: What is **Cylindroma** commonly called due to its location?",
+    "back": "It is called a **'turban tumour'** because it is frequently found on the scalp [56]."
+  },
+  {
+    "front": "**Core Concept**: Identify the marker used to confirm **Melanoma** immunohistochemically.",
+    "back": "Melanoma cells are positive for **HMB-45** (the most specific), **S-100**, and **Melan-A** [57]."
+  },
+  {
+    "front": "**Core Concept**: What is the **'jigsaw puzzle'** pattern in pathology?",
+    "back": "It is the characteristic histological arrangement of irregular islands of tumor cells in a **Cylindroma** [56]."
+  },
+  {
+    "front": "**Reflective Question**: Why does the histological depth of a melanoma (Breslow or Clark) matter more than its width?",
+    "back": "Because deeper invasion correlates directly with increased access to **lymphatics and blood vessels**, significantly raising the risk of early metastasis [53, 58, 59]."
+  }
+]
+}

@@ -1,0 +1,214 @@
+{
+  "flashcards":
+
+[
+  {
+    "front": "Chapter Overview: What is the **Neuroendocrine System** and its common biochemical acronym?",
+    "back": "The neuroendocrine system forms a link between endocrine glands and the nervous system, elaborating polypeptide hormones [1]. It was previously called the **APUD cell system** (Amine Precursor Uptake and Decarboxylation) but is currently termed the **dispersed neuroendocrine system** due to its wide distribution, including cells in the gastric mucosa, adrenal medulla, and thyroid parafollicular C cells [1, 2]."
+  },
+  {
+    "front": "Explanation Note: Distinguish between **Group I** and **Group II** hormone interactions.",
+    "back": "**Group I** hormones interact with **cell-surface membrane receptors** (e.g., catecholamines, insulin, parathormone) [3]. **Group II** hormones interact with **intracellular nuclear receptors** (e.g., cortisol, estrogen, thyroid hormone) [3]."
+  },
+  {
+    "front": "Core Concept: Define **Paracrine** vs. **Autocrine** regulation.",
+    "back": "**Paracrine regulation** involves factors released by one cell type acting on an adjacent cell [4]. **Autocrine regulation** refers to the factor acting on the same cell that produced it [4]."
+  },
+  {
+    "front": "Core Concept: What are the three mechanisms of **Endocrine Pathology**?",
+    "back": "1. **Hyperfunction**: Excess hormone due to hyperplasia or tumors [5]. 2. **Hypofunction**: Deficiency due to tissue destruction (inflammation, infarction, nutritional lack) [5]. 3. **Hormone resistance**: Target organ failure usually due to inherited receptor mutations [2]."
+  },
+  {
+    "front": "Chapter Note: Anatomy of the **Pituitary Gland**.",
+    "back": "The pituitary gland is situated in the **sella turcica** at the base of the brain [6]. It has two divisions: the **Anterior Lobe (adenohypophysis)**, an ectodermal derivative of Rathke’s pouch with portal blood connections, and the **Posterior Lobe (neurohypophysis)**, a neural downgrowth with direct hypothalamic connections [6, 7]."
+  },
+  {
+    "front": "Core Concept: Differentiate **Somatotrophs** from **Lactotrophs**.",
+    "back": "**Somatotrophs** are acidophilic cells that produce **Growth Hormone (GH)** [8]. **Lactotrophs** produce **Prolactin (PRL)** [8]."
+  },
+  {
+    "front": "Core Concept: What are the primary hormones stored in the **Posterior Pituitary**?",
+    "back": "The posterior pituitary stores **Vasopressin (ADH)**, which maintains plasma osmolality, and **Oxytocin**, which aids milk ejection and uterine contraction [9, 10]."
+  },
+  {
+    "front": "Clinical Relevance: Contrast **Gigantism** and **Acromegaly**.",
+    "back": "**Gigantism** occurs when GH excess happens **prior to epiphyseal closure**, resulting in proportionate height increase [11]. **Acromegaly** occurs in **adults** after bone growth ceases, causing enlarged extremities, coarse facial features, and **prognathism** (protruding lower jaw) [12]."
+  },
+  {
+    "front": "Core Concept: Define **Sheehan’s Syndrome**.",
+    "back": "Sheehan’s syndrome is **postpartum pituitary necrosis** caused by hypotensive shock following the physiological enlargement of the pituitary during pregnancy [13]. Its first manifestation is typically **failure of lactation** [13]."
+  },
+  {
+    "front": "Critical Thinking: How is a **Pituitary Dwarf** distinguished from a **Cretin**?",
+    "back": "A pituitary dwarf has **proportionate growth retardation** and a **normal mental state** for their age [14]. A cretin (hypothyroid dwarf) exhibits **achondroplasia and mental retardation** [14, 15]."
+  },
+  {
+    "front": "University-Level Exam Question: Describe the histological patterns of **Pituitary Adenomas**.",
+    "back": "Pituitary adenomas can show three patterns: **Diffuse** (sheets of polygonal cells), **Sinusoidal** (columnar cells around fibrovascular stroma), or **Papillary** (cells arranged about fibrovascular papillae) [16, 17]. They are classified as microadenomas (<10mm) or macroadenomas (>1cm) [16]."
+  },
+  {
+    "front": "Core Concept: Anatomy of the **Adrenal Cortex** layers and secretions.",
+    "back": "1. **Zona Glomerulosa** (Outer): Mineralocorticoids (Aldosterone) [18]. 2. **Zona Fasciculata** (Middle): Glucocorticoids (Cortisol) [18]. 3. **Zona Reticularis** (Inner): Sex steroids (Androgens) [19]."
+  },
+  {
+    "front": "Critical Thinking: What is the 'pituitary-dependent' form of **Cushing’s Syndrome** called?",
+    "back": "It is specifically termed **Cushing’s Disease**, most often caused by a corticotroph (ACTH-secreting) adenoma [20]."
+  },
+  {
+    "front": "Clinical Manifestations: List the cardinal features of **Cushing’s Syndrome**.",
+    "back": "Features include **truncal obesity**, **buffalo hump**, **moon-face**, purple abdominal striae, hypertension (80%), and impaired glucose tolerance (20%) [21]."
+  },
+  {
+    "front": "Core Concept: Contrast **Primary** and **Secondary Hyperaldosteronism**.",
+    "back": "**Primary (Conn’s Syndrome)** is associated with **low plasma renin** levels due to an adrenal tumor or hyperplasia [22]. **Secondary hyperaldosteronism** occurs in response to **high renin** levels, often from renal ischemia [23]."
+  },
+  {
+    "front": "Core Concept: What defines **Addison’s Disease**?",
+    "back": "It is **chronic primary adrenocortical insufficiency** resulting from progressive destruction (>90%) of the adrenal cortex, most commonly by **autoimmunity** or **tuberculosis** [24, 25]."
+  },
+  {
+    "front": "PLAB/USMLE Pattern: What is **Waterhouse-Friderichsen Syndrome**?",
+    "back": "Acute primary adrenocortical insufficiency (adrenal crisis) caused by **septicaemia** (e.g., meningococcal infection) resulting in **grossly haemorrhagic** and necrotic adrenal glands, also called **adrenal apoplexy** [26]."
+  },
+  {
+    "front": "University-Level Question: What is the **'10% Rule'** of Pheochromocytoma?",
+    "back": "Pheochromocytoma is traditionally noted for being **10% familial**, **10% malignant** (diagnosed by metastasis), and **10% extra-adrenal** [27]."
+  },
+  {
+    "front": "Core Concept: Histology of **Pheochromocytoma**.",
+    "back": "Characterized by the **Zellballen pattern** (nests of large, pleomorphic polyhedral cells separated by fibrovascular stroma) [28]. Cells turn **brown-black in dichromate fixative** (chromaffin reaction) [28]."
+  },
+  {
+    "front": "Core Concept: Pathognomonic feature of **Neuroblastoma**.",
+    "back": "Neuroblastomas, common in children <5, histologically show **Homer-Wright rosettes** (pseudorosettes) with central fibrillar material surrounded by radial tumor cells [29, 30]."
+  },
+  {
+    "front": "Explanation Note: Histology of the **Thyroid Gland** phases.",
+    "back": "1. **Resting Phase**: Large follicles, flat cells, deep colloid [31]. 2. **Secretory Phase**: Cuboidal cells, pink colloid [31]. 3. **Resorptive Phase**: Columnar cells, **scalloped colloid** (seen in hyperthyroidism) [31]."
+  },
+  {
+    "front": "Core Concept: Identify the **Graves’ Triad**.",
+    "back": "1. **Hyperthyroidism** (thyrotoxicosis). 2. **Diffuse thyroid enlargement** (goitre). 3. **Ophthalmopathy** (exophthalmos) [32]."
+  },
+  {
+    "front": "Critical Thinking Focus: What is a **'Cold Nodule'** in thyroid assessment?",
+    "back": "A cold nodule is a **nonfunctioning mass** on radioactive iodine uptake (RAIU) studies [33]. While most are benign, the suspicion for malignancy is higher in cold nodules than in 'hot' (hyperactive) nodules [33, 34]."
+  },
+  {
+    "front": "University-Level Question: List the histological hallmarks of **Hashimoto’s Thyroiditis**.",
+    "back": "1. Diffuse lymphocytic infiltration with **germinal centers** [35]. 2. Atrophic follicles deficient in colloid [35]. 3. Transformation of epithelial cells into **Hurthle cells** (oncocytes) with granular eosinophilic cytoplasm [35]."
+  },
+  {
+    "front": "Core Concept: Contrast **de Quervain’s** and **Riedel’s Thyroiditis**.",
+    "back": "**de Quervain’s** is a self-limiting, **granulomatous** viral inflammation often following respiratory infection [36, 37]. **Riedel’s** is a rare, **stony-hard** invasive fibrous thyroiditis that mimics cancer [38]."
+  },
+  {
+    "front": "Chapter Note: Pathogenesis of **Goitre**.",
+    "back": "Goitre is compensatory hyperplasia due to **thyroid hormone deficiency** (usually iodine lack), causing excessive **TSH stimulation** [39, 40]. It progresses from diffuse (simple) to **nodular goitre** through repeated cycles of hyperplasia and involution [40]."
+  },
+  {
+    "front": "PLAB/USMLE Pattern: Describe the unique nuclear features of **Papillary Thyroid Carcinoma**.",
+    "back": "Nuclei have dispersed chromatin giving a **ground glass or optically clear** appearance (Orphan Annie eye nuclei) and often contain **Psammoma bodies** (concentric calcified spherules) [41, 42]."
+  },
+  {
+    "front": "Core Concept: What are the distinctive features of **Medullary Thyroid Carcinoma**?",
+    "back": "It is derived from **C-cells**, secretes **calcitonin**, is associated with **MEN syndromes**, and histologically features **amyloid stroma** [43]."
+  },
+  {
+    "front": "University-Level Question: Compare the prognosis of the four main thyroid cancers.",
+    "back": "1. **Papillary**: 80-95% survival (best) [44]. 2. **Follicular**: 50-70% survival [44]. 3. **Medullary**: 60-70% survival [44]. 4. **Anaplastic**: <10% survival; median survival ~2 months (worst) [44, 45]."
+  },
+  {
+    "front": "Core Concept: Role of **Parathormone (PTH)** in calcium metabolism.",
+    "back": "PTH elevates serum calcium by: 1. Stimulating **osteoclastic activity** (bone resorption). 2. Increasing **renal reabsorption** of calcium. 3. Increasing **intestinal absorption** via Vitamin D [46, 47]."
+  },
+  {
+    "front": "Critical Thinking: Contrast **Primary** and **Secondary Hyperparathyroidism** biochemically.",
+    "back": "Primary hyperparathyroidism shows **Hypercalcaemia** [48]. Secondary hyperparathyroidism (often renal) shows **Hypocalcaemia**, which acts as a stimulus for compensatory parathyroid hyperplasia [49]."
+  },
+  {
+    "front": "Clinical Case: A patient presents with short stature, round face, and short metacarpals but has **normal** serum calcium and PTH response. Diagnosis?",
+    "back": "**Pseudopseudo-hypoparathyroidism**, an incomplete form of the rare inherited disorder pseudo-hypoparathyroidism [50]."
+  },
+  {
+    "front": "Explanation Note: Name the **Islet of Langerhans** cells and their secretions.",
+    "back": "1. **Beta (β)** cells (70%): Insulin [51]. 2. **Alpha (α)** cells (20%): Glucagon [51]. 3. **Delta (δ)** cells (5-10%): Somatostatin [51]. 4. **PP cells**: Pancreatic polypeptide [51]."
+  },
+  {
+    "front": "Core Concept: Define **Type 1 Diabetes Mellitus** pathogenesis.",
+    "back": "Basic defect is **immune-mediated destruction of β-cell mass**, leading to **absolute insulin deficiency** [52, 53]. It is associated with HLA DR3/DR4 and **insulitis** (lymphocytic infiltrate) [54, 55]."
+  },
+  {
+    "front": "Core Concept: Define **Type 2 Diabetes Mellitus** pathogenesis.",
+    "back": "Basic defect is **insulin resistance** in peripheral tissues and **impaired insulin secretion** (β-cell failure to meet requirement), but not total absence [56, 57]."
+  },
+  {
+    "front": "Chapter Note: What is **Metabolic Syndrome (Syndrome X)**?",
+    "back": "A combination of abnormalities including **central obesity**, **hypertriglyceridaemia**, **hyperglycaemia**, **hypertension**, and low LDL [58]."
+  },
+  {
+    "front": "PLAB/USMLE Pattern: What is **HbA1C** and why is it used?",
+    "back": "Glycosylated haemoglobin reflects **glycaemic control over 90-120 days** (red cell lifespan) [59]. It is a marker of long-term compliance and predicts microvascular complications [59]."
+  },
+  {
+    "front": "Core Concept: Distinguish the two main **Microvascular complications** of DM.",
+    "back": "1. **Non-enzymatic glycosylation**: Leads to Advanced Glycosylation End-products (AGE) and **BM thickening** [60]. 2. **Polyol pathway**: Accumulation of **sorbitol** and fructose, causing cellular swelling (cataracts, neuropathy) [61]."
+  },
+  {
+    "front": "Clinical Manifestation: Differentiate **DKA** and **Hyperosmolar Coma (HHS)**.",
+    "back": "**Diabetic Ketoacidosis (DKA)** occurs in Type 1 DM, showing ketonaemia and metabolic acidosis [62]. **HHS** occurs in Type 2 DM, featuring extreme hyperglycaemia (>600mg/dL) and severe dehydration without ketoacidosis [63]."
+  },
+  {
+    "front": "Critical Thinking: What is the **Somogyi Effect**?",
+    "back": "A rebound hyperglycaemia following a hypoglycaemic episode in Type 1 DM patients [64]."
+  },
+  {
+    "front": "University-Level Question: Compare the **Islet findings** in Type 1 vs. Type 2 DM.",
+    "back": "Type 1: **Insulitis** (early), β-cell depletion [65, 66]. Type 2: No insulitis, **Amyloidosis (Amylin)** deposits around capillaries in chronic cases [65, 67]."
+  },
+  {
+    "front": "Core Concept: Define the **Zollinger-Ellison Syndrome** triad.",
+    "back": "1. Fulminant peptic ulcer disease. 2. Gastric acid hypersecretion. 3. Non-β pancreatic islet cell tumor (**Gastrinoma**) [68]."
+  },
+  {
+    "front": "Core Concept: Identify components of **MEN Type 1 (Wermer’s)**.",
+    "back": "Adenomas of the **Parathyroid** (90%), **Pancreatic Islets** (80%), and **Pituitary** (65%) [69]."
+  },
+  {
+    "front": "Core Concept: Identify components of **MEN Type 2A (Sipple’s)**.",
+    "back": "**Medullary thyroid carcinoma**, **Pheochromocytoma**, and **Hyperparathyroidism** [70]."
+  },
+  {
+    "front": "PLAB/USMLE Pattern: What marker distinguishes **endogenous** from **exogenous** insulin?",
+    "back": "**C-peptide assay** [71]. C-peptide is released in equimolar quantities with endogenous insulin; it is absent in injected (exogenous) insulin [71, 72]."
+  },
+  {
+    "front": "Bias Recognition: The **'Hot Nodule' fallacy**.",
+    "back": "Clinical bias often leads to fear of cancer in any thyroid lump. Clinicians must remember that **'hot' nodules** (hyperactive on scan) are **almost never malignant**, whereas 'cold' nodules are benign in 80-90% of cases but harbor higher cancer risk [33, 34]."
+  },
+  {
+    "front": "Problem Solving: Managing **Thyroid Storm**.",
+    "back": "Thyroid storm is an acute medical emergency often triggered by **surgery, stress, or infection** in a hyperthyroid patient, manifesting as high fever, tachycardia, and cardiac arrhythmias [73]."
+  },
+  {
+    "front": "Critical Thinking Focus: What is **Renal Glucosuria**?",
+    "back": "A benign condition where glucose appears in the urine despite **normal blood glucose** levels, due to a **lowered renal threshold** [74]. It is not related to diabetes [74]."
+  },
+  {
+    "front": "Clinical Case Scenario: A 30-year-old female presents with infertility and reduced libido. She expresses a few drops of milk from the breast. Labs show low LH/FSH. Most likely lesion?",
+    "back": "A **Prolactinoma** (PRL-secreting pituitary adenoma), causing **amenorrhoea-galactorrhoea syndrome** by inhibiting gonadotropins [75, 76]."
+  },
+  {
+    "front": "Decision-making Under Pressure: A patient post-thyroidectomy develops tetany and carpopedal spasm. Primary intervention?",
+    "back": "Treatment for **Primary Hypoparathyroidism** (surgical trauma) causing acute hypocalcaemia [77]. Measure serum calcium and administer calcium [77]."
+  },
+  {
+    "front": "Reflection: Why is **Type 2 DM** considered 'multifactorial'?",
+    "back": "Unlike the autoimmune Type 1, Type 2 involves complex interactions of **genetic factors** (80% concordance in twins) and **constitutional factors** like obesity and physical inactivity [78, 79]."
+  },
+  {
+    "front": "Final Review: What is the most common cause of **Cushing’s Syndrome** overall?",
+    "back": "**Iatrogenic Cushing’s Syndrome** due to prolonged therapeutic administration of high-dose glucocorticoids [21]."
+  }
+]
+}

@@ -1,0 +1,230 @@
+{
+  "flashcards":
+
+[
+  {
+    "front": "What percentage of infant mortality is attributed to developmental and genetic birth defects in Western countries?",
+    "back": "About 50% of total mortality in infancy and childhood [1]."
+  },
+  {
+    "front": "Define Teratology.",
+    "back": "The branch of science dealing with the study of developmental anomalies during foetal life [2]."
+  },
+  {
+    "front": "What is the outcome of teratogen exposure during the first trimester of pregnancy?",
+    "back": "It is the intrauterine stage at which most teratogens induce birth defects [2]."
+  },
+  {
+    "front": "Define Agenesis.",
+    "back": "The complete absence of an organ, such as unilateral or bilateral absence of the kidney [20]."
+  },
+  {
+    "front": "Define Aplasia.",
+    "back": "The absence of development of an organ with the presence of a rudiment or anlage [20]."
+  },
+  {
+    "front": "Define Hypoplasia.",
+    "back": "Incomplete development of an organ that does not reach normal adult size [20]."
+  },
+  {
+    "front": "Define Atresia.",
+    "back": "Incomplete formation of a lumen in a hollow viscus, such as oesophageal atresia [20]."
+  },
+  {
+    "front": "What is Developmental Dysplasia in the context of foetal life?",
+    "back": "Defective development of cells and tissues resulting in abnormal or primitive histogenetic structures, like renal dysplasia [26]."
+  },
+  {
+    "front": "What characterizes Dystraphic anomalies?",
+    "back": "Defects resulting from failure of fusion, such as spina bifida [26]."
+  },
+  {
+    "front": "Define Ectopia (Heterotopia).",
+    "back": "The abnormal location of tissue at an ectopic site, such as pancreatic tissue in the stomach wall [26]."
+  },
+  {
+    "front": "What clinical condition resulted from the use of Thalidomide in the 1960s?",
+    "back": "Phocomelia, which is a high incidence of limb-reduction anomalies [27]."
+  },
+  {
+    "front": "What are the features of Foetal Alcohol Syndrome?",
+    "back": "Increased risk of miscarriages, stillbirths, growth retardation, and mental retardation [25]."
+  },
+  {
+    "front": "What organisms constitute the TORCH complex?",
+    "back": "Toxoplasma, Others, Rubella, Cytomegalovirus, and Herpes simplex [25]."
+  },
+  {
+    "front": "What is Hutchinson’s triad in congenital syphilis?",
+    "back": "Interstitial keratitis, sensorineural deafness, and deformed Hutchinson’s teeth [28]."
+  },
+  {
+    "front": "Define Cytogenetics.",
+    "back": "The branch of science dealing with the study of human chromosomal abnormalities [21]."
+  },
+  {
+    "front": "What is the Lyon hypothesis?",
+    "back": "The inactivation of one of the two X chromosomes in females during embryogenesis [21]."
+  },
+  {
+    "front": "What is a Barr body?",
+    "back": "An inactive X chromosome in female somatic cells that lies condensed in the nucleus [21]."
+  },
+  {
+    "front": "What minimum percentage of cells must be sex chromatin positive to indicate genetic female composition?",
+    "back": "A minimum of 30% [21]."
+  },
+  {
+    "front": "Define Karyotype.",
+    "back": "The photographic representation of the stained preparation of chromosomes [21]."
+  },
+  {
+    "front": "Distinguish between p-arm and q-arm of a chromosome.",
+    "back": "The p-arm is the short arm (petit), and the q-arm is the long arm [16]."
+  },
+  {
+    "front": "What characterizes Acrocentric chromosomes?",
+    "back": "They have very short arms and the centromere is eccentrically located (e.g., numbers 13, 14, 15, 21, 22, and Y) [16]."
+  },
+  {
+    "front": "Define Polyploidy.",
+    "back": "A chromosomal number that is a multiple of the haploid number, such as triploid (69) or tetraploid (92) [29]."
+  },
+  {
+    "front": "Define Aneuploidy.",
+    "back": "A chromosomal number that is not an exact multiple of the haploid number, such as 45 (monosomy) or 47 (trisomy) [8]."
+  },
+  {
+    "front": "What is the most common mechanism of aneuploidy?",
+    "back": "Nondisjunction, the failure of chromosomes to separate normally during cell division [8]."
+  },
+  {
+    "front": "What is Mosaicism in cytogenetics?",
+    "back": "An individual having two or more types of cell lines derived from the same zygote, often due to mitotic nondisjunction [30]."
+  },
+  {
+    "front": "What is the chromosomal abnormality in 95% of Down’s syndrome cases?",
+    "back": "Trisomy 21 due to meiotic nondisjunction [9]."
+  },
+  {
+    "front": "What is the karyotype for Klinefelter’s syndrome?",
+    "back": "Typically 47, XXY [10]."
+  },
+  {
+    "front": "What is the karyotype for Turner’s syndrome?",
+    "back": "45, X0, often due to loss of the X chromosome in paternal meiosis [10]."
+  },
+  {
+    "front": "What is a Balanced structural alteration of chromosomes?",
+    "back": "A rearrangement where there is no change in the total number of genes or genetic material [10]."
+  },
+  {
+    "front": "Describe Reciprocal Translocation.",
+    "back": "The exchange of genetic material between two non-homologous chromosomes without involving the centromere [12]."
+  },
+  {
+    "front": "Describe Robertsonian Translocation.",
+    "back": "The fusion of two acrocentric chromosomes at the centromere with the loss of their short arms [15]."
+  },
+  {
+    "front": "What chromosomal deletion causes Cri du chat syndrome?",
+    "back": "Deletion of the short arm of chromosome 5 (5p-) [15]."
+  },
+  {
+    "front": "What chromosomal deletion is associated with Retinoblastoma?",
+    "back": "Deletion of the long arm of chromosome 13 [15]."
+  },
+  {
+    "front": "What chromosomal deletion is associated with Wilms’ tumour?",
+    "back": "Deletion of the short arm of chromosome 11 [15]."
+  },
+  {
+    "front": "What is an Isochromosome?",
+    "back": "A chromosome formed when the centromere divides transverse to the long axis, resulting in two identical arms [31]."
+  },
+  {
+    "front": "Define Mutation.",
+    "back": "A permanent change in the DNA of a cell [32]."
+  },
+  {
+    "front": "What is a Point Mutation?",
+    "back": "The substitution of a single nucleotide base by a different base (e.g., sickle cell anaemia) [33]."
+  },
+  {
+    "front": "What is a Nonsense (Stop Codon) Mutation?",
+    "back": "A mutation that prematurely terminates or truncates the protein chain [33]."
+  },
+  {
+    "front": "What characterizes a Frameshift Mutation?",
+    "back": "The insertion or deletion of one or two base pairs in the DNA sequence [33]."
+  },
+  {
+    "front": "What is Codominant inheritance?",
+    "back": "When both alleles of a gene pair are expressed in the heterozygous state [34]."
+  },
+  {
+    "front": "What is the chance of passing an autosomal dominant disease to offspring?",
+    "back": "50% [35]."
+  },
+  {
+    "front": "What is the chance of offspring having an autosomal recessive disease if both parents are carriers?",
+    "back": "25% [35]."
+  },
+  {
+    "front": "List three examples of Autosomal Dominant disorders.",
+    "back": "Familial polyposis coli, Adult polycystic kidney, and Marfan’s syndrome [36, 37]."
+  },
+  {
+    "front": "List three examples of X-linked Recessive inheritance.",
+    "back": "Haemophilia A, G6PD deficiency, and Colour blindness [37]."
+  },
+  {
+    "front": "Define Multifactorial Inheritance.",
+    "back": "Disorders resulting from the combined effect of genetic composition and environmental influences [38]."
+  },
+  {
+    "front": "Why are storage diseases called 'lysosomal storage diseases'?",
+    "back": "Because lysosomes are the chief site of intracellular digestion, and metabolites accumulate there due to enzyme defects [4]."
+  },
+  {
+    "front": "What enzyme is deficient in von Gierke’s disease (Type I)?",
+    "back": "Glucose-6-phosphatase [22, 39]."
+  },
+  {
+    "front": "What characterizes Pompe’s disease (Type II)?",
+    "back": "Deficiency of acid maltase, leading to glycogen accumulation in heart and muscle (cardiomegaly) [22, 23]."
+  },
+  {
+    "front": "What enzyme is deficient in Gaucher’s disease?",
+    "back": "Acid b-glucosidase (glucocerebrosidase) [5, 40]."
+  },
+  {
+    "front": "Describe a Gaucher cell.",
+    "back": "A distended macrophage with fibrillar cytoplasm resembling crumpled tissue paper [17]."
+  },
+  {
+    "front": "What characterizes Niemann-Pick disease?",
+    "back": "Accumulation of sphingomyelin and cholesterol due to acid sphingomyelinase defect [5, 41]."
+  },
+  {
+    "front": "Where is the 'cherry-red spot' found in Niemann-Pick Type A?",
+    "back": "In the macula of the retina [41]."
+  },
+  {
+    "front": "Define Neonatal period.",
+    "back": "The time from birth to the first 4 weeks of life [5]."
+  },
+  {
+    "front": "What is an Embryoma (Blastoma)?",
+    "back": "An embryonal tumour formed by the proliferation of undifferentiated or partially differentiated stem cells [11]."
+  },
+  {
+    "front": "Define Hamartoma.",
+    "back": "A focal accumulation of cells normally present in that tissue but arranged in an abnormal manner [13]."
+  },
+  {
+    "front": "What are the most common malignant tumours in children under 4 years old?",
+    "back": "Various types of blastomas (e.g., neuroblastoma, nephroblastoma, retinoblastoma) [7, 42]."
+  }
+]
+}

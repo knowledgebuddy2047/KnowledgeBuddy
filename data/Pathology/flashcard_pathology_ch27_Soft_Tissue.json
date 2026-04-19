@@ -1,0 +1,214 @@
+{
+  "flashcards"
+
+[
+  {
+    "front": "Explanation Note: How does the WHO define 'soft tissues' for the purpose of tumour classification?",
+    "back": "Soft tissues include all non-epithelial extra-skeletal tissues of the body except the reticuloendothelial system, the glia, and the supporting tissues of specific organs and viscera [1, 2]."
+  },
+  {
+    "front": "Core Concept: What are the general clinical features that suggest a soft tissue lesion is malignant rather than benign?",
+    "back": "Malignant lesions are typically deep-seated, large-sized, rapidly growing, and have increased vascularity [3]."
+  },
+  {
+    "front": "Explanation Note: By which route do most soft tissue sarcomas metastasise, and which organs are most commonly involved?",
+    "back": "They metastasise most frequently by the haematogenous route, disseminating commonly to the lungs, liver, bone, and brain [3]."
+  },
+  {
+    "front": "Core Concept: Distinguish between the three biological categories of soft tissue tumours (Benign, Intermediate, Malignant).",
+    "back": "1. Benign: Do not recur; cured by excision. 2. Intermediate (locally aggressive or rarely metastasising): Locally destructive and recurrent; low metastatic potential (<2%). 3. Malignant: Infiltrative and high metastatic rate (20-100% in high-grade) [4-6]."
+  },
+  {
+    "front": "Core Concept: Describe the 'Storiform' or 'Cart-wheel' pattern in histopathology.",
+    "back": "A pattern characteristic of fibrohistiocytic tumours where spindle tumour cells radiate from a central focus in a spoke-wheel manner [5, 7]."
+  },
+  {
+    "front": "Core Concept: What is the 'Herringbone' pattern and in which tumour is it characteristically found?",
+    "back": "It is a pattern resembling the vertebral column of a seafish, found in well-differentiated fibrosarcoma [5, 8]."
+  },
+  {
+    "front": "Explanation Note: How do the nuclei of leiomyomatous spindle cells differ from fibrogenic spindle cells?",
+    "back": "Leiomyomatous cells have blunt-ended (cigar-shaped) nuclei, while fibrogenic cells have tapering-ended nuclei [9]."
+  },
+  {
+    "front": "Core Concept: Which tumours are included in the 'Small Round Cell Tumour' (Blue Cell Tumour) group?",
+    "back": "Rhabdomyosarcoma (embryonal/alveolar), PNET, Ewing’s sarcoma, Neuroblastoma, and Malignant lymphomas [10]."
+  },
+  {
+    "front": "Core Concept: What are the primary immunohistochemical (IHC) markers for skeletal muscle and nerve fibres?",
+    "back": "Desmin is the marker for skeletal muscle; S-100 is the marker for nerve fibres [11]."
+  },
+  {
+    "front": "Explanation Note: On which three features is the pathological grading of soft tissue sarcomas based?",
+    "back": "1. Tumour differentiation (cytologic atypia). 2. Mitotic count. 3. Tumour necrosis [12]."
+  },
+  {
+    "front": "University-Level Exam Question: Define the criteria for Enneking’s Stage II soft tissue tumour.",
+    "back": "Stage II involves high-grade (G2) tumours that are either intracompartmental (T1) or extracompartmental (T2), but have no metastases [13]."
+  },
+  {
+    "front": "Core Concept: Distinguish between Fibroma durum and Fibroma molle.",
+    "back": "Fibroma durum is a richly collagenous, firm fibrous growth. Fibroma molle (soft fibroma) is a mixture of mature fibrous tissue and adult-type fat [14]."
+  },
+  {
+    "front": "Explanation Note: Describe the histological hallmarks of a Keloid.",
+    "back": "It is composed of thick, homogeneous, eosinophilic hyalinised bands of collagen admixed with thin fibres and large active fibroblasts [15]."
+  },
+  {
+    "front": "Critical Thinking: Why is Nodular Fasciitis often referred to as 'pseudosarcomatous'?",
+    "back": "Due to its rapid growth and high mitotic rate, which can be mistaken for a sarcoma, though it is a benign reactive process [8, 16]."
+  },
+  {
+    "front": "Core Concept: What are the 'zones' found in Myositis Ossificans, and why is this diagnostic?",
+    "back": "It shows a central region of loosely arranged fibroblasts and a periphery of mineralised bone. This maturation from centre to periphery helps distinguish it from osteosarcoma [17]."
+  },
+  {
+    "front": "Critical Thinking: Why is Myositis Ossificans called a 'pseudomalignant' tumour?",
+    "back": "Because its histological appearance—specifically high mitotic activity and osteoid formation—can suggest malignancy, even though it is benign and often reactive to trauma [17]."
+  },
+  {
+    "front": "Explanation Note: What defines the 'Fibromatosis' group of lesions?",
+    "back": "They are non-metastasising fibroblastic tumours that invade locally and recur frequently; they are composed of myofibroblasts [18]."
+  },
+  {
+    "front": "Core Concept: Describe Dupuytren’s contracture.",
+    "back": "A form of palmar fibromatosis common in elderly males, leading to flexion contractures of the fingers [19]."
+  },
+  {
+    "front": "Explanation Note: What clinical and genetic associations are linked to intra-abdominal desmoids?",
+    "back": "They are often associated with pregnancy (oestrogen relationship) and Gardner’s syndrome (intestinal polyposis, osteomas, cysts) [20, 21]."
+  },
+  {
+    "front": "University-Level Exam Question: Describe the gross appearance of Fibrosarcoma.",
+    "back": "It is a grey-white, firm, circumscribed mass with a 'fishflesh-like' cut surface and foci of necrosis [22]."
+  },
+  {
+    "front": "Core Concept: What is the most common soft tissue sarcoma, and which treatment is it frequently associated with?",
+    "back": "Malignant Fibrous Histiocytoma (MFH), now often called Pleomorphic Sarcoma; it is the most frequent sarcoma associated with prior radiotherapy [23]."
+  },
+  {
+    "front": "Explanation Note: How does the prognosis of MFH relate to its location?",
+    "back": "Deep-seated and large MFH (like those in the retroperitoneum) have a much poorer prognosis than small, superficial lesions [24]."
+  },
+  {
+    "front": "Core Concept: What is the most common soft tissue tumour overall?",
+    "back": "Lipoma [25, 26]."
+  },
+  {
+    "front": "Critical Thinking: Why is the identification of a 'lipoblast' essential in diagnosing Liposarcoma?",
+    "back": "Lipoblasts are the primitive mesenchymal cells that serve as the cell of origin and the histological hallmark for malignancy in adipose tissue tumours [27, 28]."
+  },
+  {
+    "front": "Core Concept: Describe the 'chicken-wire' pattern in Myxoid Liposarcoma.",
+    "back": "It refers to a prominent, delicate meshwork of capillaries characteristic of the myxoid variant of liposarcoma [28]."
+  },
+  {
+    "front": "Explanation Note: Which histologic types of liposarcoma have the poorest prognosis?",
+    "back": "Round cell and pleomorphic variants are highly anaplastic and metastasise frequently [26, 28]."
+  },
+  {
+    "front": "University-Level Exam Question: Compare the demographics and locations of Embryonal vs. Pleomorphic Rhabdomyosarcoma.",
+    "back": "Embryonal: Commonest in children (<12 years), located in the head/neck and urogenital tract. Pleomorphic: Occurs in older adults (>40 years), predominantly in the extremities [29-31]."
+  },
+  {
+    "front": "Core Concept: What is a 'cambium layer' and where is it found?",
+    "back": "A characteristic histological layer of dense tumour cells found just underneath the mucosal layer in Botryoid Rhabdomyosarcoma [32]."
+  },
+  {
+    "front": "Explanation Note: Describe the histological appearance of Alveolar Rhabdomyosarcoma.",
+    "back": "The tumour is divided into spaces by fine fibrous septa, resembling pulmonary alveoli, lined by small, dark, undifferentiated cells [33]."
+  },
+  {
+    "front": "Core Concept: Define the 'Biphasic' pattern of Synovial Sarcoma.",
+    "back": "A combination of epithelial-like cells (forming clefts or glands) and spindle cells (forming fibrosarcoma-like fascicles) [5, 34, 35]."
+  },
+  {
+    "front": "Critical Thinking: Why is Synovial Sarcoma often considered a misnomer?",
+    "back": "Despite its name, it almost never arises within joint cavities and is frequently found in areas devoid of synovial tissue, such as the abdominal wall or pelvis [36]."
+  },
+  {
+    "front": "Explanation Note: What distinguishes Alveolar Soft Part Sarcoma from Paraganglioma histologically?",
+    "back": "Alveolar Soft Part Sarcoma contains diastase-resistant, PAS-positive granular material in the cytoplasm [37]."
+  },
+  {
+    "front": "Core Concept: What unique histological feature is associated with Granular Cell Tumour of the skin?",
+    "back": "It is frequently associated with pseudoepitheliomatous hyperplasia of the overlying skin [38]."
+  },
+  {
+    "front": "Explanation Note: Why can Epithelioid Sarcoma be easily misdiagnosed as an inflammatory condition?",
+    "back": "Its nodular appearance with central necrosis can be mistaken for a granuloma [39]."
+  },
+  {
+    "front": "Core Concept: Which soft tissue tumour is also known as 'melanoma of the soft tissues'?",
+    "back": "Clear Cell Sarcoma [39, 40]."
+  },
+  {
+    "front": "PLAB/USMLE Pattern: A 10-year-old male presents with a painful orbital swelling. Histology shows small round cells and spindle-shaped 'strap cells'. Most likely diagnosis?",
+    "back": "Embryonal Rhabdomyosarcoma [29]."
+  },
+  {
+    "front": "PLAB/USMLE Pattern: A patient presents with a 'grape-like' mass protruding from the vagina. What is the pathognomonic histological finding?",
+    "back": "The 'cambium layer' of tumour cells underneath the mucosa, characteristic of Botryoid Rhabdomyosarcoma [32, 41]."
+  },
+  {
+    "front": "PLAB/USMLE Pattern: Which chromosomal translocation is diagnostic for Synovial Sarcoma?",
+    "back": "t(X;18)(p11;q11) involving the SS18-SSX1 fusion gene [42, 43]."
+  },
+  {
+    "front": "PLAB/USMLE Pattern: Identify the translocation and gene associated with Ewing’s Sarcoma/PNET.",
+    "back": "t(11;22)(q24;q12) and the EWSR1-FLI1 fusion gene [42]."
+  },
+  {
+    "front": "PLAB/USMLE Pattern: Which translocation helps distinguish Myxoid Liposarcoma from other soft tissue tumours?",
+    "back": "t(12;16)(q13; p11) [42, 44]."
+  },
+  {
+    "front": "Bias Recognition: Why should a clinician be cautious when a patient reports a 'history of trauma' preceding a soft tissue lump?",
+    "back": "Trauma often simply brings an existing, unrelated tumour to the patient's attention (anchoring bias), rather than being the actual cause [6, 45, 46]."
+  },
+  {
+    "front": "Problem-Solving: How can IHC distinguish between a spindle cell carcinoma and a sarcoma?",
+    "back": "Carcinomas typically express cytokeratin, whereas sarcomas express Vimentin (mesenchymal marker). Note: Synovial sarcoma is a rare exception expressing both [11, 34]."
+  },
+  {
+    "front": "Decision-making Under Pressure: A surgeon encounters a 'fishflesh' mass in the thigh that is infiltrating the muscle. What is the immediate suspicion and primary metastatic concern?",
+    "back": "The suspicion is a high-grade sarcoma (like fibrosarcoma); the primary concern is haematogenous spread to the lungs [3, 22]."
+  },
+  {
+    "front": "Bias Recognition: What is a common pitfall in diagnosing a deep-seated mass as a 'lipoma' based solely on its soft feel?",
+    "back": "Deep-seated fatty masses are more likely to be Liposarcomas; superficiality is a better indicator of benignancy for lipomas [3, 26]."
+  },
+  {
+    "front": "Problem-Solving: How can mucin stains help in the differential diagnosis of round cell tumours?",
+    "back": "They help distinguish round cell liposarcoma from signet-ring carcinoma, which would be mucin-positive [28]."
+  },
+  {
+    "front": "Reflective Question: Why does the histologic grade often matter more than the specific tumour type for clinical management of sarcomas?",
+    "back": "The grade (atypia, mitosis, necrosis) is the primary predictor of clinical behaviour, metastatic rate, and response to therapy [3, 12]."
+  },
+  {
+    "front": "Clinical Case Study: 40-year-old male with a firm trunk nodule showing a 'storiform' pattern and ring chromosomes 17/22. Diagnosis?",
+    "back": "Dermatofibrosarcoma protuberans (DFSP) [47, 48]."
+  },
+  {
+    "front": "Clinical Case Study: A pregnant woman presents with a firm mass in her rectus abdominis muscle. Most likely diagnosis?",
+    "back": "Abdominal Desmoid tumour [21]."
+  },
+  {
+    "front": "Bias Recognition: Why might a pathologist mistake Monophasic Synovial Sarcoma for Fibrosarcoma?",
+    "back": "In the monophasic variant, the diagnostic epithelial component is rare, leaving only spindle cells that resemble fibrosarcoma fascicles [43]."
+  },
+  {
+    "front": "Decision-making Under Pressure: A biopsy of a soft tissue mass shows small round cells with 'blue chromatin'. What are the next essential steps for diagnosis?",
+    "back": "Perform IHC (Desmin for Rhabdo, etc.) and cytogenetics (look for specific translocations like t(11;22)) to differentiate between the 'blue cell' group [10, 11, 42]."
+  },
+  {
+    "front": "Problem-Solving: Distinguish between the 'PAX3-FOXO1A' and 'PAX7-FOXO1A' fusions in Rhabdomyosarcoma.",
+    "back": "PAX3-FOXO1A is associated with a better prognosis; PAX7-FOXO1A is associated with a poorer prognosis [30, 42]."
+  },
+  {
+    "front": "University-Level Exam Question: List 3 genetic syndromes associated with soft tissue tumours.",
+    "back": "1. Neurofibromatosis type 1. 2. Li-Fraumeni syndrome. 3. Gardner's syndrome [21, 45]."
+  }
+]
+}

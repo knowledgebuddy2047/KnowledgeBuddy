@@ -1,0 +1,266 @@
+{
+  "flashcards":
+
+[
+  {
+    "front": "Explanation Note: How does the current WHO classification (2008) view the relationship between leukaemia and lymphoma?",
+    "back": "It considers them a unified group representing different stages of the same biologic process involving the same cell types at different locations (blood/bone marrow vs. lymphoid tissues) [1, 2]."
+  },
+  {
+    "front": "Core Concept: Identify the primary B-cell and T-cell zones within a normal lymph node.",
+    "back": "B-cell zones are in the follicles of the cortex and mantle zone; T-cell zones are predominantly in the paracortex and medulla [3, 4]."
+  },
+  {
+    "front": "Mechanism: What are 'addressins' (homing receptors) in the context of lymphocyte movement?",
+    "back": "They are surface molecules on lymphocytes and endothelial cells that interact to direct lymphocytes into specific lymph node compartments [4]."
+  },
+  {
+    "front": "Clinical Relevance: What is the prognostic significance of sinus histiocytosis in lymph nodes draining a breast carcinoma?",
+    "back": "It is often associated with a better prognosis, indicating a robust host immune response to the tumor [5]."
+  },
+  {
+    "front": "Core Concept: Distinguish between the 'proliferative' and 'post-mitotic' pools in granulopoiesis.",
+    "back": "The proliferative pool includes myeloblasts, promyelocytes, and myelocytes. The post-mitotic pool includes metamyelocytes, band forms, and mature segmented granulocytes [6, 7]."
+  },
+  {
+    "front": "Morphology: What are Auer rods and where are they found?",
+    "back": "They are rod-like cytoplasmic inclusions representing abnormal derivatives of primary azurophilic granules, found in the myeloblasts of Acute Myeloid Leukaemia (AML) [8]."
+  },
+  {
+    "front": "Definition: What is a 'shift-to-left' in a peripheral blood film?",
+    "back": "The appearance of immature neutrophils (band forms, myelocytes) in the circulation, typically seen in severe infections or leukaemias [9]."
+  },
+  {
+    "front": "Core Concept: Contrast 'shift-to-left' with 'shift-to-right' in neutrophil morphology.",
+    "back": "Shift-to-left indicates immature forms (bands); shift-to-right indicates hypersegmented neutrophils (>5 lobes) seen in megaloblastic anaemia or uraemia [9]."
+  },
+  {
+    "front": "Mechanism: Explain the role of CD8+ T cells in the pathogenesis of Infectious Mononucleosis (IM).",
+    "back": "They are activated by EBV-infected B cells and act as the pathognomonic atypical lymphocytes seen in the blood that kill the infected B cells [10]."
+  },
+  {
+    "front": "Clinical Case: A 19-year-old student presents with fever, sore throat, and 15% atypical lymphocytes (Downey cells) on PBF. What is the likely diagnosis?",
+    "back": "Infectious Mononucleosis (IM) [11, 12]."
+  },
+  {
+    "front": "Decision-Making Under Pressure: A patient with massive splenomegaly due to chronic malaria develops sudden abdominal pain and shock. What is the immediate concern?",
+    "back": "Spontaneous splenic rupture, which is a surgical emergency due to rapid blood loss [13]."
+  },
+  {
+    "front": "Problem-Solving: How can you distinguish a Myeloid Leukaemoid Reaction from Chronic Myeloid Leukaemia (CML)?",
+    "back": "Use the Neutrophil Alkaline Phosphatase (NAP) score: it is high in leukaemoid reactions and reduced/absent in CML [14, 15]."
+  },
+  {
+    "front": "Core Concept: Describe the genetic translocation involved in the Philadelphia (Ph) chromosome.",
+    "back": "A reciprocal translocation between chromosomes 9 and 22: t(9;22)(q34;q11), forming the BCR/ABL fusion gene [16, 17]."
+  },
+  {
+    "front": "Critical Thinking: Does acute leukaemia occur because cells proliferate faster than normal?",
+    "back": "No. It is caused by a maturation defect (blockade) in leukaemic blasts; the generation time of these blasts is actually somewhat prolonged compared to normal precursors [18]."
+  },
+  {
+    "front": "Core Concept: Define 'Polycythaemia Vera' (PV) and its primary pathogenetic driver.",
+    "back": "A clonal disorder causing pancytosis (excess RBCs, WBCs, platelets); driven by the JAK2 tyrosine kinase mutation [19, 20]."
+  },
+  {
+    "front": "Problem-Solving: How do erythropoietin (EPO) levels differ between Polycythaemia Vera and Secondary Polycythaemia?",
+    "back": "EPO levels are reduced in PV but increased in secondary polycythaemia (e.g., due to high altitude or renal tumors) [20, 21]."
+  },
+  {
+    "front": "Mechanism: Why does Myelofibrosis often result in a 'dry tap' during bone marrow aspiration?",
+    "back": "The marrow is replaced by an increased reticulin network and collagen, often due to overproduction of transforming growth factor-beta (TGF-b) [22, 23]."
+  },
+  {
+    "front": "Morphology: What are 'teardrop' poikilocytes (dacryocytes) characteristic of?",
+    "back": "Chronic Idiopathic Myelofibrosis [23]."
+  },
+  {
+    "front": "University-Level Question: List the WHO threshold for blasts to diagnose Acute Myeloid Leukaemia (AML).",
+    "back": "Marrow blasts must be 20% or more (lowered from 30% in the FAB classification) [24, 25]."
+  },
+  {
+    "front": "Clinical Case: A patient presents with gum hypertrophy and a high blast count. Which AML subtypes are most likely?",
+    "back": "Myelomonocytic (M4) and Monocytic (M5) leukaemias [26]."
+  },
+  {
+    "front": "USMLE Pattern: A patient with AML M3 (Promyelocytic) is at high risk for which life-threatening complication?",
+    "back": "Disseminated Intravascular Coagulation (DIC), triggered by the release of procoagulant granules from dying cells [27, 28]."
+  },
+  {
+    "front": "Core Concept: What is the genetic hallmark of AML M3?",
+    "back": "t(15;17)(q22;q12) [29]."
+  },
+  {
+    "front": "Definition: What characterizes Myelodysplastic Syndromes (MDS)?",
+    "back": "Cytopenias associated with a cellular marrow and ineffective blood cell formation (dysmyelopoiesis); often called 'preleukaemic' syndromes [30]."
+  },
+  {
+    "front": "Core Concept: What is the most common form of cancer in children under 4 years of age?",
+    "back": "Acute Lymphoblastic Leukaemia (ALL), particularly the precursor B-cell type [31]."
+  },
+  {
+    "front": "Morphology: Distinguish lymphoblasts from myeloblasts based on nucleoli and chromatin.",
+    "back": "Lymphoblasts have fewer nucleoli (1-2), clumped chromatin, and no Auer rods; Myeloblasts have 2-5 nucleoli and fine chromatin [32, 33]."
+  },
+  {
+    "front": "University-Level Question: What is TdT and why is it useful in diagnosis?",
+    "back": "Terminal Deoxynucleotidyl Transferase is a nuclear enzyme expressed by pre-B and pre-T lymphoblasts; it is a sensitive marker for ALL [34]."
+  },
+  {
+    "front": "Core Concept: What is the most common lymphoid leukaemia in older adults?",
+    "back": "Chronic Lymphocytic Leukaemia (CLL) [35]."
+  },
+  {
+    "front": "Morphology: What are 'smudge cells' or 'basket cells' in a blood film?",
+    "back": "Fragile malignant lymphocytes (typically in CLL) that break during the preparation of the blood smear [36]."
+  },
+  {
+    "front": "PLAB Pattern: A 65-year-old male has generalized lymphadenopathy and an absolute lymphocyte count of 80,000/µl. Diagnosis?",
+    "back": "Chronic Lymphocytic Leukaemia (CLL) [35, 36]."
+  },
+  {
+    "front": "Mechanism: How does Follicular Lymphoma resist apoptosis?",
+    "back": "Due to the t(14;18) translocation leading to overexpression of the BCL-2 protein [37]."
+  },
+  {
+    "front": "Core Concept: Describe the 'starry sky' appearance in Burkitt's Lymphoma.",
+    "back": "Benign macrophages containing phagocytosed debris (stars) scattered against a background of monomorphic tumor cells (sky) [38]."
+  },
+  {
+    "front": "USMLE Pattern: A child from Africa presents with a large jaw mass and t(8;14). Which virus is etiologically linked?",
+    "back": "Epstein-Barr Virus (EBV) [38, 39]."
+  },
+  {
+    "front": "Definition: What is MALToma and its most famous association?",
+    "back": "Mucosa-associated lymphoid tissue lymphoma, most common in the stomach and associated with Helicobacter pylori [40]."
+  },
+  {
+    "front": "Morphology: What is the TRAP stain used for?",
+    "back": "Tartrate-Resistant Acid Phosphatase is characteristically positive in Hairy Cell Leukaemia [41]."
+  },
+  {
+    "front": "Core Concept: What is the pathognomonic cell of Hodgkin’s Disease (HD)?",
+    "back": "The Reed-Sternberg (RS) cell [42, 43]."
+  },
+  {
+    "front": "Morphology: Describe a 'classic' Reed-Sternberg cell.",
+    "back": "A large cell with a bilobed 'mirror-image' nucleus and prominent eosinophilic nucleoli giving an 'owl-eye' appearance [44]."
+  },
+  {
+    "front": "Core Concept: Which is the most common histologic subtype of Hodgkin's Disease?",
+    "back": "Nodular Sclerosis type (70% of cases), often showing lacunar-type RS cells and collagen bands [45, 46]."
+  },
+  {
+    "front": "Clinical Relevance: Define 'B symptoms' in the context of lymphoma staging.",
+    "back": "Fever, night sweats, and unexplained weight loss (>10% in 6 months) [47, 48]."
+  },
+  {
+    "front": "University-Level Question: Compare the nodal spread of HD vs. NHL.",
+    "back": "HD spreads contiguously to adjacent nodes; NHL shows non-contiguous, disseminated spread [49]."
+  },
+  {
+    "front": "Core Concept: Define Multiple Myeloma and its 'classic triad' for diagnosis.",
+    "back": "1. Marrow plasmacytosis (>10%), 2. Lytic bone lesions, 3. Serum and/or urine M-component [50, 51]."
+  },
+  {
+    "front": "Mechanism: Why do 'punched-out' bone lesions occur in Multiple Myeloma?",
+    "back": "Myeloma cells produce cytokines (IL-1, TNF) that act as Osteoclast-Activating Factors (OAF) [52, 53]."
+  },
+  {
+    "front": "Definition: What are Bence Jones proteins?",
+    "back": "Free monoclonal light chains (kappa or lambda) excreted in the urine of myeloma patients [51, 54]."
+  },
+  {
+    "front": "Core Concept: Distinguish Waldenström’s Macroglobulinaemia from Myeloma.",
+    "back": "Waldenström's involves monoclonal IgM and hyperviscosity but usually lacks the extensive lytic bone lesions of myeloma [55, 56]."
+  },
+  {
+    "front": "Definition: What is MGUS?",
+    "back": "Monoclonal Gammopathy of Undetermined Significance: an M-protein (<3g/dl) is present without lytic lesions or myeloma symptoms; a forerunner to myeloma [57]."
+  },
+  {
+    "front": "Core Concept: What are Birbeck granules?",
+    "back": "Tennis-racket-shaped cytoplasmic inclusions found in Langerhans Cell Histiocytosis (LCH) [58, 59]."
+  },
+  {
+    "front": "Clinical Case: A 4-year-old has the triad of bony defects, diabetes insipidus, and exophthalmos. Diagnosis?",
+    "back": "Hand-Schüller-Christian disease (a form of LCH) [59]."
+  },
+  {
+    "front": "Core Concept: Define 'Hypersplenism'.",
+    "back": "An enlarged spleen causing excessive removal of blood cells (pancytopenia), which improves after splenectomy [60, 61]."
+  },
+  {
+    "front": "University-Level Question: List the haematologic effects of splenectomy.",
+    "back": "Appearance of target cells, Howell-Jolly bodies, leucocytosis, and transient thrombocytosis [62, 63]."
+  },
+  {
+    "front": "Core Concept: What is the most common primary tumor of the antero-superior mediastinum associated with Myasthenia Gravis?",
+    "back": "Thymoma [64, 65]."
+  },
+  {
+    "front": "Critical Thinking Focus: Why is checking the NAP score essential in a patient with a very high WBC count and splenomegaly?",
+    "back": "To differentiate between CML (low score) and a reactive leukaemoid reaction (high score) [14, 15]."
+  },
+  {
+    "front": "Bias Recognition: What is 'Search Satisfaction' bias in the context of lymph node biopsy?",
+    "back": "The tendency to stop looking for malignancy once a common benign cause (like an infection) is found, potentially missing a coexistence of lymphoma [General Reasoning]."
+  },
+  {
+    "front": "Clinical Case: A 4-year-old presents with fever, nosebleeds, TLC 80,000/µl, and 90% blasts. Diagnosis?",
+    "back": "Acute Lymphoblastic Leukaemia (ALL) [66]."
+  },
+  {
+    "front": "Problem-Solving: How does the presence of 'smear cells' aid in the diagnosis of CLL?",
+    "back": "They indicate the presence of fragile malignant lymphocytes, which is a classic laboratory hallmark of the disease [36, 67]."
+  },
+  {
+    "front": "Core Concept: Define 'Hutchinson's teeth' as part of a classic triad (General Pathology Link).",
+    "back": "Deformed teeth found in congenital syphilis, along with keratitis and deafness (Hutchinson's triad) [General Knowledge/Source Cross-Ref]."
+  },
+  {
+    "front": "Mechanism: How does Imatinib treat CML?",
+    "back": "It competitively inhibits the ATP binding site of the ABL kinase, inhibiting the BCR/ABL signal transduction [68]."
+  },
+  {
+    "front": "Clinical Relevance: Why is a lumbar puncture (CSF exam) performed in ALL even if the blood is in remission?",
+    "back": "To check for meningeal involvement, which is a common site for relapse because many chemotherapy drugs do not cross the blood-brain barrier [69, 70]."
+  },
+  {
+    "front": "Reflective Question: Why is 'indolent' NHL often harder to cure than 'aggressive' NHL?",
+    "back": "Indolent cells divide slowly and are often in the G0 (resting) phase, making them less sensitive to chemotherapy that targets rapidly dividing cells [General Reasoning based on 77, 148]."
+  },
+  {
+    "front": "Critical Thinking: Why must an adult male with iron deficiency anaemia be screened for GI malignancy?",
+    "back": "Because iron deficiency in an adult male is rarely dietary; it is usually due to chronic occult blood loss from the gastrointestinal tract [General Reasoning/Source Context]."
+  },
+  {
+    "front": "Clinical Case: A 70-year-old has back pain, fatigue, and punched-out lytic lesions in the pelvis. What is the priority investigation?",
+    "back": "Serum and urine electrophoresis to look for an M-band (Multiple Myeloma) [51, 71]."
+  },
+  {
+    "front": "Problem-Solving: In a 'dry tap' bone marrow aspiration, what is the mandatory next step?",
+    "back": "A bone marrow trephine biopsy to evaluate the architecture and identify fibrosis or heavy cell packing [23, 25]."
+  },
+  {
+    "front": "Core Concept: What are Gamna-Gandy bodies?",
+    "back": "Siderofibrotic nodules in the spleen resulting from long-standing congestion (fibrocongestive splenomegaly) [60]."
+  },
+  {
+    "front": "Mechanism: Why is the CD4:CD8 ratio reversed in AIDS patients' lymph nodes?",
+    "back": "Due to the progressive depletion of CD4+ T helper cells by the HIV virus [72]."
+  },
+  {
+    "front": "Bias Recognition: Assuming a child with a jaw tumor in Africa *must* have Burkitt's lymphoma.",
+    "back": "This is 'Availability Bias'—relying on the most famous example while potentially missing other differential diagnoses like an odontogenic tumor [General Reasoning]."
+  },
+  {
+    "front": "Decision-Making: A patient on heparin develops a sudden drop in platelets. What must you suspect?",
+    "back": "Heparin-Induced Thrombocytopenia (HIT), which paradoxically increases the risk of thrombosis [General Knowledge/Source Context]."
+  },
+  {
+    "front": "Summary Note: What are the three broad categories of haematopoietic neoplasms in the WHO classification?",
+    "back": "1. Myeloid neoplasms, 2. Lymphoid neoplasms, 3. Histiocytic neoplasms [73, 74]."
+  }
+]
+}

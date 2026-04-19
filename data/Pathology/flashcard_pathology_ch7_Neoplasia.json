@@ -1,0 +1,106 @@
+{
+  "flashcards": [
+
+    {
+    "front": "What is the definitive **definition of a neoplasm** as per the sources?",
+    "back": "A neoplasm is a **mass of tissue** formed as a result of **abnormal, excessive, uncoordinated, autonomous, and purposeless proliferation** of cells that persists even after the growth-causing stimulus is removed [1, 2]."
+  },
+  {
+    "front": "What are the **two basic components** of all tumors?",
+    "back": "1. **Parenchyma**: The proliferating tumor cells that determine the tumor's nature. 2. **Supportive Stroma**: Connective tissue and blood vessels that provide the framework [3, 4]."
+  },
+  {
+    "front": "Distinguish between **Carcinoma** and **Sarcoma** nomenclature.",
+    "back": "**Carcinomas** are malignant tumors of **epithelial origin**, while **Sarcomas** are malignant **mesenchymal (fleshy) tumors** [3, 4]."
+  },
+  {
+    "front": "Define **Anaplasia** and its role in malignancy.",
+    "back": "Anaplasia is a **lack of differentiation** and is a hallmark of malignancy. It involves morphological alterations like **pleomorphism**, increased **N:C ratio (approaching 1:1)**, and **atypical mitoses** [5-7]."
+  },
+  {
+    "front": "What is the difference between a **Hamartoma** and a **Choristoma**?",
+    "back": "A **Hamartoma** is a disorganized mass of mature tissue **indigenous** to the organ, while a **Choristoma** is an **ectopic island** of normal tissue in an abnormal location [8-10]."
+  },
+  {
+    "front": "Contrast **Grading** vs. **Staging** of cancer.",
+    "back": "**Grading** is a pathological assessment of the **degree of differentiation** (Broders' system). **Staging** is a clinical assessment of the **extent of spread** (TNM system). Staging is generally a better predictor of prognosis [11-13]."
+  },
+  {
+    "front": "Explain the **'Two-Hit' Hypothesis** for the RB gene.",
+    "back": "Proposed by Knudson, it states that in **familial retinoblastoma**, one mutant allele is inherited (**germline**), and the second 'hit' occurs **somatically**. In sporadic cases, both mutations occur somatically after birth [14, 15]."
+  },
+  {
+    "front": "Why is the **p53 gene** known as the 'protector of the genome'?",
+    "back": "It senses DNA damage and induces **G1 arrest** to allow for repair. If the damage is irreparable, it directs the cell toward **apoptosis** by activating the BAX gene [16, 17]."
+  },
+  {
+    "front": "What are the **three cardinal clinical features** of malignant tumors?",
+    "back": "The three cardinal features are **anaplasia, invasiveness, and metastasis** [18, 19]."
+  },
+  {
+    "front": "Describe the **routes of metastasis**.",
+    "back": "1. **Lymphatic spread** (common for carcinomas). 2. **Haematogenous spread** (common for sarcomas). 3. **Transcoelomic spread** (seeding across body cavities, e.g., Krukenberg tumor) [20-23]."
+  },
+  {
+    "front": "What is the **Warburg Effect** in cancer molecular biology?",
+    "back": "It refers to the **excessive and autonomous growth** of cancer cells that acquire growth self-sufficiency by disobeying growth-controlling signals and escaping death signals [24, 25]."
+  },
+  {
+    "front": "Case: A 60-year-old smoker with a hilar lung mass develops back pain. What is the **most likely clinical assumption**?",
+    "back": "The lung carcinoma has likely spread via the **hematogenous route** to the vertebrae, as the lung, liver, brain, and bones are common sites for distant spread [22, 26, 27]."
+  },
+  {
+    "front": "**Critical Thinking**: Why can a 'benign' tumor still be fatal?",
+    "back": "A benign tumor can be fatal due to its **critical location** (e.g., a meningioma compressing the brainstem) or by causing severe **mechanical obstruction** or endocrinopathies [18, 28]."
+  },
+  {
+    "front": "What is the clinical significance of **Triple Assessment** in diagnosing lumps?",
+    "back": "It combines **clinical examination, imaging (X-ray/CT/MRI), and pathology (Biopsy/FNAC)** to avoid diagnostic pitfalls like assuming a mobile mass is benign [18, 29, 30]."
+  },
+  {
+    "front": "**PLAB/USMLE Focus**: Which virus is implicated in **Burkitt's Lymphoma** and Nasopharyngeal Carcinoma?",
+    "back": "**Epstein-Barr Virus (EBV)**. It has a strong tropism for B-lymphocytes and causes monoclonal proliferation often involving the **t(8;14)** translocation [31-33]."
+  },
+  {
+    "front": "Identify the **Philadelphia Chromosome** and its associated malignancy.",
+    "back": "It is a **translocation t(9;22)** where the c-ABL proto-oncogene on chromosome 9 moves to the BCR region on chromosome 22. It is found in 95% of **Chronic Myeloid Leukaemia (CML)** cases [34-36]."
+  },
+  {
+    "front": "What are **Oncofoetal Antigens** and provide two examples.",
+    "back": "Antigens normally expressed during embryonic life that reappear in certain cancers. Examples: **Alpha-foetoprotein (AFP)** in liver cancer and **Carcinoembryonic antigen (CEA)** in colon cancer [37-39]."
+  },
+  {
+    "front": "Define **Paraneoplastic Syndrome (PNS)**.",
+    "back": "Clinical syndromes in cancer patients that cannot be explained by the local or distant spread of the tumor or by hormones indigenous to the tissue of origin [40, 41]."
+  },
+  {
+    "front": "Give an example of an **Endocrine Paraneoplastic Syndrome**.",
+    "back": "**Cushing's Syndrome** caused by ectopic ACTH production in **small cell carcinoma of the lung** [42, 43]."
+  },
+  {
+    "front": "**Bias Recognition**: What is a common diagnostic pitfall regarding tumor markers like PSA?",
+    "back": "Assuming a high PSA is definitive for cancer. **Tumor markers lack sensitivity and specificity** for primary diagnosis as they are also produced by normal or inflamed tissues; they are best used for **monitoring treatment** [38, 44]."
+  },
+  {
+    "front": "How does the **Ames' test** evaluate chemical carcinogenicity?",
+    "back": "It tests the ability of a chemical to induce **mutations** in a mutant strain of *Salmonella typhimurium* that cannot synthesize histidine [45, 46]."
+  },
+  {
+    "front": "What is the **role of telomerase** in cancer cell immortality?",
+    "back": "Cancer cells **upregulate telomerase**, which maintains telomere length during mitosis, allowing the cells to **avoid aging** and continue dividing indefinitely [47, 48]."
+  },
+  {
+    "front": "Describe **Desmoplasia** in tumor stroma.",
+    "back": "It is the **excessive growth of fibrous connective tissue** stimulated by the tumor (e.g., scirrhous carcinoma of the breast), making the tumor hard and gritty [49-51]."
+  },
+  {
+    "front": "Which **HPV types** are considered 'high-risk' for cervical cancer?",
+    "back": "**HPV types 16 and 18** (and 31, 33, 45). They act by integrating into host DNA and overexpressing viral proteins **E6 and E7**, which inactivate p53 and pRB [33, 52, 53]."
+  },
+  {
+    "front": "What is **Tumor Heterogeneity** and why is it clinically important?",
+    "back": "The development of multiple aggressive clones within a single monoclonal tumor. It leads to **tumor progression**, where the cancer becomes more invasive and resistant to therapy over time [48, 54]."
+  }
+
+  ]
+}

@@ -1,0 +1,226 @@
+{
+  "flashcards":
+
+[
+  {
+    "front": "What is the primary site of haematopoiesis in the human embryo during the first few weeks of gestation?",
+    "back": "The yolk sac is the main site of haematopoiesis in the first few weeks [1]."
+  },
+  {
+    "front": "Which cell surface protein is a characteristic marker for multipotent haematopoietic stem cells (HSC)?",
+    "back": "HSC express the CD34 surface protein, which helps them 'home' to the bone marrow [2]."
+  },
+  {
+    "front": "What are the two cardinal functions of Haematopoietic Stem Cells (HSC)?",
+    "back": "Self-renewal (maintaining progeny by self-replication) and differentiation into progenitor cells [2]."
+  },
+  {
+    "front": "Identify the primary site of erythropoietin production and its regulatory stimulus.",
+    "back": "The principal site is the kidney; it is produced in response to anoxia (hypoxia) [3]."
+  },
+  {
+    "front": "Which specific instrument is typically used for bone marrow trephine biopsy?",
+    "back": "The Jamshidi trephine needle [4, 5]."
+  },
+  {
+    "front": "In adults, where is active haematopoietic marrow primarily confined?",
+    "back": "The central skeleton (vertebrae, sternum, ribs, skull, sacrum, pelvis) and proximal ends of the femur, tibia, and humerus [1]."
+  },
+  {
+    "front": "Define 'Extramedullary Haematopoiesis'.",
+    "back": "The resumption of blood cell formation by the spleen and liver in adults under pathologic conditions [1]."
+  },
+  {
+    "front": "What is the mean myeloid-to-erythroid (M/E) ratio in a normal adult bone marrow?",
+    "back": "The mean M/E ratio is 3:1 (range 2-4:1) [6]."
+  },
+  {
+    "front": "At which stage of erythroid maturation does the cell cease to undergo proliferative activity?",
+    "back": "The Polychromatic (Intermediate) Erythroblast [7]."
+  },
+  {
+    "front": "What do 'Reticulocytes' represent and how are they counted in the laboratory?",
+    "back": "They are juvenile red cells containing ribosomal RNA; they are counted using supravital staining with dyes like new methylene blue or brilliant cresyl blue [8, 9]."
+  },
+  {
+    "front": "What is the significance of the biconcave shape of a normal erythrocyte?",
+    "back": "It provides flexibility, allowing the 7.2 µm cell to pass through capillaries as narrow as 3.5 µm [10]."
+  },
+  {
+    "front": "Name the three most important proteins in the red cell membrane cytoskeleton.",
+    "back": "Band 3 protein, glycophorin, and spectrin [11]."
+  },
+  {
+    "front": "What factor causes the 'sigmoid' shape of the oxygen dissociation curve?",
+    "back": "The stepwise rise in affinity for oxygen as the four units of the haemoglobin tetramer take up oxygen in succession [12]."
+  },
+  {
+    "front": "How does 2,3-BPG affect the oxygen dissociation curve?",
+    "back": "A rise in 2,3-BPG (as in anaemia or hypoxia) decreases HbA's affinity for oxygen, causing a right shift and enhanced oxygen delivery to tissues [13, 14]."
+  },
+  {
+    "front": "Define Anaemia in adult males and females based on haemoglobin (Hb) thresholds.",
+    "back": "Hb below 13.0 g/dl for males and 11.5 g/dl for females [15]."
+  },
+  {
+    "front": "Which red cell index is considered of greater clinical significance because it is independent of cell count and size?",
+    "back": "Mean Corpuscular Haemoglobin Concentration (MCHC) [16]."
+  },
+  {
+    "front": "What is 'Anisocytosis'?",
+    "back": "Increased variation in the size of red blood cells [17]."
+  },
+  {
+    "front": "Which laboratory finding is the most distinguishing feature between Iron Deficiency Anaemia (IDA) and Anaemia of Chronic Disorder (ACD)?",
+    "back": "Serum Ferritin: It is very low in IDA but increased in ACD [18-20]."
+  },
+  {
+    "front": "What is the commonest cause of hypochromic microcytic anaemia worldwide?",
+    "back": "Iron Deficiency Anaemia (IDA) [21]."
+  },
+  {
+    "front": "Describe the three stages of the development of Iron Deficiency Anaemia.",
+    "back": "1. Storage iron depletion (loss of reserves); 2. Iron deficient erythropoiesis (reduced supply without anaemia); 3. Frank IDA (microcytic hypochromic cells) [22]."
+  },
+  {
+    "front": "What clinical triad is associated with Plummer-Vinson syndrome?",
+    "back": "Iron deficiency anaemia, atrophic glossitis, and esophageal webs causing dysphagia [23]."
+  },
+  {
+    "front": "What is 'Koilonychia' and what does it indicate?",
+    "back": "Spoon-shaped nails; it indicates long-standing chronic iron deficiency anaemia [23]."
+  },
+  {
+    "front": "Critical Thinking: Why must a clinician rule out occult GI malignancy in an adult male with IDA?",
+    "back": "In adult males, IDA is rarely dietary; the vast majority of cases are due to chronic blood loss, often from the gastrointestinal tract [24]."
+  },
+  {
+    "front": "What is the pathognomonic finding in the bone marrow for Sideroblastic Anaemia?",
+    "back": "Ringed Sideroblasts (normoblasts with iron-laden mitochondria forming a ring around the nucleus) [25, 26]."
+  },
+  {
+    "front": "Explain the role of 'Hepcidin' in the pathogenesis of Anaemia of Chronic Disorder (ACD).",
+    "back": "Hepcidin is released from the liver in response to inflammatory cytokines; it inversely regulates ferroportin, leading to iron trapping in macrophages and reduced availability for erythropoiesis [27, 28]."
+  },
+  {
+    "front": "Define Megaloblastic Anaemia based on its distinctive maturation defect.",
+    "back": "It is characterized by 'nuclear-cytoplasmic asynchrony,' where the maturation of the nucleus is delayed relative to that of the cytoplasm due to defective DNA synthesis [29, 30]."
+  },
+  {
+    "front": "Which vitamin deficiency causes neurologic complications like subacute combined degeneration of the spinal cord?",
+    "back": "Vitamin B12 deficiency (Cobalamin) [31]."
+  },
+  {
+    "front": "What are the only dietary sources of Vitamin B12?",
+    "back": "Animal protein origin foods such as liver, meats, fish, eggs, and milk [32]."
+  },
+  {
+    "front": "What is 'Pernicious Anaemia'?",
+    "back": "A megaloblastic anaemia caused by impaired B12 absorption due to a deficiency of intrinsic factor resulting from autoimmune gastric mucosal atrophy [33, 34]."
+  },
+  {
+    "front": "Which peripheral blood finding is a hallmark of megaloblastic anaemia?",
+    "back": "Hypersegmented neutrophils (having more than 5 nuclear lobes) [35]."
+  },
+  {
+    "front": "Distinguish between 'Intravascular' and 'Extravascular' haemolysis regarding iron stores.",
+    "back": "In extravascular haemolysis, iron stores are increased; in intravascular haemolysis, iron stores are decreased [36]."
+  },
+  {
+    "front": "What is the mechanism behind 'Warm Antibody AIHA'?",
+    "back": "IgG class antibodies coat red cells and react at body temperature (37°C), leading to splenic macrophage-mediated spherical transformation (acquired spherocytosis) [37, 38]."
+  },
+  {
+    "front": "Which laboratory test is specific for detecting autoantibodies on red cells in AIHA?",
+    "back": "Direct Coombs’ (antiglobulin) test [37, 39]."
+  },
+  {
+    "front": "What is the molecular defect in Hereditary Spherocytosis?",
+    "back": "A defect in proteins (chiefly spectrin or ankyrin) that anchor the lipid bilayer to the underlying cytoskeleton [40, 41]."
+  },
+  {
+    "front": "What findings characterize G6PD deficiency during an acute haemolytic crisis?",
+    "back": "Heinz bodies (precipitated Hb) and 'bite cells' (red cells with parts removed by the spleen) [42, 43]."
+  },
+  {
+    "front": "What is the specific point mutation in Sickle Cell Anaemia (HbSS)?",
+    "back": "Substitution of valine for glutamic acid at the 6-residue position of the beta-globin chain [44]."
+  },
+  {
+    "front": "Why are symptoms of Sickle Cell Anaemia typically delayed until after 6 months of life?",
+    "back": "HbF (foetal haemoglobin) protects against sickling; symptoms appear when HbF is replaced by HbS [45, 46]."
+  },
+  {
+    "front": "Define 'Thalassaemias' as quantitative vs qualitative disorders.",
+    "back": "Thalassaemias are quantitative disorders (reduced globin chain synthesis), whereas haemoglobinopathies like HbS are qualitative (structural) disorders [47]."
+  },
+  {
+    "front": "What is the primary cause of anaemia in b-Thalassaemia Major?",
+    "back": "Premature red cell destruction caused by membrane damage from precipitated unaccompanied alpha-globin chains [48, 49]."
+  },
+  {
+    "front": "Describe 'Thalassaemic Facies'.",
+    "back": "Prominence of the forehead and cheeks and malocclusion of the jaw due to expansion of bones from marked erythroid hyperplasia [50, 51]."
+  },
+  {
+    "front": "What is the most severe form of alpha-thalassaemia and its typical outcome?",
+    "back": "Hb Bart’s Hydrops Foetalis (four-gene deletion); it is incompatible with life and usually fatal in utero [52]."
+  },
+  {
+    "front": "Define Aplastic Anaemia.",
+    "back": "Pancytopenia resulting from aplasia of the bone marrow (replacement of haematopoietic elements by fat) [53, 54]."
+  },
+  {
+    "front": "Which drug is classically associated with 'idiosyncratic' aplastic anaemia?",
+    "back": "Chloramphenicol [55]."
+  },
+  {
+    "front": "What is 'Myelophthisic Anaemia'?",
+    "back": "Anaemia resulting from infiltration of the marrow by malignancies, tuberculosis, or storage diseases [56]."
+  },
+  {
+    "front": "Define 'Pure Red Cell Aplasia' (PRCA).",
+    "back": "A selective failure in the production of erythroid elements in the bone marrow with normal granulopoiesis and megakaryocytopoiesis [57]."
+  },
+  {
+    "front": "Clinical Case: A 25-year-old female with menorrhagia, pallor, and spoon-shaped nails. Likely diagnosis?",
+    "back": "Iron Deficiency Anaemia (IDA) [58]."
+  },
+  {
+    "front": "Clinical Case: A 3-year-old child with stunted growth, protuberant abdomen, and 'chipmunk facies'. Likely diagnosis?",
+    "back": "Beta-Thalassaemia Major [51]."
+  },
+  {
+    "front": "PLAB/USMLE Style: A patient with chronic renal failure has normocytic normochromic anaemia. What is the cause?",
+    "back": "Reduced erythropoietin production from the diseased kidneys [3, 59]."
+  },
+  {
+    "front": "University Exam Question: Contrast the bone marrow findings in IDA and Megaloblastic Anaemia.",
+    "back": "IDA: Micronormoblastic erythropoiesis, depleted iron stores [60]. Megaloblastic: Megaloblastic erythropoiesis (nuclear-cytoplasmic asynchrony), increased iron stores [30, 61]."
+  },
+  {
+    "front": "PLAB/USMLE Style: A 60-year-old female with chronic RA has low serum iron but high ferritin. Diagnosis?",
+    "back": "Anaemia of Chronic Disorder (ACD) [19, 20]."
+  },
+  {
+    "front": "Bias Recognition: Diagnosing iron deficiency in a child in a thalassaemia-endemic area without checking HbA2 levels.",
+    "back": "This is 'Availability Bias'—relying on common experience while ignoring the high prevalence of thalassaemia trait in that specific population [47, 62]."
+  },
+  {
+    "front": "Problem-Solving: How can one differentiate IDA from Thalassaemia Trait using RDW?",
+    "back": "In the early stages of IDA, RDW is increased; in thalassaemia trait, RDW is typically normal (despite a low MCV) [63]."
+  },
+  {
+    "front": "Critical Thinking: What does a 'Dry Tap' on bone marrow aspiration indicate?",
+    "back": "It often indicates myelofibrosis, aplastic anaemia, or extensive marrow infiltration, necessitating a trephine biopsy [54, 64, 65]."
+  },
+  {
+    "front": "Decision-Making Under Pressure: A patient with suspected epidural haematoma shows a 'lucid interval' followed by rapid unconsciousness. Priority?",
+    "back": "Immediate surgical evacuation to relieve intracranial pressure, as brain damage involving permanent neurons is irreversible [Source: Applied from Chapter 28 context]."
+  },
+  {
+    "front": "Summary Note: What are the three factors determining the rate of sickling in HbS?",
+    "back": "1. Presence of non-HbS haemoglobins (like HbF); 2. Intracellular concentration of HbS; 3. Extent of deoxygenation/acidosis [45]."
+  }
+]
+}

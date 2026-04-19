@@ -1,0 +1,227 @@
+{
+  "flashcards":
+
+
+[
+  {
+    "front": "Chapter Note: What is the embryological origin of the vulva and how does this affect its pathology?",
+    "back": "The vulva consists of structures of ectodermal origin including the labia, clitoris, and Bartholin’s glands [1]. Because of this ectodermal origin, many common inflammatory conditions affecting the vulva are similar to those found generally on the skin [1]."
+  },
+  {
+    "front": "Chapter Note: Summarize the normal histological layers of the vaginal wall.",
+    "back": "The vaginal wall consists of an outer fibrous layer, a middle muscular layer, and an inner epithelial layer [2]. The inner epithelium is stratified squamous and undergoes cytologic changes in response to estrogen levels [2]."
+  },
+  {
+    "front": "Chapter Note: Describe the three structures that compose the endometrium.",
+    "back": "The endometrium consists of the epithelial lining, endometrial glands, and the stroma [3]. These structures respond to ovarian hormones in a cyclic fashion during the menstrual cycle [3, 4]."
+  },
+  {
+    "front": "Core Concept: Contrast the features of Lichen Sclerosus and Squamous Hyperplasia of the vulva.",
+    "back": "Lichen sclerosus is characterized by epidermal thinning, disappearance of rete ridges, and dermal collagen degeneration [5]. Squamous hyperplasia involves epidermal thickening, elongation of rete ridges, and increased mitotic activity without atypia [6]."
+  },
+  {
+    "front": "Core Concept: What are the primary etiologic agents of Condyloma Acuminatum?",
+    "back": "Condyloma acuminata, or anogenital warts, are benign papillary lesions induced by human papilloma virus (HPV) [7]. They are most frequently associated with HPV types 6 and 11 [7]."
+  },
+  {
+    "front": "Core Concept: Define the relationship between high-risk HPV types and cervical cancer.",
+    "back": "High-risk HPV types 16 and 18 are strongly implicated in the etiology of cervical cancer [8]. These viruses integrate into the host cell nucleus and inactivate tumor suppressor genes p53 and RB-1 [9]."
+  },
+  {
+    "front": "Core Concept: Distinguish between the Bethesda System's L-SIL and H-SIL.",
+    "back": "L-SIL corresponds to CIN-1 (mild dysplasia) and is often related to HPV 6 and 11 [10]. H-SIL encompasses CIN-2 and CIN-3, including moderate dysplasia, severe dysplasia, and carcinoma in situ, primarily linked to HPV 16 and 18 [11]."
+  },
+  {
+    "front": "Core Concept: What is the histological hallmark of Sarcoma Botryoides?",
+    "back": "This rare tumor is characterized by bulky, grape-like polypoid masses projecting out of the vagina [12]. Histologically, it features a 'cambium layer' of round to fusiform tumor cells situated beneath the vaginal epithelium [13]."
+  },
+  {
+    "front": "Core Concept: Define Adenomyosis and its clinical presentation.",
+    "back": "Adenomyosis is the abnormal distribution of histologically benign endometrial tissue within the myometrium [14]. Patients typically present with menorrhagia and colicky dysmenorrhoea [14]."
+  },
+  {
+    "front": "Core Concept: Identify the three theories regarding the histogenesis of Endometriosis.",
+    "back": "The transplantation theory assumes ectopic tissue is regurgitated through fallopian tubes [15]. The metaplastic theory suggests local tissue undergoes metaplasia of coelomic epithelium [16]. The vascular/lymphatic theory explains development at extrapelvic sites via dissemination [16]."
+  },
+  {
+    "front": "Core Concept: Classify Endometrial Hyperplasias based on cytologic atypia.",
+    "back": "Hyperplasias are classified as simple or complex, and either without atypia or with atypia [17]. Complex atypical hyperplasia is a precancerous condition where 20-25% of untreated cases progress to carcinoma [18, 19]."
+  },
+  {
+    "front": "Core Concept: Describe the '4 Stages' of Ovarian Surface Epithelial Tumor aggressiveness.",
+    "back": "Tumors are classified as clearly benign (single layer lining), borderline (stratification but no stromal invasion), or clearly malignant (anaplastic cells with invasion) [20, 21]."
+  },
+  {
+    "front": "Core Concept: What is a Krukenberg Tumor?",
+    "back": "It is a distinctive bilateral ovarian metastasis of a signet-ring carcinoma, usually originating from the stomach [22]. It is characterized by mucin-filled signet-ring cells and a sarcoma-like stroma [23]."
+  },
+  {
+    "front": "Core Concept: Differentiate Complete and Partial Hydatidiform Moles by karyotype.",
+    "back": "Complete moles are diploid (46,XX or 46,XY) and derived entirely from the father [24, 25]. Partial moles are typically triploid (69,XXY or 69,XXX) and may contain fetal parts [25, 26]."
+  },
+  {
+    "front": "Critical Thinking: Why is the clinical term 'leukoplakia' discouraged in pathological reporting for the vulva?",
+    "back": "The term 'leukoplakia' is a non-specific clinical description for a white patch [27]. Pathologically, such lesions may represent vitiligo, carcinoma in situ, Paget’s disease, or invasive carcinoma, necessitating more precise descriptive terms [27]."
+  },
+  {
+    "front": "Critical Thinking: How does the presence of glycogen in surface cells affect the results of Schiller’s test?",
+    "back": "Normal cervical cells contain glycogen and stain brown with iodine [28]. Cancerous cells lack glycogen and fail to stain, which identifies suspicious areas for biopsy [28, 29]."
+  },
+  {
+    "front": "Critical Thinking: What are the risks of assuming a pelvic mass is a simple ovarian cyst in a post-menopausal woman?",
+    "back": "Primary malignant ovarian tumors are more frequent in women between 40 and 60 years of age [30]. Assuming benignity can lead to delayed diagnosis of surface epithelial malignancies, which often spread before clinical detection [31, 32]."
+  },
+  {
+    "front": "Critical Thinking: Why is gestational choriocarcinoma more favorable than non-gestational ovarian choriocarcinoma?",
+    "back": "Gestational choriocarcinoma of placental origin responds very well to chemotherapy, with cure rates reaching 70-95% [33, 34]. Non-gestational ovarian choriocarcinoma is resistant to therapy and carries a much worse prognosis [33]."
+  },
+  {
+    "front": "Clinical Case 1: A 5-year-old girl presents with a grape-like mass projecting from her vagina. What is the suspected diagnosis and first step?",
+    "back": "The diagnosis is Sarcoma Botryoides, an unusual malignant tumor of infants [12]. Immediate management includes radical surgery combined with chemotherapy [13]."
+  },
+  {
+    "front": "Clinical Case 2: A 30-year-old woman presents with bilateral ovarian cysts and severe dysmenorrhoea. Surgery reveals 'chocolate cysts'. Diagnosis?",
+    "back": "The diagnosis is Endometriosis of the ovary [35]. The 'chocolate' appearance is caused by cysts filled with old, dark brown blood [36]."
+  },
+  {
+    "front": "Clinical Case 3: A 50-year-old woman presents with post-menopausal, foul-smelling vaginal discharge and spotting. Examination shows an ulcerated cervix. Probable diagnosis?",
+    "back": "The clinical presentation strongly suggests Invasive Cervical Carcinoma [37]. Diagnostic confirmation requires a Pap smear followed by a colposcopy-directed biopsy [11, 38]."
+  },
+  {
+    "front": "Clinical Case Discussion: Why is infertility associated with Polycystic Ovary Syndrome (PCOS)?",
+    "back": "PCOS involves unbalanced FSH and LH levels, leading to excessive androgen production and a state of chronic anovulation [39]. The absence of a graafian follicle and subsequent corpus luteum prevents fertilization [39, 40]."
+  },
+  {
+    "front": "University Exam Question: Define FIGO Stage II for carcinoma of the vulva.",
+    "back": "Stage II indicates the tumor is confined to the vulva and/or perineum and is more than 2 cm in diameter [41]. There is no spread to adjacent organs or lymph nodes at this stage [41]."
+  },
+  {
+    "front": "University Exam Question: List the histological features of Chronic Cervicitis.",
+    "back": "It is characterized by subepithelial inflammatory infiltrate of lymphocytes and plasma cells [42]. Surface epithelial changes like squamous metaplasia or 'epidermidisation' may be seen [43]."
+  },
+  {
+    "front": "University Exam Question: What are the microscopic characteristics of a Complete Hydatidiform Mole?",
+    "back": "It features large, oedematous villi with central cisterns and a lack of vascularity [44]. Trophoblastic proliferation is typically circumferential around the villi [44]."
+  },
+  {
+    "front": "University Exam Question: Describe the morphology of Uterine Leiomyomas.",
+    "back": "They are firm, nodular, grey-white masses showing a characteristic whorled pattern on cut section [45]. Histologically, they consist of whorled bundles of uniform smooth muscle cells admixed with fibrous tissue [45]."
+  },
+  {
+    "front": "University Exam Question: Contrast the peak age of incidence for VIN and invasive vulval cancer.",
+    "back": "Vulval Intraepithelial Neoplasia (VIN) primarily occurs during reproductive years [46]. Invasive vulval cancer or VIN typically develops in the 4th to 6th decades [46]."
+  },
+  {
+    "front": "PLAB/USMLE Pattern: A 60-year-old woman with obesity and diabetes has post-menopausal bleeding. What is the most likely diagnosis?",
+    "back": "Endometrial Carcinoma is the most likely diagnosis, as it is primarily a disease of post-menopausal women [47]. Risk factors include chronic unopposed estrogen, obesity, and diabetes [48, 49]."
+  },
+  {
+    "front": "PLAB/USMLE Pattern: A biopsy of a cervical lesion shows pleomorphic atypical cells through the entire thickness of the epithelium. Stage?",
+    "back": "This is CIN-3, or Carcinoma in situ [50]. In the Bethesda system, this would be classified as H-SIL [11]."
+  },
+  {
+    "front": "PLAB/USMLE Pattern: A patient has a large adnexal mass and high serum β-hCG but no fetus. What must be monitored post-evacuation?",
+    "back": "Serial determination of β-hCG is the mainstay of management [51]. A failure of β-hCG levels to fall indicates persistent molar tissue or development into choriocarcinoma [51]."
+  },
+  {
+    "front": "PLAB/USMLE Pattern: A cystic ovarian mass in a 20-year-old woman contains hair, teeth, and sebaceous material. What is the risk of malignancy?",
+    "back": "This is a benign cystic teratoma or dermoid cyst [52, 53]. Less than 1% of cases undergo malignant transformation, usually into squamous cell carcinoma [54]."
+  },
+  {
+    "front": "PLAB/USMLE Pattern: A 45-year-old woman has 'acetowhite' areas during a VIA exam of the cervix. What does this indicate?",
+    "back": "Acetowhite areas indicate coagulation of increased nuclear DNA in precancerous or cancerous cells [38]. This is a suspicious finding requiring further cytologic or histologic evaluation [38]."
+  },
+  {
+    "front": "PLAB/USMLE Pattern: A 28-year-old woman presents with severe bilateral pelvic pain, fever, and a history of IUCD use. Diagnosis?",
+    "back": "The clinical syndrome points to Pelvic Inflammatory Disease (PID) [55, 56]. Most cases are venereally transmitted, often caused by Chlamydia or Gonorrhoea [56]."
+  },
+  {
+    "front": "Bias Recognition: How can 'gender bias' or 'age bias' affect the diagnosis of ovarian cancer?",
+    "back": "Clinicians may overlook malignant potential in younger women, assuming adnexal masses are benign follicular cysts [30]. Conversely, they may assume all masses in older women are malignant, potentially over-treating benign fibromas [30, 57]."
+  },
+  {
+    "front": "Bias Recognition: Explain how anchoring bias affects the management of Bartholin’s cysts.",
+    "back": "Anchoring on a diagnosis of acute adenitis might lead to simple drainage without realizing that chronic, recurring infection can lead to large, asymptomatic cysts [58, 59]."
+  },
+  {
+    "front": "Problem Solving: A pathology report states 'Complex Atypical Hyperplasia'. What is the structured clinical response?",
+    "back": "Because this is a precancerous lesion with a 20-25% progression rate to cancer, a hysterectomy is often recommended for post-menopausal women [18, 19]. In younger women, high-dose progestrin therapy may be trialed with close serial monitoring [18, 60]."
+  },
+  {
+    "front": "Problem Solving: How do you differentiate Adenomyosis from Endometriosis interna?",
+    "back": "Pathologically, they are the same, referring to endometrial tissue within the myometrium [61]. However, adenomyosis is a specific clinicopathologic entity that differs in age, fertility, and histogenesis from endometriosis externa [61]."
+  },
+  {
+    "front": "Problem Solving: Distinguish between gestational and non-gestational choriocarcinoma markers.",
+    "back": "Both types use β-hCG as a tumor marker [62, 63]. However, clinical history of pregnancy or molar expulsion identifies the gestational type, while a young prepubertal patient with an ovarian mass points to the non-gestational germ cell type [64, 65]."
+  },
+  {
+    "front": "Problem Solving: When is a Brenner tumor considered malignant?",
+    "back": "The vast majority of Brenner tumors are benign and solid [66]. They are only considered malignant when they show frank carcinomatous change in the urothelial-like epithelial component [67]."
+  },
+  {
+    "front": "Critical Thinking: Why does the adult vaginal mucosa resist gonococcal infection better than the childhood mucosa?",
+    "back": "Estrogen increases the thickness of the stratified squamous epithelium during reproductive years [2, 68]. In childhood, the epithelium is thin and lacks hormonal stimulation, making it more vulnerable to infection [2]."
+  },
+  {
+    "front": "Chapter Note: Define 'Kraurosis Vulvae'.",
+    "back": "It is a clinical term for the progressive shrinkage and atrophy of the vulva that results in narrowing of the introitus, often seen in advanced lichen sclerosus [69]."
+  },
+  {
+    "front": "Chapter Note: What is the significance of 'Koilocytosis' in a cervical smear?",
+    "back": "Koilocytosis is perinuclear vacuolisation of the epithelium, which is a cytomorphologic indicator of HPV infection [10, 70]."
+  },
+  {
+    "front": "Chapter Note: Describe 'Arias-Stella reaction'.",
+    "back": "It is a hyperactive secretory state of the endometrium seen in 25% of pregnancies, characterized by atypical, hyperchromatic tall cells [71]. It can be mistaken for adenocarcinoma by the inexperienced observer [71]."
+  },
+  {
+    "front": "Chapter Note: What is the 'Swiss-cheese' pattern of the endometrium?",
+    "back": "This pattern is seen in simple hyperplasia (cystic glandular hyperplasia), where glands are cystically dilated and lined by atrophic epithelium [17, 72]."
+  },
+  {
+    "front": "Chapter Note: Define 'Chocolate Cysts' of the ovary.",
+    "back": "These are large cysts of ovarian endometriosis filled with old, dark brown blood resulting from intrapelvic bleeding [35, 36]."
+  },
+  {
+    "front": "Chapter Note: List the three parts of the Bethesda System evaluation.",
+    "back": "Evaluation includes adequacy of specimen, general diagnosis (normal/abnormal), and descriptive diagnosis of abnormalities [73]."
+  },
+  {
+    "front": "Chapter Note: What is 'Botryoides' and its literal meaning?",
+    "back": "Botryoides means 'grape-like', which describes the gross appearance of embryonal rhabdomyosarcoma in children [12]."
+  },
+  {
+    "front": "Chapter Note: Describe the 'Cambium Layer' of a tumor.",
+    "back": "It is a characteristic histological finding in Sarcoma Botryoides consisting of tumor cells lying just underneath the vaginal epithelium [13]."
+  },
+  {
+    "front": "Chapter Note: What are 'Call-Exner bodies'?",
+    "back": "These are small round masses of dense pink material surrounded by a rosette of granulosa cells, found in normal follicles and granulosa cell tumors [74, 75]."
+  },
+  {
+    "front": "Chapter Note: Define 'Struma Ovarii'.",
+    "back": "It is a specialized teratoma composed exclusively of thyroid tissue, which can sometimes produce hyperthyroidism [76, 77]."
+  },
+  {
+    "front": "Chapter Note: What are 'Michaelis-Gutmann bodies'? (Note: Contextual comparison to Malakoplakia often seen in Genital tract).",
+    "back": "While not explicitly in this specific chapter text, they are often compared in differential pathology; however, within this text, 'psammoma bodies' are highlighted as laminated calcifications in serous tumors [78]."
+  },
+  {
+    "front": "Chapter Note: Describe the clinical triad of Meig’s syndrome.",
+    "back": "It consists of an ovarian fibroma associated with benign ascites and pleural effusion [57]."
+  },
+  {
+    "front": "Chapter Note: Define 'Piecemeal' or 'Interface' changes in the genital tract (Note: High yield in USMLE for VIN/CIN).",
+    "back": "This refers to progressive stages of atypia evolving through the thickness of the epithelium before becoming invasive [79, 80]."
+  },
+  {
+    "front": "Chapter Note: What is 'pseudomyxoma peritonei'?",
+    "back": "It is a condition of mucinous ascites often associated with mucinous tumors of the ovary and appendix [81]."
+  },
+  {
+    "front": "Chapter Note: Describe the appearance of 'Schiller-Duval bodies'.",
+    "back": "They consist of a papillary projection with a central blood vessel and a perivascular layer of germ cells, resembling rat placental sinuses [82]."
+  }
+]
+}

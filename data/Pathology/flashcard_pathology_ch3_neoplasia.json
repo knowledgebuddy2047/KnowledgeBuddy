@@ -1,0 +1,124 @@
+{
+  "flashcards": [
+    {
+      "front": "Define neoplasia.",
+      "back": "Neoplasia means 'new growth' and refers to abnormal, uncontrolled proliferation of cells."
+    },
+    {
+      "front": "What are the two basic components of a tumor?",
+      "back": "Parenchyma (neoplastic cells) and stroma (supporting connective tissue, blood vessels, inflammatory cells)."
+    },
+    {
+      "front": "Differentiate between benign and malignant tumors.",
+      "back": "Benign tumors are localized, slow-growing, often encapsulated; malignant tumors invade, destroy, and metastasize."
+    },
+    {
+      "front": "What suffix is commonly used for benign mesenchymal tumors?",
+      "back": "The suffix '-oma' (e.g., fibroma, lipoma, chondroma)."
+    },
+    {
+      "front": "What is the malignant counterpart of fibroma?",
+      "back": "Fibrosarcoma."
+    },
+    {
+      "front": "What is the malignant counterpart of lipoma?",
+      "back": "Liposarcoma."
+    },
+    {
+      "front": "What is the malignant counterpart of chondroma?",
+      "back": "Chondrosarcoma."
+    },
+    {
+      "front": "What is the malignant counterpart of osteoma?",
+      "back": "Osteogenic sarcoma."
+    },
+    {
+      "front": "What is the malignant counterpart of hemangioma?",
+      "back": "Angiosarcoma."
+    },
+    {
+      "front": "What is the malignant counterpart of lymphangioma?",
+      "back": "Lymphangiosarcoma."
+    },
+    {
+      "front": "What is the malignant tumor of melanocytes?",
+      "back": "Malignant melanoma."
+    },
+    {
+      "front": "What is the benign tumor of smooth muscle?",
+      "back": "Leiomyoma."
+    },
+    {
+      "front": "What is the malignant tumor of smooth muscle?",
+      "back": "Leiomyosarcoma."
+    },
+    {
+      "front": "What is the benign tumor of striated muscle?",
+      "back": "Rhabdomyoma."
+    },
+    {
+      "front": "What is the malignant tumor of striated muscle?",
+      "back": "Rhabdomyosarcoma."
+    },
+    {
+      "front": "What is an adenoma?",
+      "back": "A benign epithelial tumor forming gland-like structures."
+    },
+    {
+      "front": "What is an adenocarcinoma?",
+      "back": "A malignant epithelial tumor forming glandular structures."
+    },
+    {
+      "front": "What is a papilloma?",
+      "back": "A benign epithelial tumor producing finger-like fronds."
+    },
+    {
+      "front": "What is carcinoma in situ?",
+      "back": "Severe dysplasia involving full epithelial thickness with intact basement membrane."
+    },
+    {
+      "front": "What is anaplasia?",
+      "back": "Loss of differentiation, characterized by pleomorphism, hyperchromatic nuclei, atypical mitoses, and loss of polarity."
+    },
+    {
+      "front": "What is dysplasia?",
+      "back": "Disordered growth with pleomorphism, hyperchromatic nuclei, and abnormal mitoses; precursor to carcinoma in situ."
+    },
+    {
+      "front": "What is the hallmark of malignancy?",
+      "back": "Metastasis — spread to distant sites."
+    },
+    {
+      "front": "What is pleomorphism?",
+      "back": "Variation in size and shape of cells and nuclei, typical of anaplastic tumors."
+    },
+    {
+      "front": "What is desmoplasia?",
+      "back": "Dense fibrous stroma induced by certain cancers, making them hard (scirrhous tumors)."
+    },
+    {
+      "front": "What is a hamartoma?",
+      "back": "A mass of disorganized tissue indigenous to the site, often considered neoplastic due to clonal mutations."
+    },
+    {
+      "front": "What is a choristoma?",
+      "back": "A congenital anomaly with normal tissue in an abnormal location (heterotopic tissue)."
+    },
+    {
+      "front": "What is a pleomorphic adenoma?",
+      "back": "A mixed tumor of salivary gland with epithelial and stromal components."
+    },
+    {
+      "front": "What is a fibroadenoma?",
+      "back": "A benign breast tumor with proliferating ductal elements embedded in fibrous tissue."
+    },
+    {
+      "front": "What is a teratoma?",
+      "back": "A tumor containing tissues from more than one germ cell layer, arising from totipotent germ cells."
+    },
+    {
+      "front": "Name exceptions where '-oma' denotes malignancy.",
+      "back": "Lymphoma, melanoma, mesothelioma, seminoma."
+    }
+  ]
+}

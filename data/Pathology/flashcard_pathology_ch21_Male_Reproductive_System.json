@@ -1,0 +1,228 @@
+
+{
+  "flashcards":
+
+
+[
+  {
+    "front": "Explanation Note: **Anatomy of the Testis and Epididymis**",
+    "back": "The testis consists of **seminiferous tubules** (containing germ cells and Sertoli cells) and **interstitial cells of Leydig**. The tubules drain into the rete testis, vasa efferentia, and finally the **epididymis**, which is prolonged into the vas deferens [1, 2]."
+  },
+  {
+    "front": "Core Concept: Define **Cryptorchidism** and its most common clinical location.",
+    "back": "Cryptorchidism is the arrest of a testicle along its descent. In **70% of cases**, the undescended testis is found in the **inguinal ring** [3]."
+  },
+  {
+    "front": "Core Concept: What are the two main functions of **Leydig cells** and their characteristic histological feature?",
+    "back": "They are the **main source of testosterone** and contain elongated **Reinke’s crystals** [2]."
+  },
+  {
+    "front": "Critical Thinking: Why is **orchiopexy** recommended before age 2 for cryptorchidism?",
+    "back": "Histological **atrophy** (loss of germ cells and tubular hyalinisation) begins to appear by age 2. Early surgery is required to prevent **sterility** and detect potential **malignancy** early [4-6]."
+  },
+  {
+    "front": "Explanation Note: **Classification of Male Infertility**",
+    "back": "1. **Pre-testicular**: Endocrine disorders (e.g., Hypopituitarism, estrogen excess). 2. **Testicular**: Primary failure (e.g., Agonadism, Mumps orchitis, Klinefelter’s). 3. **Post-testicular**: Obstructions (e.g., Vas deferens atresia, acquired blocks) [7-10]."
+  },
+  {
+    "front": "Core Concept: Common pathogens of **Epididymitis/Orchitis** in men under 35 vs. older men.",
+    "back": "Under 35: **Neisseria gonorrhoeae** and **Chlamydia trachomatis**. Older: **E. coli** and **Pseudomonas** [11]."
+  },
+  {
+    "front": "Critical Thinking: Why might **Granulomatous (Autoimmune) Orchitis** be misidentified as a tumor?",
+    "back": "It presents as a **unilateral, painless testicular enlargement** in middle-aged men, clinically mimicking the presentation of a malignancy [12]."
+  },
+  {
+    "front": "Core Concept: Where does **Tuberculosis** of the male reproductive tract invariably begin?",
+    "back": "It invariably begins in the **epididymis** before spreading to the testis [13]."
+  },
+  {
+    "front": "Explanation Note: Pathogenesis of **Testicular Torsion**",
+    "back": "It results from the **sudden cessation of venous drainage and arterial supply**, typically following muscular effort or trauma. It is common in boys and young men and is a **surgical emergency** [14, 15]."
+  },
+  {
+    "front": "Core Concept: Why is **Primary Varicocele** nearly always found on the **left side**?",
+    "back": "The **left spermatic vein** enters the renal vein at a **right angle**, and a **loaded rectum** may compress the left vein [16]."
+  },
+  {
+    "front": "Core Concept: Distinguish between **Hydrocele** and **Haematocele**.",
+    "back": "**Hydrocele**: Accumulation of **serous fluid** in the tunica vaginalis. **Haematocele**: Accumulation of **blood** [6, 17, 18]."
+  },
+  {
+    "front": "Critical Thinking: What is the clinical significance of the **'trimodal age distribution'** of testicular tumors?",
+    "back": "It informs differential diagnosis: Peaks occur in **infancy**, **late adolescence/early adulthood**, and **after 60 years** [19]."
+  },
+  {
+    "front": "Core Concept: Which chromosome abnormality is found in >90% of **testicular germ cell tumors**?",
+    "back": "An **isochromosome of the short arm of chromosome 12**, abbreviated as **i(12p)** [20]."
+  },
+  {
+    "front": "Explanation Note: **Testicular Tumor Markers** and their significance.",
+    "back": "**hCG** (syncytiotrophoblasts) and **AFP** (yolk sac components) are used for diagnosis, staging, and monitoring follow-up [21, 22]."
+  },
+  {
+    "front": "Core Concept: Contrast the spread of **Seminomatous (SGCT)** vs. **Non-seminomatous (NSGCT)** tumors.",
+    "back": "**SGCT**: Spreads primarily to **regional lymph nodes**. **NSGCT**: Characterized by **early haematogenous spread** [23, 24]."
+  },
+  {
+    "front": "Core Concept: Histological hallmark of **Classic Seminoma**.",
+    "back": "Uniform cells with **clear cytoplasm** (glycogen-rich) and delicate fibrous stroma showing **lymphocytic infiltration** [25-28]."
+  },
+  {
+    "front": "Critical Thinking: How does **Spermatocytic Seminoma** differ from Classic Seminoma in prognosis?",
+    "back": "It has an **excellent prognosis**; it is slow-growing and **rarely metastasises**, unlike the more aggressive classic type [29, 30]."
+  },
+  {
+    "front": "Core Concept: Pathognomonic feature of **Yolk Sac Tumors**.",
+    "back": "**Schiller-Duval bodies**, which resemble perivascular structures in the rat placenta, and **AFP-containing hyaline globules** [31, 32]."
+  },
+  {
+    "front": "Explanation Note: The malignancy of **Testicular Teratomas** in adults.",
+    "back": "Unlike in infants, **all testicular teratomas in adults are regarded as malignant**, as they invariably contain hidden foci of immature elements [33]."
+  },
+  {
+    "front": "Core Concept: Histological hallmark of **Choriocarcinoma**.",
+    "back": "Identification of intimately related **syncytiotrophoblast** and **cytotrophoblast** without definite placental-type villi [34, 35]."
+  },
+  {
+    "front": "Core Concept: Define **Phimosis** and its major clinical risks.",
+    "back": "The prepuce is too small to retract over the glans. It predisposes to **secondary infection**, **calculi**, and **squamous cell carcinoma** [36, 37]."
+  },
+  {
+    "front": "Core Concept: Differentiate **Hypospadias** from **Epispadias**.",
+    "back": "**Hypospadias**: Meatus opens on the **ventral** surface. **Epispadias**: Meatus opens on the **dorsal** surface [37, 38]."
+  },
+  {
+    "front": "Core Concept: Etiology and hallmark of **Condyloma Acuminatum**.",
+    "back": "Caused by **HPV types 6 and 11**. Histological hallmark is **koilocytosis** (clear vacuolisation of cytoplasm) [39, 40]."
+  },
+  {
+    "front": "Explanation Note: Three forms of **Penile Carcinoma in situ (CIS)**.",
+    "back": "1. **Bowen’s Disease** (shaft, solitary plaque). 2. **Erythroplasia of Queyrat** (mucosa, velvety lesion). 3. **Bowenoid Papulosis** (multiple papules, orderly maturation) [41-44]."
+  },
+  {
+    "front": "Critical Thinking: Why is **early circumcision** protective against penile cancer?",
+    "back": "It prevents the accumulation of **smegma**, which is believed to be **carcinogenic** [45, 46]."
+  },
+  {
+    "front": "Core Concept: Anatomical division of the **Prostate** based on hormone sensitivity.",
+    "back": "1. **Inner periurethral** part: Sensitive to **estrogen** (site of BNH). 2. **Outer subcapsular** part: Sensitive to **androgen** (site of Carcinoma) [47, 48]."
+  },
+  {
+    "front": "Core Concept: Which pathogens are implicated in **Chronic Abacterial Prostatitis**?",
+    "back": "**Chlamydia trachomatis** and **Ureaplasma urealyticum** [49]."
+  },
+  {
+    "front": "Critical Thinking: The clinical pitfall of **Granulomatous Prostatitis**.",
+    "back": "The gland feels **firm to hard** on rectal exam, giving a **false clinical impression of carcinoma** [50]."
+  },
+  {
+    "front": "Explanation Note: Pathogenesis of **Benign Nodular Hyperplasia (BNH)**.",
+    "back": "With age, rising estrogen levels **sensitise** the inner prostate to the growth-promoting effects of **dihydroxy-testosterone** [48, 51]."
+  },
+  {
+    "front": "Core Concept: Distinguish between **Latent** and **Occult** Prostatic Carcinoma.",
+    "back": "**Latent**: Found unexpectedly at autopsy. **Occult**: Presenting with **metastases** despite having no local symptoms [52, 53]."
+  },
+  {
+    "front": "Core Concept: Define the precursor lesion for **Invasive Prostatic Adenocarcinoma**.",
+    "back": "High-grade **Prostatic Intraepithelial Neoplasia (PIN)** [54]."
+  },
+  {
+    "front": "Explanation Note: Histological features of **Prostatic Adenocarcinoma**.",
+    "back": "Architectural disturbance (back-to-back glands), **loss of the outer basal cell layer**, and **perineural invasion** [55-58]."
+  },
+  {
+    "front": "Core Concept: Characteristic site and type of **Prostate Cancer metastasis**.",
+    "back": "Causes **osteoblastic osseous metastases**, particularly to the **pelvis and lumbar spine** [59, 60]."
+  },
+  {
+    "front": "Core Concept: Diagnostic values for **Prostate-Specific Antigen (PSA)**.",
+    "back": "Normal: 0-4 ng/ml. Suspicious: 4-10 ng/ml. **Diagnostic of carcinoma: Above 10 ng/ml** [61]."
+  },
+  {
+    "front": "Explanation Note: **Gleason’s Grading System**.",
+    "back": "Based on **glandular differentiation** and growth pattern relative to stroma. It sums a **primary score** (predominant pattern) and **secondary score** for a total out of 10 [60, 62]."
+  },
+  {
+    "front": "Bias Recognition: **Sutton's Law** and Prostatic Metastasis.",
+    "back": "When an older male presents with new-onset **back pain and osteoblastic bone lesions**, a clinician must avoid 'anchoring' on simple orthopedic causes and perform a **DRE** and PSA to rule out prostate cancer [59, 63]."
+  },
+  {
+    "front": "University-Level Exam Question: Describe the **gross and microscopic** features of **Classic Seminoma**.",
+    "back": "Gross: Homogeneous, **grey-white lobulated** mass; contour maintained. Micro: Uniform cells with clear cytoplasm (glycogen+), hyperchromatic nuclei, and **lymphocytic infiltration** in the stroma [25-27]."
+  },
+  {
+    "front": "University-Level Exam Question: Compare **BNH and Prostatic Carcinoma** in terms of site of origin and clinical effect on the urethra.",
+    "back": "BNH: Arises in the **inner periurethral** zone and **compresses the urethra**. Carcinoma: Arises in the **outer subcapsular** part and **does not initially compress** the urethra [47, 64-66]."
+  },
+  {
+    "front": "University-Level Exam Question: Define **Elephantiasis** of the scrotum and its causative agent.",
+    "back": "Enormous thickening of scrotal skin and subcutaneous fibrosis caused by **Wuchereria bancrofti** (filaria) [67, 68]."
+  },
+  {
+    "front": "University-Level Exam Question: List the **Etiologic Factors** implicated in **Testicular Germ Cell Tumors**.",
+    "back": "1. Cryptorchidism. 2. Gonadal dysgenesis. 3. Genetic factors (i12p). 4. Environmental carcinogens/Radiation [20, 23, 69-71]."
+  },
+  {
+    "front": "PLAB/USMLE Pattern: A 28-year-old male presents with a **painless, firm** right testicular mass that **does not transilluminate**. Diagnosis?",
+    "back": "**Germ Cell Tumor** (most likely Classic Seminoma). Painless enlargement in this age group is a malignancy until proven otherwise [19, 60, 72]."
+  },
+  {
+    "front": "PLAB/USMLE Pattern: A 4-year-old boy presents with a soft, mucoid testicular mass and significantly **elevated serum AFP**. Diagnosis?",
+    "back": "**Yolk Sac Tumour** (Orchioblastoma). It is the most common testicular tumor in children up to age 4 and is 100% AFP-positive [28, 31]."
+  },
+  {
+    "front": "PLAB/USMLE Pattern: A 72-year-old male with a history of **nocturia** and urinary frequency has a **hard, fixed nodule** on DRE. What is the next diagnostic step?",
+    "back": "**TRUS-guided core needle biopsy**. The 'triple approach' includes DRE, PSA, and biopsy [63, 73]."
+  },
+  {
+    "front": "PLAB/USMLE Pattern: An adult male with a history of cirrhosis presents with gynaecomastia and testicular atrophy. This is categorized as which type of infertility?",
+    "back": "**Pre-testicular cause** (Estrogen excess from hepatic cirrhosis) [7, 8]."
+  },
+  {
+    "front": "Bias Recognition: **Frequency Bias** in Geriatric Urology.",
+    "back": "Clinicians may attribute urinary frequency in an 80-year-old purely to **BNH** (due to its 80% prevalence). One must not **anchor** on this and fail to investigate for a hard nodule on DRE that indicates carcinoma [51, 52]."
+  },
+  {
+    "front": "Clinical Case Study (Case 22): 25yo male, 5cm **firm, non-tender** mass, **negative transillumination**. AFP and hCG are normal. Diagnosis?",
+    "back": "**Classic Seminoma**. Diagnosis is confirmed by the painless mass, age, and negative transillumination (indicating a solid mass rather than fluid) [60, 72]."
+  },
+  {
+    "front": "Problem Solving: A patient presents with **sudden acute retention of urine**. He has a history of nocturia. What is the immediate intervention?",
+    "back": "Immediate **catheterisation** to relieve the obstruction, followed by evaluation for BNH (Benign Nodular Hyperplasia) [74]."
+  },
+  {
+    "front": "Critical Thinking: Why is a **trans-scrotal biopsy contraindicated** for suspected testicular tumors?",
+    "back": "Due to the risk of **tumor spill** and altering the lymphatic drainage pattern of the tumor; **radical orchidectomy** is the standard diagnostic/therapeutic approach [75]."
+  },
+  {
+    "front": "Core Concept: Define **Spermatic Granuloma**.",
+    "back": "An inflammatory lesion due to **invasion of spermatozoa into the stroma**, often following trauma, inflammation, or vasectomy [76]."
+  },
+  {
+    "front": "Core Concept: What are **Call-Exner bodies** associated with in the male reproductive tract?",
+    "back": "They are characteristic features sometimes found in **Granulosa Cell Tumours** or Gonadoblastomas [77, 78]."
+  },
+  {
+    "front": "Explanation Note: **GIST BOX: Diseases of the Penis**.",
+    "back": "Includes developmental anomalies (Phimosis, Hypospadias), inflammations (Balanoposthitis), and tumors (Condyloma, CIS, Squamous Cell Carcinoma) [37, 44]."
+  },
+  {
+    "front": "Core Concept: Define **Paraphimosis**.",
+    "back": "A condition where a **phimotic prepuce is forcibly retracted**, causing constriction and swelling of the glans [36]."
+  },
+  {
+    "front": "Bias Recognition: **Representativeness Heuristic**.",
+    "back": "A student might assume all 'seminomas' are Classic Seminomas. However, they must remember **Spermatocytic Seminoma** as a distinct entity in older patients with a much better prognosis [29, 30]."
+  },
+  {
+    "front": "Core Concept: The **'Three Hit'** process of testicular tumorigenesis.",
+    "back": "1. **Activation** of germ cells. 2. **Malignant transformation** (CIS). 3. **Epigenetic phenomena** leading to invasion [79]."
+  },
+  {
+    "front": "Problem Solving: Distinguishing **Hydrocele** from a **Scrotal Hernia**.",
+    "back": "A hydrocele typically allows a clinician to **'get above' the swelling** during palpation, which is not possible with an inguinal-scrotal hernia [1, 17]."
+  }
+]
+}

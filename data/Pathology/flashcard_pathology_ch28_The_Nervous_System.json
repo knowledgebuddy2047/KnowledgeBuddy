@@ -1,0 +1,214 @@
+{
+  "flashcards":
+
+[
+  {
+    "front": "Chapter Note: What are the two primary categories of tissues found in the nervous system?",
+    "back": "The nervous system is comprised of **neuroectodermal tissues** (neurons and neuroglia) and **mesodermal tissues** (microglia, dura mater, leptomeninges, and blood vessels) [1, 2]."
+  },
+  {
+    "front": "Core Concept: Why is brain damage involving neurons considered irreversible?",
+    "back": "Neurons are highly specialised cells that are **incapable of dividing** after the first few weeks of birth, meaning they cannot regenerate after loss [2]."
+  },
+  {
+    "front": "Explanation Note: Define **Nissl substance** and its composition.",
+    "back": "Nissl substance consists of polygonal, basophilic structures in the neuronal cytoplasm made of **aggregates of RNA, sheaves of rough endoplasmic reticulum, and free ribosomes** [3]."
+  },
+  {
+    "front": "Core Concept: Distinguish between the functions of **protoplasmic** and **fibrous astrocytes**.",
+    "back": "Protoplasmic astrocytes are found mostly in the **grey matter** and have branched processes, while fibrous astrocytes are in the **white matter** with long, thin processes [4]."
+  },
+  {
+    "front": "Explanation Note: What is the significance of the **blood-brain barrier**?",
+    "back": "Astrocytes interact with capillary endothelial cells to establish the blood-brain barrier, providing physiological and biochemical support to neurons [4]."
+  },
+  {
+    "front": "Core Concept: Define **gliosis** and its pathological equivalent in other tissues.",
+    "back": "Gliosis is the hyperplasia and hypertrophy of astrocytes in response to injury, serving as the CNS equivalent of a **fibrous scar** [4]."
+  },
+  {
+    "front": "Explanation Note: What are **Rosenthal fibres**?",
+    "back": "Rosenthal fibres are eosinophilic, elongated, or globular bodies that develop on astrocytic processes during **long-standing progressive gliosis** [5]."
+  },
+  {
+    "front": "Core Concept: Describe the role and counterpart of **oligodendrocytes**.",
+    "back": "Oligodendrocytes form and maintain **myelin** in the CNS and are the counterparts to Schwann cells in the peripheral nervous system [5]."
+  },
+  {
+    "front": "Critical Thinking: Why is the term 'microglia' considered technically inappropriate?",
+    "back": "Unlike neuroglia, microglia are of **mesodermal origin** (part of the monocyte-macrophage system) rather than neuroectodermal origin [6]."
+  },
+  {
+    "front": "Explanation Note: Define **neuronophagia**.",
+    "back": "Neuronophagia is the process where microglial cells (gitter cells) surround and **phagocytose damaged or necrosed neurons** following injury [6]."
+  },
+  {
+    "front": "Core Concept: Describe the **Virchow-Robin space**.",
+    "back": "It is a circumvascular space formed by the extension of the subarachnoid space between the wall of blood vessels entering the brain and their **pial sheaths** [7]."
+  },
+  {
+    "front": "Explanation Note: Differentiate between **meningocele** and **meningomyelocele**.",
+    "back": "Meningocele involves herniation of the meninges alone, while meningomyelocele involves herniation of the **meninges along with the spinal cord or its roots** [8]."
+  },
+  {
+    "front": "Core Concept: What are the clinical effects of **Syringomyelia**?",
+    "back": "Development of a syrinx (cavity) in the spinal cord grey matter often results in the **loss of pain and temperature sensation** due to involvement of the lateral spinothalamic tract [9]."
+  },
+  {
+    "front": "Explanation Note: List the major components of **Type II Arnold-Chiari malformation**.",
+    "back": "Components include elongation of the medulla into the cervical canal, an S-shaped bend at the junction, and herniation of the **cerebellar vermis and tonsils** through the foramen magnum [10]."
+  },
+  {
+    "front": "Core Concept: Distinguish between **internal** and **external hydrocephalus**.",
+    "back": "Internal hydrocephalus involves ventricular dilatation due to increased CSF volume, whereas external hydrocephalus is a **localized collection of CSF in the subarachnoid space** [11]."
+  },
+  {
+    "front": "Explanation Note: Define **communicating hydrocephalus**.",
+    "back": "It occurs when obstruction is in the subarachnoid space, allowing CSF to flow freely between the ventricles and the spinal canal while still causing **ventricular enlargement** [12]."
+  },
+  {
+    "front": "Core Concept: Identify common causative organisms for **acute pyogenic meningitis** by age group.",
+    "back": "E. coli is common in neonates; H. influenzae in infants/children; **N. meningitidis** in adolescents/young adults; and S. pneumoniae in the elderly and following trauma [13, 14]."
+  },
+  {
+    "front": "Explanation Note: Describe the CSF findings in **acute pyogenic meningitis**.",
+    "back": "The CSF appears cloudy/purulent with **markedly raised protein, markedly reduced glucose**, and 10–10,000 neutrophils/µl [15, 16]."
+  },
+  {
+    "front": "Core Concept: What is the pathognomonic finding for **Rabies**?",
+    "back": "The presence of specific cytoplasmic inclusions known as **Negri bodies** within infected neurons [17]."
+  },
+  {
+    "front": "Critical Thinking: How do **prions** differ from standard viruses?",
+    "back": "Prions cause spongiform encephalopathy but **lack nucleic acid (DNA or RNA)** and are modified forms of normal structural proteins [18]."
+  },
+  {
+    "front": "Explanation Note: Define **watershed infarcts**.",
+    "back": "These are wedge-shaped areas of necrosis occurring in overlapping circulatory zones between major cerebral arteries that suffer maximum damage during **generalised cerebral hypoperfusion** [19]."
+  },
+  {
+    "front": "Core Concept: What is the most common cause of **cerebral infarction**?",
+    "back": "Thrombotic occlusion resulting from **atherosclerosis** is the most frequent cause [20]."
+  },
+  {
+    "front": "Explanation Note: Describe the evolution of a **cystic infarct**.",
+    "back": "Over 3–4 months, macrophages clear necrotic debris, followed by reactive astrocytosis, ultimately leaving a **fluid-filled cyst** traversed by small blood vessels [21]."
+  },
+  {
+    "front": "Core Concept: What is the primary cause of **spontaneous intracerebral haemorrhage**?",
+    "back": "Rupture of **microaneurysms** in small cerebral arteries, usually in patients with chronic hypertension [22]."
+  },
+  {
+    "front": "Explanation Note: Where do **berry aneurysms** most commonly occur?",
+    "back": "They occur at bifurcations within the **circle of Willis**, most frequently in relation to the anterior communicating artery [23]."
+  },
+  {
+    "front": "Core Concept: Contrast **epidural** and **subdural haematomas**.",
+    "back": "Epidural haematomas are usually **arterial** (middle meningeal artery) and occur between the dura and skull, while subdural haematomas are typically **venous** (bridging veins) and occur between the dura and arachnoid [24]."
+  },
+  {
+    "front": "Explanation Note: Define **Diffuse Axonal Injury (DAI)**.",
+    "back": "DAI is caused by widespread axonal shearing due to sudden angular acceleration/deceleration and is the most common cause of **persistent coma or vegetative state** after head injury [25]."
+  },
+  {
+    "front": "Core Concept: What is the pathological hallmark of **Multiple Sclerosis (MS)**?",
+    "back": "The presence of many scattered, discrete areas of demyelination termed **plaques**, predominantly in the white matter [26, 27]."
+  },
+  {
+    "front": "Explanation Note: Identify the microscopic hallmarks of **Alzheimer’s Disease**.",
+    "back": "Hallmarks include Ab amyloid-containing **neuritic (senile) plaques** and neurofibrillary tangles composed of neurofilaments and neurotubules [28, 29]."
+  },
+  {
+    "front": "Core Concept: Describe the pathology of **Parkinson’s Disease**.",
+    "back": "It involves depigmentation of the substantia nigra due to loss of neuromelanin and the presence of eosinophilic inclusions called **Lewy bodies** [30]."
+  },
+  {
+    "front": "Explanation Note: What is the WHO Grade of **Glioblastoma Multiforme**?",
+    "back": "It is a **WHO Grade IV astrocytoma**, representing the most aggressive and highly anaplastic form of glioma [31]."
+  },
+  {
+    "front": "Core Concept: Describe the appearance of **Oligodendroglioma** under microscopy.",
+    "back": "Cells are uniform with round nuclei surrounded by a **clear halo of cytoplasm** (fried-egg appearance) and tend to form satellitosis around neurons [32]."
+  },
+  {
+    "front": "Explanation Note: What are **Homer-Wright rosettes**?",
+    "back": "They are pseudorosettes formed by small, poorly-differentiated cells, which are a characteristic feature of **medulloblastoma** [33]."
+  },
+  {
+    "front": "Core Concept: Identify the origin and typical gross features of a **Meningioma**.",
+    "back": "They arise from **arachnoid cap cells**, are well-circumscribed, firmly attached to the dura, and often cause hyperostosis of the overlying bone [34, 35]."
+  },
+  {
+    "front": "Explanation Note: Define **Wallerian degeneration** in the PNS.",
+    "back": "It is the disintegration of the axon and myelin sheath **distal to the site of transection**, followed by Schwann cell proliferation and axonal sprouting for regeneration [36]."
+  },
+  {
+    "front": "Core Concept: What is the classic example of **acute demyelinating polyneuropathy**?",
+    "back": "**Guillain-Barré syndrome**, which is believed to have an autoimmune etiology [37]."
+  },
+  {
+    "front": "Explanation Note: Distinguish between **Antoni A** and **Antoni B** patterns in Schwannoma.",
+    "back": "Antoni A is characterized by dense cellularity and **palisaded nuclei (Verocay bodies)**, while Antoni B consists of loose, acellular, myxoid areas [38]."
+  },
+  {
+    "front": "Critical Thinking Focus: Why might a **meningioma** be mistaken for a bone tumour on initial imaging?",
+    "back": "Meningiomas often cause **hyperostosis** (thickening) of the overlying bone, which can clinically or radiologically mimic a primary bone lesion [35]."
+  },
+  {
+    "front": "Bias Recognition: How can the 'history of trauma' lead to diagnostic bias in CNS infections?",
+    "back": "Clinicians might anchor on **direct implantation** (e.g., skull fracture) and overlook more common routes like haematogenous spread from a distant focus [39, 40]."
+  },
+  {
+    "front": "Clinical Case Study: A 62-year-old male with long-term hypertension presents with a sudden severe headache followed by right-sided hemiplegia. CT shows a dark clotted mass in the basal ganglia. What is the most likely diagnosis?",
+    "back": "The probable diagnosis is **Hypertensive Intracerebral Haemorrhage** resulting from the rupture of a microaneurysm [22, 41]."
+  },
+  {
+    "front": "Clinical Case Study: A 30-year-old female presents with sudden onset 'worst headache of my life' and subsequent loss of consciousness. CSF is blood-stained. What underlying lesion is likely?",
+    "back": "Massive and sudden bleeding from a **ruptured berry aneurysm** in the subarachnoid space [23, 42]."
+  },
+  {
+    "front": "Problem-Solving: How can one differentiate between a **Schwannoma** and a **Neurofibroma** histologically?",
+    "back": "Schwannomas are encapsulated and show **Antoni A/B patterns with Verocay bodies**, while neurofibromas are generally unencapsulated and contain abundant collagen and mucoid material [43]."
+  },
+  {
+    "front": "University-Level Exam Question: Describe the 'Triple Pattern' found in **Type II Arnold-Chiari Malformation**.",
+    "back": "1. Elongation of the medulla/4th ventricle into the cervical canal. 2. S-shaped distortion of the medulla. 3. Herniation of the **cerebellar vermis and tonsils** through the foramen magnum [10]."
+  },
+  {
+    "front": "University-Level Exam Question: Contrast the CSF findings of **Viral (Aseptic)** vs. **Tuberculous Meningitis**.",
+    "back": "Viral shows 10–100 lymphocytes, **normal protein/glucose**, and is sterile. Tuberculous shows 100–1000 lymphocytes, **raised protein, reduced glucose**, and may form a fibrin web [15, 16, 44]."
+  },
+  {
+    "front": "PLAB/USMLE Pattern: A 25-year-old patient with congenital polycystic kidney disease presents with a subarachnoid hemorrhage. Which vascular abnormality is most likely responsible?",
+    "back": "A **Berry aneurysm**; there is a known increased incidence of these aneurysms associated with polycystic kidney disease [23]."
+  },
+  {
+    "front": "PLAB/USMLE Pattern: A patient presents with progressive dementia and myoclonus, and is fatal within 7 months. Histology shows vacuoles in the neuronal cortex without inflammation. What is the infectious agent?",
+    "back": "A **Prion protein** (causing Creutzfeldt-Jakob disease), which lacks nucleic acid and causes spongiform changes [18, 45]."
+  },
+  {
+    "front": "PLAB/USMLE Pattern: A patient develops a 'rodent ulcer' like lesion on the face that destroys local tissue but rarely metastasizes. (Note: Context check – usually BCC in skin, but for CNS) Which CNS tumour behaves by 'local destruction like a rodent'?",
+    "back": "The source mentions **rodent-like burrowing** behavior specifically for **basal cell carcinoma** in the context of general pathology, but in the CNS, Grade IV Glioblastoma is the most locally destructive [31, 46]."
+  },
+  {
+    "front": "Problem-Solving: What structural feature distinguishes a **myelocele** from a **meningomyelocele**?",
+    "back": "In a myelocele, there is an **open flat neural tissue plate** without skin covering, leading to CSF leakage, whereas meningomyelocele has an attached sac [8, 47]."
+  },
+  {
+    "front": "Bias Recognition: Why is it a mistake to assume all 'multiple masses' in the brain are primary tumours?",
+    "back": "Approximately a quarter of intracranial tumours are **metastatic**; these are usually multiple masses located at the grey-white matter junction [48, 49]."
+  },
+  {
+    "front": "Critical Thinking: Why are oligodendrocytes particularly vulnerable to **ischemia-hypoxia** compared to other glia?",
+    "back": "Different cerebral circulatory flow and **excessive metabolic requirements** make these cells, followed by astrocytes, more susceptible than microglial cells or endothelium [50]."
+  },
+  {
+    "front": "Decision-making Under Pressure: A trauma patient has a 'lucid interval' followed by rapid deterioration and loss of consciousness. Which vessel is likely ruptured?",
+    "back": "The **middle meningeal artery**, causing a rapidly expanding **epidural haematoma** [24]."
+  },
+  {
+    "front": "Final Review: What is a **Triton tumour**?",
+    "back": "It is a **Malignant Peripheral Nerve Sheath Tumour (MPNST)** that contains areas of poorly-differentiated rhabdomyosarcoma [51]."
+  }
+]
+}

@@ -1,0 +1,87 @@
+{
+  "flashcards": [
+
+    {
+    "front": "What is the 'Cellular Theory of Disease' and who published it first?",
+    "back": "Published by Virchow in 1859, it posits that diseases occur due to abnormalities at the level of cells [1, 2]."
+  },
+  {
+    "front": "What is the most common cause of cell injury in humans?",
+    "back": "Hypoxia and ischaemia (reduced blood supply) [3-5]."
+  },
+  {
+    "front": "Why is ischaemia usually more severe than hypoxia alone?",
+    "back": "In ischaemia, both aerobic respiration and the availability of glucose for anaerobic glycolysis are compromised, preventing the cell from generating even minimal energy [6, 7]."
+  },
+  {
+    "front": "Explain the pathogenesis of 'hydropic swelling'.",
+    "back": "ATP depletion causes failure of the Na+-K+ ATPase pump, leading to intracellular sodium accumulation and a subsequent influx of water to maintain iso-osmotic conditions [8-10]."
+  },
+  {
+    "front": "What two essential phenomena distinguish irreversible cell injury from reversible injury?",
+    "back": "1. Inability to reverse mitochondrial dysfunction upon reperfusion. 2. Profound disturbance in cell membrane function [11, 12]."
+  },
+  {
+    "front": "Define the three nuclear changes associated with necrosis.",
+    "back": "1. Pyknosis: Condensation and clumping of nucleus. 2. Karyorrhexis: Nuclear fragmentation into small bits. 3. Karyolysis: Dissolution of the nucleus [13-15]."
+  },
+  {
+    "front": "What is the most potent and reactive free radical in biological processes?",
+    "back": "The hydroxyl radical (OH–), often formed via the Fenton reaction [16-18]."
+  },
+  {
+    "front": "What are 'myelin figures' in the context of cell death?",
+    "back": "Masses of phospholipids derived from damaged cell membranes that are either phagocytosed or form calcium soaps [19, 20]."
+  },
+  {
+    "front": "Differentiate between Dystrophic and Metastatic calcification.",
+    "back": "Dystrophic occurs in dead/degenerated tissue with normal serum calcium. Metastatic occurs in normal tissue due to hypercalcaemia [21, 22]."
+  },
+  {
+    "front": "What is the 'wear and tear' pigment seen in atrophied cells of old age?",
+    "back": "Lipofuscin (or lipochrome), which accumulates in lysosomes as residual bodies from lipid peroxidation [23-25]."
+  },
+  {
+    "front": "Contrast Necrosis and Apoptosis regarding inflammation.",
+    "back": "Necrosis is always accompanied by an inflammatory reaction; Apoptosis is controlled 'cell suicide' and is not accompanied by inflammation [26, 27]."
+  },
+  {
+    "front": "Define Metaplasia and provide a classic clinical example.",
+    "back": "A reversible change where one adult cell type is replaced by another (e.g., squamous metaplasia in the bronchi of chronic smokers) [28, 29]."
+  },
+  {
+    "front": "How does 'ischaemia-reperfusion injury' occur?",
+    "back": "Restoration of blood flow to injured but viable cells paradoxically causes death due to calcium overload and a sudden burst of toxic oxygen free radicals [30-32]."
+  },
+  {
+    "front": "What is 'saponification' in fat necrosis?",
+    "back": "The process where leaked fatty acids from ruptured adipocytes complex with calcium to form chalky white calcium soaps [33, 34]."
+  },
+  {
+    "front": "Clinical Scenario: A heavy smoker’s biopsy shows squamous epithelium where there should be columnar cells. What is the risk of this adaptation?",
+    "back": "This is squamous metaplasia; while more resistant to smoke, it loses protective mucus secretion and can progress to dysplasia or cancer if the stimulus persists [29, 35, 36]."
+  },
+  {
+    "front": "What is the role of 'telomerase' in cellular ageing?",
+    "back": "Telomerase repairs the shortened ends of chromosomes (telomeres); in ageing, inadequate telomerase leads to progressive shortening and eventual loss of cell viability [37, 38]."
+  },
+  {
+    "front": "Common Bias: Assuming brain shrinkage in an elderly patient is always 'normal'. What pathological cause should be ruled out?",
+    "back": "Ischaemic atrophy due to atherosclerosis, which is a pathological reduction in size rather than purely physiological ageing [39, 40]."
+  },
+  {
+    "front": "Diagnostic Reasoning: Why are Troponins (cTn) measured after suspected chest pain?",
+    "back": "Liberated enzymes leak across abnormally permeable membranes of necrotic heart muscle; cTn is highly specific for acute myocardial infarction [20, 41, 42]."
+  },
+  {
+    "front": "Identify the pigment: Golden-brown granules that stain positive with Perl’s Prussian blue.",
+    "back": "Haemosiderin (ferric iron aggregates) [43-45]."
+  },
+  {
+    "front": "What is the difference between Hypertrophy and Hyperplasia?",
+    "back": "Hypertrophy is an increase in the *size* of cells; Hyperplasia is an increase in the *number* of cells [46-48]."
+  }
+
+
+  ]
+}

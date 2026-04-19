@@ -1,0 +1,107 @@
+{
+  "flashcards": [
+
+    {
+    "front": "How is 'Homeostasis' defined according to Claude Bernard's concept?",
+    "back": "Homeostasis is the mechanism ensuring the constancy of the internal environment (milieu interieur), where interstitial fluid and plasma maintain normal cell morphology and function [1]."
+  },
+  {
+    "front": "What are the major fluid compartments of the body and their respective percentages of body weight?",
+    "back": "Total body water is ~60% of body weight, divided into Intracellular Fluid (33%) and Extracellular Fluid (27%). ECF is further divided into interstitial fluid (12%), plasma (5%), mesenchyme (9%), and transcellular fluid (1%) [2, 3]."
+  },
+  {
+    "front": "Contrast the predominant electrolytes in Intracellular Fluid (ICF) vs. Extracellular Fluid (ECF).",
+    "back": "ICF contains mainly Potassium (K+), Magnesium (Mg++), and Phosphates. ECF contains predominantly Sodium (Na+), Chloride (Cl-), and Bicarbonate (HCO3-) [4]."
+  },
+  {
+    "front": "Explain Starling's Law regarding fluid exchange at the arteriolar end of a capillary.",
+    "back": "At the arteriolar end, hydrostatic pressure (32 mmHg) exceeds plasma oncotic pressure (25 mmHg), creating a 7 mmHg outward-driving force that moves fluid into the interstitial space [5]."
+  },
+  {
+    "front": "Explain the fluid balance at the venular end of a capillary.",
+    "back": "At the venular end, plasma oncotic pressure (25 mmHg) exceeds hydrostatic pressure (12 mmHg), creating a 13 mmHg inward-driving force that facilitates fluid reabsorption [6]."
+  },
+  {
+    "front": "Define Oedema and distinguish between Transudate and Exudate based on protein content.",
+    "back": "Oedema is the abnormal accumulation of 'free fluid' in interstitial spaces. Transudate (non-inflammatory) has <1 g/dl protein; Exudate (inflammatory) has >2.5-3.5 g/dl protein [7, 8]."
+  },
+  {
+    "front": "What are the six primary pathogenetic mechanisms of Oedema?",
+    "back": "1. Decreased plasma oncotic pressure. 2. Increased capillary hydrostatic pressure. 3. Lymphatic obstruction. 4. Tissue factors (increased interstitial oncotic pressure/decreased tension). 5. Increased capillary permeability. 6. Sodium and water retention [9]."
+  },
+  {
+    "front": "Critical Thinking: Why is checking the sacral area essential in a bedridden patient with suspected cardiac oedema?",
+    "back": "Cardiac oedema is 'dependent' (gravity-influenced). In ambulatory patients, it appears in the legs, but in bedridden patients, it shifts to the sacral and genital areas. Missing this is a common clinical pitfall [10]."
+  },
+  {
+    "front": "Pathogenesis: How does Nephrotic Syndrome lead to generalized oedema?",
+    "back": "Heavy albuminuria causes hypoalbuminaemia, which lowers plasma oncotic pressure. This triggers a fall in plasma volume, activating the renin-angiotensin-aldosterone system, causing sodium and water retention [11]."
+  },
+  {
+    "front": "Clinical Case: A patient with mitral stenosis develops sudden respiratory distress. What is the 'Back Pressure Hypothesis'?",
+    "back": "Heart failure causes elevated central venous pressure transmitted backward to pulmonary capillaries, raising hydrostatic pressure and leading to pulmonary transudation (haemodynamic oedema) [10, 12]."
+  },
+  {
+    "front": "What are 'Heart Failure Cells' and where are they found?",
+    "back": "They are haemosiderin-laden alveolar macrophages found in the lungs during chronic venous congestion (CVC), resulting from the breakdown of extravasated erythrocytes [13, 14]."
+  },
+  {
+    "front": "Describe the gross appearance of a liver in chronic right-sided heart failure.",
+    "back": "It shows a 'Nutmeg Liver' appearance: a mottled pattern of red (congested centrilobular zones) and yellow (peripheral fatty change) areas [15]."
+  },
+  {
+    "front": "Define Shock and its three major stages.",
+    "back": "Shock is cardiovascular collapse with acute reduction in effective blood volume and tissue hypoperfusion. Stages: 1. Compensated (reversible), 2. Progressive Decompensated, 3. Irreversible Decompensated [16, 17]."
+  },
+  {
+    "front": "Pathogenesis: What roles do TNF-α and IL-1 play in Septic Shock?",
+    "back": "Released by LPS-stimulated macrophages, these cytokines promote nitric oxide synthesis (causing vasodilation/hypotension) and alter endothelial adhesiveness (causing vascular injury) [18]."
+  },
+  {
+    "front": "What are the components of Virchow's Triad in thrombosis?",
+    "back": "1. Endothelial injury. 2. Altered blood flow (stasis or turbulence). 3. Hypercoagulability of blood [19]."
+  },
+  {
+    "front": "Fate of Thrombus: List the four possible outcomes.",
+    "back": "1. Resolution (fibrinolysis). 2. Organisation (fibrovascular ingrowth/recanalisation). 3. Propagation. 4. Thromboembolism [20-22]."
+  },
+  {
+    "front": "Clinical Scenario (USMLE Style): A patient post-surgery develops sudden chest pain and collapses. What is a 'Saddle Embolus'?",
+    "back": "A large thromboembolus impacted at the bifurcation of the main pulmonary artery, often leading to instantaneous death [23, 24]."
+  },
+  {
+    "front": "Explain 'Decompression Sickness' (Caisson's disease).",
+    "back": "Rapid ascent from high pressure causes dissolved nitrogen to form gas bubbles in tissues/blood, leading to 'the bends' (joint pain) and 'the chokes' (respiratory distress) [25, 26]."
+  },
+  {
+    "front": "Infarction: Why are lungs and liver less susceptible to infarction than the kidneys or spleen?",
+    "back": "The lungs and liver have dual blood supplies (bronchial/pulmonary and hepatic/portal), whereas kidneys and spleen have single arterial supplies with functional end-arteries [27-29]."
+  },
+  {
+    "front": "Critical Thinking: Define the 'Availability Heuristic' bias in medical diagnosis.",
+    "back": "The tendency to judge the probability of a disease based on how easily similar cases come to mind. Approach: Use structured clinical rules (like Wells criteria for PE) to ensure all differentials are objectively evaluated [General Knowledge/Context of 112]."
+  },
+  {
+    "front": "Problem-Solving: How can 'Premature Closure' bias affect a shock diagnosis?",
+    "back": "A clinician might assume shock is hypovolaemic and only provide fluids, failing to recognize cardiogenic shock where fluids could worsen pulmonary oedema. Structured approaches like the 'ADAM' acronym for complications help avoid this [30]."
+  },
+  {
+    "front": "What is 'Myocardial Depressant Factor' (MDF)?",
+    "back": "A substance released during the irreversible stage of shock due to reduced coronary blood flow, which specifically depresses cardiac function and output [31]."
+  },
+  {
+    "front": "Distinguish between 'Primary' and 'Secondary' Shock.",
+    "back": "Primary shock is a transient, benign vasovagal attack (fainting). Secondary (true) shock is a life-threatening circulatory imbalance between oxygen supply and cellular requirements [32]."
+  },
+  {
+    "front": "What are 'Gamna-Gandy bodies'?",
+    "back": "Siderofibrotic nodules (organized haemorrhages with haemosiderin and calcium) found in the spleen during chronic venous congestion [33]."
+  },
+  {
+    "front": "What is a 'Paradoxical Embolus'?",
+    "back": "An embolus that crosses from the venous to the arterial circulation (or vice versa), typically through a septal defect like a patent foramen ovale [34]."
+  }
+
+  ]
+
+}

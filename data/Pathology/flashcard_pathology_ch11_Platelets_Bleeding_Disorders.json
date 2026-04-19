@@ -1,0 +1,214 @@
+{
+  "flashcards":
+
+[
+  {
+    "front": "What is the trilineage stem cell origin of platelets?",
+    "back": "Myeloid stem cells in the bone marrow [1]."
+  },
+  {
+    "front": "Which hormone regulates platelet production?",
+    "back": "Thrombopoietin [1]."
+  },
+  {
+    "front": "Define endo-reduplication in thrombopoiesis.",
+    "back": "Nuclear chromatin replicates repeatedly in multiples of two without cell division, leading to polyploidy [12]."
+  },
+  {
+    "front": "How many platelets can a single megakaryocyte produce?",
+    "back": "Up to 4,000 platelets [13]."
+  },
+  {
+    "front": "What is the normal lifespan of a platelet?",
+    "back": "7-10 days [13]."
+  },
+  {
+    "front": "What percentage of platelets are sequestered in the spleen?",
+    "back": "About 30% [13]."
+  },
+  {
+    "front": "Define Primary Haemostasis.",
+    "back": "Immediate platelet plug formation at the site of injury involving adhesion, release, and aggregation [2]."
+  },
+  {
+    "front": "Which glycoprotein receptor mediates platelet adhesion to collagen?",
+    "back": "GpIa-IIa [2]."
+  },
+  {
+    "front": "Which glycoprotein links von Willebrand factor to platelets?",
+    "back": "GpIb-IX complex [14]."
+  },
+  {
+    "front": "Which glycoprotein receptor is essential for platelet aggregation via fibrinogen?",
+    "back": "GpIIb-IIIa [14]."
+  },
+  {
+    "front": "List three products released from platelet dense granules.",
+    "back": "ADP, ATP, calcium, and serotonin [14]."
+  },
+  {
+    "front": "What is the normal range for Bleeding Time (BT)?",
+    "back": "3-8 minutes [4]."
+  },
+  {
+    "front": "A positive Hess test is defined by how many petechiae?",
+    "back": "More than 20 petechiae in a 3 cm² area [39]."
+  },
+  {
+    "front": "Which coagulation factors are measured by APTT?",
+    "back": "Intrinsic system (VIII, IX, XI, XII) and common pathway (X, V, II, I) [21]."
+  },
+  {
+    "front": "Which pathway does Prothrombin Time (PT) evaluate?",
+    "back": "Extrinsic and common pathways [5]."
+  },
+  {
+    "front": "What is the normal range for Thrombin Time (TT)?",
+    "back": "Under 20 seconds [40]."
+  },
+  {
+    "front": "What is the function of Antithrombin III?",
+    "back": "It binds to and inactivates thrombin [41]."
+  },
+  {
+    "front": "What is the role of Activated Protein C?",
+    "back": "It cleaves and inactivates activated factors V and VIII [42]."
+  },
+  {
+    "front": "Identify the cause of Osler-Weber-Rendu disease.",
+    "back": "Hereditary haemorrhagic telangiectasia (autosomal dominant) [43]."
+  },
+  {
+    "front": "What immune complexes are deposited in Henoch-Schönlein purpura?",
+    "back": "IgA, C3, and fibrin [44]."
+  },
+  {
+    "front": "Define Scurvy's effect on haemostasis.",
+    "back": "Defective collagen synthesis causing skin, muscle, and GI bleeding [45]."
+  },
+  {
+    "front": "What is the platelet count threshold for thrombocytopenia?",
+    "back": "Below 150,000/µl [8]."
+  },
+  {
+    "front": "At what platelet count does spontaneous bleeding typically occur?",
+    "back": "Below 20,000/µl [8]."
+  },
+  {
+    "front": "What is the mechanism of Heparin-induced thrombocytopenia?",
+    "back": "Antibody formation against PF-4-heparin complex [34]."
+  },
+  {
+    "front": "How is Acute ITP typically triggered in children?",
+    "back": "Following recovery from a viral illness [37]."
+  },
+  {
+    "front": "What is the target of autoantibodies in Chronic ITP?",
+    "back": "Platelet glycoproteins GpIIb-IIIa or GpIb-IX [23]."
+  },
+  {
+    "front": "What are the bone marrow findings in ITP?",
+    "back": "Increased number of megakaryocytes with non-lobulated nuclei [19]."
+  },
+  {
+    "front": "Name the triad of TTP/HUS.",
+    "back": "Thrombocytopenia, microangiopathic haemolytic anaemia, and hyaline fibrin microthrombi [38]."
+  },
+  {
+    "front": "Define Bernard-Soulier syndrome.",
+    "back": "Autosomal recessive deficiency of GpIb-IX (adhesion defect) [46]."
+  },
+  {
+    "front": "Define Glanzmann’s thrombasthenia.",
+    "back": "Inherited deficiency of GpIIb-IIIa (aggregation defect) [47]."
+  },
+  {
+    "front": "How does aspirin affect platelet function?",
+    "back": "It inhibits cyclooxygenase, suppressing prostaglandin/thromboxane synthesis [48]."
+  },
+  {
+    "front": "What is the inheritance of Haemophilia A?",
+    "back": "Sex-(X)-linked recessive [49]."
+  },
+  {
+    "front": "Which factor is deficient in Haemophilia B?",
+    "back": "Factor IX (Christmas factor) [50]."
+  },
+  {
+    "front": "Where is Factor VIII synthesized?",
+    "back": "Hepatic parenchymal cells [51]."
+  },
+  {
+    "front": "What is the genetic location for vWF?",
+    "back": "Chromosome 12 [20]."
+  },
+  {
+    "front": "Where is von Willebrand factor synthesized?",
+    "back": "Endothelial cells, megakaryocytes, and platelets [20]."
+  },
+  {
+    "front": "List the Vitamin K-dependent coagulation factors.",
+    "back": "II, VII, IX, X, protein C, and protein S [15]."
+  },
+  {
+    "front": "Why is Vitamin K deficiency common in newborns?",
+    "back": "Liver immaturity, lack of gut bacteria, and low quantities in breast milk [35]."
+  },
+  {
+    "front": "What is the cause of bleeding in portal hypertension?",
+    "back": "Varices and splenomegaly leading to secondary thrombocytopenia [52]."
+  },
+  {
+    "front": "What causes 'consumption coagulopathy' in DIC?",
+    "back": "Widespread microvascular thrombosis consuming platelets and factors [16, 17]."
+  },
+  {
+    "front": "Name a lab marker for secondary fibrinolysis in DIC.",
+    "back": "Elevated Fibrin Degradation Products (FDPs) [28]."
+  },
+  {
+    "front": "Which chromosome carries the ABO genes?",
+    "back": "Long arm of chromosome 9 [53]."
+  },
+  {
+    "front": "Define the Bombay blood group (Oh).",
+    "back": "Individual lacks the H gene, making red cells non-reactive to anti-A or anti-B [54]."
+  },
+  {
+    "front": "Which Rh antigen is most immunogenic?",
+    "back": "D antigen [55]."
+  },
+  {
+    "front": "What causes an immediate hemolytic transfusion reaction?",
+    "back": "ABO incompatibility fixing complement [56]."
+  },
+  {
+    "front": "Define TRALI.",
+    "back": "Acute lung injury from donor anti-HLA antibodies binding to recipient leucocytes [36]."
+  },
+  {
+    "front": "How much iron is in one unit of whole blood?",
+    "back": "Approximately 250 mg [57]."
+  },
+  {
+    "front": "What are the indications for FFP transfusion?",
+    "back": "Coagulation failure and TTP [58]."
+  },
+  {
+    "front": "What does Cryoprecipitate provide?",
+    "back": "Fibrinogen, Factor VIII, and vWF [58]."
+  },
+  {
+    "front": "What is the primary cause of severe HDN?",
+    "back": "Rh-D incompatibility between mother and fetus [11, 59]."
+  },
+  {
+    "front": "Why does ABO HDN often occur in the first pregnancy?",
+    "back": "Mothers with group O already possess anti-A/B IgG antibodies [60]."
+  },
+  {
+    "front": "Define Hydrops Foetalis.",
+    "back": "Severest form of HDN resulting in intrauterine death [33]."
+  }
+]
+}
